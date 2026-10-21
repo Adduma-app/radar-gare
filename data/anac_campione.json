@@ -92,7 +92,7 @@
       },
       {
        "value": 1.0,
-       "description": "IndexOrDocValuesQuery(indexQuery=$type:dateV2/dataPubblicazione:[1791676800000 TO 1792594071085], dvQuery=$type:dateV2/dataPubblicazione:[1791676800000 TO 1792594071085])",
+       "description": "IndexOrDocValuesQuery(indexQuery=$type:dateV2/dataPubblicazione:[1791676800000 TO 1792594466195], dvQuery=$type:dateV2/dataPubblicazione:[1791676800000 TO 1792594466195])",
        "details": []
       }
      ]
@@ -218,7 +218,7 @@
       },
       {
        "value": 1.0,
-       "description": "IndexOrDocValuesQuery(indexQuery=$type:dateV2/dataPubblicazione:[1791676800000 TO 1792594071085], dvQuery=$type:dateV2/dataPubblicazione:[1791676800000 TO 1792594071085])",
+       "description": "IndexOrDocValuesQuery(indexQuery=$type:dateV2/dataPubblicazione:[1791676800000 TO 1792594466195], dvQuery=$type:dateV2/dataPubblicazione:[1791676800000 TO 1792594466195])",
        "details": []
       }
      ]
@@ -344,7 +344,7 @@
       },
       {
        "value": 1.0,
-       "description": "IndexOrDocValuesQuery(indexQuery=$type:dateV2/dataPubblicazione:[1791676800000 TO 1792594071085], dvQuery=$type:dateV2/dataPubblicazione:[1791676800000 TO 1792594071085])",
+       "description": "IndexOrDocValuesQuery(indexQuery=$type:dateV2/dataPubblicazione:[1791676800000 TO 1792594466195], dvQuery=$type:dateV2/dataPubblicazione:[1791676800000 TO 1792594466195])",
        "details": []
       }
      ]
