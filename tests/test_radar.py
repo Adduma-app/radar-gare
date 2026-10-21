@@ -2,15 +2,20 @@ import unittest
 from radar.classify import classifica, esecuzione
 from radar.fetch_anac import normalizza
 
-AVVISO = {
+AVVISO = {  # forma reale dell'avviso ANAC (campione del 21/10/2026), dati inventati
     "idAvviso": "abc-123", "tipologia": "INDAGINI_DI_MERCATO_SOTTO_SOGLIA",
-    "dataPubblicazione": "2026-10-20T10:00:00", "dataScadenza": "2026-11-05T12:00:00",
-    "templates": [{"template": {"metadata": {"titolo": "Realizzazione di un video promozionale del territorio"},
+    "dataPubblicazione": "2026-10-20T10:00:00.988+00:00", "dataScadenza": "2026-11-05T12:00:00.000+00:00",
+    "scoreDetails": {"description": "sum of:", "details": [{"description": "# clause"}]},
+    "templates": [{"lingua": "it", "template": {
+        "metadata": {"descrizione": "Realizzazione di un video promozionale del territorio"},
         "sections": [
-            {"name": "SEZ. A", "items": [{"denominazione_amministrazione": "Comune di Esempio", "codice_fiscale": "00000000000"}]},
-            {"name": "SEZ. C", "items": [{"cig": "B000000001", "valore_complessivo_stimato": 38000,
-                                          "cpv": "Servizi di produzione di film e video", "luogo_istat": "081001",
-                                          "documenti_di_gara_link": "https://esempio.it/gara"}]}]}}],
+            {"name": "SEZ. A - Committente", "fields": {"soggetti_sa": [
+                {"codice_fiscale": "00000000000", "denominazione_amministrazione": "Comune di Esempio"}]}},
+            {"name": "SEZ. B - Dati Generali", "fields": {"documenti_di_gara_link": "https://esempio.it/gara",
+                                                          "tipo_procedura_aggiudicazione": "Aperta"}},
+            {"name": "SEZ. C - Oggetto", "items": [{"cig": "B000000001", "valore_complessivo_stimato": 38000.0,
+                "descrizione": "Video promozionale", "cpv": "Servizi di produzione di film e video",
+                "luogo_istat": "ALCAMO", "categorie": [{"descrizione": "FORNITURA DI SERVIZI"}]}]}]}}],
 }
 
 
@@ -22,6 +27,9 @@ class TestRadar(unittest.TestCase):
         self.assertEqual(r["importo"], 38000)
         self.assertTrue(r["scadenza"].startswith("2026-11-05"))
         self.assertEqual(r["link_documenti"], "https://esempio.it/gara")
+        self.assertEqual(r["titolo"], "Realizzazione di un video promozionale del territorio")
+        self.assertEqual(r["procedura"], "Aperta")
+        self.assertEqual(r["luogo_istat"], "ALCAMO")
 
     def test_pertinente_video(self):
         r = classifica(normalizza(AVVISO))

@@ -51,7 +51,8 @@ def main(oggi=None):
     _save(DATA / "storico.json", storico)
 
     oggi_iso = oggi.isoformat()
-    aperte = [r for r in storico.values() if r["pertinente"] and (r.get("tipologia") or "").upper() not in C.TIPOLOGIE_ESITO
+    aperte = [r for r in storico.values() if r["pertinente"]
+              and (r.get("tipologia") or "").upper() not in C.TIPOLOGIE_ESITO | C.TIPOLOGIE_ESCLUSE
               and (not r.get("scadenza") or r["scadenza"][:10] >= oggi_iso)
               and (r.get("pubblicazione") or r["primo_avvistamento"])[:10] >= (oggi - timedelta(days=30)).isoformat()]
     aperte.sort(key=lambda r: (r.get("scadenza") or "9999"))
@@ -71,7 +72,7 @@ def main(oggi=None):
     for r in aperte:
         righe += [f"## {r.get('titolo') or 'senza titolo'}",
                   f"- ente: {r.get('ente') or 'n.d.'} | luogo ISTAT {r.get('luogo_istat') or 'n.d.'}",
-                  f"- tipologia: {r.get('tipologia')} | procedura: {r.get('procedura') or 'n.d.'}",
+                  f"- tipologia: {r.get('tipologia')} | procedura: {r.get('procedura') or 'n.d.'} | CIG: {', '.join(r.get('cig') or []) or 'n.d.'}",
                   f"- importo: {_euro(r.get('importo'))}{' (FUORI TAGLIA)' if r['fuori_taglia'] else ''} | lotti: {r.get('lotti') or 'n.d.'}",
                   f"- pubblicato: {_gg(r.get('pubblicazione'))} | scadenza: {_gg(r.get('scadenza'))} | primo avvistamento: {r['primo_avvistamento']}",
                   f"- esecuzione: {r['esecuzione']} | parole chiave: {', '.join(r['kw_trovate'][:6])}",
