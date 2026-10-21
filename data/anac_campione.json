@@ -1,0 +1,380 @@
+[
+ {
+  "codiceScheda": "A2_29",
+  "tipologia": "RISULTATI",
+  "dataPubblicazione": "2026-10-21T06:00:00.988+00:00",
+  "dataScadenza": null,
+  "templates": [
+   {
+    "template": {
+     "metadata": {
+      "link_eform_ted": null,
+      "titolo": null,
+      "descrizione": "Servizio di fornitura di spazi pubblicitari sull’emittente Radio Rock - così come individuati dal Piano di Comunicazione 2026 - per la promozione della manifestazione “Maker Faire Rome 2026”"
+     },
+     "sections": [
+      {
+       "name": "SEZ. A - Committente",
+       "fields": {
+        "soggetti_sa": [
+         {
+          "codice_fiscale": "10203811004",
+          "denominazione_amministrazione": "INNOVA CAMERA"
+         }
+        ]
+       }
+      },
+      {
+       "name": "SEZ. B - Dati Generali",
+       "fields": {
+        "documenti_di_gara_link": "https://innovacamera.patisweb.it/page/10/details/267046/servizio-di-fornitura-di-spazi-pubblicitari-sullemittente-radio-rock-cosi-come-individuati-dal-piano-di-comunicazione-2026-per-la-promozione-della-manifestazione-maker-faire-rome-2026.html",
+        "accordo_quadro": "Nulla",
+        "sistema_dinamico_acquisizione": "Nessun sistema dinamico di acquisizione",
+        "tipo_procedura_aggiudicazione": "Negoziata senza previa indizione di gara"
+       }
+      },
+      {
+       "name": "SEZ. C - Oggetto",
+       "items": [
+        {
+         "tipo_oggetto": "aggiudicazione",
+         "cig": "BD0CAB3B35",
+         "natura_principale": "Servizi",
+         "descrizione": "Servizio di fornitura di spazi pubblicitari sull’emittente Radio Rock - così come individuati dal Piano di Comunicazione 2026 - per la promozione della manifestazione “Maker Faire Rome 2026”",
+         "cpv": "Servizi di campagne pubblicitarie",
+         "valore_complessivo_stimato": 5000.0,
+         "luogo_nuts": "Roma",
+         "luogo_istat": "ROMA",
+         "valore_offerta_vincente": 5000.0,
+         "accordo_quadro": "Nulla",
+         "sistema_dinamico_acquisizione": "Nessun sistema dinamico di acquisizione",
+         "aggiudicatari": [
+          {
+           "importo": 5000.0,
+           "soggetti": [
+            {
+             "codice_fiscale": "03633761006",
+             "denominazione": "Q Srl"
+            }
+           ]
+          }
+         ],
+         "categorie": [
+          {
+           "codice": "FS",
+           "descrizione": "FORNITURA DI SERVIZI"
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    },
+    "lingua": "it"
+   }
+  ],
+  "idAvviso": "f14eb361-9353-43a9-9baa-37f6477a801b",
+  "count": 57.0,
+  "paginationToken": "CKi0QRoJKdyOC12hAQAAGgJgARoGEICAgPgHIg5aDGrXbByDKbw8fzFGww==",
+  "score": 1.0,
+  "scoreDetails": {
+   "value": 1.0,
+   "description": "sum of:",
+   "details": [
+    {
+     "value": 0.0,
+     "description": "match on required clause, product of:",
+     "details": [
+      {
+       "value": 0.0,
+       "description": "# clause",
+       "details": []
+      },
+      {
+       "value": 1.0,
+       "description": "IndexOrDocValuesQuery(indexQuery=$type:dateV2/dataPubblicazione:[1791676800000 TO 1792593115679], dvQuery=$type:dateV2/dataPubblicazione:[1791676800000 TO 1792593115679])",
+       "details": []
+      }
+     ]
+    },
+    {
+     "value": 1.0,
+     "description": "sum of:",
+     "details": [
+      {
+       "value": 1.0,
+       "description": "$type:token/templates.template.sections.items.cpv:[[53 65 72 76 69 7a 69 20 64 69 20 63 61 6d 70 61 67 6e 65 20 70 75 62 62 6c 69 63 69 74 61 72 69 65] TO [53 65 72 76 69 7a 69 20 64 69 20 63 61 6d 70 61 67 6e 65 20 70 75 62 62 6c 69 63 69 74 61 72 69 65]]",
+       "details": []
+      }
+     ]
+    }
+   ]
+  },
+  "oscurato": false,
+  "noteOscuramento": null,
+  "idAppalto": "506acd86-319f-40f1-ab48-067cbac8c748",
+  "dataPubblicazioneNuovoAvviso": null,
+  "tipoNuovoAvviso": null,
+  "dataPCP": "2026-10-20T15:26:52.000+00:00",
+  "dataCreazione": "2026-10-20T13:26:52.988+00:00",
+  "tipo": "avviso",
+  "attivo": true,
+  "nuovoAvviso": null,
+  "codiceEform": null,
+  "stato": "NON_VERIFICATO",
+  "ambiente": null,
+  "categorie": null
+ },
+ {
+  "codiceScheda": "A2_29",
+  "tipologia": "RISULTATI",
+  "dataPubblicazione": "2026-10-21T06:00:00.973+00:00",
+  "dataScadenza": null,
+  "templates": [
+   {
+    "template": {
+     "metadata": {
+      "link_eform_ted": null,
+      "titolo": null,
+      "descrizione": "Servizio di fornitura degli spazi pubblicitari su dinamica, affissioni metro e Station Domination Termini - così come individuate dal Piano di Comunicazione 2026 - per la promozione della manifestazione “Maker Faire Rome 2026”"
+     },
+     "sections": [
+      {
+       "name": "SEZ. A - Committente",
+       "fields": {
+        "soggetti_sa": [
+         {
+          "codice_fiscale": "10203811004",
+          "denominazione_amministrazione": "INNOVA CAMERA"
+         }
+        ]
+       }
+      },
+      {
+       "name": "SEZ. B - Dati Generali",
+       "fields": {
+        "documenti_di_gara_link": "https://innovacamera.patisweb.it/page/10/details/218223/servizio-di-fornitura-degli-spazi-pubblicitari-su-dinamica-affissioni-metro-e-station-domination-termini-cosi-come-individuate-dal-piano-di-comunicazione-2026-per-la-promozione-della-manifestazione-maker-faire-rome-2026.html",
+        "accordo_quadro": "Nulla",
+        "sistema_dinamico_acquisizione": "Nessun sistema dinamico di acquisizione",
+        "tipo_procedura_aggiudicazione": "Negoziata senza previa indizione di gara"
+       }
+      },
+      {
+       "name": "SEZ. C - Oggetto",
+       "items": [
+        {
+         "tipo_oggetto": "aggiudicazione",
+         "cig": "BC7C103A7C",
+         "natura_principale": "Servizi",
+         "descrizione": "Servizio di fornitura degli spazi pubblicitari su dinamica, affissioni metro e Station Domination Termini - così come individuate dal Piano di Comunicazione 2026 - per la promozione della manifestazione “Maker Faire Rome 2026”",
+         "cpv": "Servizi di campagne pubblicitarie",
+         "valore_complessivo_stimato": 128434.0,
+         "luogo_nuts": "Roma",
+         "luogo_istat": "ROMA",
+         "valore_offerta_vincente": 128434.0,
+         "accordo_quadro": "Nulla",
+         "sistema_dinamico_acquisizione": "Nessun sistema dinamico di acquisizione",
+         "aggiudicatari": [
+          {
+           "importo": 128434.0,
+           "soggetti": [
+            {
+             "codice_fiscale": "00893300152",
+             "denominazione": "IGPDECAUX SPA"
+            }
+           ]
+          }
+         ],
+         "categorie": [
+          {
+           "codice": "FS",
+           "descrizione": "FORNITURA DI SERVIZI"
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    },
+    "lingua": "it"
+   }
+  ],
+  "idAvviso": "6f2619c7-9efb-46de-83b8-d547b091a950",
+  "count": 57.0,
+  "paginationToken": "CLu4QRoJKc2OC12hAQAAGgJgARoGEICAgPgHIg5aDGrXSEiDKbw8fzE+5Q==",
+  "score": 1.0,
+  "scoreDetails": {
+   "value": 1.0,
+   "description": "sum of:",
+   "details": [
+    {
+     "value": 0.0,
+     "description": "match on required clause, product of:",
+     "details": [
+      {
+       "value": 0.0,
+       "description": "# clause",
+       "details": []
+      },
+      {
+       "value": 1.0,
+       "description": "IndexOrDocValuesQuery(indexQuery=$type:dateV2/dataPubblicazione:[1791676800000 TO 1792593115679], dvQuery=$type:dateV2/dataPubblicazione:[1791676800000 TO 1792593115679])",
+       "details": []
+      }
+     ]
+    },
+    {
+     "value": 1.0,
+     "description": "sum of:",
+     "details": [
+      {
+       "value": 1.0,
+       "description": "$type:token/templates.template.sections.items.cpv:[[53 65 72 76 69 7a 69 20 64 69 20 63 61 6d 70 61 67 6e 65 20 70 75 62 62 6c 69 63 69 74 61 72 69 65] TO [53 65 72 76 69 7a 69 20 64 69 20 63 61 6d 70 61 67 6e 65 20 70 75 62 62 6c 69 63 69 74 61 72 69 65]]",
+       "details": []
+      }
+     ]
+    }
+   ]
+  },
+  "oscurato": false,
+  "noteOscuramento": null,
+  "idAppalto": "2ab24206-cb43-4295-b368-9c7280f8cdbd",
+  "dataPubblicazioneNuovoAvviso": null,
+  "tipoNuovoAvviso": null,
+  "dataPCP": "2026-10-20T12:54:00.000+00:00",
+  "dataCreazione": "2026-10-20T10:54:00.973+00:00",
+  "tipo": "avviso",
+  "attivo": true,
+  "nuovoAvviso": null,
+  "codiceEform": null,
+  "stato": "NON_VERIFICATO",
+  "ambiente": null,
+  "categorie": null
+ },
+ {
+  "codiceScheda": "A1_29",
+  "tipologia": "RISULTATI",
+  "dataPubblicazione": "2026-10-21T06:00:00.910+00:00",
+  "dataScadenza": null,
+  "templates": [
+   {
+    "template": {
+     "metadata": {
+      "link_eform_ted": "https://ted.europa.eu/udl?uri=TED:NOTICE:726083-2026:TEXT:IT:HTML",
+      "titolo": "servizio di gestione dei social media della Reggia di Venaria, del sistema delle Residenze Reali Sabaude e del progetto “Camminate Reali”",
+      "descrizione": "servizio di gestione dei social media della Reggia di Venaria, del sistema delle Residenze Reali Sabaude e del progetto “Camminate Reali”"
+     },
+     "sections": [
+      {
+       "name": "SEZ. A - Committente",
+       "fields": {
+        "soggetti_sa": [
+         {
+          "codice_fiscale": "97704430012",
+          "denominazione_amministrazione": "CONSORZIO DELLE RESIDENZE REALI SABAUDE"
+         }
+        ]
+       }
+      },
+      {
+       "name": "SEZ. B - Dati Generali",
+       "fields": {
+        "documenti_di_gara_link": "https://lavenaria.it/it/bandi/procedure-corso",
+        "accordo_quadro": "Nulla",
+        "sistema_dinamico_acquisizione": "Nessun sistema dinamico di acquisizione",
+        "tipo_procedura_aggiudicazione": "Aperta"
+       }
+      },
+      {
+       "name": "SEZ. C - Oggetto",
+       "items": [
+        {
+         "tipo_oggetto": "aggiudicazione",
+         "cig": "BA1A77EE97",
+         "natura_principale": "Servizi",
+         "descrizione": "servizio di gestione dei social media della Reggia di Venaria, del sistema delle Residenze Reali Sabaude e del progetto “Camminate Reali”",
+         "cpv": "Servizi pubblicitari e di marketing",
+         "valore_complessivo_stimato": 450405.5,
+         "luogo_nuts": "Torino",
+         "luogo_istat": "VENARIA REALE",
+         "valore_offerta_vincente": 349905.5,
+         "accordo_quadro": "Nulla",
+         "sistema_dinamico_acquisizione": "Nessun sistema dinamico di acquisizione",
+         "aggiudicatari": [
+          {
+           "importo": 349905.5,
+           "soggetti": [
+            {
+             "codice_fiscale": "07137460155",
+             "denominazione": "MELISMELIS s.r.l."
+            }
+           ]
+          }
+         ],
+         "categorie": [
+          {
+           "codice": "FS",
+           "descrizione": "FORNITURA DI SERVIZI"
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    },
+    "lingua": "it"
+   }
+  ],
+  "idAvviso": "cd2070bf-7225-49f2-bb83-0b77d000ebb2",
+  "count": 57.0,
+  "paginationToken": "CLKXJBoJKY6OC12hAQAAGgJgARoGEICAgPgHIg5aDGrW0kV9SQO2T2EreQ==",
+  "score": 1.0,
+  "scoreDetails": {
+   "value": 1.0,
+   "description": "sum of:",
+   "details": [
+    {
+     "value": 0.0,
+     "description": "match on required clause, product of:",
+     "details": [
+      {
+       "value": 0.0,
+       "description": "# clause",
+       "details": []
+      },
+      {
+       "value": 1.0,
+       "description": "IndexOrDocValuesQuery(indexQuery=$type:dateV2/dataPubblicazione:[1791676800000 TO 1792593115679], dvQuery=$type:dateV2/dataPubblicazione:[1791676800000 TO 1792593115679])",
+       "details": []
+      }
+     ]
+    },
+    {
+     "value": 1.0,
+     "description": "sum of:",
+     "details": [
+      {
+       "value": 1.0,
+       "description": "$type:token/templates.template.sections.items.cpv:[[53 65 72 76 69 7a 69 20 70 75 62 62 6c 69 63 69 74 61 72 69 20 65 20 64 69 20 6d 61 72 6b 65 74 69 6e 67] TO [53 65 72 76 69 7a 69 20 70 75 62 62 6c 69 63 69 74 61 72 69 20 65 20 64 69 20 6d 61 72 6b 65 74 69 6e 67]]",
+       "details": []
+      }
+     ]
+    }
+   ]
+  },
+  "oscurato": false,
+  "noteOscuramento": null,
+  "idAppalto": "1769ad2f-6267-42e7-bfec-28cd56754128",
+  "dataPubblicazioneNuovoAvviso": null,
+  "tipoNuovoAvviso": null,
+  "dataPCP": "2026-10-19T22:00:00.000+00:00",
+  "dataCreazione": "2026-10-20T02:30:29.910+00:00",
+  "tipo": "avviso",
+  "attivo": true,
+  "nuovoAvviso": null,
+  "codiceEform": "29",
+  "stato": "NON_VERIFICATO",
+  "ambiente": null,
+  "categorie": null
+ }
+]
