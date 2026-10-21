@@ -1,5 +1,5 @@
-# Radar gare Adduma, aggiornato 2026-10-21T14:31
-Letti oggi 90, nuovi 64, gare aperte pertinenti 23. Errori: 0
+# Radar gare Adduma, aggiornato 2026-10-21T14:47
+Letti oggi 90, nuovi 0, gare aperte pertinenti 23. Errori: 0
 
 ## senza titolo
 - ente: COMUNE DI BOVISIO MASCIAGO | luogo ISTAT BOVISIO-MASCIAGO

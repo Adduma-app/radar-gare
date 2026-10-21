@@ -75,7 +75,7 @@
   ],
   "idAvviso": "f14eb361-9353-43a9-9baa-37f6477a801b",
   "count": 57.0,
-  "paginationToken": "CKi0QRoJKdyOC12hAQAAGgJgARoGEICAgPgHIg5aDGrXbByDKbw8fzFGww==",
+  "paginationToken": "CN+6QRoJKdyOC12hAQAAGgJgARoGEICAgPgHIg5aDGrXbByDKbw8fzFGww==",
   "score": 1.0,
   "scoreDetails": {
    "value": 1.0,
@@ -92,7 +92,7 @@
       },
       {
        "value": 1.0,
-       "description": "IndexOrDocValuesQuery(indexQuery=$type:dateV2/dataPubblicazione:[1791676800000 TO 1792593115679], dvQuery=$type:dateV2/dataPubblicazione:[1791676800000 TO 1792593115679])",
+       "description": "IndexOrDocValuesQuery(indexQuery=$type:dateV2/dataPubblicazione:[1791676800000 TO 1792594071085], dvQuery=$type:dateV2/dataPubblicazione:[1791676800000 TO 1792594071085])",
        "details": []
       }
      ]
@@ -201,7 +201,7 @@
   ],
   "idAvviso": "6f2619c7-9efb-46de-83b8-d547b091a950",
   "count": 57.0,
-  "paginationToken": "CLu4QRoJKc2OC12hAQAAGgJgARoGEICAgPgHIg5aDGrXSEiDKbw8fzE+5Q==",
+  "paginationToken": "CKixQRoJKc2OC12hAQAAGgJgARoGEICAgPgHIg5aDGrXSEiDKbw8fzE+5Q==",
   "score": 1.0,
   "scoreDetails": {
    "value": 1.0,
@@ -218,7 +218,7 @@
       },
       {
        "value": 1.0,
-       "description": "IndexOrDocValuesQuery(indexQuery=$type:dateV2/dataPubblicazione:[1791676800000 TO 1792593115679], dvQuery=$type:dateV2/dataPubblicazione:[1791676800000 TO 1792593115679])",
+       "description": "IndexOrDocValuesQuery(indexQuery=$type:dateV2/dataPubblicazione:[1791676800000 TO 1792594071085], dvQuery=$type:dateV2/dataPubblicazione:[1791676800000 TO 1792594071085])",
        "details": []
       }
      ]
@@ -327,7 +327,7 @@
   ],
   "idAvviso": "cd2070bf-7225-49f2-bb83-0b77d000ebb2",
   "count": 57.0,
-  "paginationToken": "CLKXJBoJKY6OC12hAQAAGgJgARoGEICAgPgHIg5aDGrW0kV9SQO2T2EreQ==",
+  "paginationToken": "CLqXJBoJKY6OC12hAQAAGgJgARoGEICAgPgHIg5aDGrW0kV9SQO2T2EreQ==",
   "score": 1.0,
   "scoreDetails": {
    "value": 1.0,
@@ -344,7 +344,7 @@
       },
       {
        "value": 1.0,
-       "description": "IndexOrDocValuesQuery(indexQuery=$type:dateV2/dataPubblicazione:[1791676800000 TO 1792593115679], dvQuery=$type:dateV2/dataPubblicazione:[1791676800000 TO 1792593115679])",
+       "description": "IndexOrDocValuesQuery(indexQuery=$type:dateV2/dataPubblicazione:[1791676800000 TO 1792594071085], dvQuery=$type:dateV2/dataPubblicazione:[1791676800000 TO 1792594071085])",
        "details": []
       }
      ]
