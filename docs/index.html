@@ -1,0 +1,27 @@
+<!doctype html><html lang="it"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Radar gare Adduma</title>
+<style>
+body{margin:0;background:#F4F2EC;color:#0E0C0B;font:18px/1.5 Helvetica,Arial,sans-serif}
+header{background:#0E0C0B;color:#fff;padding:28px 20px}header b{color:#A11930;letter-spacing:3px;font-size:14px}
+h1{margin:6px 0 0;font-size:32px}main{max-width:900px;margin:0 auto;padding:16px}
+input{width:100%;box-sizing:border-box;font-size:18px;padding:10px;border:1px solid #E2DED4;border-radius:8px}
+.c{background:#fff;border:1px solid #E2DED4;border-radius:10px;padding:14px 16px;margin:12px 0}
+.e{color:#8A877F;font-size:14px;letter-spacing:1px;text-transform:uppercase}.t{font-weight:bold;font-size:20px;margin:4px 0}
+.m{font-size:15px;color:#555}.tag{display:inline-block;background:#0E0C0B;color:#fff;border-radius:10px;padding:2px 9px;font-size:13px;margin-right:4px}
+a{color:#A11930}
+</style></head><body>
+<header><b>UFFICIO GARE · ADDUMA</b><h1>Radar gare</h1><div id="s" class="m" style="color:#B9B5AC"></div></header>
+<main><input id="q" placeholder="Filtra per parola, ente, comune..."><div id="l"></div></main>
+<script>
+let G=[];const f=v=>v?new Date(v).toLocaleString('it-IT',{dateStyle:'short',timeStyle:'short'}):'n.d.';
+const eu=v=>v?v.toLocaleString('it-IT',{style:'currency',currency:'EUR',maximumFractionDigits:0}):'n.d.';
+function draw(){const q=document.getElementById('q').value.toLowerCase();
+document.getElementById('l').innerHTML=G.filter(r=>JSON.stringify(r).toLowerCase().includes(q)).map(r=>`<div class="c">
+<div class="e">${r.ente||'Ente n.d.'}</div><div class="t">${r.titolo||'senza titolo'}</div>
+<div><span class="tag">${r.esecuzione}</span>${r.fuori_taglia?'<span class="tag" style="background:#C2571A">fuori taglia</span>':''}<span class="tag" style="background:#8A877F">${r.tipologia||''}</span></div>
+<div class="m">Importo ${eu(r.importo)} · Scadenza ${f(r.scadenza)} · Pubblicato ${f(r.pubblicazione)}</div>
+<div class="m"><a href="${r.link_avviso}" target="_blank">Avviso ANAC</a>${r.link_documenti?` · <a href="${r.link_documenti}" target="_blank">Documenti</a>`:''}</div></div>`).join('')||'<p>Nessuna gara.</p>'}
+fetch('data.json').then(r=>r.json()).then(d=>{G=d.gare;const s=d.stato;
+document.getElementById('s').textContent=`Aggiornato ${f(s.aggiornato)} · ${s.aperte_pertinenti} gare aperte pertinenti · ${s.nuovi_oggi} nuove oggi`;draw()});
+document.getElementById('q').oninput=draw;
+</script></body></html>
