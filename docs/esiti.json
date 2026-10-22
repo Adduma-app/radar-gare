@@ -1,14 +1,311 @@
 {
  "stato": {
-  "aggiornato": "2026-10-21T14:54",
-  "letti_oggi": 90,
-  "nuovi_oggi": 0,
+  "aggiornato": "2026-10-22T08:40",
+  "letti_oggi": 104,
+  "nuovi_oggi": 12,
   "aperte_pertinenti": 12,
-  "esiti_pertinenti": 40,
-  "scartati_oggi": 26,
+  "esiti_pertinenti": 48,
+  "scartati_oggi": 28,
   "errori": []
  },
  "esiti": [
+  {
+   "id": "anac:22afe5d6-3590-4553-80c7-8e765606d21c",
+   "fonte": "ANAC PVL",
+   "tipologia": "RISULTATI",
+   "titolo": "RESTYLING GRAFICO - NORMATIVO SITO ISTITUZIONALE",
+   "descrizione": "RESTYLING GRAFICO - NORMATIVO SITO ISTITUZIONALE",
+   "ente": "COMUNE DI TORRECUSO",
+   "cf_ente": "80002090621",
+   "luogo_istat": "TORRECUSO",
+   "luogo_nuts": "Benevento",
+   "importo": null,
+   "lotti": 1,
+   "cig": [
+    "BD73A06571"
+   ],
+   "cpv": "Servizi di progettazione di siti per il World wide web (WWW)",
+   "procedura": "Altra procedura a fase unica",
+   "pubblicazione": "2026-10-22T06:00",
+   "scadenza": null,
+   "link_avviso": "https://pubblicitalegale.anticorruzione.it/bandi/22afe5d6-3590-4553-80c7-8e765606d21c",
+   "link_documenti": "https://www.acquistinretepa.it/bandi/negoziata/rdo-td/cb4f110fcb824c8c",
+   "link_ted": null,
+   "aggiudicatari": [],
+   "valore_aggiudicato": null,
+   "kw_score": 3,
+   "kw_trovate": [
+    "grafic"
+   ],
+   "kw_escluse": [],
+   "esecuzione": "da remoto",
+   "fuori_taglia": false,
+   "pertinente": true,
+   "motivo_scarto": null,
+   "primo_avvistamento": "2026-10-22"
+  },
+  {
+   "id": "anac:8cb547ef-80bd-4557-98a1-371e6ab2f32b",
+   "fonte": "ANAC PVL",
+   "tipologia": "RISULTATI",
+   "titolo": "SNAI Affidamento incarico per adeguata diffusione  di comunicazione PRODUZIONE DI GADGET BRANDIZZATI  PARTECIPAZIONE A EVENTI E FIERE",
+   "descrizione": "SNAI Affidamento incarico per adeguata diffusione  di comunicazione PRODUZIONE DI GADGET BRANDIZZATI  PARTECIPAZIONE A EVENTI E FIERE",
+   "ente": "COMUNE DI MORINO",
+   "cf_ente": "00185610664",
+   "luogo_istat": "MORINO",
+   "luogo_nuts": "L'Aquila",
+   "importo": null,
+   "lotti": 1,
+   "cig": [
+    "BD74C27B4F"
+   ],
+   "cpv": "Servizi pubblicitari e di marketing",
+   "procedura": "Altra procedura a fase unica",
+   "pubblicazione": "2026-10-22T06:00",
+   "scadenza": null,
+   "link_avviso": "https://pubblicitalegale.anticorruzione.it/bandi/8cb547ef-80bd-4557-98a1-371e6ab2f32b",
+   "link_documenti": "https://www.acquistinretepa.it/bandi/negoziata/rdo-td/a97224e002df0a3a",
+   "link_ted": null,
+   "aggiudicatari": [],
+   "valore_aggiudicato": null,
+   "kw_score": 7,
+   "kw_trovate": [
+    "brand",
+    "comunicazione",
+    "pubblicit",
+    "marketing",
+    "eventi"
+   ],
+   "kw_escluse": [
+    "gadget"
+   ],
+   "esecuzione": "evento in loco",
+   "fuori_taglia": false,
+   "pertinente": true,
+   "motivo_scarto": null,
+   "primo_avvistamento": "2026-10-22"
+  },
+  {
+   "id": "anac:03dc2dc8-d8e4-4e91-bdf6-a64248099c20",
+   "fonte": "ANAC PVL",
+   "tipologia": "RISULTATI",
+   "titolo": "STAGIONE TEATRALE- TEATRO AI CONFINI DEL MONDO",
+   "descrizione": "STAGIONE TEATRALE- TEATRO AI CONFINI DEL MONDO",
+   "ente": "COMUNE DI SASSO DI CASTALDA",
+   "cf_ente": "80002590760",
+   "luogo_istat": "SASSO DI CASTALDA",
+   "luogo_nuts": "Potenza",
+   "importo": null,
+   "lotti": 1,
+   "cig": [
+    "BD7503758D"
+   ],
+   "cpv": "Servizi di organizzazione di eventi",
+   "procedura": "Negoziata senza previa indizione di gara",
+   "pubblicazione": "2026-10-22T06:00",
+   "scadenza": null,
+   "link_avviso": "https://pubblicitalegale.anticorruzione.it/bandi/03dc2dc8-d8e4-4e91-bdf6-a64248099c20",
+   "link_documenti": "https://www.acquistinretepa.it/bandi/negoziata/rdo-td/b0965cdc5a514539",
+   "link_ted": null,
+   "aggiudicatari": [],
+   "valore_aggiudicato": null,
+   "kw_score": 2,
+   "kw_trovate": [
+    "eventi"
+   ],
+   "kw_escluse": [],
+   "esecuzione": "evento in loco",
+   "fuori_taglia": false,
+   "pertinente": true,
+   "motivo_scarto": null,
+   "primo_avvistamento": "2026-10-22"
+  },
+  {
+   "id": "anac:3e13048d-8d51-451f-b570-473dc1abb016",
+   "fonte": "ANAC PVL",
+   "tipologia": "RISULTATI",
+   "titolo": "Partecipazione Maker Faire Rome 2026",
+   "descrizione": "Partecipazione Maker Faire Rome 2026",
+   "ente": "LAZIO INNOVA SPA",
+   "cf_ente": "05950941004",
+   "luogo_istat": "ROMA",
+   "luogo_nuts": "Roma",
+   "importo": null,
+   "lotti": 1,
+   "cig": [
+    "BD7581538F"
+   ],
+   "cpv": "Servizi di organizzazione di eventi",
+   "procedura": "Altra procedura a fase unica",
+   "pubblicazione": "2026-10-22T06:00",
+   "scadenza": null,
+   "link_avviso": "https://pubblicitalegale.anticorruzione.it/bandi/3e13048d-8d51-451f-b570-473dc1abb016",
+   "link_documenti": "https://centraleacquisti.regione.lazio.it/bandi-e-strumenti-di-acquisto/dettaglio-bando?tipo_doc=BANDO_GARA_PORTALE&id_doc=22778498",
+   "link_ted": null,
+   "aggiudicatari": [],
+   "valore_aggiudicato": null,
+   "kw_score": 2,
+   "kw_trovate": [
+    "eventi"
+   ],
+   "kw_escluse": [],
+   "esecuzione": "evento in loco",
+   "fuori_taglia": false,
+   "pertinente": true,
+   "motivo_scarto": null,
+   "primo_avvistamento": "2026-10-22"
+  },
+  {
+   "id": "anac:bf7b5fde-8301-438f-a162-e3c7d4dc29aa",
+   "fonte": "ANAC PVL",
+   "tipologia": "RISULTATI",
+   "titolo": "Servizi per la realizzazione dell'evento “Diversity Media Awards” presso il Roma Convention Center \\\"La Nuvola\\\"",
+   "descrizione": "Servizi per la realizzazione dell'evento “Diversity Media Awards” presso il Roma Convention Center \\\"La Nuvola\\\"",
+   "ente": "ROMA CAPITALE",
+   "cf_ente": "02438750586",
+   "luogo_istat": "ROMA",
+   "luogo_nuts": "Roma",
+   "importo": 35000.0,
+   "lotti": 1,
+   "cig": [
+    "BC90FF30AF"
+   ],
+   "cpv": "Servizi di organizzazione di eventi",
+   "procedura": "Negoziata senza previa indizione di gara",
+   "pubblicazione": "2026-10-22T06:00",
+   "scadenza": null,
+   "link_avviso": "https://pubblicitalegale.anticorruzione.it/bandi/bf7b5fde-8301-438f-a162-e3c7d4dc29aa",
+   "link_documenti": "https://www.comune.roma.it/SUAFF-public/#/trasparenza/repository/32320",
+   "link_ted": null,
+   "aggiudicatari": [
+    "EUR S.P.A."
+   ],
+   "valore_aggiudicato": 29629.72,
+   "kw_score": 4,
+   "kw_trovate": [
+    "evento",
+    "eventi"
+   ],
+   "kw_escluse": [],
+   "esecuzione": "evento in loco",
+   "fuori_taglia": false,
+   "pertinente": true,
+   "motivo_scarto": null,
+   "primo_avvistamento": "2026-10-22"
+  },
+  {
+   "id": "anac:9d8ea513-a7b5-43c2-8e93-ef37baebdb17",
+   "fonte": "ANAC PVL",
+   "tipologia": "RISULTATI",
+   "titolo": "L.R. 30/2008  DGR n. 1047 del 10 agosto 2026 - D.lgs. n. 36/2023 e s.m.i.  art. 76 comma 2 lett. b  Avvio della procedura per la partecipazione della regione Marche all'evento Artigiano in Fiera in programma a Fieramilano Rho-Pero dal 5 al 13 dicembre 2026,  Base d'asta  108.000,00  ",
+   "descrizione": "L.R. 30/2008  DGR n. 1047 del 10 agosto 2026 - D.lgs. n. 36/2023 e s.m.i.  art. 76 comma 2 lett. b  Avvio della procedura per la partecipazione della regione Marche all'evento Artigiano in Fiera in programma a Fieramilano Rho-Pero dal 5 al 13 dicembre 2026,  Base d'asta  108.000,00  ",
+   "ente": "ENTE REGIONE MARCHE",
+   "cf_ente": "80008630420",
+   "luogo_istat": "ANCONA",
+   "luogo_nuts": "Ancona",
+   "importo": 108000.0,
+   "lotti": 1,
+   "cig": [
+    "BD558D8072"
+   ],
+   "cpv": "Servizi di organizzazione di eventi",
+   "procedura": "Negoziata senza previa indizione di gara",
+   "pubblicazione": "2026-10-22T06:00",
+   "scadenza": null,
+   "link_avviso": "https://pubblicitalegale.anticorruzione.it/bandi/9d8ea513-a7b5-43c2-8e93-ef37baebdb17",
+   "link_documenti": "https://appaltisuam.regione.marche.it/PortaleAppalti/it/procedure/codice/G11890",
+   "link_ted": null,
+   "aggiudicatari": [
+    "GE.FI SPA"
+   ],
+   "valore_aggiudicato": 108000.0,
+   "kw_score": 5,
+   "kw_trovate": [
+    "evento",
+    "eventi",
+    "fiera"
+   ],
+   "kw_escluse": [],
+   "esecuzione": "evento in loco",
+   "fuori_taglia": false,
+   "pertinente": true,
+   "motivo_scarto": null,
+   "primo_avvistamento": "2026-10-22"
+  },
+  {
+   "id": "anac:1fea7235-625c-4f93-bcd5-55ec7b049ead",
+   "fonte": "ANAC PVL",
+   "tipologia": "RISULTATI",
+   "titolo": "Procedura Aperta per l'affidamento dei servizi culturali e turistici nei Cimiteri Capitolini, per un periodo di 36 (trentasei) mesi.",
+   "descrizione": "Procedura Aperta per l'affidamento dei servizi culturali e turistici nei Cimiteri Capitolini, per un periodo di 36 (trentasei) mesi.",
+   "ente": "AZIENDA MUNICIPALE AMBIENTE SPA ROMA",
+   "cf_ente": "05445891004",
+   "luogo_istat": "ROMA",
+   "luogo_nuts": "Roma",
+   "importo": 594000.0,
+   "lotti": 1,
+   "cig": [
+    "B1C4C7A66D"
+   ],
+   "cpv": "Servizi di organizzazione di eventi culturali",
+   "procedura": "Aperta",
+   "pubblicazione": "2026-10-22T06:00",
+   "scadenza": null,
+   "link_avviso": "https://pubblicitalegale.anticorruzione.it/bandi/1fea7235-625c-4f93-bcd5-55ec7b049ead",
+   "link_documenti": "https://albofornitori.amaroma.it/PortaleAppalti//it/bandi/codice/24/000154",
+   "link_ted": "https://ted.europa.eu/udl?uri=TED:NOTICE:727885-2026:TEXT:IT:HTML",
+   "aggiudicatari": [
+    "Emmebi diagnostica artistica S.r.l."
+   ],
+   "valore_aggiudicato": 261900.0,
+   "kw_score": 2,
+   "kw_trovate": [
+    "eventi"
+   ],
+   "kw_escluse": [],
+   "esecuzione": "evento in loco",
+   "fuori_taglia": true,
+   "pertinente": true,
+   "motivo_scarto": null,
+   "primo_avvistamento": "2026-10-22"
+  },
+  {
+   "id": "anac:b6bb9b7a-b383-4a70-aaf3-81944cbd86b6",
+   "fonte": "ANAC PVL",
+   "tipologia": "RISULTATI",
+   "titolo": "Fasc. 2025/PNS/81 Prestazioni mirate al posizionamento strategico del Polo Nazionale della Dimensione SUbacquea",
+   "descrizione": "Fasc. 2025/PNS/81 Prestazioni mirate al posizionamento strategico del Polo Nazionale della Dimensione SUbacquea",
+   "ente": "CENTRO SUPPORTO E SPERIMENTAZIONE NAVALE",
+   "cf_ente": "91067110113",
+   "luogo_istat": "LA SPEZIA",
+   "luogo_nuts": "La Spezia",
+   "importo": 14000.0,
+   "lotti": 1,
+   "cig": [
+    "B6AFE742CB"
+   ],
+   "cpv": "Servizi di organizzazione di eventi culturali",
+   "procedura": "Negoziata senza previa indizione di gara",
+   "pubblicazione": "2026-10-22T06:00",
+   "scadenza": null,
+   "link_avviso": "https://pubblicitalegale.anticorruzione.it/bandi/b6bb9b7a-b383-4a70-aaf3-81944cbd86b6",
+   "link_documenti": "https://www.marina.difesa.it",
+   "link_ted": null,
+   "aggiudicatari": [
+    "GEA"
+   ],
+   "valore_aggiudicato": 13930.0,
+   "kw_score": 2,
+   "kw_trovate": [
+    "eventi"
+   ],
+   "kw_escluse": [],
+   "esecuzione": "evento in loco",
+   "fuori_taglia": false,
+   "pertinente": true,
+   "motivo_scarto": null,
+   "primo_avvistamento": "2026-10-22"
+  },
   {
    "id": "anac:6f2619c7-9efb-46de-83b8-d547b091a950",
    "fonte": "ANAC PVL",

@@ -1,5 +1,5 @@
-# Radar gare Adduma, aggiornato 2026-10-21T14:54
-Letti oggi 90, nuovi 0, gare aperte pertinenti 12. Errori: 0
+# Radar gare Adduma, aggiornato 2026-10-22T08:40
+Letti oggi 104, nuovi 12, gare aperte pertinenti 12. Errori: 0
 
 ## AFFIDAMENTO DEL SERVIZIO DI INSTALLAZIONE E GESTIONE DI UNA PISTA DI PATTINAGGIO SU GHIACCIO E REALIZZAZIONE EVENTI CORRELATI DURANTE LE FESTIVITA’ NATALIZIE 2026.
 - ente: COMUNE DI BOVISIO MASCIAGO | luogo ISTAT BOVISIO-MASCIAGO
