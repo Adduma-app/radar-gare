@@ -1,5 +1,220 @@
 [
  {
+  "codiceScheda": "PL1_4",
+  "tipologia": "AVVISI_DI_PRE-INFORMAZIONE_INFORMATIVI",
+  "dataPubblicazione": "2026-10-23T06:00:00.872+00:00",
+  "dataScadenza": null,
+  "templates": [
+   {
+    "template": {
+     "metadata": {
+      "link_eform_ted": "https://ted.europa.eu/udl?uri=TED:NOTICE:733131-2026:TEXT:IT:HTML",
+      "titolo": "ASTA PUBBLICA PER LA VENDITA, COMPRENSIVA DELLE ATTIVITÀ DI RITIRO, TRASPORTO ED AVVIO AL RECUPERO, DEGLI OLI VEGETALI ESAUSTI, CODICE EER 20.01.25, PRESENTI PRESSO VARI SITI DELLE SOCIETÀ OPERATIVE LOCALI (SOL) DEL GRUPPO RETIAMBIENTE, SUDDIVISA IN N. 5 LOTTI",
+      "descrizione": "ASTA PUBBLICA PER LA VENDITA, COMPRENSIVA DELLE ATTIVITÀ DI RITIRO, TRASPORTO ED AVVIO AL RECUPERO, DEGLI OLI VEGETALI ESAUSTI, CODICE EER 20.01.25, PRESENTI PRESSO VARI SITI DELLE SOCIETÀ OPERATIVE LOCALI (SOL) DEL GRUPPO RETIAMBIENTE, SUDDIVISA IN N. 5 LOTTI"
+     },
+     "sections": [
+      {
+       "name": "SEZ. A - Committente",
+       "fields": {
+        "soggetti_sa": [
+         {
+          "codice_fiscale": "02031380500",
+          "denominazione_amministrazione": "RETIAMBIENTE S.P.A."
+         }
+        ]
+       }
+      },
+      {
+       "name": "SEZ. B - Dati Generali",
+       "fields": {}
+      },
+      {
+       "name": "SEZ. C - Oggetto",
+       "items": [
+        {
+         "tipo_oggetto": "lotto",
+         "natura_principale": "Servizi",
+         "descrizione": "ASTA PUBBLICA PER LA VENDITA, COMPRENSIVA DELLE ATTIVITÀ DI RITIRO, TRASPORTO ED AVVIO AL RECUPERO, DEGLI OLI VEGETALI ESAUSTI, CODICE EER 20.01.25, PRESENTI PRESSO VARI SITI DELLE SOCIETÀ OPERATIVE LOCALI (SOL) DEL GRUPPO RETIAMBIENTE, SUDDIVISA IN N. 5 LOTTI",
+         "cpv": "Servizi di vendita all'asta"
+        }
+       ]
+      }
+     ]
+    },
+    "lingua": "it"
+   }
+  ],
+  "idAvviso": "a1cdf4aa-db68-4109-9067-3fd95467a9ac",
+  "count": 63.0,
+  "paginationToken": "CLj2QRoJKWhGWGehAQAAGgJgARoGEICAgPgHIg5aDGrZcbmDKbw8fzFw6Q==",
+  "score": 1.0,
+  "scoreDetails": {
+   "value": 1.0,
+   "description": "sum of:",
+   "details": [
+    {
+     "value": 0.0,
+     "description": "match on required clause, product of:",
+     "details": [
+      {
+       "value": 0.0,
+       "description": "# clause",
+       "details": []
+      },
+      {
+       "value": 1.0,
+       "description": "IndexOrDocValuesQuery(indexQuery=$type:dateV2/dataPubblicazione:[1791849600000 TO 1792744551156], dvQuery=$type:dateV2/dataPubblicazione:[1791849600000 TO 1792744551156])",
+       "details": []
+      }
+     ]
+    },
+    {
+     "value": 1.0,
+     "description": "sum of:",
+     "details": [
+      {
+       "value": 1.0,
+       "description": "$type:token/templates.template.sections.items.cpv:[[53 65 72 76 69 7a 69 20 64 69 20 76 65 6e 64 69 74 61 20 61 6c 6c 27 61 73 74 61] TO [53 65 72 76 69 7a 69 20 64 69 20 76 65 6e 64 69 74 61 20 61 6c 6c 27 61 73 74 61]]",
+       "details": []
+      }
+     ]
+    }
+   ]
+  },
+  "oscurato": false,
+  "noteOscuramento": null,
+  "idAppalto": "3732a26b-15f7-4277-b3e8-e054f3267970",
+  "dataPubblicazioneNuovoAvviso": null,
+  "tipoNuovoAvviso": null,
+  "dataPCP": "2026-10-21T22:00:00.000+00:00",
+  "dataCreazione": "2026-10-22T02:15:21.872+00:00",
+  "tipo": "avviso",
+  "attivo": true,
+  "nuovoAvviso": null,
+  "codiceEform": "4",
+  "stato": "NON_VERIFICATO",
+  "ambiente": null,
+  "categorie": null
+ },
+ {
+  "codiceScheda": "P2_16",
+  "tipologia": "BANDI",
+  "dataPubblicazione": "2026-10-23T06:00:00.668+00:00",
+  "dataScadenza": "2026-11-25T10:27:00.000+00:00",
+  "templates": [
+   {
+    "template": {
+     "metadata": {
+      "link_eform_ted": null,
+      "titolo": null,
+      "descrizione": "AFFIDAMENTO DEL SERVIZIO DI ATTACCHINAGGIO MANIFESTI E AFFISSIONE DELLA SEGNALETICA STRADALE MOBILE PER MANIFESTAZIONI CIVILI E RELIGIOSE"
+     },
+     "sections": [
+      {
+       "name": "SEZ. A - Committente",
+       "fields": {
+        "soggetti_sa": [
+         {
+          "codice_fiscale": "81001250752",
+          "denominazione_amministrazione": "COMUNE DI SALVE"
+         }
+        ]
+       }
+      },
+      {
+       "name": "SEZ. B - Dati Generali",
+       "fields": {
+        "documenti_di_gara_link": "https://salve.tuttogare.it/gare/dettaglio.php?codice=354",
+        "accordo_quadro": "Nulla",
+        "sistema_dinamico_acquisizione": "Nessun sistema dinamico di acquisizione",
+        "tipo_procedura_aggiudicazione": "Aperta",
+        "asta_elettronica": "false"
+       }
+      },
+      {
+       "name": "SEZ. C - Oggetto",
+       "items": [
+        {
+         "tipo_oggetto": "lotto",
+         "cig": "BD78D349CD",
+         "natura_principale": "Servizi",
+         "descrizione": "AFFIDAMENTO DEL SERVIZIO DI ATTACCHINAGGIO MANIFESTI E AFFISSIONE DELLA SEGNALETICA STRADALE MOBILE PER MANIFESTAZIONI CIVILI E RELIGIOSE",
+         "cpv": "Servizi di gestione pubblicitaria",
+         "valore_complessivo_stimato": 19672.13,
+         "documenti_di_gara_link": "https://salve.tuttogare.it/gare/dettaglio.php?codice=354",
+         "luogo_istat": "SALVE",
+         "asta_elettronica": "false",
+         "criteri_aggiudicazione": "Qualità",
+         "termine_ricezione": "2026-11-25T11:27:00+01:00",
+         "accordo_quadro": "Nulla",
+         "sistema_dinamico_acquisizione": "Nessun sistema dinamico di acquisizione",
+         "categorie": [
+          {
+           "codice": "FS",
+           "descrizione": "FORNITURA DI SERVIZI"
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    },
+    "lingua": "it"
+   }
+  ],
+  "idAvviso": "9fc489a2-950d-4eff-b1b0-6693b1fc5ebe",
+  "count": 63.0,
+  "paginationToken": "CMHgQRoJKZxFWGehAQAAGgJgARoGEICAgPgHIg5aDGrZ11CDKbw8fzF8aw==",
+  "score": 1.0,
+  "scoreDetails": {
+   "value": 1.0,
+   "description": "sum of:",
+   "details": [
+    {
+     "value": 0.0,
+     "description": "match on required clause, product of:",
+     "details": [
+      {
+       "value": 0.0,
+       "description": "# clause",
+       "details": []
+      },
+      {
+       "value": 1.0,
+       "description": "IndexOrDocValuesQuery(indexQuery=$type:dateV2/dataPubblicazione:[1791849600000 TO 1792744551156], dvQuery=$type:dateV2/dataPubblicazione:[1791849600000 TO 1792744551156])",
+       "details": []
+      }
+     ]
+    },
+    {
+     "value": 1.0,
+     "description": "sum of:",
+     "details": [
+      {
+       "value": 1.0,
+       "description": "$type:token/templates.template.sections.items.cpv:[[53 65 72 76 69 7a 69 20 64 69 20 67 65 73 74 69 6f 6e 65 20 70 75 62 62 6c 69 63 69 74 61 72 69 61] TO [53 65 72 76 69 7a 69 20 64 69 20 67 65 73 74 69 6f 6e 65 20 70 75 62 62 6c 69 63 69 74 61 72 69 61]]",
+       "details": []
+      }
+     ]
+    }
+   ]
+  },
+  "oscurato": false,
+  "noteOscuramento": null,
+  "idAppalto": "081a86f6-308d-48cd-8fb7-d095796adb12",
+  "dataPubblicazioneNuovoAvviso": null,
+  "tipoNuovoAvviso": null,
+  "dataPCP": "2026-10-22T11:28:48.000+00:00",
+  "dataCreazione": "2026-10-22T09:28:48.668+00:00",
+  "tipo": "avviso",
+  "attivo": true,
+  "nuovoAvviso": null,
+  "codiceEform": null,
+  "stato": "NON_VERIFICATO",
+  "ambiente": null,
+  "categorie": null
+ },
+ {
   "codiceScheda": "M2",
   "tipologia": "MODIFICHE_CONTRATTUALI",
   "dataPubblicazione": "2026-10-22T06:00:00.594+00:00",
@@ -52,8 +267,8 @@
    }
   ],
   "idAvviso": "24919515-a78a-4397-ab13-395c47ada20c",
-  "count": 62.0,
-  "paginationToken": "COXaQRoJKVLpMWKhAQAAGgJgARoGEICAgPgHIg5aDGrYvJeDKbw8fzFpZw==",
+  "count": 63.0,
+  "paginationToken": "CMvxQRoJKVLpMWKhAQAAGgJgARoGEICAgPgHIg5aDGrYvJeDKbw8fzFpZw==",
   "score": 1.0,
   "scoreDetails": {
    "value": 1.0,
@@ -70,7 +285,7 @@
       },
       {
        "value": 1.0,
-       "description": "IndexOrDocValuesQuery(indexQuery=$type:dateV2/dataPubblicazione:[1791763200000 TO 1792658405337], dvQuery=$type:dateV2/dataPubblicazione:[1791763200000 TO 1792658405337])",
+       "description": "IndexOrDocValuesQuery(indexQuery=$type:dateV2/dataPubblicazione:[1791849600000 TO 1792744551156], dvQuery=$type:dateV2/dataPubblicazione:[1791849600000 TO 1792744551156])",
        "details": []
       }
      ]
@@ -95,234 +310,6 @@
   "tipoNuovoAvviso": null,
   "dataPCP": "2026-10-21T15:22:31.000+00:00",
   "dataCreazione": "2026-10-21T13:22:31.594+00:00",
-  "tipo": "avviso",
-  "attivo": true,
-  "nuovoAvviso": null,
-  "codiceEform": null,
-  "stato": "NON_VERIFICATO",
-  "ambiente": null,
-  "categorie": null
- },
- {
-  "codiceScheda": "AD2_25",
-  "tipologia": "RISULTATI",
-  "dataPubblicazione": "2026-10-22T06:00:00.372+00:00",
-  "dataScadenza": null,
-  "templates": [
-   {
-    "template": {
-     "metadata": {
-      "link_eform_ted": null,
-      "titolo": null,
-      "descrizione": "RESTYLING GRAFICO - NORMATIVO SITO ISTITUZIONALE"
-     },
-     "sections": [
-      {
-       "name": "SEZ. A - Committente",
-       "fields": {
-        "soggetti_sa": [
-         {
-          "codice_fiscale": "80002090621",
-          "denominazione_amministrazione": "COMUNE DI TORRECUSO"
-         }
-        ]
-       }
-      },
-      {
-       "name": "SEZ. B - Dati Generali",
-       "fields": {
-        "documenti_di_gara_link": "https://www.acquistinretepa.it/bandi/negoziata/rdo-td/cb4f110fcb824c8c",
-        "sistema_dinamico_acquisizione": "Nessun sistema dinamico di acquisizione",
-        "tipo_procedura_aggiudicazione": "Altra procedura a fase unica"
-       }
-      },
-      {
-       "name": "SEZ. C - Oggetto",
-       "items": [
-        {
-         "tipo_oggetto": "aggiudicazione",
-         "cig": "BD73A06571",
-         "natura_principale": "Servizi",
-         "descrizione": "RESTYLING GRAFICO - NORMATIVO SITO ISTITUZIONALE",
-         "cpv": "Servizi di progettazione di siti per il World wide web (WWW)",
-         "documenti_di_gara_link": "https://www.acquistinretepa.it/bandi/negoziata/rdo-td/cb4f110fcb824c8c",
-         "luogo_nuts": "Benevento",
-         "luogo_istat": "TORRECUSO",
-         "valore_affidamento": 8500.0,
-         "sistema_dinamico_acquisizione": "Nessun sistema dinamico di acquisizione",
-         "aggiudicatari_ad": [
-          {
-           "importo": 8500.0,
-           "soggetti": [
-            {
-             "codice_fiscale": "01514130622",
-             "denominazione": "SOLUZIONI HALLEY"
-            }
-           ]
-          }
-         ],
-         "categorie": [
-          {
-           "codice": "FS",
-           "descrizione": "FORNITURA DI SERVIZI"
-          }
-         ]
-        }
-       ]
-      }
-     ]
-    },
-    "lingua": "it"
-   }
-  ],
-  "idAvviso": "22afe5d6-3590-4553-80c7-8e765606d21c",
-  "count": 62.0,
-  "paginationToken": "CKTTQRoJKXToMWKhAQAAGgJgARoGEICAgPgHIg5aDGrYgOyDKbw8fzFZfw==",
-  "score": 1.0,
-  "scoreDetails": {
-   "value": 1.0,
-   "description": "sum of:",
-   "details": [
-    {
-     "value": 0.0,
-     "description": "match on required clause, product of:",
-     "details": [
-      {
-       "value": 0.0,
-       "description": "# clause",
-       "details": []
-      },
-      {
-       "value": 1.0,
-       "description": "IndexOrDocValuesQuery(indexQuery=$type:dateV2/dataPubblicazione:[1791763200000 TO 1792658405337], dvQuery=$type:dateV2/dataPubblicazione:[1791763200000 TO 1792658405337])",
-       "details": []
-      }
-     ]
-    },
-    {
-     "value": 1.0,
-     "description": "sum of:",
-     "details": [
-      {
-       "value": 1.0,
-       "description": "$type:token/templates.template.sections.items.cpv:[[53 65 72 76 69 7a 69 20 64 69 20 70 72 6f 67 65 74 74 61 7a 69 6f 6e 65 20 64 69 20 73 69 74 69 20 70 65 72 20 69 6c 20 57 6f 72 6c 64 20 77 69 64 65 20 77 65 62 20 28 57 57 57 29] TO [53 65 72 76 69 7a 69 20 64 69 20 70 72 6f 67 65 74 74 61 7a 69 6f 6e 65 20 64 69 20 73 69 74 69 20 70 65 72 20 69 6c 20 57 6f 72 6c 64 20 77 69 64 65 20 77 65 62 20 28 57 57 57 29]]",
-       "details": []
-      }
-     ]
-    }
-   ]
-  },
-  "oscurato": false,
-  "noteOscuramento": null,
-  "idAppalto": "e2d6e0b1-4a09-4418-a6d2-e160a38eca2f",
-  "dataPubblicazioneNuovoAvviso": null,
-  "tipoNuovoAvviso": null,
-  "dataPCP": "2026-10-21T11:07:56.000+00:00",
-  "dataCreazione": "2026-10-21T09:07:56.372+00:00",
-  "tipo": "avviso",
-  "attivo": true,
-  "nuovoAvviso": null,
-  "codiceEform": null,
-  "stato": "NON_VERIFICATO",
-  "ambiente": null,
-  "categorie": null
- },
- {
-  "codiceScheda": "M2",
-  "tipologia": "MODIFICHE_CONTRATTUALI",
-  "dataPubblicazione": "2026-10-22T06:00:00.214+00:00",
-  "dataScadenza": null,
-  "templates": [
-   {
-    "template": {
-     "metadata": {
-      "link_eform_ted": null,
-      "titolo": null,
-      "descrizione": "servizio di concessione spazi pubblicitari outdoor in metropolitana a Roma"
-     },
-     "sections": [
-      {
-       "name": "SEZ. A - Committente",
-       "fields": {
-        "soggetti_sa": [
-         {
-          "codice_fiscale": "10587971002",
-          "denominazione_amministrazione": "FONDAZIONE MAXXI MUSEO NAZIONALE DELLE ARTI DEL XXI SECOLO"
-         }
-        ]
-       }
-      },
-      {
-       "name": "SEZ. B - Dati Generali",
-       "fields": {
-        "documenti_di_gara_link": "https://maxxi.acquistitelematici.it/tender-esiti/dettaglio/1600"
-       }
-      },
-      {
-       "name": "SEZ. C - Oggetto",
-       "items": [
-        {
-         "tipo_oggetto": "aggiudicazione",
-         "cig": "B5DF4C2857",
-         "natura_principale": "Servizi",
-         "descrizione": "servizio di concessione spazi pubblicitari outdoor in metropolitana a Roma",
-         "cpv": "Servizi di campagne pubblicitarie",
-         "documenti_di_gara_link": "https://maxxi.acquistitelematici.it/tender-esiti/dettaglio/1600",
-         "luogo_nuts": "ITALIA",
-         "luogo_istat": "MILANO",
-         "motivazione_modifica": "Necessità di ulteriori lavori, forniture e servizi eseguiti dall'appaltatore originale."
-        }
-       ]
-      }
-     ]
-    },
-    "lingua": "it"
-   }
-  ],
-  "idAvviso": "0ea9c466-9f7d-47e9-bbe7-18721b9b3999",
-  "count": 62.0,
-  "paginationToken": "COTMQRoJKdbnMWKhAQAAGgJgARoGEICAgPgHIg5aDGrYfjODKbw8fzFYpQ==",
-  "score": 1.0,
-  "scoreDetails": {
-   "value": 1.0,
-   "description": "sum of:",
-   "details": [
-    {
-     "value": 0.0,
-     "description": "match on required clause, product of:",
-     "details": [
-      {
-       "value": 0.0,
-       "description": "# clause",
-       "details": []
-      },
-      {
-       "value": 1.0,
-       "description": "IndexOrDocValuesQuery(indexQuery=$type:dateV2/dataPubblicazione:[1791763200000 TO 1792658405337], dvQuery=$type:dateV2/dataPubblicazione:[1791763200000 TO 1792658405337])",
-       "details": []
-      }
-     ]
-    },
-    {
-     "value": 1.0,
-     "description": "sum of:",
-     "details": [
-      {
-       "value": 1.0,
-       "description": "$type:token/templates.template.sections.items.cpv:[[53 65 72 76 69 7a 69 20 64 69 20 63 61 6d 70 61 67 6e 65 20 70 75 62 62 6c 69 63 69 74 61 72 69 65] TO [53 65 72 76 69 7a 69 20 64 69 20 63 61 6d 70 61 67 6e 65 20 70 75 62 62 6c 69 63 69 74 61 72 69 65]]",
-       "details": []
-      }
-     ]
-    }
-   ]
-  },
-  "oscurato": false,
-  "noteOscuramento": null,
-  "idAppalto": "fd3717b3-ac6d-4e74-a495-208c23986dcf",
-  "dataPubblicazioneNuovoAvviso": null,
-  "tipoNuovoAvviso": null,
-  "dataPCP": "2026-10-21T10:56:19.000+00:00",
-  "dataCreazione": "2026-10-21T08:56:19.214+00:00",
   "tipo": "avviso",
   "attivo": true,
   "nuovoAvviso": null,
