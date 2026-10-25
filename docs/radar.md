@@ -1,14 +1,5 @@
-# Radar gare Adduma, aggiornato 2026-10-24T08:10
-Letti oggi 93, nuovi 0, gare aperte pertinenti 12. Errori: 0
-
-## AFFIDAMENTO DEL SERVIZIO DI INSTALLAZIONE E GESTIONE DI UNA PISTA DI PATTINAGGIO SU GHIACCIO E REALIZZAZIONE EVENTI CORRELATI DURANTE LE FESTIVITA’ NATALIZIE 2026.
-- ente: COMUNE DI BOVISIO MASCIAGO | luogo ISTAT BOVISIO-MASCIAGO
-- tipologia: INDAGINI_DI_MERCATO_SOTTO_SOGLIA | procedura: n.d. | CIG: BD57DA4E0F
-- importo: 15.000 € | lotti: 1
-- pubblicato: 14/10/2026 06:00 | scadenza: 24/10/2026 12:00 | primo avvistamento: 2026-10-21
-- esecuzione: evento in loco | parole chiave: eventi
-- avviso: https://pubblicitalegale.anticorruzione.it/bandi/e006d0d1-40e0-49a9-b2d2-051de44044c2
-- documenti: https://bovisiomasciago.trasparenza-valutazione-merito.it/web/trasparenza/papca-g/-/papca/display/10567412
+# Radar gare Adduma, aggiornato 2026-10-25T08:28
+Letti oggi 80, nuovi 0, gare aperte pertinenti 11. Errori: 0
 
 ## PROCEDURA APERTA PER L’AFFIDAMENTO DEL SERVIZIO DI REALIZZAZIONE E ORGANIZZAZIONE DEGLI “STATI GENERALI DELLA SALUTE SENESE ”  EDIZIONE 2027 e EDIZIONE 2028
 - ente: COMUNE DI SIENA | luogo ISTAT SIENA

@@ -45,7 +45,7 @@
    }
   ],
   "idAvviso": "a1cdf4aa-db68-4109-9067-3fd95467a9ac",
-  "count": 51.0,
+  "count": 45.0,
   "paginationToken": "CLv/QRoJKWhGWGehAQAAGgJgARoGEICAgPgHIg5aDGrZcbmDKbw8fzFw6Q==",
   "score": 1.0,
   "scoreDetails": {
@@ -63,7 +63,7 @@
       },
       {
        "value": 1.0,
-       "description": "IndexOrDocValuesQuery(indexQuery=$type:dateV2/dataPubblicazione:[1791936000000 TO 1792829448708], dvQuery=$type:dateV2/dataPubblicazione:[1791936000000 TO 1792829448708])",
+       "description": "IndexOrDocValuesQuery(indexQuery=$type:dateV2/dataPubblicazione:[1792022400000 TO 1792916922881], dvQuery=$type:dateV2/dataPubblicazione:[1792022400000 TO 1792916922881])",
        "details": []
       }
      ]
@@ -163,7 +163,7 @@
    }
   ],
   "idAvviso": "9fc489a2-950d-4eff-b1b0-6693b1fc5ebe",
-  "count": 51.0,
+  "count": 45.0,
   "paginationToken": "CIjoQRoJKZxFWGehAQAAGgJgARoGEICAgPgHIg5aDGrZ11CDKbw8fzF8aw==",
   "score": 1.0,
   "scoreDetails": {
@@ -181,7 +181,7 @@
       },
       {
        "value": 1.0,
-       "description": "IndexOrDocValuesQuery(indexQuery=$type:dateV2/dataPubblicazione:[1791936000000 TO 1792829448708], dvQuery=$type:dateV2/dataPubblicazione:[1791936000000 TO 1792829448708])",
+       "description": "IndexOrDocValuesQuery(indexQuery=$type:dateV2/dataPubblicazione:[1792022400000 TO 1792916922881], dvQuery=$type:dateV2/dataPubblicazione:[1792022400000 TO 1792916922881])",
        "details": []
       }
      ]
@@ -267,7 +267,7 @@
    }
   ],
   "idAvviso": "24919515-a78a-4397-ab13-395c47ada20c",
-  "count": 51.0,
+  "count": 45.0,
   "paginationToken": "CNzyQRoJKVLpMWKhAQAAGgJgARoGEICAgPgHIg5aDGrYvJeDKbw8fzFpZw==",
   "score": 1.0,
   "scoreDetails": {
@@ -285,7 +285,7 @@
       },
       {
        "value": 1.0,
-       "description": "IndexOrDocValuesQuery(indexQuery=$type:dateV2/dataPubblicazione:[1791936000000 TO 1792829448708], dvQuery=$type:dateV2/dataPubblicazione:[1791936000000 TO 1792829448708])",
+       "description": "IndexOrDocValuesQuery(indexQuery=$type:dateV2/dataPubblicazione:[1792022400000 TO 1792916922881], dvQuery=$type:dateV2/dataPubblicazione:[1792022400000 TO 1792916922881])",
        "details": []
       }
      ]

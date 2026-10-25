@@ -1,49 +1,14 @@
 {
  "stato": {
-  "aggiornato": "2026-10-24T08:10",
-  "letti_oggi": 93,
+  "aggiornato": "2026-10-25T08:28",
+  "letti_oggi": 80,
   "nuovi_oggi": 0,
-  "aperte_pertinenti": 12,
+  "aperte_pertinenti": 11,
   "esiti_pertinenti": 50,
-  "scartati_oggi": 25,
+  "scartati_oggi": 22,
   "errori": []
  },
  "gare": [
-  {
-   "id": "anac:e006d0d1-40e0-49a9-b2d2-051de44044c2",
-   "fonte": "ANAC PVL",
-   "tipologia": "INDAGINI_DI_MERCATO_SOTTO_SOGLIA",
-   "titolo": "AFFIDAMENTO DEL SERVIZIO DI INSTALLAZIONE E GESTIONE DI UNA PISTA DI PATTINAGGIO SU GHIACCIO E REALIZZAZIONE EVENTI CORRELATI DURANTE LE FESTIVITA’ NATALIZIE 2026.",
-   "descrizione": "AFFIDAMENTO DEL SERVIZIO DI INSTALLAZIONE E GESTIONE DI UNA PISTA DI PATTINAGGIO SU GHIACCIO E REALIZZAZIONE EVENTI CORRELATI DURANTE LE FESTIVITA’ NATALIZIE 2026.",
-   "ente": "COMUNE DI BOVISIO MASCIAGO",
-   "cf_ente": "03959350152",
-   "luogo_istat": "BOVISIO-MASCIAGO",
-   "luogo_nuts": "Monza e della Brianza",
-   "importo": 15000.0,
-   "lotti": 1,
-   "cig": [
-    "BD57DA4E0F"
-   ],
-   "cpv": "Servizi di organizzazione di eventi",
-   "procedura": null,
-   "pubblicazione": "2026-10-14T06:00",
-   "scadenza": "2026-10-24T12:00",
-   "link_avviso": "https://pubblicitalegale.anticorruzione.it/bandi/e006d0d1-40e0-49a9-b2d2-051de44044c2",
-   "link_documenti": "https://bovisiomasciago.trasparenza-valutazione-merito.it/web/trasparenza/papca-g/-/papca/display/10567412",
-   "link_ted": null,
-   "aggiudicatari": [],
-   "valore_aggiudicato": null,
-   "kw_score": 2,
-   "kw_trovate": [
-    "eventi"
-   ],
-   "kw_escluse": [],
-   "esecuzione": "evento in loco",
-   "fuori_taglia": false,
-   "pertinente": true,
-   "motivo_scarto": null,
-   "primo_avvistamento": "2026-10-21"
-  },
   {
    "id": "anac:69d592e0-e561-48a8-a744-d075eda4d5fb",
    "fonte": "ANAC PVL",
