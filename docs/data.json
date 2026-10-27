@@ -1,11 +1,11 @@
 {
  "stato": {
-  "aggiornato": "2026-10-26T09:00",
-  "letti_oggi": 87,
-  "nuovi_oggi": 10,
-  "aperte_pertinenti": 11,
-  "esiti_pertinenti": 57,
-  "scartati_oggi": 24,
+  "aggiornato": "2026-10-27T09:03",
+  "letti_oggi": 82,
+  "nuovi_oggi": 6,
+  "aperte_pertinenti": 12,
+  "esiti_pertinenti": 60,
+  "scartati_oggi": 25,
   "errori": []
  },
  "gare": [
@@ -370,6 +370,42 @@
    "pertinente": true,
    "motivo_scarto": null,
    "primo_avvistamento": "2026-10-21"
+  },
+  {
+   "id": "anac:56565b9e-f696-4145-8e24-7af64fe4f6b8",
+   "fonte": "ANAC PVL",
+   "tipologia": "BANDI",
+   "titolo": "GARA EUROPEA A PROCEDURA TELEMATICA APERTA PER LA STIPULA DI UN ACCORDO QUADRO MONOAGGIUDICATARIO PER L’AFFIDAMENTO DI SERVIZI DI ALLESTIMENTO IN OCCASIONE DI EVENTI, FIERE, MOSTRE E CONVEGNI DEL POLITECNICO DI MILANO",
+   "descrizione": "GARA EUROPEA A PROCEDURA TELEMATICA APERTA PER LA STIPULA DI UN ACCORDO QUADRO MONOAGGIUDICATARIO PER L’AFFIDAMENTO DI SERVIZI DI ALLESTIMENTO IN OCCASIONE DI EVENTI, FIERE, MOSTRE E CONVEGNI DEL POLITECNICO DI MILANO",
+   "ente": "POLITECNICO DI MILANO",
+   "cf_ente": "80057930150",
+   "luogo_istat": "MILANO",
+   "luogo_nuts": "Milano",
+   "importo": 1734227.0,
+   "lotti": 1,
+   "cig": [
+    "BD7BEDF68E"
+   ],
+   "cpv": "Servizi di organizzazione di mostre, fiere e congressi",
+   "procedura": "Aperta",
+   "pubblicazione": "2026-10-27T07:00",
+   "scadenza": "2026-11-24T14:00",
+   "link_avviso": "https://pubblicitalegale.anticorruzione.it/bandi/56565b9e-f696-4145-8e24-7af64fe4f6b8",
+   "link_documenti": "https://www.polimi.it/imprese/bandiperleimprese/bandidigara",
+   "link_ted": "https://ted.europa.eu/udl?uri=TED:NOTICE:739267-2026:TEXT:IT:HTML",
+   "aggiudicatari": [],
+   "valore_aggiudicato": null,
+   "kw_score": 4,
+   "kw_trovate": [
+    "eventi",
+    "allestiment"
+   ],
+   "kw_escluse": [],
+   "esecuzione": "evento in loco",
+   "fuori_taglia": true,
+   "pertinente": true,
+   "motivo_scarto": null,
+   "primo_avvistamento": "2026-10-27"
   },
   {
    "id": "anac:3cdf8cb3-8513-4829-9eaa-1e1e98cd25ba",

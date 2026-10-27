@@ -1,5 +1,5 @@
-# Radar gare Adduma, aggiornato 2026-10-26T09:00
-Letti oggi 87, nuovi 10, gare aperte pertinenti 11. Errori: 0
+# Radar gare Adduma, aggiornato 2026-10-27T09:03
+Letti oggi 82, nuovi 6, gare aperte pertinenti 12. Errori: 0
 
 ## PROCEDURA APERTA PER L’AFFIDAMENTO DEL SERVIZIO DI REALIZZAZIONE E ORGANIZZAZIONE DEGLI “STATI GENERALI DELLA SALUTE SENESE ”  EDIZIONE 2027 e EDIZIONE 2028
 - ente: COMUNE DI SIENA | luogo ISTAT SIENA
@@ -91,6 +91,15 @@ FIERA PESSIMA (TA). BANDO DI GARA EDIZIONE 2027
 - esecuzione: trasferta breve | parole chiave: video, audiovisiv
 - avviso: https://pubblicitalegale.anticorruzione.it/bandi/3e122c88-abd1-44fe-af68-0f3e879985c5
 - documenti: https://ferrovieappulolucane.traspare.com/announcements/2945
+
+## GARA EUROPEA A PROCEDURA TELEMATICA APERTA PER LA STIPULA DI UN ACCORDO QUADRO MONOAGGIUDICATARIO PER L’AFFIDAMENTO DI SERVIZI DI ALLESTIMENTO IN OCCASIONE DI EVENTI, FIERE, MOSTRE E CONVEGNI DEL POLITECNICO DI MILANO
+- ente: POLITECNICO DI MILANO | luogo ISTAT MILANO
+- tipologia: BANDI | procedura: Aperta | CIG: BD7BEDF68E
+- importo: 1.734.227 € (FUORI TAGLIA) | lotti: 1
+- pubblicato: 27/10/2026 07:00 | scadenza: 24/11/2026 14:00 | primo avvistamento: 2026-10-27
+- esecuzione: evento in loco | parole chiave: eventi, allestiment
+- avviso: https://pubblicitalegale.anticorruzione.it/bandi/56565b9e-f696-4145-8e24-7af64fe4f6b8
+- documenti: https://www.polimi.it/imprese/bandiperleimprese/bandidigara
 
 ## POMPEI BRAND IDENTITY
 - ente: COMUNE DI POMPEI | luogo ISTAT POMPEI

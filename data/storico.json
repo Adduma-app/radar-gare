@@ -3390,5 +3390,223 @@
   "pertinente": true,
   "motivo_scarto": null,
   "primo_avvistamento": "2026-10-26"
+ },
+ "anac:56565b9e-f696-4145-8e24-7af64fe4f6b8": {
+  "id": "anac:56565b9e-f696-4145-8e24-7af64fe4f6b8",
+  "fonte": "ANAC PVL",
+  "tipologia": "BANDI",
+  "titolo": "GARA EUROPEA A PROCEDURA TELEMATICA APERTA PER LA STIPULA DI UN ACCORDO QUADRO MONOAGGIUDICATARIO PER L’AFFIDAMENTO DI SERVIZI DI ALLESTIMENTO IN OCCASIONE DI EVENTI, FIERE, MOSTRE E CONVEGNI DEL POLITECNICO DI MILANO",
+  "descrizione": "GARA EUROPEA A PROCEDURA TELEMATICA APERTA PER LA STIPULA DI UN ACCORDO QUADRO MONOAGGIUDICATARIO PER L’AFFIDAMENTO DI SERVIZI DI ALLESTIMENTO IN OCCASIONE DI EVENTI, FIERE, MOSTRE E CONVEGNI DEL POLITECNICO DI MILANO",
+  "ente": "POLITECNICO DI MILANO",
+  "cf_ente": "80057930150",
+  "luogo_istat": "MILANO",
+  "luogo_nuts": "Milano",
+  "importo": 1734227.0,
+  "lotti": 1,
+  "cig": [
+   "BD7BEDF68E"
+  ],
+  "cpv": "Servizi di organizzazione di mostre, fiere e congressi",
+  "procedura": "Aperta",
+  "pubblicazione": "2026-10-27T07:00",
+  "scadenza": "2026-11-24T14:00",
+  "link_avviso": "https://pubblicitalegale.anticorruzione.it/bandi/56565b9e-f696-4145-8e24-7af64fe4f6b8",
+  "link_documenti": "https://www.polimi.it/imprese/bandiperleimprese/bandidigara",
+  "link_ted": "https://ted.europa.eu/udl?uri=TED:NOTICE:739267-2026:TEXT:IT:HTML",
+  "aggiudicatari": [],
+  "valore_aggiudicato": null,
+  "kw_score": 4,
+  "kw_trovate": [
+   "eventi",
+   "allestiment"
+  ],
+  "kw_escluse": [],
+  "esecuzione": "evento in loco",
+  "fuori_taglia": true,
+  "pertinente": true,
+  "motivo_scarto": null,
+  "primo_avvistamento": "2026-10-27"
+ },
+ "anac:5d06e468-2336-4553-8c1b-ed8929197b4e": {
+  "id": "anac:5d06e468-2336-4553-8c1b-ed8929197b4e",
+  "fonte": "ANAC PVL",
+  "tipologia": "RISULTATI",
+  "titolo": "PROCEDURA NEGOZIATA AI SENSI DELL’ART. 50, COMMA 1 LETT. E) DEL D. LGS. N. 36/2023 FINALIZZATA ALL’AFFIDAMENTO DEI SERVIZI DI IDEAZIONE, PROGETTAZIONE E REALIZZAZIONE DI INIZIATIVE E MATERIALI DI COMUNICAZIONE INTERNA E PEOPLE ENGAGEMENT ",
+  "descrizione": "PROCEDURA NEGOZIATA AI SENSI DELL’ART. 50, COMMA 1 LETT. E) DEL D. LGS. N. 36/2023 FINALIZZATA ALL’AFFIDAMENTO DEI SERVIZI DI IDEAZIONE, PROGETTAZIONE E REALIZZAZIONE DI INIZIATIVE E MATERIALI DI COMUNICAZIONE INTERNA E PEOPLE ENGAGEMENT ",
+  "ente": "CASSA DEPOSITI E PRESTITI SOCIETA' PER AZIONI",
+  "cf_ente": "80199230584",
+  "luogo_istat": "ROMA",
+  "luogo_nuts": "Roma",
+  "importo": 212000.0,
+  "lotti": 1,
+  "cig": [
+   "BB62C9C106"
+  ],
+  "cpv": "Servizi di campagne pubblicitarie",
+  "procedura": "Negoziata senza previa indizione di gara",
+  "pubblicazione": "2026-10-27T07:00",
+  "scadenza": null,
+  "link_avviso": "https://pubblicitalegale.anticorruzione.it/bandi/5d06e468-2336-4553-8c1b-ed8929197b4e",
+  "link_documenti": "https://portaleacquisti.cdp.it",
+  "link_ted": null,
+  "aggiudicatari": [
+   "HOOK SRL"
+  ],
+  "valore_aggiudicato": 212000.0,
+  "kw_score": 4,
+  "kw_trovate": [
+   "comunicazione",
+   "pubblicit"
+  ],
+  "kw_escluse": [],
+  "esecuzione": "da remoto",
+  "fuori_taglia": false,
+  "pertinente": true,
+  "motivo_scarto": null,
+  "primo_avvistamento": "2026-10-27"
+ },
+ "anac:d6cdf3ff-0dc3-40f9-873b-429f51ab5423": {
+  "id": "anac:d6cdf3ff-0dc3-40f9-873b-429f51ab5423",
+  "fonte": "ANAC PVL",
+  "tipologia": "MODIFICHE_CONTRATTUALI",
+  "titolo": "servizio di campagne fotografiche delle mostre di fotografia, arte, architettura e d'archivio inserite della programmazione 2025",
+  "descrizione": "servizio di campagne fotografiche delle mostre di fotografia, arte, architettura e d'archivio inserite della programmazione 2025",
+  "ente": "FONDAZIONE MAXXI MUSEO NAZIONALE DELLE ARTI DEL XXI SECOLO",
+  "cf_ente": "10587971002",
+  "luogo_istat": "ROMA",
+  "luogo_nuts": "ITALIA",
+  "importo": null,
+  "lotti": 1,
+  "cig": [
+   "B64F7B33DE"
+  ],
+  "cpv": "Servizi fotografici",
+  "procedura": null,
+  "pubblicazione": "2026-10-27T07:00",
+  "scadenza": null,
+  "link_avviso": "https://pubblicitalegale.anticorruzione.it/bandi/d6cdf3ff-0dc3-40f9-873b-429f51ab5423",
+  "link_documenti": "https://maxxi.acquistitelematici.it/tender-esiti/dettaglio/1691",
+  "link_ted": null,
+  "aggiudicatari": [],
+  "valore_aggiudicato": null,
+  "kw_score": 5,
+  "kw_trovate": [
+   "grafic",
+   "fotograf"
+  ],
+  "kw_escluse": [],
+  "esecuzione": "trasferta breve",
+  "fuori_taglia": false,
+  "pertinente": true,
+  "motivo_scarto": null,
+  "primo_avvistamento": "2026-10-27"
+ },
+ "anac:e5b169c9-c8ea-4d0b-bce1-0aa09aa4dd01": {
+  "id": "anac:e5b169c9-c8ea-4d0b-bce1-0aa09aa4dd01",
+  "fonte": "ANAC PVL",
+  "tipologia": "MODIFICHE_CONTRATTUALI",
+  "titolo": "I SUONI DELLE DOLOMITI - ORGANIZZAZIONE CONCERTO 4/9/2026 MALGA CANVERE",
+  "descrizione": "I SUONI DELLE DOLOMITI - ORGANIZZAZIONE CONCERTO 4/9/2026 MALGA CANVERE",
+  "ente": "TRENTINO SVILUPPO S.P.A.",
+  "cf_ente": "00123240228",
+  "luogo_istat": "PREDAZZO",
+  "luogo_nuts": "Trento",
+  "importo": null,
+  "lotti": 1,
+  "cig": [
+   "BCDFFE396F"
+  ],
+  "cpv": "Servizi di organizzazione di eventi culturali",
+  "procedura": null,
+  "pubblicazione": "2026-10-27T07:00",
+  "scadenza": null,
+  "link_avviso": "https://pubblicitalegale.anticorruzione.it/bandi/e5b169c9-c8ea-4d0b-bce1-0aa09aa4dd01",
+  "link_documenti": "https://sicopat2.provincia.tn.it/trasparenza-fe/#/procedura?uuid=ab7bf076-65c1-4330-98a3-4e96cb6d8bfe",
+  "link_ted": null,
+  "aggiudicatari": [],
+  "valore_aggiudicato": null,
+  "kw_score": 2,
+  "kw_trovate": [
+   "eventi"
+  ],
+  "kw_escluse": [],
+  "esecuzione": "evento in loco",
+  "fuori_taglia": false,
+  "pertinente": true,
+  "motivo_scarto": null,
+  "primo_avvistamento": "2026-10-27"
+ },
+ "anac:efd6e8e3-fdba-450f-95e9-88c197971fe7": {
+  "id": "anac:efd6e8e3-fdba-450f-95e9-88c197971fe7",
+  "fonte": "ANAC PVL",
+  "tipologia": "RISULTATI",
+  "titolo": "Affidamento ai sensi dell'art. 76, comma 2, lett. b), n. 2 del D. Lgs. n. 36/2023 dei servizi organizzativi per la realizzazione della rassegna \\\"Visioni seriali\\\" all'interno della Festa del Cinema di Roma – Edizione 2026",
+  "descrizione": "Affidamento ai sensi dell'art. 76, comma 2, lett. b), n. 2 del D. Lgs. n. 36/2023 dei servizi organizzativi per la realizzazione della rassegna \\\"Visioni seriali\\\" all'interno della Festa del Cinema di Roma – Edizione 2026",
+  "ente": "FONDAZIONE FILM COMMISSION DI ROMA E DEL LAZIO",
+  "cf_ente": "97450900580",
+  "luogo_istat": "ROMA",
+  "luogo_nuts": "Roma",
+  "importo": 500000.0,
+  "lotti": 1,
+  "cig": [
+   "BD23E16596"
+  ],
+  "cpv": "Servizi di organizzazione di eventi",
+  "procedura": "Negoziata con previa indizione di gara / competitiva con negoziazione",
+  "pubblicazione": "2026-10-27T07:00",
+  "scadenza": null,
+  "link_avviso": "https://pubblicitalegale.anticorruzione.it/bandi/efd6e8e3-fdba-450f-95e9-88c197971fe7",
+  "link_documenti": "https://risorseperroma.tuttogare.it/gare/dettaglio.php?codice=966",
+  "link_ted": null,
+  "aggiudicatari": [
+   "Fondazione Cinema per Roma"
+  ],
+  "valore_aggiudicato": 500000.0,
+  "kw_score": 2,
+  "kw_trovate": [
+   "eventi"
+  ],
+  "kw_escluse": [],
+  "esecuzione": "evento in loco",
+  "fuori_taglia": true,
+  "pertinente": true,
+  "motivo_scarto": null,
+  "primo_avvistamento": "2026-10-27"
+ },
+ "anac:b55d8428-0f15-4401-b28e-5ecd68f2c46c": {
+  "id": "anac:b55d8428-0f15-4401-b28e-5ecd68f2c46c",
+  "fonte": "ANAC PVL",
+  "tipologia": "RISULTATI",
+  "titolo": "Progetto “PIC PICENTINI ITINERARI COMUNI”. QUARTA EDIZIONE. AVVISO PUBBLICO LE STAGIONI DELLA CAMPANIA DA GIUGNO 2026 A MAGGIO 2027. PROGRAMMA DI PERCORSI TURISTICI DI TIPO CULTURALE, NATURALISTICO ED ENOGASTRONOMICO PER LA PROMOZIONE TURISTICA. DELIBERAZIONE DI GIUNTA REGIONALE N. 191 DEL 20.05.2026.",
+  "descrizione": "Progetto “PIC PICENTINI ITINERARI COMUNI”. QUARTA EDIZIONE. AVVISO PUBBLICO LE STAGIONI DELLA CAMPANIA DA GIUGNO 2026 A MAGGIO 2027. PROGRAMMA DI PERCORSI TURISTICI DI TIPO CULTURALE, NATURALISTICO ED ENOGASTRONOMICO PER LA PROMOZIONE TURISTICA. DELIBERAZIONE DI GIUNTA REGIONALE N. 191 DEL 20.05.2026.",
+  "ente": "COMUNE DI MONTECORVINO ROVELLA",
+  "cf_ente": "00554740654",
+  "luogo_istat": "MONTECORVINO ROVELLA",
+  "luogo_nuts": "Salerno",
+  "importo": null,
+  "lotti": 1,
+  "cig": [
+   "BD8082B31A"
+  ],
+  "cpv": "Servizi di organizzazione di eventi",
+  "procedura": "Altra procedura a fase unica",
+  "pubblicazione": "2026-10-27T07:00",
+  "scadenza": null,
+  "link_avviso": "https://pubblicitalegale.anticorruzione.it/bandi/b55d8428-0f15-4401-b28e-5ecd68f2c46c",
+  "link_documenti": "https://www.acquistinretepa.it/bandi/negoziata/rdo-cdp/4b6e4fea19327b31",
+  "link_ted": null,
+  "aggiudicatari": [],
+  "valore_aggiudicato": null,
+  "kw_score": 4,
+  "kw_trovate": [
+   "promozion",
+   "eventi"
+  ],
+  "kw_escluse": [],
+  "esecuzione": "evento in loco",
+  "fuori_taglia": false,
+  "pertinente": true,
+  "motivo_scarto": null,
+  "primo_avvistamento": "2026-10-27"
  }
 }

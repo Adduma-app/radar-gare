@@ -1,14 +1,125 @@
 {
  "stato": {
-  "aggiornato": "2026-10-26T09:00",
-  "letti_oggi": 87,
-  "nuovi_oggi": 10,
-  "aperte_pertinenti": 11,
-  "esiti_pertinenti": 57,
-  "scartati_oggi": 24,
+  "aggiornato": "2026-10-27T09:03",
+  "letti_oggi": 82,
+  "nuovi_oggi": 6,
+  "aperte_pertinenti": 12,
+  "esiti_pertinenti": 60,
+  "scartati_oggi": 25,
   "errori": []
  },
  "esiti": [
+  {
+   "id": "anac:5d06e468-2336-4553-8c1b-ed8929197b4e",
+   "fonte": "ANAC PVL",
+   "tipologia": "RISULTATI",
+   "titolo": "PROCEDURA NEGOZIATA AI SENSI DELL’ART. 50, COMMA 1 LETT. E) DEL D. LGS. N. 36/2023 FINALIZZATA ALL’AFFIDAMENTO DEI SERVIZI DI IDEAZIONE, PROGETTAZIONE E REALIZZAZIONE DI INIZIATIVE E MATERIALI DI COMUNICAZIONE INTERNA E PEOPLE ENGAGEMENT ",
+   "descrizione": "PROCEDURA NEGOZIATA AI SENSI DELL’ART. 50, COMMA 1 LETT. E) DEL D. LGS. N. 36/2023 FINALIZZATA ALL’AFFIDAMENTO DEI SERVIZI DI IDEAZIONE, PROGETTAZIONE E REALIZZAZIONE DI INIZIATIVE E MATERIALI DI COMUNICAZIONE INTERNA E PEOPLE ENGAGEMENT ",
+   "ente": "CASSA DEPOSITI E PRESTITI SOCIETA' PER AZIONI",
+   "cf_ente": "80199230584",
+   "luogo_istat": "ROMA",
+   "luogo_nuts": "Roma",
+   "importo": 212000.0,
+   "lotti": 1,
+   "cig": [
+    "BB62C9C106"
+   ],
+   "cpv": "Servizi di campagne pubblicitarie",
+   "procedura": "Negoziata senza previa indizione di gara",
+   "pubblicazione": "2026-10-27T07:00",
+   "scadenza": null,
+   "link_avviso": "https://pubblicitalegale.anticorruzione.it/bandi/5d06e468-2336-4553-8c1b-ed8929197b4e",
+   "link_documenti": "https://portaleacquisti.cdp.it",
+   "link_ted": null,
+   "aggiudicatari": [
+    "HOOK SRL"
+   ],
+   "valore_aggiudicato": 212000.0,
+   "kw_score": 4,
+   "kw_trovate": [
+    "comunicazione",
+    "pubblicit"
+   ],
+   "kw_escluse": [],
+   "esecuzione": "da remoto",
+   "fuori_taglia": false,
+   "pertinente": true,
+   "motivo_scarto": null,
+   "primo_avvistamento": "2026-10-27"
+  },
+  {
+   "id": "anac:efd6e8e3-fdba-450f-95e9-88c197971fe7",
+   "fonte": "ANAC PVL",
+   "tipologia": "RISULTATI",
+   "titolo": "Affidamento ai sensi dell'art. 76, comma 2, lett. b), n. 2 del D. Lgs. n. 36/2023 dei servizi organizzativi per la realizzazione della rassegna \\\"Visioni seriali\\\" all'interno della Festa del Cinema di Roma – Edizione 2026",
+   "descrizione": "Affidamento ai sensi dell'art. 76, comma 2, lett. b), n. 2 del D. Lgs. n. 36/2023 dei servizi organizzativi per la realizzazione della rassegna \\\"Visioni seriali\\\" all'interno della Festa del Cinema di Roma – Edizione 2026",
+   "ente": "FONDAZIONE FILM COMMISSION DI ROMA E DEL LAZIO",
+   "cf_ente": "97450900580",
+   "luogo_istat": "ROMA",
+   "luogo_nuts": "Roma",
+   "importo": 500000.0,
+   "lotti": 1,
+   "cig": [
+    "BD23E16596"
+   ],
+   "cpv": "Servizi di organizzazione di eventi",
+   "procedura": "Negoziata con previa indizione di gara / competitiva con negoziazione",
+   "pubblicazione": "2026-10-27T07:00",
+   "scadenza": null,
+   "link_avviso": "https://pubblicitalegale.anticorruzione.it/bandi/efd6e8e3-fdba-450f-95e9-88c197971fe7",
+   "link_documenti": "https://risorseperroma.tuttogare.it/gare/dettaglio.php?codice=966",
+   "link_ted": null,
+   "aggiudicatari": [
+    "Fondazione Cinema per Roma"
+   ],
+   "valore_aggiudicato": 500000.0,
+   "kw_score": 2,
+   "kw_trovate": [
+    "eventi"
+   ],
+   "kw_escluse": [],
+   "esecuzione": "evento in loco",
+   "fuori_taglia": true,
+   "pertinente": true,
+   "motivo_scarto": null,
+   "primo_avvistamento": "2026-10-27"
+  },
+  {
+   "id": "anac:b55d8428-0f15-4401-b28e-5ecd68f2c46c",
+   "fonte": "ANAC PVL",
+   "tipologia": "RISULTATI",
+   "titolo": "Progetto “PIC PICENTINI ITINERARI COMUNI”. QUARTA EDIZIONE. AVVISO PUBBLICO LE STAGIONI DELLA CAMPANIA DA GIUGNO 2026 A MAGGIO 2027. PROGRAMMA DI PERCORSI TURISTICI DI TIPO CULTURALE, NATURALISTICO ED ENOGASTRONOMICO PER LA PROMOZIONE TURISTICA. DELIBERAZIONE DI GIUNTA REGIONALE N. 191 DEL 20.05.2026.",
+   "descrizione": "Progetto “PIC PICENTINI ITINERARI COMUNI”. QUARTA EDIZIONE. AVVISO PUBBLICO LE STAGIONI DELLA CAMPANIA DA GIUGNO 2026 A MAGGIO 2027. PROGRAMMA DI PERCORSI TURISTICI DI TIPO CULTURALE, NATURALISTICO ED ENOGASTRONOMICO PER LA PROMOZIONE TURISTICA. DELIBERAZIONE DI GIUNTA REGIONALE N. 191 DEL 20.05.2026.",
+   "ente": "COMUNE DI MONTECORVINO ROVELLA",
+   "cf_ente": "00554740654",
+   "luogo_istat": "MONTECORVINO ROVELLA",
+   "luogo_nuts": "Salerno",
+   "importo": null,
+   "lotti": 1,
+   "cig": [
+    "BD8082B31A"
+   ],
+   "cpv": "Servizi di organizzazione di eventi",
+   "procedura": "Altra procedura a fase unica",
+   "pubblicazione": "2026-10-27T07:00",
+   "scadenza": null,
+   "link_avviso": "https://pubblicitalegale.anticorruzione.it/bandi/b55d8428-0f15-4401-b28e-5ecd68f2c46c",
+   "link_documenti": "https://www.acquistinretepa.it/bandi/negoziata/rdo-cdp/4b6e4fea19327b31",
+   "link_ted": null,
+   "aggiudicatari": [],
+   "valore_aggiudicato": null,
+   "kw_score": 4,
+   "kw_trovate": [
+    "promozion",
+    "eventi"
+   ],
+   "kw_escluse": [],
+   "esecuzione": "evento in loco",
+   "fuori_taglia": false,
+   "pertinente": true,
+   "motivo_scarto": null,
+   "primo_avvistamento": "2026-10-27"
+  },
   {
    "id": "anac:c602b013-c78e-4664-8c78-b4452a13e189",
    "fonte": "ANAC PVL",
