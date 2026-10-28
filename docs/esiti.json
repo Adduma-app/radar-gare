@@ -1,14 +1,92 @@
 {
  "stato": {
-  "aggiornato": "2026-10-27T09:03",
-  "letti_oggi": 82,
-  "nuovi_oggi": 6,
-  "aperte_pertinenti": 12,
-  "esiti_pertinenti": 60,
-  "scartati_oggi": 25,
+  "aggiornato": "2026-10-28T09:43",
+  "letti_oggi": 91,
+  "nuovi_oggi": 5,
+  "aperte_pertinenti": 13,
+  "esiti_pertinenti": 62,
+  "scartati_oggi": 29,
   "errori": []
  },
  "esiti": [
+  {
+   "id": "anac:4e52e18c-40c8-4d6f-aaee-240b78d17504",
+   "fonte": "ANAC PVL",
+   "tipologia": "RISULTATI",
+   "titolo": "PROCEDURA APERTA SOPRA SOGLIA PER LA CONCLUSIONE DI UN ACCORDO QUADRO CON UN UNICO OPERATORE ECONOMICO AI SENSI DELL'ART. 59 DEL D.LGS. 36/2023 PER L'AFFIDAMENTO DEL SERVIZIO DI COMUNICAZIONE, ALLESTI",
+   "descrizione": "PROCEDURA APERTA SOPRA SOGLIA PER LA CONCLUSIONE DI UN ACCORDO QUADRO CON UN UNICO OPERATORE ECONOMICO AI SENSI DELL'ART. 59 DEL D.LGS. 36/2023 PER L'AFFIDAMENTO DEL SERVIZIO DI COMUNICAZIONE, ALLESTIMENTO ED ORGANIZZAZIONE EVENTI, SERVIZIO DI GRAFICA E SERVIZIO DI CATERING POR FSE+LAZIO 2021–2027 E RIGENERAZIONI",
+   "ente": "DISCO- ENTE REG.PER DIRITTO ALLO STUDIO",
+   "cf_ente": "08123891007",
+   "luogo_istat": "ROMA",
+   "luogo_nuts": "Roma",
+   "importo": 2563969.35,
+   "lotti": 1,
+   "cig": [
+    "BB38293BB5"
+   ],
+   "cpv": "Servizi di organizzazione di eventi",
+   "procedura": "Aperta",
+   "pubblicazione": "2026-10-28T07:00",
+   "scadenza": null,
+   "link_avviso": "https://pubblicitalegale.anticorruzione.it/bandi/4e52e18c-40c8-4d6f-aaee-240b78d17504",
+   "link_documenti": "https://centraleacquisti.regione.lazio.it/bandi-e-strumenti-di-acquisto/dettaglio-bando?tipo_doc=BANDO_GARA_PORTALE&id_doc=6025801",
+   "link_ted": "https://ted.europa.eu/udl?uri=TED:NOTICE:742949-2026:TEXT:IT:HTML",
+   "aggiudicatari": [
+    "DS TECH SRL",
+    "STUDIO EGA SRL"
+   ],
+   "valore_aggiudicato": 2544792.89,
+   "kw_score": 7,
+   "kw_trovate": [
+    "grafic",
+    "comunicazione",
+    "eventi",
+    "allestiment"
+   ],
+   "kw_escluse": [
+    "catering"
+   ],
+   "esecuzione": "evento in loco",
+   "fuori_taglia": true,
+   "pertinente": true,
+   "motivo_scarto": null,
+   "primo_avvistamento": "2026-10-28"
+  },
+  {
+   "id": "anac:d9c2b555-caab-43b3-ac94-818d4a06cf50",
+   "fonte": "ANAC PVL",
+   "tipologia": "RISULTATI",
+   "titolo": "IDP N. 124/2026 \\\"BAROCK ARTE, MEMORIA E IDENTITA' SICILIANA\\\" - SERVIZIO PER LA REALIZZAZIONE DI EVENTI DI RILEVANZA CULTURALE E COLLATERALI",
+   "descrizione": "IDP N. 124/2026 \\\"BAROCK ARTE, MEMORIA E IDENTITA' SICILIANA\\\" - SERVIZIO PER LA REALIZZAZIONE DI EVENTI DI RILEVANZA CULTURALE E COLLATERALI",
+   "ente": "REGIONE SICILIANA",
+   "cf_ente": "80012000826",
+   "luogo_istat": "ENNA",
+   "luogo_nuts": "Enna",
+   "importo": null,
+   "lotti": 1,
+   "cig": [
+    "BD87D77EFA"
+   ],
+   "cpv": "Servizi di organizzazione di eventi",
+   "procedura": "Altra procedura a fase unica",
+   "pubblicazione": "2026-10-28T07:00",
+   "scadenza": null,
+   "link_avviso": "https://pubblicitalegale.anticorruzione.it/bandi/d9c2b555-caab-43b3-ac94-818d4a06cf50",
+   "link_documenti": "https://appalti.regionesiciliana.lavoripubblici.sicilia.it/gare/dettaglio.php?codice=6396",
+   "link_ted": null,
+   "aggiudicatari": [],
+   "valore_aggiudicato": null,
+   "kw_score": 2,
+   "kw_trovate": [
+    "eventi"
+   ],
+   "kw_escluse": [],
+   "esecuzione": "evento in loco",
+   "fuori_taglia": false,
+   "pertinente": true,
+   "motivo_scarto": null,
+   "primo_avvistamento": "2026-10-28"
+  },
   {
    "id": "anac:5d06e468-2336-4553-8c1b-ed8929197b4e",
    "fonte": "ANAC PVL",

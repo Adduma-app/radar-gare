@@ -1,5 +1,5 @@
-# Radar gare Adduma, aggiornato 2026-10-27T09:03
-Letti oggi 82, nuovi 6, gare aperte pertinenti 12. Errori: 0
+# Radar gare Adduma, aggiornato 2026-10-28T09:43
+Letti oggi 91, nuovi 5, gare aperte pertinenti 13. Errori: 0
 
 ## PROCEDURA APERTA PER L’AFFIDAMENTO DEL SERVIZIO DI REALIZZAZIONE E ORGANIZZAZIONE DEGLI “STATI GENERALI DELLA SALUTE SENESE ”  EDIZIONE 2027 e EDIZIONE 2028
 - ente: COMUNE DI SIENA | luogo ISTAT SIENA
@@ -100,6 +100,15 @@ FIERA PESSIMA (TA). BANDO DI GARA EDIZIONE 2027
 - esecuzione: evento in loco | parole chiave: eventi, allestiment
 - avviso: https://pubblicitalegale.anticorruzione.it/bandi/56565b9e-f696-4145-8e24-7af64fe4f6b8
 - documenti: https://www.polimi.it/imprese/bandiperleimprese/bandidigara
+
+## Organizzazione di convegni e contest internazionale - Progetto Divulgare e conoscere il mare
+- ente: FLAG RIVIERA JONICA ETNEA SOCIETA' CONSORTILE COOPERATIVA | luogo ISTAT RIPOSTO
+- tipologia: INDAGINI_DI_MERCATO_SOTTO_SOGLIA | procedura: n.d. | CIG: BD87CB708D
+- importo: 20.000 € | lotti: 1
+- pubblicato: 28/10/2026 07:00 | scadenza: 30/11/2026 23:59 | primo avvistamento: 2026-10-28
+- esecuzione: evento in loco | parole chiave: eventi
+- avviso: https://pubblicitalegale.anticorruzione.it/bandi/acaa22bc-e0c5-422f-8729-aebded02911a
+- documenti: https://www.acquistinretepa.it/bandi/negoziata/adi/02b8e670c8a337d3
 
 ## POMPEI BRAND IDENTITY
 - ente: COMUNE DI POMPEI | luogo ISTAT POMPEI

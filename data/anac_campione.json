@@ -1,16 +1,16 @@
 [
  {
-  "codiceScheda": "M2",
-  "tipologia": "MODIFICHE_CONTRATTUALI",
-  "dataPubblicazione": "2026-10-27T07:00:00.770+00:00",
-  "dataScadenza": null,
+  "codiceScheda": "P2_19",
+  "tipologia": "BANDI",
+  "dataPubblicazione": "2026-10-28T07:00:00.793+00:00",
+  "dataScadenza": "2026-12-02T17:00:00.000+00:00",
   "templates": [
    {
     "template": {
      "metadata": {
       "link_eform_ted": null,
       "titolo": null,
-      "descrizione": "Attività di progettazione, sviluppo e implementazione del nuovo ecosistema digitale del Museo Egizio di Torino."
+      "descrizione": "PROCEDURA APERTA PER L’AFFIDAMENTO IN CONCESSIONE DEL SERVIZIO DI ORGANIZZAZIONE DELLE MOSTRE-MERCATO COMUNALI E DI GESTIONE DEL PUNTO ENOGASTRONOMICO PER IL PERIODO 01.01.2027 – 31.12.2028\r\n"
      },
      "sections": [
       {
@@ -18,8 +18,8 @@
        "fields": {
         "soggetti_sa": [
          {
-          "codice_fiscale": "97656000011",
-          "denominazione_amministrazione": "FONDAZIONE MUSEO DELLE ANTICHITA' EGIZIE DI TORINO"
+          "codice_fiscale": "00227430345",
+          "denominazione_amministrazione": "COMUNE DI FONTANELLATO"
          }
         ]
        }
@@ -27,113 +27,7 @@
       {
        "name": "SEZ. B - Dati Generali",
        "fields": {
-        "documenti_di_gara_link": "https://eprocurement.maggiolicloud.it/PortaleAppalti/it/procedure/codice/G10625"
-       }
-      },
-      {
-       "name": "SEZ. C - Oggetto",
-       "items": [
-        {
-         "tipo_oggetto": "aggiudicazione",
-         "cig": "BB35E42397",
-         "natura_principale": "Servizi",
-         "descrizione": "Attività di progettazione, sviluppo e implementazione del nuovo ecosistema digitale del Museo Egizio di Torino.",
-         "cpv": "Servizi di progettazione di siti per il World wide web (WWW)",
-         "documenti_di_gara_link": "https://eprocurement.maggiolicloud.it/PortaleAppalti/it/procedure/codice/G10625",
-         "luogo_nuts": "Torino",
-         "luogo_istat": "TORINO",
-         "motivazione_modifica": "Necessità di ulteriori lavori, forniture e servizi eseguiti dall'appaltatore originale."
-        }
-       ]
-      }
-     ]
-    },
-    "lingua": "it"
-   }
-  ],
-  "idAvviso": "f505e37c-580a-4641-9080-6f21a6f25ef2",
-  "count": 41.0,
-  "paginationToken": "CIH/QRoJKYKkKHyhAQAAGgJgARoGEICAgPgHIg5aDGrfZdVtU7rvNLMFJg==",
-  "score": 1.0,
-  "scoreDetails": {
-   "value": 1.0,
-   "description": "sum of:",
-   "details": [
-    {
-     "value": 0.0,
-     "description": "match on required clause, product of:",
-     "details": [
-      {
-       "value": 0.0,
-       "description": "# clause",
-       "details": []
-      },
-      {
-       "value": 1.0,
-       "description": "IndexOrDocValuesQuery(indexQuery=$type:dateV2/dataPubblicazione:[1792195200000 TO 1793091828652], dvQuery=$type:dateV2/dataPubblicazione:[1792195200000 TO 1793091828652])",
-       "details": []
-      }
-     ]
-    },
-    {
-     "value": 1.0,
-     "description": "sum of:",
-     "details": [
-      {
-       "value": 1.0,
-       "description": "$type:token/templates.template.sections.items.cpv:[[53 65 72 76 69 7a 69 20 64 69 20 70 72 6f 67 65 74 74 61 7a 69 6f 6e 65 20 64 69 20 73 69 74 69 20 70 65 72 20 69 6c 20 57 6f 72 6c 64 20 77 69 64 65 20 77 65 62 20 28 57 57 57 29] TO [53 65 72 76 69 7a 69 20 64 69 20 70 72 6f 67 65 74 74 61 7a 69 6f 6e 65 20 64 69 20 73 69 74 69 20 70 65 72 20 69 6c 20 57 6f 72 6c 64 20 77 69 64 65 20 77 65 62 20 28 57 57 57 29]]",
-       "details": []
-      }
-     ]
-    }
-   ]
-  },
-  "oscurato": false,
-  "noteOscuramento": null,
-  "idAppalto": "88b46d73-0b1a-45e1-b4ec-3c866a4633c1",
-  "dataPubblicazioneNuovoAvviso": null,
-  "tipoNuovoAvviso": null,
-  "dataPCP": "2026-10-26T15:38:13.000+00:00",
-  "dataCreazione": "2026-10-26T14:38:13.770+00:00",
-  "tipo": "avviso",
-  "attivo": true,
-  "nuovoAvviso": null,
-  "codiceEform": null,
-  "stato": "NON_VERIFICATO",
-  "ambiente": null,
-  "categorie": null
- },
- {
-  "codiceScheda": "A1_29",
-  "tipologia": "RISULTATI",
-  "dataPubblicazione": "2026-10-27T07:00:00.205+00:00",
-  "dataScadenza": null,
-  "templates": [
-   {
-    "template": {
-     "metadata": {
-      "link_eform_ted": "https://ted.europa.eu/udl?uri=TED:NOTICE:737637-2026:TEXT:IT:HTML",
-      "titolo": "GARA EUROPEA A PROCEDURA APERTA PER L’AFFIDAMENTO DEL SERVIZIO DI STAMPA, RIFINITURA, CONFEZIONE E CONSEGNA DI MATERIALE TIPOGRAFICO E DIGITALE PER LE ESIGENZE DEL COMUNE DI MODENA - BB430E77E7",
-      "descrizione": "GARA EUROPEA A PROCEDURA APERTA PER L’AFFIDAMENTO DEL SERVIZIO DI STAMPA, RIFINITURA, CONFEZIONE E CONSEGNA DI MATERIALE TIPOGRAFICO E DIGITALE PER LE ESIGENZE DEL COMUNE DI MODENA"
-     },
-     "sections": [
-      {
-       "name": "SEZ. A - Committente",
-       "fields": {
-        "soggetti_sa": [
-         {
-          "codice_fiscale": "00221940364",
-          "denominazione_amministrazione": "COMUNE DI MODENA"
-         }
-        ]
-       }
-      },
-      {
-       "name": "SEZ. B - Dati Generali",
-       "fields": {
-        "documenti_di_gara_link": "https://www.comune.modena.it/amministrazione-trasparente/bandi-di-gara-e-contratti/procedure-di-affidamento/procedure-di-affidamento-di-appalti-pubblici-e-concessioni-dal-1-01-2024/servizi-e-forniture/gara-europea-a-procedura-aperta-per-laffidamento-del-servizio-di-stampa-rifinitura-confezione-e-consegna-di-materiale-tipografico-e-digitale-per-le-esigenze-del-comune-di-modena",
-        "accordo_quadro": "Nulla",
-        "sistema_dinamico_acquisizione": "Nessun sistema dinamico di acquisizione",
+        "documenti_di_gara_link": "https://intercenter.regione.emilia-romagna.it/trovabando/BANDO_GARA_PORTALE@18107539",
         "tipo_procedura_aggiudicazione": "Aperta"
        }
       },
@@ -141,148 +35,17 @@
        "name": "SEZ. C - Oggetto",
        "items": [
         {
-         "tipo_oggetto": "aggiudicazione",
-         "cig": "BB430E77E7",
-         "natura_principale": "Servizi",
-         "descrizione": "SERVIZIO DI STAMPA, RIFINITURA, CONFEZIONE E CONSEGNA DI MATERIALE TIPOGRAFICO E DIGITALE",
-         "cpv": "Servizi di stampa e di consegna",
-         "valore_complessivo_stimato": 821000.0,
-         "luogo_nuts": "Modena",
-         "luogo_istat": "MODENA",
-         "valore_offerta_vincente": 739795.92,
-         "accordo_quadro": "Nulla",
-         "sistema_dinamico_acquisizione": "Nessun sistema dinamico di acquisizione",
-         "aggiudicatari": [
-          {
-           "importo": 739795.92,
-           "soggetti": [
-            {
-             "codice_fiscale": "00747880151",
-             "denominazione": "XEROX  S.P.A."
-            }
-           ]
-          }
-         ],
-         "categorie": [
-          {
-           "codice": "FS",
-           "descrizione": "FORNITURA DI SERVIZI"
-          }
-         ]
-        }
-       ]
-      }
-     ]
-    },
-    "lingua": "it"
-   }
-  ],
-  "idAvviso": "57250936-4b7c-405e-b7ee-727a506d5dea",
-  "count": 41.0,
-  "paginationToken": "CKvQQRoJKU2iKHyhAQAAGgJgARoGEICAgPgHIg5aDGreHQ+21kBc3REE6w==",
-  "score": 1.0,
-  "scoreDetails": {
-   "value": 1.0,
-   "description": "sum of:",
-   "details": [
-    {
-     "value": 0.0,
-     "description": "match on required clause, product of:",
-     "details": [
-      {
-       "value": 0.0,
-       "description": "# clause",
-       "details": []
-      },
-      {
-       "value": 1.0,
-       "description": "IndexOrDocValuesQuery(indexQuery=$type:dateV2/dataPubblicazione:[1792195200000 TO 1793091828652], dvQuery=$type:dateV2/dataPubblicazione:[1792195200000 TO 1793091828652])",
-       "details": []
-      }
-     ]
-    },
-    {
-     "value": 1.0,
-     "description": "sum of:",
-     "details": [
-      {
-       "value": 1.0,
-       "description": "$type:token/templates.template.sections.items.cpv:[[53 65 72 76 69 7a 69 20 64 69 20 73 74 61 6d 70 61 20 65 20 64 69 20 63 6f 6e 73 65 67 6e 61] TO [53 65 72 76 69 7a 69 20 64 69 20 73 74 61 6d 70 61 20 65 20 64 69 20 63 6f 6e 73 65 67 6e 61]]",
-       "details": []
-      }
-     ]
-    }
-   ]
-  },
-  "oscurato": false,
-  "noteOscuramento": null,
-  "idAppalto": "b2d3b3cf-20d8-496b-a595-9d2be323740d",
-  "dataPubblicazioneNuovoAvviso": null,
-  "tipoNuovoAvviso": null,
-  "dataPCP": "2026-10-25T16:15:27.000+00:00",
-  "dataCreazione": "2026-10-25T15:15:27.206+00:00",
-  "tipo": "avviso",
-  "attivo": true,
-  "nuovoAvviso": null,
-  "codiceEform": "29",
-  "stato": "NON_VERIFICATO",
-  "ambiente": null,
-  "categorie": null
- },
- {
-  "codiceScheda": "P1_16",
-  "tipologia": "BANDI",
-  "dataPubblicazione": "2026-10-27T07:00:00.075+00:00",
-  "dataScadenza": "2026-11-24T14:00:00.000+00:00",
-  "templates": [
-   {
-    "template": {
-     "metadata": {
-      "link_eform_ted": "https://ted.europa.eu/udl?uri=TED:NOTICE:739267-2026:TEXT:IT:HTML",
-      "titolo": "GARA EUROPEA A PROCEDURA TELEMATICA APERTA PER LA STIPULA DI UN ACCORDO QUADRO MONOAGGIUDICATARIO PER L’AFFIDAMENTO DI SERVIZI DI ALLESTIMENTO IN OCCASIONE DI EVENTI, FIERE, MOSTRE E CONVEGNI DEL POLITECNICO DI MILANO",
-      "descrizione": "GARA EUROPEA A PROCEDURA TELEMATICA APERTA PER LA STIPULA DI UN ACCORDO QUADRO MONOAGGIUDICATARIO PER L’AFFIDAMENTO DI SERVIZI DI ALLESTIMENTO IN OCCASIONE DI EVENTI, FIERE, MOSTRE E CONVEGNI DEL POLITECNICO DI MILANO"
-     },
-     "sections": [
-      {
-       "name": "SEZ. A - Committente",
-       "fields": {
-        "soggetti_sa": [
-         {
-          "codice_fiscale": "80057930150",
-          "denominazione_amministrazione": "POLITECNICO DI MILANO"
-         }
-        ]
-       }
-      },
-      {
-       "name": "SEZ. B - Dati Generali",
-       "fields": {
-        "documenti_di_gara_link": "https://www.polimi.it/imprese/bandiperleimprese/bandidigara",
-        "accordo_quadro": "Accordo quadro, senza riapertura della gara",
-        "sistema_dinamico_acquisizione": "Nessun sistema dinamico di acquisizione",
-        "tipo_procedura_aggiudicazione": "Aperta",
-        "asta_elettronica": "false"
-       }
-      },
-      {
-       "name": "SEZ. C - Oggetto",
-       "items": [
-        {
          "tipo_oggetto": "lotto",
-         "cig": "BD7BEDF68E",
+         "cig": "BD85DE732A",
          "natura_principale": "Servizi",
-         "descrizione": "ACCORDO QUADRO MONOAGGIUDICATARIO PER L’AFFIDAMENTO DI SERVIZI DI ALLESTIMENTO IN OCCASIONE DI EVENTI, FIERE, MOSTRE E CONVEGNI DEL POLITECNICO DI MILANO",
+         "descrizione": "Concessione mostre mercato comunali e box enogastronomico 2027 - 2028 ",
          "cpv": "Servizi di organizzazione di mostre, fiere e congressi",
-         "valore_complessivo_stimato": 1734227.0,
-         "documenti_di_gara_link": "https://www.polimi.it/imprese/bandiperleimprese/bandidigara",
-         "luogo_nuts": "Milano",
-         "luogo_istat": "MILANO",
-         "durata_contratto": "48",
-         "asta_elettronica": "false",
-         "termine_ricezione": "2026-11-24+01:00",
-         "durata": "48",
-         "accordo_quadro": "Accordo quadro, senza riapertura della gara",
-         "sistema_dinamico_acquisizione": "Nessun sistema dinamico di acquisizione",
+         "valore_complessivo_stimato": 96964.67,
+         "documenti_di_gara_link": "https://intercenter.regione.emilia-romagna.it/trovabando/BANDO_GARA_PORTALE@18107539",
+         "luogo_istat": "FONTANELLATO",
+         "durata_contratto": "730",
+         "termine_ricezione": "2026-12-02T18:00:00+01:00",
+         "durata": "730",
          "categorie": [
           {
            "codice": "FS",
@@ -297,9 +60,9 @@
     "lingua": "it"
    }
   ],
-  "idAvviso": "56565b9e-f696-4145-8e24-7af64fe4f6b8",
-  "count": 41.0,
-  "paginationToken": "CIecQhoJKcuhKHyhAQAAGgJgARoGEICAgPgHIg5aDGreHQC21kBc3REEew==",
+  "idAvviso": "e7013e02-9f79-4d5a-92d2-adc6739b6f99",
+  "count": 44.0,
+  "paginationToken": "CO6cQhoJKZkAT4GhAQAAGgJgARoGEICAgPgHIg5aDGrficxtU7rvNLMMCA==",
   "score": 1.0,
   "scoreDetails": {
    "value": 1.0,
@@ -316,7 +79,7 @@
       },
       {
        "value": 1.0,
-       "description": "IndexOrDocValuesQuery(indexQuery=$type:dateV2/dataPubblicazione:[1792195200000 TO 1793091828652], dvQuery=$type:dateV2/dataPubblicazione:[1792195200000 TO 1793091828652])",
+       "description": "IndexOrDocValuesQuery(indexQuery=$type:dateV2/dataPubblicazione:[1792281600000 TO 1793180618452], dvQuery=$type:dateV2/dataPubblicazione:[1792281600000 TO 1793180618452])",
        "details": []
       }
      ]
@@ -336,11 +99,258 @@
   },
   "oscurato": false,
   "noteOscuramento": null,
-  "idAppalto": "fb2b2048-2736-4dd3-97f0-c5c06f01ee30",
+  "idAppalto": "2479e109-10b3-4f77-b1e5-f550ca7ef5c8",
   "dataPubblicazioneNuovoAvviso": null,
   "tipoNuovoAvviso": null,
-  "dataPCP": "2026-10-25T16:15:11.000+00:00",
-  "dataCreazione": "2026-10-25T15:15:12.076+00:00",
+  "dataPCP": "2026-10-26T18:11:40.000+00:00",
+  "dataCreazione": "2026-10-26T17:11:40.793+00:00",
+  "tipo": "avviso",
+  "attivo": true,
+  "nuovoAvviso": null,
+  "codiceEform": null,
+  "stato": "NON_VERIFICATO",
+  "ambiente": null,
+  "categorie": null
+ },
+ {
+  "codiceScheda": "A2_29",
+  "tipologia": "RISULTATI",
+  "dataPubblicazione": "2026-10-28T07:00:00.660+00:00",
+  "dataScadenza": null,
+  "templates": [
+   {
+    "template": {
+     "metadata": {
+      "link_eform_ted": null,
+      "titolo": null,
+      "descrizione": "ORGANIZZAZIONE SEMINARIO-WORKSHOP"
+     },
+     "sections": [
+      {
+       "name": "SEZ. A - Committente",
+       "fields": {
+        "soggetti_sa": [
+         {
+          "codice_fiscale": "02201130610",
+          "denominazione_amministrazione": "AZIENDA OSPEDALIERA SANT'ANNA E SAN SEBASTIANO"
+         }
+        ]
+       }
+      },
+      {
+       "name": "SEZ. B - Dati Generali",
+       "fields": {
+        "documenti_di_gara_link": "https://www.ospedale.caserta.it/",
+        "accordo_quadro": "Nulla",
+        "sistema_dinamico_acquisizione": "Nessun sistema dinamico di acquisizione",
+        "tipo_procedura_aggiudicazione": "Negoziata senza previa indizione di gara"
+       }
+      },
+      {
+       "name": "SEZ. C - Oggetto",
+       "items": [
+        {
+         "tipo_oggetto": "aggiudicazione",
+         "cig": "B68D0D58EF",
+         "natura_principale": "Servizi",
+         "descrizione": "ORGANIZZAZIONE SEMINARIO- WORKSHOP",
+         "cpv": "Servizi di organizzazione di seminari",
+         "valore_complessivo_stimato": 8000.0,
+         "luogo_nuts": "ITALIA",
+         "luogo_istat": "CASERTA",
+         "valore_offerta_vincente": 6020.0,
+         "accordo_quadro": "Nulla",
+         "sistema_dinamico_acquisizione": "Nessun sistema dinamico di acquisizione",
+         "aggiudicatari": [
+          {
+           "importo": 6020.0,
+           "soggetti": [
+            {
+             "codice_fiscale": "01298100775",
+             "denominazione": "FUORI ROTTA EVENTI E CONGRESSI SRL Unipersonale"
+            }
+           ]
+          }
+         ],
+         "categorie": [
+          {
+           "codice": "FS",
+           "descrizione": "FORNITURA DI SERVIZI"
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    },
+    "lingua": "it"
+   }
+  ],
+  "idAvviso": "4af45cfc-a51d-41af-8431-e173d4354cff",
+  "count": 44.0,
+  "paginationToken": "CN7/QhoJKRQAT4GhAQAAGgJgARoGEICAgPgHIg5aDGrgkkhtU7rvNLMoZg==",
+  "score": 1.0,
+  "scoreDetails": {
+   "value": 1.0,
+   "description": "sum of:",
+   "details": [
+    {
+     "value": 0.0,
+     "description": "match on required clause, product of:",
+     "details": [
+      {
+       "value": 0.0,
+       "description": "# clause",
+       "details": []
+      },
+      {
+       "value": 1.0,
+       "description": "IndexOrDocValuesQuery(indexQuery=$type:dateV2/dataPubblicazione:[1792281600000 TO 1793180618452], dvQuery=$type:dateV2/dataPubblicazione:[1792281600000 TO 1793180618452])",
+       "details": []
+      }
+     ]
+    },
+    {
+     "value": 1.0,
+     "description": "sum of:",
+     "details": [
+      {
+       "value": 1.0,
+       "description": "$type:token/templates.template.sections.items.cpv:[[53 65 72 76 69 7a 69 20 64 69 20 6f 72 67 61 6e 69 7a 7a 61 7a 69 6f 6e 65 20 64 69 20 73 65 6d 69 6e 61 72 69] TO [53 65 72 76 69 7a 69 20 64 69 20 6f 72 67 61 6e 69 7a 7a 61 7a 69 6f 6e 65 20 64 69 20 73 65 6d 69 6e 61 72 69]]",
+       "details": []
+      }
+     ]
+    }
+   ]
+  },
+  "oscurato": false,
+  "noteOscuramento": null,
+  "idAppalto": "24c445d6-92e5-490e-9d91-54a6afd16dbc",
+  "dataPubblicazioneNuovoAvviso": null,
+  "tipoNuovoAvviso": null,
+  "dataPCP": "2026-10-27T13:00:08.000+00:00",
+  "dataCreazione": "2026-10-27T12:00:08.660+00:00",
+  "tipo": "avviso",
+  "attivo": true,
+  "nuovoAvviso": null,
+  "codiceEform": null,
+  "stato": "NON_VERIFICATO",
+  "ambiente": null,
+  "categorie": null
+ },
+ {
+  "codiceScheda": "P1_16",
+  "tipologia": "BANDI",
+  "dataPubblicazione": "2026-10-28T07:00:00.285+00:00",
+  "dataScadenza": "2026-11-30T11:00:00.000+00:00",
+  "templates": [
+   {
+    "template": {
+     "metadata": {
+      "link_eform_ted": "https://ted.europa.eu/udl?uri=TED:NOTICE:743074-2026:TEXT:IT:HTML",
+      "titolo": "Accordo quadro con unico operatore avente ad oggetto il servizio di affissione manifesti",
+      "descrizione": "Avvio di una procedura ad evidenza pubblica, a mezzo gara aperta, per l'affidamento di un accordo quadro con unico operatore avente ad oggetto il servizio di affissione manifesti"
+     },
+     "sections": [
+      {
+       "name": "SEZ. A - Committente",
+       "fields": {
+        "soggetti_sa": [
+         {
+          "codice_fiscale": "05087650486",
+          "denominazione_amministrazione": "SERVIZI ALLA STRADA S.P.A."
+         }
+        ]
+       }
+      },
+      {
+       "name": "SEZ. B - Dati Generali",
+       "fields": {
+        "documenti_di_gara_link": "https://start.toscana.it/tendering/tenders/043492-2026/view/detail/1",
+        "accordo_quadro": "Accordo quadro, senza riapertura della gara",
+        "sistema_dinamico_acquisizione": "Nessun sistema dinamico di acquisizione",
+        "tipo_procedura_aggiudicazione": "Aperta",
+        "asta_elettronica": "false"
+       }
+      },
+      {
+       "name": "SEZ. C - Oggetto",
+       "items": [
+        {
+         "tipo_oggetto": "lotto",
+         "cig": "BD842660C0",
+         "natura_principale": "Servizi",
+         "descrizione": "Lotto unico",
+         "cpv": "Servizi di gestione pubblicitaria",
+         "valore_complessivo_stimato": 757570.0,
+         "documenti_di_gara_link": "https://start.toscana.it/tendering/tenders/043492-2026/view/detail/1",
+         "luogo_nuts": "Firenze",
+         "luogo_istat": "FIRENZE",
+         "durata_contratto": "1095",
+         "asta_elettronica": "false",
+         "criteri_aggiudicazione": "Qualità",
+         "termine_ricezione": "2026-11-30+01:00",
+         "durata": "1095",
+         "accordo_quadro": "Accordo quadro, senza riapertura della gara",
+         "sistema_dinamico_acquisizione": "Nessun sistema dinamico di acquisizione",
+         "categorie": [
+          {
+           "codice": "FS",
+           "descrizione": "FORNITURA DI SERVIZI"
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    },
+    "lingua": "it"
+   }
+  ],
+  "idAvviso": "ab5e9531-a1ec-481e-a2a5-816e46fca615",
+  "count": 44.0,
+  "paginationToken": "COudQhoJKZ3+ToGhAQAAGgJgARoGEICAgPgHIg5aDGrgF1RtU7rvNLMN9g==",
+  "score": 1.0,
+  "scoreDetails": {
+   "value": 1.0,
+   "description": "sum of:",
+   "details": [
+    {
+     "value": 0.0,
+     "description": "match on required clause, product of:",
+     "details": [
+      {
+       "value": 0.0,
+       "description": "# clause",
+       "details": []
+      },
+      {
+       "value": 1.0,
+       "description": "IndexOrDocValuesQuery(indexQuery=$type:dateV2/dataPubblicazione:[1792281600000 TO 1793180618452], dvQuery=$type:dateV2/dataPubblicazione:[1792281600000 TO 1793180618452])",
+       "details": []
+      }
+     ]
+    },
+    {
+     "value": 1.0,
+     "description": "sum of:",
+     "details": [
+      {
+       "value": 1.0,
+       "description": "$type:token/templates.template.sections.items.cpv:[[53 65 72 76 69 7a 69 20 64 69 20 67 65 73 74 69 6f 6e 65 20 70 75 62 62 6c 69 63 69 74 61 72 69 61] TO [53 65 72 76 69 7a 69 20 64 69 20 67 65 73 74 69 6f 6e 65 20 70 75 62 62 6c 69 63 69 74 61 72 69 61]]",
+       "details": []
+      }
+     ]
+    }
+   ]
+  },
+  "oscurato": false,
+  "noteOscuramento": null,
+  "idAppalto": "b23e3bb8-1460-444f-ad5b-eeb1df6e631e",
+  "dataPubblicazioneNuovoAvviso": null,
+  "tipoNuovoAvviso": null,
+  "dataPCP": "2026-10-26T23:00:00.000+00:00",
+  "dataCreazione": "2026-10-27T03:15:32.285+00:00",
   "tipo": "avviso",
   "attivo": true,
   "nuovoAvviso": null,

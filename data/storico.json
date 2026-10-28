@@ -3608,5 +3608,191 @@
   "pertinente": true,
   "motivo_scarto": null,
   "primo_avvistamento": "2026-10-27"
+ },
+ "anac:412efc08-9a33-4dcc-9167-adbe5451195e": {
+  "id": "anac:412efc08-9a33-4dcc-9167-adbe5451195e",
+  "fonte": "ANAC PVL",
+  "tipologia": "MODIFICHE_CONTRATTUALI",
+  "titolo": "Stagione Teatrale ed altre manifestazioni affini: utilizzo locali del Palazzo Congressi e altri spazi nelle disponibilità dell'Ente proprietario ed affidamento allestimento degli spazi a Riva del Garda Fierecongressi S.p.A. di Riva del Garda per gli utilizzi previsti nel corso del 2026.",
+  "descrizione": "Stagione Teatrale ed altre manifestazioni affini: utilizzo locali del Palazzo Congressi e altri spazi nelle disponibilità dell'Ente proprietario ed affidamento allestimento degli spazi a Riva del Garda Fierecongressi S.p.A. di Riva del Garda per gli utilizzi previsti nel corso del 2026.",
+  "ente": "COMUNE DI RIVA DEL GARDA",
+  "cf_ente": "84001170228",
+  "luogo_istat": "RIVA DEL GARDA",
+  "luogo_nuts": "Trento",
+  "importo": null,
+  "lotti": 1,
+  "cig": [
+   "B95BBE193C"
+  ],
+  "cpv": "Servizi di organizzazione di eventi culturali",
+  "procedura": null,
+  "pubblicazione": "2026-10-28T07:00",
+  "scadenza": null,
+  "link_avviso": "https://pubblicitalegale.anticorruzione.it/bandi/412efc08-9a33-4dcc-9167-adbe5451195e",
+  "link_documenti": "https://dati.anticorruzione.it/superset/dashboard/appalti/",
+  "link_ted": null,
+  "aggiudicatari": [],
+  "valore_aggiudicato": null,
+  "kw_score": 5,
+  "kw_trovate": [
+   "eventi",
+   "manifestazion",
+   "allestiment"
+  ],
+  "kw_escluse": [],
+  "esecuzione": "evento in loco",
+  "fuori_taglia": false,
+  "pertinente": true,
+  "motivo_scarto": null,
+  "primo_avvistamento": "2026-10-28"
+ },
+ "anac:4e52e18c-40c8-4d6f-aaee-240b78d17504": {
+  "id": "anac:4e52e18c-40c8-4d6f-aaee-240b78d17504",
+  "fonte": "ANAC PVL",
+  "tipologia": "RISULTATI",
+  "titolo": "PROCEDURA APERTA SOPRA SOGLIA PER LA CONCLUSIONE DI UN ACCORDO QUADRO CON UN UNICO OPERATORE ECONOMICO AI SENSI DELL'ART. 59 DEL D.LGS. 36/2023 PER L'AFFIDAMENTO DEL SERVIZIO DI COMUNICAZIONE, ALLESTI",
+  "descrizione": "PROCEDURA APERTA SOPRA SOGLIA PER LA CONCLUSIONE DI UN ACCORDO QUADRO CON UN UNICO OPERATORE ECONOMICO AI SENSI DELL'ART. 59 DEL D.LGS. 36/2023 PER L'AFFIDAMENTO DEL SERVIZIO DI COMUNICAZIONE, ALLESTIMENTO ED ORGANIZZAZIONE EVENTI, SERVIZIO DI GRAFICA E SERVIZIO DI CATERING POR FSE+LAZIO 2021–2027 E RIGENERAZIONI",
+  "ente": "DISCO- ENTE REG.PER DIRITTO ALLO STUDIO",
+  "cf_ente": "08123891007",
+  "luogo_istat": "ROMA",
+  "luogo_nuts": "Roma",
+  "importo": 2563969.35,
+  "lotti": 1,
+  "cig": [
+   "BB38293BB5"
+  ],
+  "cpv": "Servizi di organizzazione di eventi",
+  "procedura": "Aperta",
+  "pubblicazione": "2026-10-28T07:00",
+  "scadenza": null,
+  "link_avviso": "https://pubblicitalegale.anticorruzione.it/bandi/4e52e18c-40c8-4d6f-aaee-240b78d17504",
+  "link_documenti": "https://centraleacquisti.regione.lazio.it/bandi-e-strumenti-di-acquisto/dettaglio-bando?tipo_doc=BANDO_GARA_PORTALE&id_doc=6025801",
+  "link_ted": "https://ted.europa.eu/udl?uri=TED:NOTICE:742949-2026:TEXT:IT:HTML",
+  "aggiudicatari": [
+   "DS TECH SRL",
+   "STUDIO EGA SRL"
+  ],
+  "valore_aggiudicato": 2544792.89,
+  "kw_score": 7,
+  "kw_trovate": [
+   "grafic",
+   "comunicazione",
+   "eventi",
+   "allestiment"
+  ],
+  "kw_escluse": [
+   "catering"
+  ],
+  "esecuzione": "evento in loco",
+  "fuori_taglia": true,
+  "pertinente": true,
+  "motivo_scarto": null,
+  "primo_avvistamento": "2026-10-28"
+ },
+ "anac:acaa22bc-e0c5-422f-8729-aebded02911a": {
+  "id": "anac:acaa22bc-e0c5-422f-8729-aebded02911a",
+  "fonte": "ANAC PVL",
+  "tipologia": "INDAGINI_DI_MERCATO_SOTTO_SOGLIA",
+  "titolo": "Organizzazione di convegni e contest internazionale - Progetto Divulgare e conoscere il mare",
+  "descrizione": "Organizzazione di convegni e contest internazionale - Progetto Divulgare e conoscere il mare",
+  "ente": "FLAG RIVIERA JONICA ETNEA SOCIETA' CONSORTILE COOPERATIVA",
+  "cf_ente": "05059630870",
+  "luogo_istat": "RIPOSTO",
+  "luogo_nuts": "Catania",
+  "importo": 20000.0,
+  "lotti": 1,
+  "cig": [
+   "BD87CB708D"
+  ],
+  "cpv": "Servizi di organizzazione di eventi",
+  "procedura": null,
+  "pubblicazione": "2026-10-28T07:00",
+  "scadenza": "2026-11-30T23:59",
+  "link_avviso": "https://pubblicitalegale.anticorruzione.it/bandi/acaa22bc-e0c5-422f-8729-aebded02911a",
+  "link_documenti": "https://www.acquistinretepa.it/bandi/negoziata/adi/02b8e670c8a337d3",
+  "link_ted": null,
+  "aggiudicatari": [],
+  "valore_aggiudicato": null,
+  "kw_score": 2,
+  "kw_trovate": [
+   "eventi"
+  ],
+  "kw_escluse": [],
+  "esecuzione": "evento in loco",
+  "fuori_taglia": false,
+  "pertinente": true,
+  "motivo_scarto": null,
+  "primo_avvistamento": "2026-10-28"
+ },
+ "anac:d9c2b555-caab-43b3-ac94-818d4a06cf50": {
+  "id": "anac:d9c2b555-caab-43b3-ac94-818d4a06cf50",
+  "fonte": "ANAC PVL",
+  "tipologia": "RISULTATI",
+  "titolo": "IDP N. 124/2026 \\\"BAROCK ARTE, MEMORIA E IDENTITA' SICILIANA\\\" - SERVIZIO PER LA REALIZZAZIONE DI EVENTI DI RILEVANZA CULTURALE E COLLATERALI",
+  "descrizione": "IDP N. 124/2026 \\\"BAROCK ARTE, MEMORIA E IDENTITA' SICILIANA\\\" - SERVIZIO PER LA REALIZZAZIONE DI EVENTI DI RILEVANZA CULTURALE E COLLATERALI",
+  "ente": "REGIONE SICILIANA",
+  "cf_ente": "80012000826",
+  "luogo_istat": "ENNA",
+  "luogo_nuts": "Enna",
+  "importo": null,
+  "lotti": 1,
+  "cig": [
+   "BD87D77EFA"
+  ],
+  "cpv": "Servizi di organizzazione di eventi",
+  "procedura": "Altra procedura a fase unica",
+  "pubblicazione": "2026-10-28T07:00",
+  "scadenza": null,
+  "link_avviso": "https://pubblicitalegale.anticorruzione.it/bandi/d9c2b555-caab-43b3-ac94-818d4a06cf50",
+  "link_documenti": "https://appalti.regionesiciliana.lavoripubblici.sicilia.it/gare/dettaglio.php?codice=6396",
+  "link_ted": null,
+  "aggiudicatari": [],
+  "valore_aggiudicato": null,
+  "kw_score": 2,
+  "kw_trovate": [
+   "eventi"
+  ],
+  "kw_escluse": [],
+  "esecuzione": "evento in loco",
+  "fuori_taglia": false,
+  "pertinente": true,
+  "motivo_scarto": null,
+  "primo_avvistamento": "2026-10-28"
+ },
+ "anac:07515091-0da8-4ffd-9959-2847d21dc853": {
+  "id": "anac:07515091-0da8-4ffd-9959-2847d21dc853",
+  "fonte": "ANAC PVL",
+  "tipologia": "MODIFICHE_CONTRATTUALI",
+  "titolo": "Procedura per la realizzazione di eventi e attività di promozione e disseminazione dei percorsi didattici elaborati nell’ambito del Progetto “Advanced Learning Multimedia Alliance for Inclusive Academic Innovation (ALMA) CUP E68H24000 430006” del Centro Federica Web Learning",
+  "descrizione": "Procedura per la realizzazione di eventi e attività di promozione e disseminazione dei percorsi didattici elaborati nell’ambito del Progetto “Advanced Learning Multimedia Alliance for Inclusive Academic Innovation (ALMA) CUP E68H24000 430006” del Centro Federica Web Learning",
+  "ente": "UNIVERSITA' DEGLI STUDI DI NAPOLI FEDERICO II",
+  "cf_ente": "00876220633",
+  "luogo_istat": "NAPOLI",
+  "luogo_nuts": "Napoli",
+  "importo": null,
+  "lotti": 1,
+  "cig": [
+   "B7D90EA425"
+  ],
+  "cpv": "Servizi di organizzazione di eventi",
+  "procedura": null,
+  "pubblicazione": "2026-10-28T07:00",
+  "scadenza": null,
+  "link_avviso": "https://pubblicitalegale.anticorruzione.it/bandi/07515091-0da8-4ffd-9959-2847d21dc853",
+  "link_documenti": "https://www.unina.it/ateneo/gare/bandi",
+  "link_ted": null,
+  "aggiudicatari": [],
+  "valore_aggiudicato": null,
+  "kw_score": 4,
+  "kw_trovate": [
+   "promozion",
+   "eventi"
+  ],
+  "kw_escluse": [],
+  "esecuzione": "evento in loco",
+  "fuori_taglia": false,
+  "pertinente": true,
+  "motivo_scarto": null,
+  "primo_avvistamento": "2026-10-28"
  }
 }
