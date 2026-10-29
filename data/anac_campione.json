@@ -1,16 +1,16 @@
 [
  {
-  "codiceScheda": "P2_19",
-  "tipologia": "BANDI",
-  "dataPubblicazione": "2026-10-28T07:00:00.793+00:00",
-  "dataScadenza": "2026-12-02T17:00:00.000+00:00",
+  "codiceScheda": "AD2_25",
+  "tipologia": "RISULTATI",
+  "dataPubblicazione": "2026-10-29T07:00:00.727+00:00",
+  "dataScadenza": null,
   "templates": [
    {
     "template": {
      "metadata": {
       "link_eform_ted": null,
       "titolo": null,
-      "descrizione": "PROCEDURA APERTA PER L’AFFIDAMENTO IN CONCESSIONE DEL SERVIZIO DI ORGANIZZAZIONE DELLE MOSTRE-MERCATO COMUNALI E DI GESTIONE DEL PUNTO ENOGASTRONOMICO PER IL PERIODO 01.01.2027 – 31.12.2028\r\n"
+      "descrizione": "Servizio di supporto farmacista"
      },
      "sections": [
       {
@@ -18,8 +18,8 @@
        "fields": {
         "soggetti_sa": [
          {
-          "codice_fiscale": "00227430345",
-          "denominazione_amministrazione": "COMUNE DI FONTANELLATO"
+          "codice_fiscale": "07105121003",
+          "denominazione_amministrazione": "MULTISERVIZI CAERITE SPA"
          }
         ]
        }
@@ -27,25 +27,36 @@
       {
        "name": "SEZ. B - Dati Generali",
        "fields": {
-        "documenti_di_gara_link": "https://intercenter.regione.emilia-romagna.it/trovabando/BANDO_GARA_PORTALE@18107539",
-        "tipo_procedura_aggiudicazione": "Aperta"
+        "documenti_di_gara_link": "https://www.acquistinretepa.it/bandi/negoziata/rdo-td/94b118f7f6400d4f",
+        "sistema_dinamico_acquisizione": "Nessun sistema dinamico di acquisizione",
+        "tipo_procedura_aggiudicazione": "Altra procedura a fase unica"
        }
       },
       {
        "name": "SEZ. C - Oggetto",
        "items": [
         {
-         "tipo_oggetto": "lotto",
-         "cig": "BD85DE732A",
+         "tipo_oggetto": "aggiudicazione",
+         "cig": "BD8D1E4A98",
          "natura_principale": "Servizi",
-         "descrizione": "Concessione mostre mercato comunali e box enogastronomico 2027 - 2028 ",
-         "cpv": "Servizi di organizzazione di mostre, fiere e congressi",
-         "valore_complessivo_stimato": 96964.67,
-         "documenti_di_gara_link": "https://intercenter.regione.emilia-romagna.it/trovabando/BANDO_GARA_PORTALE@18107539",
-         "luogo_istat": "FONTANELLATO",
-         "durata_contratto": "730",
-         "termine_ricezione": "2026-12-02T18:00:00+01:00",
-         "durata": "730",
+         "descrizione": "Servizio di supporto farmacista",
+         "cpv": "Servizi di consulenza di gestione commerciale",
+         "documenti_di_gara_link": "https://www.acquistinretepa.it/bandi/negoziata/rdo-td/94b118f7f6400d4f",
+         "luogo_nuts": "Roma",
+         "luogo_istat": "CERVETERI",
+         "valore_affidamento": 30000.0,
+         "sistema_dinamico_acquisizione": "Nessun sistema dinamico di acquisizione",
+         "aggiudicatari_ad": [
+          {
+           "importo": 30000.0,
+           "soggetti": [
+            {
+             "codice_fiscale": "RTSMRC84R11G082J",
+             "denominazione": "ORTUSO MARCO"
+            }
+           ]
+          }
+         ],
          "categorie": [
           {
            "codice": "FS",
@@ -60,9 +71,9 @@
     "lingua": "it"
    }
   ],
-  "idAvviso": "e7013e02-9f79-4d5a-92d2-adc6739b6f99",
-  "count": 44.0,
-  "paginationToken": "CO6cQhoJKZkAT4GhAQAAGgJgARoGEICAgPgHIg5aDGrficxtU7rvNLMMCA==",
+  "idAvviso": "0cfb5e12-1663-4732-8956-06ec0ce907c9",
+  "count": 47.0,
+  "paginationToken": "COSYQhoJKVdcdYahAQAAGgJgARoGEICAgPgHIg5aDGrhxhyVCav3vYBHtw==",
   "score": 1.0,
   "scoreDetails": {
    "value": 1.0,
@@ -79,7 +90,141 @@
       },
       {
        "value": 1.0,
-       "description": "IndexOrDocValuesQuery(indexQuery=$type:dateV2/dataPubblicazione:[1792281600000 TO 1793180618452], dvQuery=$type:dateV2/dataPubblicazione:[1792281600000 TO 1793180618452])",
+       "description": "IndexOrDocValuesQuery(indexQuery=$type:dateV2/dataPubblicazione:[1792368000000 TO 1793268105415], dvQuery=$type:dateV2/dataPubblicazione:[1792368000000 TO 1793268105415])",
+       "details": []
+      }
+     ]
+    },
+    {
+     "value": 1.0,
+     "description": "sum of:",
+     "details": [
+      {
+       "value": 1.0,
+       "description": "$type:token/templates.template.sections.items.cpv:[[53 65 72 76 69 7a 69 20 64 69 20 63 6f 6e 73 75 6c 65 6e 7a 61 20 64 69 20 67 65 73 74 69 6f 6e 65 20 63 6f 6d 6d 65 72 63 69 61 6c 65] TO [53 65 72 76 69 7a 69 20 64 69 20 63 6f 6e 73 75 6c 65 6e 7a 61 20 64 69 20 67 65 73 74 69 6f 6e 65 20 63 6f 6d 6d 65 72 63 69 61 6c 65]]",
+       "details": []
+      }
+     ]
+    }
+   ]
+  },
+  "oscurato": false,
+  "noteOscuramento": null,
+  "idAppalto": "9cddc8de-4e9f-4503-9e65-03b8f2333004",
+  "dataPubblicazioneNuovoAvviso": null,
+  "tipoNuovoAvviso": null,
+  "dataPCP": "2026-10-28T10:53:32.000+00:00",
+  "dataCreazione": "2026-10-28T09:53:32.727+00:00",
+  "tipo": "avviso",
+  "attivo": true,
+  "nuovoAvviso": null,
+  "codiceEform": null,
+  "stato": "NON_VERIFICATO",
+  "ambiente": null,
+  "categorie": null
+ },
+ {
+  "codiceScheda": "A2_29",
+  "tipologia": "RISULTATI",
+  "dataPubblicazione": "2026-10-29T07:00:00.484+00:00",
+  "dataScadenza": null,
+  "templates": [
+   {
+    "template": {
+     "metadata": {
+      "link_eform_ted": null,
+      "titolo": null,
+      "descrizione": "Procedura negoziata ai sensi dell'art. 50, comma 1 lett. e) del D. Lgs n. 36/2023, del servizio di gestione del Search - Sede espositiva dell'archivio storico, nell'ambito del progetto per la gestione integrata e la promozione dei centri d'arte e cultura del comune di Cagliari, per un periodo di 24 (ventiquattro) mesi, prorogabili di ulteriori 2 (due) mesi, presumibilmente dal 01/11/2026."
+     },
+     "sections": [
+      {
+       "name": "SEZ. A - Committente",
+       "fields": {
+        "soggetti_sa": [
+         {
+          "codice_fiscale": "00147990923",
+          "denominazione_amministrazione": "COMUNE DI CAGLIARI"
+         }
+        ]
+       }
+      },
+      {
+       "name": "SEZ. B - Dati Generali",
+       "fields": {
+        "documenti_di_gara_link": "https://appalti.comune.cagliari.it/PortaleAppalti/it/procedure/codice/G02333",
+        "accordo_quadro": "Nulla",
+        "sistema_dinamico_acquisizione": "Nessun sistema dinamico di acquisizione",
+        "tipo_procedura_aggiudicazione": "Negoziata senza previa indizione di gara"
+       }
+      },
+      {
+       "name": "SEZ. C - Oggetto",
+       "items": [
+        {
+         "tipo_oggetto": "aggiudicazione",
+         "cig": "BD49AE502D",
+         "natura_principale": "Servizi",
+         "descrizione": "Procedura negoziata ai sensi dell'art. 50, comma 1 lett. e) del D. Lgs n. 36/2023, del servizio di gestione del Search - Sede espositiva dell'archivio storico, nell'ambito del progetto per la gestione integrata e la promozione dei centri d'arte e cultura del comune di Cagliari, per un periodo di 24 (ventiquattro) mesi, prorogabili di ulteriori 2 (due) mesi, presumibilmente dal 01/11/2026.",
+         "cpv": "Servizi di organizzazione di mostre, fiere e congressi",
+         "valore_complessivo_stimato": 699712.4,
+         "luogo_nuts": "Cagliari",
+         "luogo_istat": "CAGLIARI",
+         "valore_offerta_vincente": 602876.27,
+         "accordo_quadro": "Nulla",
+         "sistema_dinamico_acquisizione": "Nessun sistema dinamico di acquisizione",
+         "aggiudicatari": [
+          {
+           "importo": 602876.27,
+           "soggetti": [
+            {
+             "codice_fiscale": "01896430921",
+             "denominazione": "AGORA' SARDEGNA SOCIETA' COOPERATIVA"
+            },
+            {
+             "codice_fiscale": "03187730928",
+             "denominazione": "SE'MATA"
+            },
+            {
+             "codice_fiscale": "03174750277",
+             "denominazione": "SOCIETA' COOPERATIVA CULTURE"
+            }
+           ]
+          }
+         ],
+         "categorie": [
+          {
+           "codice": "FS",
+           "descrizione": "FORNITURA DI SERVIZI"
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    },
+    "lingua": "it"
+   }
+  ],
+  "idAvviso": "64babc4c-6a5d-4732-b62c-b1da7d771dcd",
+  "count": 47.0,
+  "paginationToken": "CIucQhoJKWRbdYahAQAAGgJgARoGEICAgPgHIg5aDGrh3HGVCav3vYBPkw==",
+  "score": 1.0,
+  "scoreDetails": {
+   "value": 1.0,
+   "description": "sum of:",
+   "details": [
+    {
+     "value": 0.0,
+     "description": "match on required clause, product of:",
+     "details": [
+      {
+       "value": 0.0,
+       "description": "# clause",
+       "details": []
+      },
+      {
+       "value": 1.0,
+       "description": "IndexOrDocValuesQuery(indexQuery=$type:dateV2/dataPubblicazione:[1792368000000 TO 1793268105415], dvQuery=$type:dateV2/dataPubblicazione:[1792368000000 TO 1793268105415])",
        "details": []
       }
      ]
@@ -99,137 +244,11 @@
   },
   "oscurato": false,
   "noteOscuramento": null,
-  "idAppalto": "2479e109-10b3-4f77-b1e5-f550ca7ef5c8",
+  "idAppalto": "279551d6-273b-4236-8790-23985eec9819",
   "dataPubblicazioneNuovoAvviso": null,
   "tipoNuovoAvviso": null,
-  "dataPCP": "2026-10-26T18:11:40.000+00:00",
-  "dataCreazione": "2026-10-26T17:11:40.793+00:00",
-  "tipo": "avviso",
-  "attivo": true,
-  "nuovoAvviso": null,
-  "codiceEform": null,
-  "stato": "NON_VERIFICATO",
-  "ambiente": null,
-  "categorie": null
- },
- {
-  "codiceScheda": "A2_29",
-  "tipologia": "RISULTATI",
-  "dataPubblicazione": "2026-10-28T07:00:00.660+00:00",
-  "dataScadenza": null,
-  "templates": [
-   {
-    "template": {
-     "metadata": {
-      "link_eform_ted": null,
-      "titolo": null,
-      "descrizione": "ORGANIZZAZIONE SEMINARIO-WORKSHOP"
-     },
-     "sections": [
-      {
-       "name": "SEZ. A - Committente",
-       "fields": {
-        "soggetti_sa": [
-         {
-          "codice_fiscale": "02201130610",
-          "denominazione_amministrazione": "AZIENDA OSPEDALIERA SANT'ANNA E SAN SEBASTIANO"
-         }
-        ]
-       }
-      },
-      {
-       "name": "SEZ. B - Dati Generali",
-       "fields": {
-        "documenti_di_gara_link": "https://www.ospedale.caserta.it/",
-        "accordo_quadro": "Nulla",
-        "sistema_dinamico_acquisizione": "Nessun sistema dinamico di acquisizione",
-        "tipo_procedura_aggiudicazione": "Negoziata senza previa indizione di gara"
-       }
-      },
-      {
-       "name": "SEZ. C - Oggetto",
-       "items": [
-        {
-         "tipo_oggetto": "aggiudicazione",
-         "cig": "B68D0D58EF",
-         "natura_principale": "Servizi",
-         "descrizione": "ORGANIZZAZIONE SEMINARIO- WORKSHOP",
-         "cpv": "Servizi di organizzazione di seminari",
-         "valore_complessivo_stimato": 8000.0,
-         "luogo_nuts": "ITALIA",
-         "luogo_istat": "CASERTA",
-         "valore_offerta_vincente": 6020.0,
-         "accordo_quadro": "Nulla",
-         "sistema_dinamico_acquisizione": "Nessun sistema dinamico di acquisizione",
-         "aggiudicatari": [
-          {
-           "importo": 6020.0,
-           "soggetti": [
-            {
-             "codice_fiscale": "01298100775",
-             "denominazione": "FUORI ROTTA EVENTI E CONGRESSI SRL Unipersonale"
-            }
-           ]
-          }
-         ],
-         "categorie": [
-          {
-           "codice": "FS",
-           "descrizione": "FORNITURA DI SERVIZI"
-          }
-         ]
-        }
-       ]
-      }
-     ]
-    },
-    "lingua": "it"
-   }
-  ],
-  "idAvviso": "4af45cfc-a51d-41af-8431-e173d4354cff",
-  "count": 44.0,
-  "paginationToken": "CN7/QhoJKRQAT4GhAQAAGgJgARoGEICAgPgHIg5aDGrgkkhtU7rvNLMoZg==",
-  "score": 1.0,
-  "scoreDetails": {
-   "value": 1.0,
-   "description": "sum of:",
-   "details": [
-    {
-     "value": 0.0,
-     "description": "match on required clause, product of:",
-     "details": [
-      {
-       "value": 0.0,
-       "description": "# clause",
-       "details": []
-      },
-      {
-       "value": 1.0,
-       "description": "IndexOrDocValuesQuery(indexQuery=$type:dateV2/dataPubblicazione:[1792281600000 TO 1793180618452], dvQuery=$type:dateV2/dataPubblicazione:[1792281600000 TO 1793180618452])",
-       "details": []
-      }
-     ]
-    },
-    {
-     "value": 1.0,
-     "description": "sum of:",
-     "details": [
-      {
-       "value": 1.0,
-       "description": "$type:token/templates.template.sections.items.cpv:[[53 65 72 76 69 7a 69 20 64 69 20 6f 72 67 61 6e 69 7a 7a 61 7a 69 6f 6e 65 20 64 69 20 73 65 6d 69 6e 61 72 69] TO [53 65 72 76 69 7a 69 20 64 69 20 6f 72 67 61 6e 69 7a 7a 61 7a 69 6f 6e 65 20 64 69 20 73 65 6d 69 6e 61 72 69]]",
-       "details": []
-      }
-     ]
-    }
-   ]
-  },
-  "oscurato": false,
-  "noteOscuramento": null,
-  "idAppalto": "24c445d6-92e5-490e-9d91-54a6afd16dbc",
-  "dataPubblicazioneNuovoAvviso": null,
-  "tipoNuovoAvviso": null,
-  "dataPCP": "2026-10-27T13:00:08.000+00:00",
-  "dataCreazione": "2026-10-27T12:00:08.660+00:00",
+  "dataPCP": "2026-10-28T12:28:49.000+00:00",
+  "dataCreazione": "2026-10-28T11:28:49.484+00:00",
   "tipo": "avviso",
   "attivo": true,
   "nuovoAvviso": null,
@@ -241,15 +260,15 @@
  {
   "codiceScheda": "P1_16",
   "tipologia": "BANDI",
-  "dataPubblicazione": "2026-10-28T07:00:00.285+00:00",
-  "dataScadenza": "2026-11-30T11:00:00.000+00:00",
+  "dataPubblicazione": "2026-10-29T07:00:00.446+00:00",
+  "dataScadenza": "2026-11-30T15:00:00.000+00:00",
   "templates": [
    {
     "template": {
      "metadata": {
-      "link_eform_ted": "https://ted.europa.eu/udl?uri=TED:NOTICE:743074-2026:TEXT:IT:HTML",
-      "titolo": "Accordo quadro con unico operatore avente ad oggetto il servizio di affissione manifesti",
-      "descrizione": "Avvio di una procedura ad evidenza pubblica, a mezzo gara aperta, per l'affidamento di un accordo quadro con unico operatore avente ad oggetto il servizio di affissione manifesti"
+      "link_eform_ted": "https://ted.europa.eu/udl?uri=TED:NOTICE:746852-2026:TEXT:IT:HTML",
+      "titolo": "Procedura aperta, ex art. 71 del Decreto legislativo 31 marzo 2023, n. 36, finalizzata all'affidamento del servizio relativo all'acquisto per un periodo di 24 mesi (più eventuali 9 mesi di proroga), di attività di comunicazione, informazione e divulgazione delle attività istituzionali analogica e digitale dell'Università degli studi di Bergamo",
+      "descrizione": "Procedura aperta, ex art. 71 del Decreto legislativo 31 marzo 2023, n. 36, finalizzata all'affidamento del servizio relativo all'acquisto per un periodo di 24 mesi (più eventuali 9 mesi di proroga), di attività di comunicazione, informazione e divulgazione delle attività istituzionali analogica e digitale dell'Università degli studi di Bergamo"
      },
      "sections": [
       {
@@ -257,8 +276,8 @@
        "fields": {
         "soggetti_sa": [
          {
-          "codice_fiscale": "05087650486",
-          "denominazione_amministrazione": "SERVIZI ALLA STRADA S.P.A."
+          "codice_fiscale": "80004350163",
+          "denominazione_amministrazione": "UNIVERSITA' DEGLI STUDI DI BERGAMO"
          }
         ]
        }
@@ -266,8 +285,8 @@
       {
        "name": "SEZ. B - Dati Generali",
        "fields": {
-        "documenti_di_gara_link": "https://start.toscana.it/tendering/tenders/043492-2026/view/detail/1",
-        "accordo_quadro": "Accordo quadro, senza riapertura della gara",
+        "documenti_di_gara_link": "https://unibg.ubuy.cineca.it/PortaleAppalti/it/procedure/codice/G03738",
+        "accordo_quadro": "Nulla",
         "sistema_dinamico_acquisizione": "Nessun sistema dinamico di acquisizione",
         "tipo_procedura_aggiudicazione": "Aperta",
         "asta_elettronica": "false"
@@ -278,20 +297,20 @@
        "items": [
         {
          "tipo_oggetto": "lotto",
-         "cig": "BD842660C0",
+         "cig": "BD858EF978",
          "natura_principale": "Servizi",
-         "descrizione": "Lotto unico",
-         "cpv": "Servizi di gestione pubblicitaria",
-         "valore_complessivo_stimato": 757570.0,
-         "documenti_di_gara_link": "https://start.toscana.it/tendering/tenders/043492-2026/view/detail/1",
-         "luogo_nuts": "Firenze",
-         "luogo_istat": "FIRENZE",
-         "durata_contratto": "1095",
+         "descrizione": "Procedura aperta, ex art. 71 del Decreto legislativo 31 marzo 2023, n. 36, finalizzata all'affidamento del servizio relativo all'acquisto per un periodo di 24 mesi (più eventuali 9 mesi di proroga), di attività di comunicazione, informazione e divulgazione delle attività istituzionali analogica e digitale dell'Università degli studi di Bergamo",
+         "cpv": "Servizi di campagne pubblicitarie",
+         "valore_complessivo_stimato": 948340.69,
+         "documenti_di_gara_link": "https://unibg.ubuy.cineca.it/PortaleAppalti/it/procedure/codice/G03738",
+         "luogo_nuts": "Bergamo",
+         "luogo_istat": "BERGAMO",
+         "durata_contratto": "24",
          "asta_elettronica": "false",
          "criteri_aggiudicazione": "Qualità",
          "termine_ricezione": "2026-11-30+01:00",
-         "durata": "1095",
-         "accordo_quadro": "Accordo quadro, senza riapertura della gara",
+         "durata": "24",
+         "accordo_quadro": "Nulla",
          "sistema_dinamico_acquisizione": "Nessun sistema dinamico di acquisizione",
          "categorie": [
           {
@@ -307,9 +326,9 @@
     "lingua": "it"
    }
   ],
-  "idAvviso": "ab5e9531-a1ec-481e-a2a5-816e46fca615",
-  "count": 44.0,
-  "paginationToken": "COudQhoJKZ3+ToGhAQAAGgJgARoGEICAgPgHIg5aDGrgF1RtU7rvNLMN9g==",
+  "idAvviso": "299bb5bc-e38e-4ef5-9d18-bf925dc4f612",
+  "count": 47.0,
+  "paginationToken": "CLfvQhoJKT5bdYahAQAAGgJgARoGEICAgPgHIg5aDGrhbEbunOrJYxY9Zw==",
   "score": 1.0,
   "scoreDetails": {
    "value": 1.0,
@@ -326,7 +345,7 @@
       },
       {
        "value": 1.0,
-       "description": "IndexOrDocValuesQuery(indexQuery=$type:dateV2/dataPubblicazione:[1792281600000 TO 1793180618452], dvQuery=$type:dateV2/dataPubblicazione:[1792281600000 TO 1793180618452])",
+       "description": "IndexOrDocValuesQuery(indexQuery=$type:dateV2/dataPubblicazione:[1792368000000 TO 1793268105415], dvQuery=$type:dateV2/dataPubblicazione:[1792368000000 TO 1793268105415])",
        "details": []
       }
      ]
@@ -337,7 +356,7 @@
      "details": [
       {
        "value": 1.0,
-       "description": "$type:token/templates.template.sections.items.cpv:[[53 65 72 76 69 7a 69 20 64 69 20 67 65 73 74 69 6f 6e 65 20 70 75 62 62 6c 69 63 69 74 61 72 69 61] TO [53 65 72 76 69 7a 69 20 64 69 20 67 65 73 74 69 6f 6e 65 20 70 75 62 62 6c 69 63 69 74 61 72 69 61]]",
+       "description": "$type:token/templates.template.sections.items.cpv:[[53 65 72 76 69 7a 69 20 64 69 20 63 61 6d 70 61 67 6e 65 20 70 75 62 62 6c 69 63 69 74 61 72 69 65] TO [53 65 72 76 69 7a 69 20 64 69 20 63 61 6d 70 61 67 6e 65 20 70 75 62 62 6c 69 63 69 74 61 72 69 65]]",
        "details": []
       }
      ]
@@ -346,11 +365,11 @@
   },
   "oscurato": false,
   "noteOscuramento": null,
-  "idAppalto": "b23e3bb8-1460-444f-ad5b-eeb1df6e631e",
+  "idAppalto": "61828967-c9f1-441a-9c21-f9c0bc46b90b",
   "dataPubblicazioneNuovoAvviso": null,
   "tipoNuovoAvviso": null,
-  "dataPCP": "2026-10-26T23:00:00.000+00:00",
-  "dataCreazione": "2026-10-27T03:15:32.285+00:00",
+  "dataPCP": "2026-10-27T23:00:00.000+00:00",
+  "dataCreazione": "2026-10-28T03:30:14.447+00:00",
   "tipo": "avviso",
   "attivo": true,
   "nuovoAvviso": null,

@@ -1,5 +1,5 @@
-# Radar gare Adduma, aggiornato 2026-10-28T09:43
-Letti oggi 91, nuovi 5, gare aperte pertinenti 13. Errori: 0
+# Radar gare Adduma, aggiornato 2026-10-29T10:01
+Letti oggi 98, nuovi 6, gare aperte pertinenti 15. Errori: 0
 
 ## PROCEDURA APERTA PER L’AFFIDAMENTO DEL SERVIZIO DI REALIZZAZIONE E ORGANIZZAZIONE DEGLI “STATI GENERALI DELLA SALUTE SENESE ”  EDIZIONE 2027 e EDIZIONE 2028
 - ente: COMUNE DI SIENA | luogo ISTAT SIENA
@@ -100,6 +100,24 @@ FIERA PESSIMA (TA). BANDO DI GARA EDIZIONE 2027
 - esecuzione: evento in loco | parole chiave: eventi, allestiment
 - avviso: https://pubblicitalegale.anticorruzione.it/bandi/56565b9e-f696-4145-8e24-7af64fe4f6b8
 - documenti: https://www.polimi.it/imprese/bandiperleimprese/bandidigara
+
+## servizi di ideazione produzione, realizzazione, adattamento e distribuzione di contenuti audiovisivi destinati alla comunicazione istituzionale della Regione Liguria e del Sistema regionale allargato, mediante conclusione di un Accordo Quadro di cui all’art. 59, co. 3 del D.Lgs. 36/2023, con un unico operatore economico per la durata di tre anni
+- ente: IN LIGURIA AGENZIA REGIONALE PROMOZIONE TURISTICA DELLA LIGURIA | luogo ISTAT GENOVA
+- tipologia: BANDI | procedura: Aperta | CIG: BD8D346EB8
+- importo: 432.000 € (FUORI TAGLIA) | lotti: 1
+- pubblicato: 29/10/2026 07:00 | scadenza: 30/11/2026 11:00 | primo avvistamento: 2026-10-29
+- esecuzione: trasferta breve | parole chiave: video, audiovisiv, comunicazione
+- avviso: https://pubblicitalegale.anticorruzione.it/bandi/936f9317-f533-4aa8-9251-2162c7469108
+- documenti: https://agenziainliguria.tuttogare.it/gare/dettaglio.php?codice=777
+
+## Procedura aperta, ex art. 71 del Decreto legislativo 31 marzo 2023, n. 36, finalizzata all'affidamento del servizio relativo all'acquisto per un periodo di 24 mesi (più eventuali 9 mesi di proroga), di attività di comunicazione, informazione e divulgazione delle attività istituzionali analogica e digitale dell'Università degli studi di Bergamo
+- ente: UNIVERSITA' DEGLI STUDI DI BERGAMO | luogo ISTAT BERGAMO
+- tipologia: BANDI | procedura: Aperta | CIG: BD858EF978
+- importo: 948.341 € (FUORI TAGLIA) | lotti: 1
+- pubblicato: 29/10/2026 07:00 | scadenza: 30/11/2026 15:00 | primo avvistamento: 2026-10-29
+- esecuzione: da remoto | parole chiave: comunicazione, pubblicit
+- avviso: https://pubblicitalegale.anticorruzione.it/bandi/299bb5bc-e38e-4ef5-9d18-bf925dc4f612
+- documenti: https://unibg.ubuy.cineca.it/PortaleAppalti/it/procedure/codice/G03738
 
 ## Organizzazione di convegni e contest internazionale - Progetto Divulgare e conoscere il mare
 - ente: FLAG RIVIERA JONICA ETNEA SOCIETA' CONSORTILE COOPERATIVA | luogo ISTAT RIPOSTO

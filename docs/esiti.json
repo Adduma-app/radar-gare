@@ -1,14 +1,88 @@
 {
  "stato": {
-  "aggiornato": "2026-10-28T09:43",
-  "letti_oggi": 91,
-  "nuovi_oggi": 5,
-  "aperte_pertinenti": 13,
-  "esiti_pertinenti": 62,
-  "scartati_oggi": 29,
+  "aggiornato": "2026-10-29T10:01",
+  "letti_oggi": 98,
+  "nuovi_oggi": 6,
+  "aperte_pertinenti": 15,
+  "esiti_pertinenti": 64,
+  "scartati_oggi": 30,
   "errori": []
  },
  "esiti": [
+  {
+   "id": "anac:64babc4c-6a5d-4732-b62c-b1da7d771dcd",
+   "fonte": "ANAC PVL",
+   "tipologia": "RISULTATI",
+   "titolo": "Procedura negoziata ai sensi dell'art. 50, comma 1 lett. e) del D. Lgs n. 36/2023, del servizio di gestione del Search - Sede espositiva dell'archivio storico, nell'ambito del progetto per la gestione integrata e la promozione dei centri d'arte e cultura del comune di Cagliari, per un periodo di 24 (ventiquattro) mesi, prorogabili di ulteriori 2 (due) mesi, presumibilmente dal 01/11/2026.",
+   "descrizione": "Procedura negoziata ai sensi dell'art. 50, comma 1 lett. e) del D. Lgs n. 36/2023, del servizio di gestione del Search - Sede espositiva dell'archivio storico, nell'ambito del progetto per la gestione integrata e la promozione dei centri d'arte e cultura del comune di Cagliari, per un periodo di 24 (ventiquattro) mesi, prorogabili di ulteriori 2 (due) mesi, presumibilmente dal 01/11/2026.",
+   "ente": "COMUNE DI CAGLIARI",
+   "cf_ente": "00147990923",
+   "luogo_istat": "CAGLIARI",
+   "luogo_nuts": "Cagliari",
+   "importo": 699712.4,
+   "lotti": 1,
+   "cig": [
+    "BD49AE502D"
+   ],
+   "cpv": "Servizi di organizzazione di mostre, fiere e congressi",
+   "procedura": "Negoziata senza previa indizione di gara",
+   "pubblicazione": "2026-10-29T07:00",
+   "scadenza": null,
+   "link_avviso": "https://pubblicitalegale.anticorruzione.it/bandi/64babc4c-6a5d-4732-b62c-b1da7d771dcd",
+   "link_documenti": "https://appalti.comune.cagliari.it/PortaleAppalti/it/procedure/codice/G02333",
+   "link_ted": null,
+   "aggiudicatari": [
+    "AGORA' SARDEGNA SOCIETA' COOPERATIVA",
+    "SE'MATA",
+    "SOCIETA' COOPERATIVA CULTURE"
+   ],
+   "valore_aggiudicato": 602876.27,
+   "kw_score": 2,
+   "kw_trovate": [
+    "promozion"
+   ],
+   "kw_escluse": [],
+   "esecuzione": "da remoto",
+   "fuori_taglia": true,
+   "pertinente": true,
+   "motivo_scarto": null,
+   "primo_avvistamento": "2026-10-29"
+  },
+  {
+   "id": "anac:9cc9fc5f-d9cb-486d-92fa-efc7c5297916",
+   "fonte": "ANAC PVL",
+   "tipologia": "RISULTATI",
+   "titolo": "Legge Regionale 27 ottobre 2022, n. 18 recante “Piano straordinario di interventi settoriali e intersettoriali per lo sviluppo economico e la valorizzazione territoriale dell’Etruria meridionale”. Triennio 2026/2028 - Attuazione D.G.R. n. 221 del 16/04/2026. Finanziamento di complessivi €. 196.722,28, di cui € 56.206,36 di parte corrente ed € 140.515,92 in conto capitale.  “Tolfa: Borgo da vivere in autunno/inverno/estate”, finanziato con € 56.206,36 di risorse di parte corrente",
+   "descrizione": "Legge Regionale 27 ottobre 2022, n. 18 recante “Piano straordinario di interventi settoriali e intersettoriali per lo sviluppo economico e la valorizzazione territoriale dell’Etruria meridionale”. Triennio 2026/2028 - Attuazione D.G.R. n. 221 del 16/04/2026. Finanziamento di complessivi €. 196.722,28, di cui € 56.206,36 di parte corrente ed € 140.515,92 in conto capitale.  “Tolfa: Borgo da vivere in autunno/inverno/estate”, finanziato con € 56.206,36 di risorse di parte corrente",
+   "ente": "COMUNE DI TOLFA",
+   "cf_ente": "83000050589",
+   "luogo_istat": "TOLFA",
+   "luogo_nuts": "Roma",
+   "importo": null,
+   "lotti": 1,
+   "cig": [
+    "BD8B6E96C3"
+   ],
+   "cpv": "Servizi di produzione di film e videocassette e servizi connessi",
+   "procedura": "Altra procedura a fase unica",
+   "pubblicazione": "2026-10-29T07:00",
+   "scadenza": null,
+   "link_avviso": "https://pubblicitalegale.anticorruzione.it/bandi/9cc9fc5f-d9cb-486d-92fa-efc7c5297916",
+   "link_documenti": "https://www.acquistinretepa.it/bandi/negoziata/rdo-td/556b0dd0c93fe4dd",
+   "link_ted": null,
+   "aggiudicatari": [],
+   "valore_aggiudicato": null,
+   "kw_score": 3,
+   "kw_trovate": [
+    "video"
+   ],
+   "kw_escluse": [],
+   "esecuzione": "trasferta breve",
+   "fuori_taglia": false,
+   "pertinente": true,
+   "motivo_scarto": null,
+   "primo_avvistamento": "2026-10-29"
+  },
   {
    "id": "anac:4e52e18c-40c8-4d6f-aaee-240b78d17504",
    "fonte": "ANAC PVL",
