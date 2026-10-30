@@ -1,5 +1,5 @@
-# Radar gare Adduma, aggiornato 2026-10-29T10:01
-Letti oggi 98, nuovi 6, gare aperte pertinenti 15. Errori: 0
+# Radar gare Adduma, aggiornato 2026-10-30T10:05
+Letti oggi 102, nuovi 7, gare aperte pertinenti 16. Errori: 0
 
 ## PROCEDURA APERTA PER L’AFFIDAMENTO DEL SERVIZIO DI REALIZZAZIONE E ORGANIZZAZIONE DEGLI “STATI GENERALI DELLA SALUTE SENESE ”  EDIZIONE 2027 e EDIZIONE 2028
 - ente: COMUNE DI SIENA | luogo ISTAT SIENA
@@ -28,6 +28,17 @@ FIERA PESSIMA (TA). BANDO DI GARA EDIZIONE 2027
 - esecuzione: evento in loco | parole chiave: allestiment, fiera
 - avviso: https://pubblicitalegale.anticorruzione.it/bandi/7ec36028-52cd-466d-8a33-945bb4f3ca1a
 - documenti: https://montedoro.traspare.com/pdnd/ted_procedures/3/ted_procedure_has_notices/5/edit
+
+## PROCEDURA NEGOZIATA AI SENSI DELLART. 50, COMMA 1, LETT. e), D.LGS. 36/2023
+Affidamento dei servizi e delle forniture relativi alle Linee A.2, A.3, A.4, B.2, C e D del Progetto Il Cammino dei Mille da Renda a Palermo
+
+- ente: COMUNE DI MONREALE | luogo ISTAT MONREALE
+- tipologia: INDAGINI_DI_MERCATO_SOTTO_SOGLIA | procedura: n.d. | CIG: BD918221D2, BD918232A5, BD91824378, BD9182544B
+- importo: 110.705 € | lotti: 4
+- pubblicato: 30/10/2026 07:00 | scadenza: 12/11/2026 12:00 | primo avvistamento: 2026-10-30
+- esecuzione: da remoto | parole chiave: grafic
+- avviso: https://pubblicitalegale.anticorruzione.it/bandi/5fea0b7d-82b3-4737-8424-69293a1de060
+- documenti: https://appalti-comunemonreale.maggiolicloud.it/PortaleAppalti/it/procedure/codice/G00319
 
 ## PROCEDURA APERTA AI SENSI DELL'ART. 71 DEL D.LGS.36 2023 PER L'AFFIDAMENTO DEL SERVIZIO DI UFFICIO STAMPA, GESTIONE DEI SOCIAL MEDIA E PRODUZIONE GRAFICA  DELL'ORDINE DEGLI PSICOLOGI DELLA TOSCANA
 - ente: ORDINE DEGLI PSICOLOGI DELLA REGIONE TOSCANA | luogo ISTAT FIRENZE

@@ -1,9 +1,9 @@
 {
  "stato": {
-  "aggiornato": "2026-10-29T10:01",
-  "letti_oggi": 98,
-  "nuovi_oggi": 6,
-  "aperte_pertinenti": 15,
+  "aggiornato": "2026-10-30T10:05",
+  "letti_oggi": 102,
+  "nuovi_oggi": 7,
+  "aperte_pertinenti": 16,
   "esiti_pertinenti": 64,
   "scartati_oggi": 30,
   "errori": []
@@ -114,6 +114,44 @@
    "pertinente": true,
    "motivo_scarto": null,
    "primo_avvistamento": "2026-10-21"
+  },
+  {
+   "id": "anac:5fea0b7d-82b3-4737-8424-69293a1de060",
+   "fonte": "ANAC PVL",
+   "tipologia": "INDAGINI_DI_MERCATO_SOTTO_SOGLIA",
+   "titolo": "PROCEDURA NEGOZIATA AI SENSI DELLART. 50, COMMA 1, LETT. e), D.LGS. 36/2023\r\nAffidamento dei servizi e delle forniture relativi alle Linee A.2, A.3, A.4, B.2, C e D del Progetto Il Cammino dei Mille da Renda a Palermo\r\n",
+   "descrizione": "PROCEDURA NEGOZIATA AI SENSI DELLART. 50, COMMA 1, LETT. e), D.LGS. 36/2023\r\nAffidamento dei servizi e delle forniture relativi alle Linee A.2, A.3, A.4, B.2, C e D del Progetto Il Cammino dei Mille da Renda a Palermo\r\n",
+   "ente": "COMUNE DI MONREALE",
+   "cf_ente": "00231740820",
+   "luogo_istat": "MONREALE",
+   "luogo_nuts": "Palermo",
+   "importo": 110704.92,
+   "lotti": 4,
+   "cig": [
+    "BD918221D2",
+    "BD918232A5",
+    "BD91824378",
+    "BD9182544B"
+   ],
+   "cpv": "Servizi di progettazione grafica",
+   "procedura": null,
+   "pubblicazione": "2026-10-30T07:00",
+   "scadenza": "2026-11-12T12:00",
+   "link_avviso": "https://pubblicitalegale.anticorruzione.it/bandi/5fea0b7d-82b3-4737-8424-69293a1de060",
+   "link_documenti": "https://appalti-comunemonreale.maggiolicloud.it/PortaleAppalti/it/procedure/codice/G00319",
+   "link_ted": null,
+   "aggiudicatari": [],
+   "valore_aggiudicato": null,
+   "kw_score": 3,
+   "kw_trovate": [
+    "grafic"
+   ],
+   "kw_escluse": [],
+   "esecuzione": "da remoto",
+   "fuori_taglia": false,
+   "pertinente": true,
+   "motivo_scarto": null,
+   "primo_avvistamento": "2026-10-30"
   },
   {
    "id": "anac:21fb2ff8-7e59-45af-b554-decd6ae05bfe",

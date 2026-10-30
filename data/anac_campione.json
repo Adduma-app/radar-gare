@@ -1,274 +1,16 @@
 [
  {
-  "codiceScheda": "AD2_25",
-  "tipologia": "RISULTATI",
-  "dataPubblicazione": "2026-10-29T07:00:00.727+00:00",
-  "dataScadenza": null,
-  "templates": [
-   {
-    "template": {
-     "metadata": {
-      "link_eform_ted": null,
-      "titolo": null,
-      "descrizione": "Servizio di supporto farmacista"
-     },
-     "sections": [
-      {
-       "name": "SEZ. A - Committente",
-       "fields": {
-        "soggetti_sa": [
-         {
-          "codice_fiscale": "07105121003",
-          "denominazione_amministrazione": "MULTISERVIZI CAERITE SPA"
-         }
-        ]
-       }
-      },
-      {
-       "name": "SEZ. B - Dati Generali",
-       "fields": {
-        "documenti_di_gara_link": "https://www.acquistinretepa.it/bandi/negoziata/rdo-td/94b118f7f6400d4f",
-        "sistema_dinamico_acquisizione": "Nessun sistema dinamico di acquisizione",
-        "tipo_procedura_aggiudicazione": "Altra procedura a fase unica"
-       }
-      },
-      {
-       "name": "SEZ. C - Oggetto",
-       "items": [
-        {
-         "tipo_oggetto": "aggiudicazione",
-         "cig": "BD8D1E4A98",
-         "natura_principale": "Servizi",
-         "descrizione": "Servizio di supporto farmacista",
-         "cpv": "Servizi di consulenza di gestione commerciale",
-         "documenti_di_gara_link": "https://www.acquistinretepa.it/bandi/negoziata/rdo-td/94b118f7f6400d4f",
-         "luogo_nuts": "Roma",
-         "luogo_istat": "CERVETERI",
-         "valore_affidamento": 30000.0,
-         "sistema_dinamico_acquisizione": "Nessun sistema dinamico di acquisizione",
-         "aggiudicatari_ad": [
-          {
-           "importo": 30000.0,
-           "soggetti": [
-            {
-             "codice_fiscale": "RTSMRC84R11G082J",
-             "denominazione": "ORTUSO MARCO"
-            }
-           ]
-          }
-         ],
-         "categorie": [
-          {
-           "codice": "FS",
-           "descrizione": "FORNITURA DI SERVIZI"
-          }
-         ]
-        }
-       ]
-      }
-     ]
-    },
-    "lingua": "it"
-   }
-  ],
-  "idAvviso": "0cfb5e12-1663-4732-8956-06ec0ce907c9",
-  "count": 47.0,
-  "paginationToken": "COSYQhoJKVdcdYahAQAAGgJgARoGEICAgPgHIg5aDGrhxhyVCav3vYBHtw==",
-  "score": 1.0,
-  "scoreDetails": {
-   "value": 1.0,
-   "description": "sum of:",
-   "details": [
-    {
-     "value": 0.0,
-     "description": "match on required clause, product of:",
-     "details": [
-      {
-       "value": 0.0,
-       "description": "# clause",
-       "details": []
-      },
-      {
-       "value": 1.0,
-       "description": "IndexOrDocValuesQuery(indexQuery=$type:dateV2/dataPubblicazione:[1792368000000 TO 1793268105415], dvQuery=$type:dateV2/dataPubblicazione:[1792368000000 TO 1793268105415])",
-       "details": []
-      }
-     ]
-    },
-    {
-     "value": 1.0,
-     "description": "sum of:",
-     "details": [
-      {
-       "value": 1.0,
-       "description": "$type:token/templates.template.sections.items.cpv:[[53 65 72 76 69 7a 69 20 64 69 20 63 6f 6e 73 75 6c 65 6e 7a 61 20 64 69 20 67 65 73 74 69 6f 6e 65 20 63 6f 6d 6d 65 72 63 69 61 6c 65] TO [53 65 72 76 69 7a 69 20 64 69 20 63 6f 6e 73 75 6c 65 6e 7a 61 20 64 69 20 67 65 73 74 69 6f 6e 65 20 63 6f 6d 6d 65 72 63 69 61 6c 65]]",
-       "details": []
-      }
-     ]
-    }
-   ]
-  },
-  "oscurato": false,
-  "noteOscuramento": null,
-  "idAppalto": "9cddc8de-4e9f-4503-9e65-03b8f2333004",
-  "dataPubblicazioneNuovoAvviso": null,
-  "tipoNuovoAvviso": null,
-  "dataPCP": "2026-10-28T10:53:32.000+00:00",
-  "dataCreazione": "2026-10-28T09:53:32.727+00:00",
-  "tipo": "avviso",
-  "attivo": true,
-  "nuovoAvviso": null,
-  "codiceEform": null,
-  "stato": "NON_VERIFICATO",
-  "ambiente": null,
-  "categorie": null
- },
- {
-  "codiceScheda": "A2_29",
-  "tipologia": "RISULTATI",
-  "dataPubblicazione": "2026-10-29T07:00:00.484+00:00",
-  "dataScadenza": null,
-  "templates": [
-   {
-    "template": {
-     "metadata": {
-      "link_eform_ted": null,
-      "titolo": null,
-      "descrizione": "Procedura negoziata ai sensi dell'art. 50, comma 1 lett. e) del D. Lgs n. 36/2023, del servizio di gestione del Search - Sede espositiva dell'archivio storico, nell'ambito del progetto per la gestione integrata e la promozione dei centri d'arte e cultura del comune di Cagliari, per un periodo di 24 (ventiquattro) mesi, prorogabili di ulteriori 2 (due) mesi, presumibilmente dal 01/11/2026."
-     },
-     "sections": [
-      {
-       "name": "SEZ. A - Committente",
-       "fields": {
-        "soggetti_sa": [
-         {
-          "codice_fiscale": "00147990923",
-          "denominazione_amministrazione": "COMUNE DI CAGLIARI"
-         }
-        ]
-       }
-      },
-      {
-       "name": "SEZ. B - Dati Generali",
-       "fields": {
-        "documenti_di_gara_link": "https://appalti.comune.cagliari.it/PortaleAppalti/it/procedure/codice/G02333",
-        "accordo_quadro": "Nulla",
-        "sistema_dinamico_acquisizione": "Nessun sistema dinamico di acquisizione",
-        "tipo_procedura_aggiudicazione": "Negoziata senza previa indizione di gara"
-       }
-      },
-      {
-       "name": "SEZ. C - Oggetto",
-       "items": [
-        {
-         "tipo_oggetto": "aggiudicazione",
-         "cig": "BD49AE502D",
-         "natura_principale": "Servizi",
-         "descrizione": "Procedura negoziata ai sensi dell'art. 50, comma 1 lett. e) del D. Lgs n. 36/2023, del servizio di gestione del Search - Sede espositiva dell'archivio storico, nell'ambito del progetto per la gestione integrata e la promozione dei centri d'arte e cultura del comune di Cagliari, per un periodo di 24 (ventiquattro) mesi, prorogabili di ulteriori 2 (due) mesi, presumibilmente dal 01/11/2026.",
-         "cpv": "Servizi di organizzazione di mostre, fiere e congressi",
-         "valore_complessivo_stimato": 699712.4,
-         "luogo_nuts": "Cagliari",
-         "luogo_istat": "CAGLIARI",
-         "valore_offerta_vincente": 602876.27,
-         "accordo_quadro": "Nulla",
-         "sistema_dinamico_acquisizione": "Nessun sistema dinamico di acquisizione",
-         "aggiudicatari": [
-          {
-           "importo": 602876.27,
-           "soggetti": [
-            {
-             "codice_fiscale": "01896430921",
-             "denominazione": "AGORA' SARDEGNA SOCIETA' COOPERATIVA"
-            },
-            {
-             "codice_fiscale": "03187730928",
-             "denominazione": "SE'MATA"
-            },
-            {
-             "codice_fiscale": "03174750277",
-             "denominazione": "SOCIETA' COOPERATIVA CULTURE"
-            }
-           ]
-          }
-         ],
-         "categorie": [
-          {
-           "codice": "FS",
-           "descrizione": "FORNITURA DI SERVIZI"
-          }
-         ]
-        }
-       ]
-      }
-     ]
-    },
-    "lingua": "it"
-   }
-  ],
-  "idAvviso": "64babc4c-6a5d-4732-b62c-b1da7d771dcd",
-  "count": 47.0,
-  "paginationToken": "CIucQhoJKWRbdYahAQAAGgJgARoGEICAgPgHIg5aDGrh3HGVCav3vYBPkw==",
-  "score": 1.0,
-  "scoreDetails": {
-   "value": 1.0,
-   "description": "sum of:",
-   "details": [
-    {
-     "value": 0.0,
-     "description": "match on required clause, product of:",
-     "details": [
-      {
-       "value": 0.0,
-       "description": "# clause",
-       "details": []
-      },
-      {
-       "value": 1.0,
-       "description": "IndexOrDocValuesQuery(indexQuery=$type:dateV2/dataPubblicazione:[1792368000000 TO 1793268105415], dvQuery=$type:dateV2/dataPubblicazione:[1792368000000 TO 1793268105415])",
-       "details": []
-      }
-     ]
-    },
-    {
-     "value": 1.0,
-     "description": "sum of:",
-     "details": [
-      {
-       "value": 1.0,
-       "description": "$type:token/templates.template.sections.items.cpv:[[53 65 72 76 69 7a 69 20 64 69 20 6f 72 67 61 6e 69 7a 7a 61 7a 69 6f 6e 65 20 64 69 20 6d 6f 73 74 72 65 2c 20 66 69 65 72 65 20 65 20 63 6f 6e 67 72 65 73 73 69] TO [53 65 72 76 69 7a 69 20 64 69 20 6f 72 67 61 6e 69 7a 7a 61 7a 69 6f 6e 65 20 64 69 20 6d 6f 73 74 72 65 2c 20 66 69 65 72 65 20 65 20 63 6f 6e 67 72 65 73 73 69]]",
-       "details": []
-      }
-     ]
-    }
-   ]
-  },
-  "oscurato": false,
-  "noteOscuramento": null,
-  "idAppalto": "279551d6-273b-4236-8790-23985eec9819",
-  "dataPubblicazioneNuovoAvviso": null,
-  "tipoNuovoAvviso": null,
-  "dataPCP": "2026-10-28T12:28:49.000+00:00",
-  "dataCreazione": "2026-10-28T11:28:49.484+00:00",
-  "tipo": "avviso",
-  "attivo": true,
-  "nuovoAvviso": null,
-  "codiceEform": null,
-  "stato": "NON_VERIFICATO",
-  "ambiente": null,
-  "categorie": null
- },
- {
   "codiceScheda": "P1_16",
   "tipologia": "BANDI",
-  "dataPubblicazione": "2026-10-29T07:00:00.446+00:00",
-  "dataScadenza": "2026-11-30T15:00:00.000+00:00",
+  "dataPubblicazione": "2026-10-30T07:00:00.868+00:00",
+  "dataScadenza": "2026-11-30T11:00:00.000+00:00",
   "templates": [
    {
     "template": {
      "metadata": {
-      "link_eform_ted": "https://ted.europa.eu/udl?uri=TED:NOTICE:746852-2026:TEXT:IT:HTML",
-      "titolo": "Procedura aperta, ex art. 71 del Decreto legislativo 31 marzo 2023, n. 36, finalizzata all'affidamento del servizio relativo all'acquisto per un periodo di 24 mesi (più eventuali 9 mesi di proroga), di attività di comunicazione, informazione e divulgazione delle attività istituzionali analogica e digitale dell'Università degli studi di Bergamo",
-      "descrizione": "Procedura aperta, ex art. 71 del Decreto legislativo 31 marzo 2023, n. 36, finalizzata all'affidamento del servizio relativo all'acquisto per un periodo di 24 mesi (più eventuali 9 mesi di proroga), di attività di comunicazione, informazione e divulgazione delle attività istituzionali analogica e digitale dell'Università degli studi di Bergamo"
+      "link_eform_ted": "https://ted.europa.eu/udl?uri=TED:NOTICE:751350-2026:TEXT:IT:HTML",
+      "titolo": "PROCEDURA APERTA EUROPEA AI SENSI DELL’ART. 71 DEL D.LGS. 36/2023 PER LA STIPULA DI UN ACCORDO QUADRO AVENTE AD OGGETTO LA FORNITURA DI SERVIZI DI CONSULENZA STRATEGICA IN AMBITO DI RELAZIONI ISTITUZI",
+      "descrizione": "PROCEDURA APERTA EUROPEA AI SENSI DELL’ART. 71 DEL D.LGS. 36/2023 PER LA STIPULA DI UN ACCORDO QUADRO AVENTE AD OGGETTO LA FORNITURA DI SERVIZI DI CONSULENZA STRATEGICA IN AMBITO DI RELAZIONI ISTITUZIONALI"
      },
      "sections": [
       {
@@ -276,8 +18,8 @@
        "fields": {
         "soggetti_sa": [
          {
-          "codice_fiscale": "80004350163",
-          "denominazione_amministrazione": "UNIVERSITA' DEGLI STUDI DI BERGAMO"
+          "codice_fiscale": "05950941004",
+          "denominazione_amministrazione": "LAZIO INNOVA SPA"
          }
         ]
        }
@@ -285,8 +27,8 @@
       {
        "name": "SEZ. B - Dati Generali",
        "fields": {
-        "documenti_di_gara_link": "https://unibg.ubuy.cineca.it/PortaleAppalti/it/procedure/codice/G03738",
-        "accordo_quadro": "Nulla",
+        "documenti_di_gara_link": "https://centraleacquisti.regione.lazio.it/bandi-e-strumenti-di-acquisto/dettaglio-bando?tipo_doc=BANDO_GARA_PORTALE&id_doc=22773330",
+        "accordo_quadro": "Accordo quadro, senza riapertura della gara",
         "sistema_dinamico_acquisizione": "Nessun sistema dinamico di acquisizione",
         "tipo_procedura_aggiudicazione": "Aperta",
         "asta_elettronica": "false"
@@ -297,20 +39,20 @@
        "items": [
         {
          "tipo_oggetto": "lotto",
-         "cig": "BD858EF978",
+         "cig": "BD8A879CB8",
          "natura_principale": "Servizi",
-         "descrizione": "Procedura aperta, ex art. 71 del Decreto legislativo 31 marzo 2023, n. 36, finalizzata all'affidamento del servizio relativo all'acquisto per un periodo di 24 mesi (più eventuali 9 mesi di proroga), di attività di comunicazione, informazione e divulgazione delle attività istituzionali analogica e digitale dell'Università degli studi di Bergamo",
-         "cpv": "Servizi di campagne pubblicitarie",
-         "valore_complessivo_stimato": 948340.69,
-         "documenti_di_gara_link": "https://unibg.ubuy.cineca.it/PortaleAppalti/it/procedure/codice/G03738",
-         "luogo_nuts": "Bergamo",
-         "luogo_istat": "BERGAMO",
-         "durata_contratto": "24",
+         "descrizione": "Servizi di consulenza in pubbliche relazioni",
+         "cpv": "Servizi di consulenza in pubbliche relazioni",
+         "valore_complessivo_stimato": 407700.0,
+         "documenti_di_gara_link": "https://centraleacquisti.regione.lazio.it/bandi-e-strumenti-di-acquisto/dettaglio-bando?tipo_doc=BANDO_GARA_PORTALE&id_doc=22773330",
+         "luogo_nuts": "Roma",
+         "luogo_istat": "ROMA",
+         "durata_contratto": "1080",
          "asta_elettronica": "false",
          "criteri_aggiudicazione": "Qualità",
          "termine_ricezione": "2026-11-30+01:00",
-         "durata": "24",
-         "accordo_quadro": "Nulla",
+         "durata": "1080",
+         "accordo_quadro": "Accordo quadro, senza riapertura della gara",
          "sistema_dinamico_acquisizione": "Nessun sistema dinamico di acquisizione",
          "categorie": [
           {
@@ -326,9 +68,9 @@
     "lingua": "it"
    }
   ],
-  "idAvviso": "299bb5bc-e38e-4ef5-9d18-bf925dc4f612",
+  "idAvviso": "d27cc7ed-b7f6-4347-948c-3250ed733181",
   "count": 47.0,
-  "paginationToken": "CLfvQhoJKT5bdYahAQAAGgJgARoGEICAgPgHIg5aDGrhbEbunOrJYxY9Zw==",
+  "paginationToken": "COyaQxoJKeS4m4uhAQAAGgJgARoGEICAgPgHIg5aDGrivbyVCav3vYBhRQ==",
   "score": 1.0,
   "scoreDetails": {
    "value": 1.0,
@@ -345,7 +87,7 @@
       },
       {
        "value": 1.0,
-       "description": "IndexOrDocValuesQuery(indexQuery=$type:dateV2/dataPubblicazione:[1792368000000 TO 1793268105415], dvQuery=$type:dateV2/dataPubblicazione:[1792368000000 TO 1793268105415])",
+       "description": "IndexOrDocValuesQuery(indexQuery=$type:dateV2/dataPubblicazione:[1792454400000 TO 1793354726607], dvQuery=$type:dateV2/dataPubblicazione:[1792454400000 TO 1793354726607])",
        "details": []
       }
      ]
@@ -356,7 +98,7 @@
      "details": [
       {
        "value": 1.0,
-       "description": "$type:token/templates.template.sections.items.cpv:[[53 65 72 76 69 7a 69 20 64 69 20 63 61 6d 70 61 67 6e 65 20 70 75 62 62 6c 69 63 69 74 61 72 69 65] TO [53 65 72 76 69 7a 69 20 64 69 20 63 61 6d 70 61 67 6e 65 20 70 75 62 62 6c 69 63 69 74 61 72 69 65]]",
+       "description": "$type:token/templates.template.sections.items.cpv:[[53 65 72 76 69 7a 69 20 64 69 20 63 6f 6e 73 75 6c 65 6e 7a 61 20 69 6e 20 70 75 62 62 6c 69 63 68 65 20 72 65 6c 61 7a 69 6f 6e 69] TO [53 65 72 76 69 7a 69 20 64 69 20 63 6f 6e 73 75 6c 65 6e 7a 61 20 69 6e 20 70 75 62 62 6c 69 63 68 65 20 72 65 6c 61 7a 69 6f 6e 69]]",
        "details": []
       }
      ]
@@ -365,15 +107,289 @@
   },
   "oscurato": false,
   "noteOscuramento": null,
-  "idAppalto": "61828967-c9f1-441a-9c21-f9c0bc46b90b",
+  "idAppalto": "087686a4-b555-4dee-8869-475284a1c807",
   "dataPubblicazioneNuovoAvviso": null,
   "tipoNuovoAvviso": null,
-  "dataPCP": "2026-10-27T23:00:00.000+00:00",
-  "dataCreazione": "2026-10-28T03:30:14.447+00:00",
+  "dataPCP": "2026-10-28T23:00:00.000+00:00",
+  "dataCreazione": "2026-10-29T03:30:04.868+00:00",
   "tipo": "avviso",
   "attivo": true,
   "nuovoAvviso": null,
   "codiceEform": "16",
+  "stato": "NON_VERIFICATO",
+  "ambiente": null,
+  "categorie": null
+ },
+ {
+  "codiceScheda": "M2",
+  "tipologia": "MODIFICHE_CONTRATTUALI",
+  "dataPubblicazione": "2026-10-30T07:00:00.361+00:00",
+  "dataScadenza": null,
+  "templates": [
+   {
+    "template": {
+     "metadata": {
+      "link_eform_ted": null,
+      "titolo": null,
+      "descrizione": "ID.2026_87 SERVIZIO DI COMUNICAZIONE PER IL PROGETTO EXPO DELLE VALLI 2026 – LE ECCELLENZE DELL’AREA METROPOLITANA GENOVESE - CUP D42I24000290004."
+     },
+     "sections": [
+      {
+       "name": "SEZ. A - Committente",
+       "fields": {
+        "soggetti_sa": [
+         {
+          "codice_fiscale": "80007350103",
+          "denominazione_amministrazione": "CITTA' METROPOLITANA DI GENOVA"
+         }
+        ]
+       }
+      },
+      {
+       "name": "SEZ. B - Dati Generali",
+       "fields": {
+        "documenti_di_gara_link": "https://cittametropolitanagenova.tuttogare.it/gare/dettaglio.php?codice=758"
+       }
+      },
+      {
+       "name": "SEZ. C - Oggetto",
+       "items": [
+        {
+         "tipo_oggetto": "aggiudicazione",
+         "cig": "BC0F19B62D",
+         "natura_principale": "Servizi",
+         "descrizione": "ID.2026_87 SERVIZIO DI COMUNICAZIONE PER IL PROGETTO EXPO DELLE VALLI 2026 – LE ECCELLENZE DELL’AREA METROPOLITANA GENOVESE - CUP D42I24000290004",
+         "cpv": "Servizi pubblicitari e di marketing",
+         "documenti_di_gara_link": "https://cittametropolitanagenova.tuttogare.it/gare/dettaglio.php?codice=758",
+         "luogo_nuts": "Genova",
+         "luogo_istat": "GENOVA",
+         "motivazione_modifica": "Modifiche basate su clausole di revisione dei prezzi o opzioni."
+        }
+       ]
+      }
+     ]
+    },
+    "lingua": "it"
+   }
+  ],
+  "idAvviso": "697b9bb5-67c9-4798-86f3-7a9219a12772",
+  "count": 47.0,
+  "paginationToken": "CKqlQxoJKem2m4uhAQAAGgJgARoGEICAgPgHIg5aDGrjLcFyaNV3WwbvmA==",
+  "score": 1.0,
+  "scoreDetails": {
+   "value": 1.0,
+   "description": "sum of:",
+   "details": [
+    {
+     "value": 0.0,
+     "description": "match on required clause, product of:",
+     "details": [
+      {
+       "value": 0.0,
+       "description": "# clause",
+       "details": []
+      },
+      {
+       "value": 1.0,
+       "description": "IndexOrDocValuesQuery(indexQuery=$type:dateV2/dataPubblicazione:[1792454400000 TO 1793354726607], dvQuery=$type:dateV2/dataPubblicazione:[1792454400000 TO 1793354726607])",
+       "details": []
+      }
+     ]
+    },
+    {
+     "value": 1.0,
+     "description": "sum of:",
+     "details": [
+      {
+       "value": 1.0,
+       "description": "$type:token/templates.template.sections.items.cpv:[[53 65 72 76 69 7a 69 20 70 75 62 62 6c 69 63 69 74 61 72 69 20 65 20 64 69 20 6d 61 72 6b 65 74 69 6e 67] TO [53 65 72 76 69 7a 69 20 70 75 62 62 6c 69 63 69 74 61 72 69 20 65 20 64 69 20 6d 61 72 6b 65 74 69 6e 67]]",
+       "details": []
+      }
+     ]
+    }
+   ]
+  },
+  "oscurato": false,
+  "noteOscuramento": null,
+  "idAppalto": "69a42856-c129-48ff-8838-c24679c57b48",
+  "dataPubblicazioneNuovoAvviso": null,
+  "tipoNuovoAvviso": null,
+  "dataPCP": "2026-10-29T12:28:01.000+00:00",
+  "dataCreazione": "2026-10-29T11:28:01.362+00:00",
+  "tipo": "avviso",
+  "attivo": true,
+  "nuovoAvviso": null,
+  "codiceEform": null,
+  "stato": "NON_VERIFICATO",
+  "ambiente": null,
+  "categorie": null
+ },
+ {
+  "codiceScheda": "P7_1_3",
+  "tipologia": "INDAGINI_DI_MERCATO_SOTTO_SOGLIA",
+  "dataPubblicazione": "2026-10-30T07:00:00.148+00:00",
+  "dataScadenza": "2026-11-12T12:00:00.000+00:00",
+  "templates": [
+   {
+    "template": {
+     "metadata": {
+      "link_eform_ted": null,
+      "titolo": null,
+      "descrizione": "PROCEDURA NEGOZIATA AI SENSI DELLART. 50, COMMA 1, LETT. e), D.LGS. 36/2023\r\nAffidamento dei servizi e delle forniture relativi alle Linee A.2, A.3, A.4, B.2, C e D del Progetto Il Cammino dei Mille da Renda a Palermo\r\n"
+     },
+     "sections": [
+      {
+       "name": "SEZ. A - Committente",
+       "fields": {
+        "soggetti_sa": [
+         {
+          "codice_fiscale": "00231740820",
+          "denominazione_amministrazione": "COMUNE DI MONREALE"
+         }
+        ]
+       }
+      },
+      {
+       "name": "SEZ. B - Dati Generali",
+       "fields": {
+        "documenti_di_gara_link": "https://appalti-comunemonreale.maggiolicloud.it/PortaleAppalti/it/procedure/codice/G00319"
+       }
+      },
+      {
+       "name": "SEZ. C - Oggetto",
+       "items": [
+        {
+         "tipo_oggetto": "lotto",
+         "cig": "BD918221D2",
+         "natura_principale": "Servizi",
+         "descrizione": "Da A.2 a A.4 - Grafica, editing, materiali promozionali ed espositivi",
+         "cpv": "Servizi di progettazione grafica",
+         "valore_complessivo_stimato": 6311.48,
+         "documenti_di_gara_link": "https://appalti-comunemonreale.maggiolicloud.it/PortaleAppalti/it/procedure/codice/G00319",
+         "luogo_nuts": "Palermo",
+         "luogo_istat": "MONREALE",
+         "termine_invito": "2026-11-12T12:00:00Z",
+         "categorie": [
+          {
+           "codice": "FS",
+           "descrizione": "FORNITURA DI SERVIZI"
+          }
+         ]
+        },
+        {
+         "tipo_oggetto": "lotto",
+         "cig": "BD918232A5",
+         "natura_principale": "Servizi",
+         "descrizione": "B.2 -Sensibilizzazione e coinvolgimento delle scuole",
+         "cpv": "Seminari di formazione",
+         "valore_complessivo_stimato": 27868.85,
+         "documenti_di_gara_link": "https://appalti-comunemonreale.maggiolicloud.it/PortaleAppalti/it/procedure/codice/G00319",
+         "luogo_nuts": "Palermo",
+         "luogo_istat": "MONREALE",
+         "termine_invito": "2026-11-12T12:00:00Z",
+         "categorie": [
+          {
+           "codice": "FS",
+           "descrizione": "FORNITURA DI SERVIZI"
+          }
+         ]
+        },
+        {
+         "tipo_oggetto": "lotto",
+         "cig": "BD91824378",
+         "natura_principale": "Servizi",
+         "descrizione": "LINEA C -Formazione, workshop e accompagnamento ai Marchi di Qualità",
+         "cpv": "Servizi di formazione",
+         "valore_complessivo_stimato": 36393.44,
+         "documenti_di_gara_link": "https://appalti-comunemonreale.maggiolicloud.it/PortaleAppalti/it/procedure/codice/G00319",
+         "luogo_nuts": "Palermo",
+         "luogo_istat": "MONREALE",
+         "termine_invito": "2026-11-12T12:00:00Z",
+         "categorie": [
+          {
+           "codice": "FS",
+           "descrizione": "FORNITURA DI SERVIZI"
+          }
+         ]
+        },
+        {
+         "tipo_oggetto": "lotto",
+         "cig": "BD9182544B",
+         "natura_principale": "Servizi",
+         "descrizione": "LINEA D -Sito web, eventi, blog tour, campagne social e stampa",
+         "cpv": "Servizi promozionali",
+         "valore_complessivo_stimato": 40131.15,
+         "documenti_di_gara_link": "https://appalti-comunemonreale.maggiolicloud.it/PortaleAppalti/it/procedure/codice/G00319",
+         "luogo_nuts": "Palermo",
+         "luogo_istat": "MONREALE",
+         "termine_invito": "2026-11-12T12:00:00Z",
+         "categorie": [
+          {
+           "codice": "FS",
+           "descrizione": "FORNITURA DI SERVIZI"
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    },
+    "lingua": "it"
+   }
+  ],
+  "idAvviso": "5fea0b7d-82b3-4737-8424-69293a1de060",
+  "count": 47.0,
+  "paginationToken": "CMKdQxoJKRS2m4uhAQAAGgJgARoGEICAgIAIIg5aDGrjD6FyaNV3Wwbkig==",
+  "score": 2.0,
+  "scoreDetails": {
+   "value": 2.0,
+   "description": "sum of:",
+   "details": [
+    {
+     "value": 0.0,
+     "description": "match on required clause, product of:",
+     "details": [
+      {
+       "value": 0.0,
+       "description": "# clause",
+       "details": []
+      },
+      {
+       "value": 1.0,
+       "description": "IndexOrDocValuesQuery(indexQuery=$type:dateV2/dataPubblicazione:[1792454400000 TO 1793354726607], dvQuery=$type:dateV2/dataPubblicazione:[1792454400000 TO 1793354726607])",
+       "details": []
+      }
+     ]
+    },
+    {
+     "value": 2.0,
+     "description": "sum of:",
+     "details": [
+      {
+       "value": 1.0,
+       "description": "$type:token/templates.template.sections.items.cpv:[[53 65 72 76 69 7a 69 20 70 72 6f 6d 6f 7a 69 6f 6e 61 6c 69] TO [53 65 72 76 69 7a 69 20 70 72 6f 6d 6f 7a 69 6f 6e 61 6c 69]]",
+       "details": []
+      },
+      {
+       "value": 1.0,
+       "description": "$type:token/templates.template.sections.items.cpv:[[53 65 72 76 69 7a 69 20 64 69 20 70 72 6f 67 65 74 74 61 7a 69 6f 6e 65 20 67 72 61 66 69 63 61] TO [53 65 72 76 69 7a 69 20 64 69 20 70 72 6f 67 65 74 74 61 7a 69 6f 6e 65 20 67 72 61 66 69 63 61]]",
+       "details": []
+      }
+     ]
+    }
+   ]
+  },
+  "oscurato": false,
+  "noteOscuramento": null,
+  "idAppalto": "a7ffdce1-73d5-493e-b5af-ee1bfb358ddd",
+  "dataPubblicazioneNuovoAvviso": null,
+  "tipoNuovoAvviso": null,
+  "dataPCP": "2026-10-29T10:19:28.000+00:00",
+  "dataCreazione": "2026-10-29T09:19:29.149+00:00",
+  "tipo": "avviso",
+  "attivo": true,
+  "nuovoAvviso": null,
+  "codiceEform": null,
   "stato": "NON_VERIFICATO",
   "ambiente": null,
   "categorie": null
