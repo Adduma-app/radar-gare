@@ -1,5 +1,234 @@
 [
  {
+  "codiceScheda": "M2",
+  "tipologia": "MODIFICHE_CONTRATTUALI",
+  "dataPubblicazione": "2026-11-03T07:00:00.838+00:00",
+  "dataScadenza": null,
+  "templates": [
+   {
+    "template": {
+     "metadata": {
+      "link_eform_ted": null,
+      "titolo": null,
+      "descrizione": "Realizzazione e sviluppo di un progetto relativo al prodotto turismo nautico"
+     },
+     "sections": [
+      {
+       "name": "SEZ. A - Committente",
+       "fields": {
+        "soggetti_sa": [
+         {
+          "codice_fiscale": "05065320482",
+          "denominazione_amministrazione": "TOSCANA PROMOZIONE TURISTICA"
+         }
+        ]
+       }
+      },
+      {
+       "name": "SEZ. B - Dati Generali",
+       "fields": {
+        "documenti_di_gara_link": "https://www.toscanapromozione.it/amministrazione-trasparente"
+       }
+      },
+      {
+       "name": "SEZ. C - Oggetto",
+       "items": [
+        {
+         "tipo_oggetto": "aggiudicazione",
+         "cig": "BA84F3FA0A",
+         "natura_principale": "Servizi",
+         "descrizione": "Realizzazione e sviluppo di un progetto relativo al prodotto turismo nautico",
+         "cpv": "Servizi di marketing",
+         "documenti_di_gara_link": "https://www.toscanapromozione.it/amministrazione-trasparente",
+         "luogo_nuts": "Firenze",
+         "luogo_istat": "FIRENZE",
+         "data_stipula_contratto": "2026-10-14T01:00:00+01:00",
+         "motivazione_modifica": "Modifiche basate su clausole di revisione dei prezzi o opzioni."
+        }
+       ]
+      }
+     ]
+    },
+    "lingua": "it"
+   }
+  ],
+  "idAvviso": "1a0818af-326d-443a-852f-9faab62d2d13",
+  "count": 21.0,
+  "paginationToken": "CPitQxoJKcYoNaChAQAAGgJgARoGEICAgPgHIg5aDGronfWY51g+2TqYwA==",
+  "score": 1.0,
+  "scoreDetails": {
+   "value": 1.0,
+   "description": "sum of:",
+   "details": [
+    {
+     "value": 0.0,
+     "description": "match on required clause, product of:",
+     "details": [
+      {
+       "value": 0.0,
+       "description": "# clause",
+       "details": []
+      },
+      {
+       "value": 1.0,
+       "description": "IndexOrDocValuesQuery(indexQuery=$type:dateV2/dataPubblicazione:[1792800000000 TO 1793703362737], dvQuery=$type:dateV2/dataPubblicazione:[1792800000000 TO 1793703362737])",
+       "details": []
+      }
+     ]
+    },
+    {
+     "value": 1.0,
+     "description": "sum of:",
+     "details": [
+      {
+       "value": 1.0,
+       "description": "$type:token/templates.template.sections.items.cpv:[[53 65 72 76 69 7a 69 20 64 69 20 6d 61 72 6b 65 74 69 6e 67] TO [53 65 72 76 69 7a 69 20 64 69 20 6d 61 72 6b 65 74 69 6e 67]]",
+       "details": []
+      }
+     ]
+    }
+   ]
+  },
+  "oscurato": false,
+  "noteOscuramento": null,
+  "idAppalto": "a557b1f0-7b75-458f-afc2-6fdef7ebe958",
+  "dataPubblicazioneNuovoAvviso": null,
+  "tipoNuovoAvviso": null,
+  "dataPCP": "2026-11-02T15:28:05.000+00:00",
+  "dataCreazione": "2026-11-02T14:28:05.838+00:00",
+  "tipo": "avviso",
+  "attivo": true,
+  "nuovoAvviso": null,
+  "codiceEform": null,
+  "stato": "NON_VERIFICATO",
+  "ambiente": null,
+  "categorie": null
+ },
+ {
+  "codiceScheda": "AD2_25",
+  "tipologia": "RISULTATI",
+  "dataPubblicazione": "2026-11-03T07:00:00.127+00:00",
+  "dataScadenza": null,
+  "templates": [
+   {
+    "template": {
+     "metadata": {
+      "link_eform_ted": null,
+      "titolo": null,
+      "descrizione": "Affidamento noleggio N. 19 casette in occasione della manifestazione Capricci d'Autunno XXIV anno 2026"
+     },
+     "sections": [
+      {
+       "name": "SEZ. A - Committente",
+       "fields": {
+        "soggetti_sa": [
+         {
+          "codice_fiscale": "00352170831",
+          "denominazione_amministrazione": "COMUNE DI FIUMEDINISI"
+         }
+        ]
+       }
+      },
+      {
+       "name": "SEZ. B - Dati Generali",
+       "fields": {
+        "documenti_di_gara_link": "https://www.acquistinretepa.it/bandi/negoziata/rdo-td/d225c1d88a5dcae6",
+        "sistema_dinamico_acquisizione": "Nessun sistema dinamico di acquisizione",
+        "tipo_procedura_aggiudicazione": "Altra procedura a fase unica"
+       }
+      },
+      {
+       "name": "SEZ. C - Oggetto",
+       "items": [
+        {
+         "tipo_oggetto": "aggiudicazione",
+         "cig": "BD9C1314C7",
+         "natura_principale": "Servizi",
+         "descrizione": "Affidamento noleggio N. 19 casette in occasione della manifestazione Capricci d'Autunno XXIV anno 2026",
+         "cpv": "Servizi di organizzazione di mostre, fiere e congressi",
+         "documenti_di_gara_link": "https://www.acquistinretepa.it/bandi/negoziata/rdo-td/d225c1d88a5dcae6",
+         "luogo_nuts": "Messina",
+         "luogo_istat": "FIUMEDINISI",
+         "valore_affidamento": 7900.0,
+         "sistema_dinamico_acquisizione": "Nessun sistema dinamico di acquisizione",
+         "aggiudicatari_ad": [
+          {
+           "importo": 7900.0,
+           "soggetti": [
+            {
+             "codice_fiscale": "03856600832",
+             "denominazione": "NETTUNO LAB SOCIETA' A RESPONSABILITA' LIMITATA SEMPLIFICATA UNIP ERSONALE"
+            }
+           ]
+          }
+         ],
+         "categorie": [
+          {
+           "codice": "FS",
+           "descrizione": "FORNITURA DI SERVIZI"
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    },
+    "lingua": "it"
+   }
+  ],
+  "idAvviso": "a9a9893c-4849-4398-9ed5-abbec099d9bb",
+  "count": 21.0,
+  "paginationToken": "COKfQxoJKf8lNaChAQAAGgJgARoGEICAgPgHIg5aDGroZhSY51g+2TqIWg==",
+  "score": 1.0,
+  "scoreDetails": {
+   "value": 1.0,
+   "description": "sum of:",
+   "details": [
+    {
+     "value": 0.0,
+     "description": "match on required clause, product of:",
+     "details": [
+      {
+       "value": 0.0,
+       "description": "# clause",
+       "details": []
+      },
+      {
+       "value": 1.0,
+       "description": "IndexOrDocValuesQuery(indexQuery=$type:dateV2/dataPubblicazione:[1792800000000 TO 1793703362737], dvQuery=$type:dateV2/dataPubblicazione:[1792800000000 TO 1793703362737])",
+       "details": []
+      }
+     ]
+    },
+    {
+     "value": 1.0,
+     "description": "sum of:",
+     "details": [
+      {
+       "value": 1.0,
+       "description": "$type:token/templates.template.sections.items.cpv:[[53 65 72 76 69 7a 69 20 64 69 20 6f 72 67 61 6e 69 7a 7a 61 7a 69 6f 6e 65 20 64 69 20 6d 6f 73 74 72 65 2c 20 66 69 65 72 65 20 65 20 63 6f 6e 67 72 65 73 73 69] TO [53 65 72 76 69 7a 69 20 64 69 20 6f 72 67 61 6e 69 7a 7a 61 7a 69 6f 6e 65 20 64 69 20 6d 6f 73 74 72 65 2c 20 66 69 65 72 65 20 65 20 63 6f 6e 67 72 65 73 73 69]]",
+       "details": []
+      }
+     ]
+    }
+   ]
+  },
+  "oscurato": false,
+  "noteOscuramento": null,
+  "idAppalto": "366e4dc3-f5d8-4292-9923-46c7a2875d29",
+  "dataPubblicazioneNuovoAvviso": null,
+  "tipoNuovoAvviso": null,
+  "dataPCP": "2026-11-02T11:29:39.000+00:00",
+  "dataCreazione": "2026-11-02T10:29:40.128+00:00",
+  "tipo": "avviso",
+  "attivo": true,
+  "nuovoAvviso": null,
+  "codiceEform": null,
+  "stato": "NON_VERIFICATO",
+  "ambiente": null,
+  "categorie": null
+ },
+ {
   "codiceScheda": "AD2_25",
   "tipologia": "RISULTATI",
   "dataPubblicazione": "2026-11-02T07:00:00.802+00:00",
@@ -75,7 +304,7 @@
   ],
   "idAvviso": "7155f9ae-7a27-4ce0-bbdd-5aeb9107b5d2",
   "count": 21.0,
-  "paginationToken": "CM+SQhoJKaLMDpuhAQAAGgJgARoGEICAgPgHIg5aDGrkjTxaEaRb31bnFg==",
+  "paginationToken": "CNDpQxoJKaLMDpuhAQAAGgJgARoGEICAgPgHIg5aDGrkjTxaEaRb31bnFg==",
   "score": 1.0,
   "scoreDetails": {
    "value": 1.0,
@@ -92,7 +321,7 @@
       },
       {
        "value": 1.0,
-       "description": "IndexOrDocValuesQuery(indexQuery=$type:dateV2/dataPubblicazione:[1792713600000 TO 1793618107615], dvQuery=$type:dateV2/dataPubblicazione:[1792713600000 TO 1793618107615])",
+       "description": "IndexOrDocValuesQuery(indexQuery=$type:dateV2/dataPubblicazione:[1792800000000 TO 1793703362737], dvQuery=$type:dateV2/dataPubblicazione:[1792800000000 TO 1793703362737])",
        "details": []
       }
      ]
@@ -117,214 +346,6 @@
   "tipoNuovoAvviso": null,
   "dataPCP": "2026-10-30T13:27:40.000+00:00",
   "dataCreazione": "2026-10-30T12:27:40.802+00:00",
-  "tipo": "avviso",
-  "attivo": true,
-  "nuovoAvviso": null,
-  "codiceEform": null,
-  "stato": "NON_VERIFICATO",
-  "ambiente": null,
-  "categorie": null
- },
- {
-  "codiceScheda": "M2",
-  "tipologia": "MODIFICHE_CONTRATTUALI",
-  "dataPubblicazione": "2026-11-02T07:00:00.614+00:00",
-  "dataScadenza": null,
-  "templates": [
-   {
-    "template": {
-     "metadata": {
-      "link_eform_ted": null,
-      "titolo": null,
-      "descrizione": "UTA_digit - Servizio di comunicazione e promozione"
-     },
-     "sections": [
-      {
-       "name": "SEZ. A - Committente",
-       "fields": {
-        "soggetti_sa": [
-         {
-          "codice_fiscale": "03069890360",
-          "denominazione_amministrazione": "UNIONE DELLE TERRE D'ARGINE"
-         }
-        ]
-       }
-      },
-      {
-       "name": "SEZ. B - Dati Generali",
-       "fields": {
-        "documenti_di_gara_link": "https://trasparenza.terredargine.it"
-       }
-      },
-      {
-       "name": "SEZ. C - Oggetto",
-       "items": [
-        {
-         "tipo_oggetto": "aggiudicazione",
-         "cig": "B99DB404B4",
-         "natura_principale": "Servizi",
-         "descrizione": "UTA_digit - Servizio di comunicazione e promozione",
-         "cpv": "Servizi pubblicitari e di marketing",
-         "documenti_di_gara_link": "https://trasparenza.terredargine.it",
-         "luogo_nuts": "Modena",
-         "luogo_istat": "CARPI",
-         "motivazione_modifica": "Necessità di ulteriori lavori, forniture e servizi eseguiti dall'appaltatore originale."
-        }
-       ]
-      }
-     ]
-    },
-    "lingua": "it"
-   }
-  ],
-  "idAvviso": "af07cc93-2788-4519-8b99-e3ab0464193d",
-  "count": 21.0,
-  "paginationToken": "COqfQhoJKebLDpuhAQAAGgJgARoGEICAgPgHIg5aDGrkx0RaEaRb31bvEA==",
-  "score": 1.0,
-  "scoreDetails": {
-   "value": 1.0,
-   "description": "sum of:",
-   "details": [
-    {
-     "value": 0.0,
-     "description": "match on required clause, product of:",
-     "details": [
-      {
-       "value": 0.0,
-       "description": "# clause",
-       "details": []
-      },
-      {
-       "value": 1.0,
-       "description": "IndexOrDocValuesQuery(indexQuery=$type:dateV2/dataPubblicazione:[1792713600000 TO 1793618107615], dvQuery=$type:dateV2/dataPubblicazione:[1792713600000 TO 1793618107615])",
-       "details": []
-      }
-     ]
-    },
-    {
-     "value": 1.0,
-     "description": "sum of:",
-     "details": [
-      {
-       "value": 1.0,
-       "description": "$type:token/templates.template.sections.items.cpv:[[53 65 72 76 69 7a 69 20 70 75 62 62 6c 69 63 69 74 61 72 69 20 65 20 64 69 20 6d 61 72 6b 65 74 69 6e 67] TO [53 65 72 76 69 7a 69 20 70 75 62 62 6c 69 63 69 74 61 72 69 20 65 20 64 69 20 6d 61 72 6b 65 74 69 6e 67]]",
-       "details": []
-      }
-     ]
-    }
-   ]
-  },
-  "oscurato": false,
-  "noteOscuramento": null,
-  "idAppalto": "8cbf9d46-557e-4469-8c63-b6ee785cc50b",
-  "dataPubblicazioneNuovoAvviso": null,
-  "tipoNuovoAvviso": null,
-  "dataPCP": "2026-10-30T17:35:16.000+00:00",
-  "dataCreazione": "2026-10-30T16:35:16.614+00:00",
-  "tipo": "avviso",
-  "attivo": true,
-  "nuovoAvviso": null,
-  "codiceEform": null,
-  "stato": "NON_VERIFICATO",
-  "ambiente": null,
-  "categorie": null
- },
- {
-  "codiceScheda": "M2",
-  "tipologia": "MODIFICHE_CONTRATTUALI",
-  "dataPubblicazione": "2026-11-02T07:00:00.032+00:00",
-  "dataScadenza": null,
-  "templates": [
-   {
-    "template": {
-     "metadata": {
-      "link_eform_ted": null,
-      "titolo": null,
-      "descrizione": "Servizio di impaginazione stampa tre volumi"
-     },
-     "sections": [
-      {
-       "name": "SEZ. A - Committente",
-       "fields": {
-        "soggetti_sa": [
-         {
-          "codice_fiscale": "96060790225",
-          "denominazione_amministrazione": "MUSEO CASTELLO DEL BUONCONSIGLIO MONUMENTI E COLLEZIONI PROVINCIALI"
-         }
-        ]
-       }
-      },
-      {
-       "name": "SEZ. B - Dati Generali",
-       "fields": {
-        "documenti_di_gara_link": "https://dati.anticorruzione.it/superset/dashboard/appalti/"
-       }
-      },
-      {
-       "name": "SEZ. C - Oggetto",
-       "items": [
-        {
-         "tipo_oggetto": "aggiudicazione",
-         "cig": "B43B5049D4",
-         "natura_principale": "Servizi",
-         "descrizione": "Servizio di impaginazione stampa tre volumi",
-         "cpv": "Servizi di progettazione grafica",
-         "documenti_di_gara_link": "https://dati.anticorruzione.it/superset/dashboard/appalti/",
-         "luogo_istat": "TRENTO",
-         "data_stipula_contratto": "2025-02-14T01:00:00+01:00",
-         "motivazione_modifica": "Le modifiche non sono sostanziali."
-        }
-       ]
-      }
-     ]
-    },
-    "lingua": "it"
-   }
-  ],
-  "idAvviso": "b168f59b-73b2-4933-9167-80a5a037cb78",
-  "count": 21.0,
-  "paginationToken": "CLCYQhoJKaDJDpuhAQAAGgJgARoGEICAgPgHIg5aDGrkgy5aEaRb31bk4A==",
-  "score": 1.0,
-  "scoreDetails": {
-   "value": 1.0,
-   "description": "sum of:",
-   "details": [
-    {
-     "value": 0.0,
-     "description": "match on required clause, product of:",
-     "details": [
-      {
-       "value": 0.0,
-       "description": "# clause",
-       "details": []
-      },
-      {
-       "value": 1.0,
-       "description": "IndexOrDocValuesQuery(indexQuery=$type:dateV2/dataPubblicazione:[1792713600000 TO 1793618107615], dvQuery=$type:dateV2/dataPubblicazione:[1792713600000 TO 1793618107615])",
-       "details": []
-      }
-     ]
-    },
-    {
-     "value": 1.0,
-     "description": "sum of:",
-     "details": [
-      {
-       "value": 1.0,
-       "description": "$type:token/templates.template.sections.items.cpv:[[53 65 72 76 69 7a 69 20 64 69 20 70 72 6f 67 65 74 74 61 7a 69 6f 6e 65 20 67 72 61 66 69 63 61] TO [53 65 72 76 69 7a 69 20 64 69 20 70 72 6f 67 65 74 74 61 7a 69 6f 6e 65 20 67 72 61 66 69 63 61]]",
-       "details": []
-      }
-     ]
-    }
-   ]
-  },
-  "oscurato": false,
-  "noteOscuramento": null,
-  "idAppalto": "bb7f4a5a-acdd-4d20-8078-ff9f60f12b5b",
-  "dataPubblicazioneNuovoAvviso": null,
-  "tipoNuovoAvviso": null,
-  "dataPCP": "2026-10-30T12:44:45.000+00:00",
-  "dataCreazione": "2026-10-30T11:44:46.032+00:00",
   "tipo": "avviso",
   "attivo": true,
   "nuovoAvviso": null,

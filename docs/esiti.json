@@ -1,14 +1,89 @@
 {
  "stato": {
-  "aggiornato": "2026-11-02T11:15",
-  "letti_oggi": 59,
-  "nuovi_oggi": 5,
+  "aggiornato": "2026-11-03T10:56",
+  "letti_oggi": 58,
+  "nuovi_oggi": 3,
   "aperte_pertinenti": 16,
-  "esiti_pertinenti": 64,
-  "scartati_oggi": 15,
+  "esiti_pertinenti": 66,
+  "scartati_oggi": 16,
   "errori": []
  },
  "esiti": [
+  {
+   "id": "anac:a95dcebd-4485-47e9-953e-27870c080ab2",
+   "fonte": "ANAC PVL",
+   "tipologia": "RISULTATI",
+   "titolo": "Cena sociale per evento CS3 Conference 2027",
+   "descrizione": "Cena sociale per evento CS3 Conference 2027",
+   "ente": "ISTITUTO NAZIONALE DI FISICA NUCLEARE (I.N.F.N.)",
+   "cf_ente": "84001850589",
+   "luogo_istat": "BOLOGNA",
+   "luogo_nuts": "Bologna",
+   "importo": null,
+   "lotti": 1,
+   "cig": [
+    "BD9EA4178D"
+   ],
+   "cpv": "Servizi di organizzazione di eventi",
+   "procedura": "Negoziata senza previa indizione di gara",
+   "pubblicazione": "2026-11-03T07:00",
+   "scadenza": null,
+   "link_avviso": "https://pubblicitalegale.anticorruzione.it/bandi/a95dcebd-4485-47e9-953e-27870c080ab2",
+   "link_documenti": "https://www.acquistinretepa.it/bandi/negoziata/rdo-td/0977b0c9373dbbec",
+   "link_ted": null,
+   "aggiudicatari": [],
+   "valore_aggiudicato": null,
+   "kw_score": 7,
+   "kw_trovate": [
+    "social",
+    "evento",
+    "eventi"
+   ],
+   "kw_escluse": [],
+   "esecuzione": "evento in loco",
+   "fuori_taglia": false,
+   "pertinente": true,
+   "motivo_scarto": null,
+   "primo_avvistamento": "2026-11-03"
+  },
+  {
+   "id": "anac:b00bc2b5-d7c7-4f0a-861f-3580519e1b78",
+   "fonte": "ANAC PVL",
+   "tipologia": "RISULTATI",
+   "titolo": "GARA EUROPEA A PROCEDURA APERTA PER LAFFIDAMENTO DELL'ACCORDO QUADRO CON UN UNICO OPERATORE ECONOMICO PER L'AFFIDAMENTO DEL SERVIZIO DI PROGETTAZIONE, COMUNICAZIONE E REALIZZAZIONE DI EVENTI NEL CENTRO STORICO DI FORLI' IN OCCASIONE DELLE FESTIVITA' NATALIZIE NEL QUADRIENNIO 2026/2030",
+   "descrizione": "GARA EUROPEA A PROCEDURA APERTA PER LAFFIDAMENTO DELL'ACCORDO QUADRO CON UN UNICO OPERATORE ECONOMICO PER L'AFFIDAMENTO DEL SERVIZIO DI PROGETTAZIONE, COMUNICAZIONE E REALIZZAZIONE DI EVENTI NEL CENTRO STORICO DI FORLI' IN OCCASIONE DELLE FESTIVITA' NATALIZIE NEL QUADRIENNIO 2026/2030",
+   "ente": "COMUNE DI FORLI'",
+   "cf_ente": "00606620409",
+   "luogo_istat": "FORLI'",
+   "luogo_nuts": "Forlì-Cesena",
+   "importo": 920000.0,
+   "lotti": 1,
+   "cig": [
+    "BB89C3A112"
+   ],
+   "cpv": "Servizi di organizzazione di eventi",
+   "procedura": "Aperta",
+   "pubblicazione": "2026-11-03T07:00",
+   "scadenza": null,
+   "link_avviso": "https://pubblicitalegale.anticorruzione.it/bandi/b00bc2b5-d7c7-4f0a-861f-3580519e1b78",
+   "link_documenti": "https://portaleappalti.comune.forli.fc.it/PortaleAppalti/it/procedure/codice/G01558",
+   "link_ted": "https://ted.europa.eu/udl?uri=TED:NOTICE:758250-2026:TEXT:IT:HTML",
+   "aggiudicatari": [
+    "SGP GRANDI EVENTI SRL"
+   ],
+   "valore_aggiudicato": 848243.84,
+   "kw_score": 4,
+   "kw_trovate": [
+    "comunicazione",
+    "eventi"
+   ],
+   "kw_escluse": [],
+   "esecuzione": "evento in loco",
+   "fuori_taglia": true,
+   "pertinente": true,
+   "motivo_scarto": null,
+   "primo_avvistamento": "2026-11-03"
+  },
   {
    "id": "anac:64babc4c-6a5d-4732-b62c-b1da7d771dcd",
    "fonte": "ANAC PVL",
