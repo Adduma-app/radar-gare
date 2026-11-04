@@ -1,14 +1,51 @@
 {
  "stato": {
-  "aggiornato": "2026-11-03T10:56",
-  "letti_oggi": 58,
+  "aggiornato": "2026-11-04T10:59",
+  "letti_oggi": 68,
   "nuovi_oggi": 3,
   "aperte_pertinenti": 16,
-  "esiti_pertinenti": 66,
-  "scartati_oggi": 16,
+  "esiti_pertinenti": 67,
+  "scartati_oggi": 23,
   "errori": []
  },
  "esiti": [
+  {
+   "id": "anac:696c469e-2f8c-4cfa-b498-4c43f93885a6",
+   "fonte": "ANAC PVL",
+   "tipologia": "RISULTATI",
+   "titolo": "Concerto Pasquetta 2026",
+   "descrizione": "Concerto Pasquetta 2026",
+   "ente": "COMUNE DI ARZACHENA",
+   "cf_ente": "82000900900",
+   "luogo_istat": "ARZACHENA",
+   "luogo_nuts": "Sassari",
+   "importo": 324709.09,
+   "lotti": 1,
+   "cig": [
+    "BAADC9613E"
+   ],
+   "cpv": "Servizi di organizzazione di eventi culturali",
+   "procedura": "Negoziata senza previa indizione di gara",
+   "pubblicazione": "2026-11-04T07:00",
+   "scadenza": null,
+   "link_avviso": "https://pubblicitalegale.anticorruzione.it/bandi/696c469e-2f8c-4cfa-b498-4c43f93885a6",
+   "link_documenti": null,
+   "link_ted": null,
+   "aggiudicatari": [
+    "SVL SYENRGIE SRLS"
+   ],
+   "valore_aggiudicato": 324709.09,
+   "kw_score": 2,
+   "kw_trovate": [
+    "eventi"
+   ],
+   "kw_escluse": [],
+   "esecuzione": "evento in loco",
+   "fuori_taglia": true,
+   "pertinente": true,
+   "motivo_scarto": null,
+   "primo_avvistamento": "2026-11-04"
+  },
   {
    "id": "anac:a95dcebd-4485-47e9-953e-27870c080ab2",
    "fonte": "ANAC PVL",

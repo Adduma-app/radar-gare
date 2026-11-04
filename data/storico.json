@@ -4558,5 +4558,115 @@
   "pertinente": true,
   "motivo_scarto": null,
   "primo_avvistamento": "2026-11-03"
+ },
+ "anac:2281a940-fe1a-43dd-9656-4368e0d699b6": {
+  "id": "anac:2281a940-fe1a-43dd-9656-4368e0d699b6",
+  "fonte": "ANAC PVL",
+  "tipologia": "MODIFICHE_CONTRATTUALI",
+  "titolo": "TRATTATIVA DIRETTA, EX ART. 50, COMMA 1, LETT. B) D.LGS 36/2023 PER IL SERVIZIO “GRAPHIC DESIGN PER VISIT ROMAGNA 2025-2026”.  CUP: E99G24000180004",
+  "descrizione": "TRATTATIVA DIRETTA, EX ART. 50, COMMA 1, LETT. B) D.LGS 36/2023 PER IL SERVIZIO “GRAPHIC DESIGN PER VISIT ROMAGNA 2025-2026”.  CUP: E99G24000180004",
+  "ente": "DESTINAZIONE TURISTICA ROMAGNA (PROVINCE FERRARA, FORLI'CESENA, RAVENNA, RIMINI)",
+  "cf_ente": "91165780403",
+  "luogo_istat": "RIMINI",
+  "luogo_nuts": "Rimini",
+  "importo": null,
+  "lotti": 1,
+  "cig": [
+   "B8D1A83EFE"
+  ],
+  "cpv": "Servizi di progettazione grafica",
+  "procedura": null,
+  "pubblicazione": "2026-11-04T07:00",
+  "scadenza": null,
+  "link_avviso": "https://pubblicitalegale.anticorruzione.it/bandi/2281a940-fe1a-43dd-9656-4368e0d699b6",
+  "link_documenti": "https://destinazioneromagna.tuttogare.it/gare/dettaglio.php?codice=162",
+  "link_ted": null,
+  "aggiudicatari": [],
+  "valore_aggiudicato": null,
+  "kw_score": 3,
+  "kw_trovate": [
+   "grafic"
+  ],
+  "kw_escluse": [],
+  "esecuzione": "da remoto",
+  "fuori_taglia": false,
+  "pertinente": true,
+  "motivo_scarto": null,
+  "primo_avvistamento": "2026-11-04"
+ },
+ "anac:6cc6d5dc-6473-4a06-9122-3adc2c4dce2c": {
+  "id": "anac:6cc6d5dc-6473-4a06-9122-3adc2c4dce2c",
+  "fonte": "ANAC PVL",
+  "tipologia": "MODIFICHE_CONTRATTUALI",
+  "titolo": "Organizzazione e gestione Rassegna cinematografica estiva e fornitura di un palco, schermo, service e altre attività",
+  "descrizione": "Organizzazione e gestione Rassegna cinematografica estiva e fornitura di un palco, schermo, service e altre attività",
+  "ente": "COMUNE DI SEGRATE",
+  "cf_ente": "83503670156",
+  "luogo_istat": "SEGRATE",
+  "luogo_nuts": "Milano",
+  "importo": null,
+  "lotti": 1,
+  "cig": [
+   "BC2CD99348"
+  ],
+  "cpv": "Servizi di organizzazione di eventi",
+  "procedura": null,
+  "pubblicazione": "2026-11-04T07:00",
+  "scadenza": null,
+  "link_avviso": "https://pubblicitalegale.anticorruzione.it/bandi/6cc6d5dc-6473-4a06-9122-3adc2c4dce2c",
+  "link_documenti": "http://www.ariaspa.it",
+  "link_ted": null,
+  "aggiudicatari": [],
+  "valore_aggiudicato": null,
+  "kw_score": 3,
+  "kw_trovate": [
+   "grafic",
+   "eventi"
+  ],
+  "kw_escluse": [
+   "fornitura di"
+  ],
+  "esecuzione": "evento in loco",
+  "fuori_taglia": false,
+  "pertinente": true,
+  "motivo_scarto": null,
+  "primo_avvistamento": "2026-11-04"
+ },
+ "anac:696c469e-2f8c-4cfa-b498-4c43f93885a6": {
+  "id": "anac:696c469e-2f8c-4cfa-b498-4c43f93885a6",
+  "fonte": "ANAC PVL",
+  "tipologia": "RISULTATI",
+  "titolo": "Concerto Pasquetta 2026",
+  "descrizione": "Concerto Pasquetta 2026",
+  "ente": "COMUNE DI ARZACHENA",
+  "cf_ente": "82000900900",
+  "luogo_istat": "ARZACHENA",
+  "luogo_nuts": "Sassari",
+  "importo": 324709.09,
+  "lotti": 1,
+  "cig": [
+   "BAADC9613E"
+  ],
+  "cpv": "Servizi di organizzazione di eventi culturali",
+  "procedura": "Negoziata senza previa indizione di gara",
+  "pubblicazione": "2026-11-04T07:00",
+  "scadenza": null,
+  "link_avviso": "https://pubblicitalegale.anticorruzione.it/bandi/696c469e-2f8c-4cfa-b498-4c43f93885a6",
+  "link_documenti": null,
+  "link_ted": null,
+  "aggiudicatari": [
+   "SVL SYENRGIE SRLS"
+  ],
+  "valore_aggiudicato": 324709.09,
+  "kw_score": 2,
+  "kw_trovate": [
+   "eventi"
+  ],
+  "kw_escluse": [],
+  "esecuzione": "evento in loco",
+  "fuori_taglia": true,
+  "pertinente": true,
+  "motivo_scarto": null,
+  "primo_avvistamento": "2026-11-04"
  }
 }

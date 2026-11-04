@@ -1,16 +1,16 @@
 [
  {
-  "codiceScheda": "M2",
-  "tipologia": "MODIFICHE_CONTRATTUALI",
-  "dataPubblicazione": "2026-11-03T07:00:00.838+00:00",
-  "dataScadenza": null,
+  "codiceScheda": "P7_1_3",
+  "tipologia": "INDAGINI_DI_MERCATO_SOTTO_SOGLIA",
+  "dataPubblicazione": "2026-11-04T07:00:00.942+00:00",
+  "dataScadenza": "2026-11-19T12:00:00.000+00:00",
   "templates": [
    {
     "template": {
      "metadata": {
       "link_eform_ted": null,
       "titolo": null,
-      "descrizione": "Realizzazione e sviluppo di un progetto relativo al prodotto turismo nautico"
+      "descrizione": "Affidamento in concessione della gestione, organizzazione, svolgimento e promozione dei mercati per vendita diretta di prodotti agricoli di Lungorio IV novembre – Piazza Martiri di Belfiore e di Piazza Porta Giulia"
      },
      "sections": [
       {
@@ -18,8 +18,8 @@
        "fields": {
         "soggetti_sa": [
          {
-          "codice_fiscale": "05065320482",
-          "denominazione_amministrazione": "TOSCANA PROMOZIONE TURISTICA"
+          "codice_fiscale": "00189800204",
+          "denominazione_amministrazione": "COMUNE DI MANTOVA"
          }
         ]
        }
@@ -27,141 +27,23 @@
       {
        "name": "SEZ. B - Dati Generali",
        "fields": {
-        "documenti_di_gara_link": "https://www.toscanapromozione.it/amministrazione-trasparente"
+        "documenti_di_gara_link": "https://www.ariaspa.it"
        }
       },
       {
        "name": "SEZ. C - Oggetto",
        "items": [
         {
-         "tipo_oggetto": "aggiudicazione",
-         "cig": "BA84F3FA0A",
+         "tipo_oggetto": "lotto",
+         "cig": "BD9A9B1039",
          "natura_principale": "Servizi",
-         "descrizione": "Realizzazione e sviluppo di un progetto relativo al prodotto turismo nautico",
-         "cpv": "Servizi di marketing",
-         "documenti_di_gara_link": "https://www.toscanapromozione.it/amministrazione-trasparente",
-         "luogo_nuts": "Firenze",
-         "luogo_istat": "FIRENZE",
-         "data_stipula_contratto": "2026-10-14T01:00:00+01:00",
-         "motivazione_modifica": "Modifiche basate su clausole di revisione dei prezzi o opzioni."
-        }
-       ]
-      }
-     ]
-    },
-    "lingua": "it"
-   }
-  ],
-  "idAvviso": "1a0818af-326d-443a-852f-9faab62d2d13",
-  "count": 21.0,
-  "paginationToken": "CPitQxoJKcYoNaChAQAAGgJgARoGEICAgPgHIg5aDGronfWY51g+2TqYwA==",
-  "score": 1.0,
-  "scoreDetails": {
-   "value": 1.0,
-   "description": "sum of:",
-   "details": [
-    {
-     "value": 0.0,
-     "description": "match on required clause, product of:",
-     "details": [
-      {
-       "value": 0.0,
-       "description": "# clause",
-       "details": []
-      },
-      {
-       "value": 1.0,
-       "description": "IndexOrDocValuesQuery(indexQuery=$type:dateV2/dataPubblicazione:[1792800000000 TO 1793703362737], dvQuery=$type:dateV2/dataPubblicazione:[1792800000000 TO 1793703362737])",
-       "details": []
-      }
-     ]
-    },
-    {
-     "value": 1.0,
-     "description": "sum of:",
-     "details": [
-      {
-       "value": 1.0,
-       "description": "$type:token/templates.template.sections.items.cpv:[[53 65 72 76 69 7a 69 20 64 69 20 6d 61 72 6b 65 74 69 6e 67] TO [53 65 72 76 69 7a 69 20 64 69 20 6d 61 72 6b 65 74 69 6e 67]]",
-       "details": []
-      }
-     ]
-    }
-   ]
-  },
-  "oscurato": false,
-  "noteOscuramento": null,
-  "idAppalto": "a557b1f0-7b75-458f-afc2-6fdef7ebe958",
-  "dataPubblicazioneNuovoAvviso": null,
-  "tipoNuovoAvviso": null,
-  "dataPCP": "2026-11-02T15:28:05.000+00:00",
-  "dataCreazione": "2026-11-02T14:28:05.838+00:00",
-  "tipo": "avviso",
-  "attivo": true,
-  "nuovoAvviso": null,
-  "codiceEform": null,
-  "stato": "NON_VERIFICATO",
-  "ambiente": null,
-  "categorie": null
- },
- {
-  "codiceScheda": "AD2_25",
-  "tipologia": "RISULTATI",
-  "dataPubblicazione": "2026-11-03T07:00:00.127+00:00",
-  "dataScadenza": null,
-  "templates": [
-   {
-    "template": {
-     "metadata": {
-      "link_eform_ted": null,
-      "titolo": null,
-      "descrizione": "Affidamento noleggio N. 19 casette in occasione della manifestazione Capricci d'Autunno XXIV anno 2026"
-     },
-     "sections": [
-      {
-       "name": "SEZ. A - Committente",
-       "fields": {
-        "soggetti_sa": [
-         {
-          "codice_fiscale": "00352170831",
-          "denominazione_amministrazione": "COMUNE DI FIUMEDINISI"
-         }
-        ]
-       }
-      },
-      {
-       "name": "SEZ. B - Dati Generali",
-       "fields": {
-        "documenti_di_gara_link": "https://www.acquistinretepa.it/bandi/negoziata/rdo-td/d225c1d88a5dcae6",
-        "sistema_dinamico_acquisizione": "Nessun sistema dinamico di acquisizione",
-        "tipo_procedura_aggiudicazione": "Altra procedura a fase unica"
-       }
-      },
-      {
-       "name": "SEZ. C - Oggetto",
-       "items": [
-        {
-         "tipo_oggetto": "aggiudicazione",
-         "cig": "BD9C1314C7",
-         "natura_principale": "Servizi",
-         "descrizione": "Affidamento noleggio N. 19 casette in occasione della manifestazione Capricci d'Autunno XXIV anno 2026",
+         "descrizione": "Affidamento in concessione della gestione, organizzazione, svolgimento e promozione dei mercati per vendita diretta di prodotti agricoli di Lungorio IV novembre – Piazza Martiri di Belfiore e di Piazza Porta Giulia",
          "cpv": "Servizi di organizzazione di mostre, fiere e congressi",
-         "documenti_di_gara_link": "https://www.acquistinretepa.it/bandi/negoziata/rdo-td/d225c1d88a5dcae6",
-         "luogo_nuts": "Messina",
-         "luogo_istat": "FIUMEDINISI",
-         "valore_affidamento": 7900.0,
-         "sistema_dinamico_acquisizione": "Nessun sistema dinamico di acquisizione",
-         "aggiudicatari_ad": [
-          {
-           "importo": 7900.0,
-           "soggetti": [
-            {
-             "codice_fiscale": "03856600832",
-             "denominazione": "NETTUNO LAB SOCIETA' A RESPONSABILITA' LIMITATA SEMPLIFICATA UNIP ERSONALE"
-            }
-           ]
-          }
-         ],
+         "valore_complessivo_stimato": 513000.0,
+         "documenti_di_gara_link": "https://www.ariaspa.it",
+         "luogo_nuts": "Mantova",
+         "luogo_istat": "MANTOVA",
+         "termine_invito": "2026-11-19T12:00:00Z",
          "categorie": [
           {
            "codice": "FS",
@@ -176,9 +58,9 @@
     "lingua": "it"
    }
   ],
-  "idAvviso": "a9a9893c-4849-4398-9ed5-abbec099d9bb",
-  "count": 21.0,
-  "paginationToken": "COKfQxoJKf8lNaChAQAAGgJgARoGEICAgPgHIg5aDGroZhSY51g+2TqIWg==",
+  "idAvviso": "afe48aa0-fa81-4275-93bd-f4fe6c4d7ab1",
+  "count": 28.0,
+  "paginationToken": "CJurQxoJKS6FW6WhAQAAGgJgARoGEICAgPgHIg5aDGrpqcfiB8RoFEC89w==",
   "score": 1.0,
   "scoreDetails": {
    "value": 1.0,
@@ -195,7 +77,7 @@
       },
       {
        "value": 1.0,
-       "description": "IndexOrDocValuesQuery(indexQuery=$type:dateV2/dataPubblicazione:[1792800000000 TO 1793703362737], dvQuery=$type:dateV2/dataPubblicazione:[1792800000000 TO 1793703362737])",
+       "description": "IndexOrDocValuesQuery(indexQuery=$type:dateV2/dataPubblicazione:[1792886400000 TO 1793789962477], dvQuery=$type:dateV2/dataPubblicazione:[1792886400000 TO 1793789962477])",
        "details": []
       }
      ]
@@ -215,11 +97,115 @@
   },
   "oscurato": false,
   "noteOscuramento": null,
-  "idAppalto": "366e4dc3-f5d8-4292-9923-46c7a2875d29",
+  "idAppalto": "f093bed1-032d-4763-b534-56cebf79fa83",
   "dataPubblicazioneNuovoAvviso": null,
   "tipoNuovoAvviso": null,
-  "dataPCP": "2026-11-02T11:29:39.000+00:00",
-  "dataCreazione": "2026-11-02T10:29:40.128+00:00",
+  "dataPCP": "2026-11-03T10:30:47.000+00:00",
+  "dataCreazione": "2026-11-03T09:30:47.943+00:00",
+  "tipo": "avviso",
+  "attivo": true,
+  "nuovoAvviso": null,
+  "codiceEform": null,
+  "stato": "NON_VERIFICATO",
+  "ambiente": null,
+  "categorie": null
+ },
+ {
+  "codiceScheda": "M2",
+  "tipologia": "MODIFICHE_CONTRATTUALI",
+  "dataPubblicazione": "2026-11-04T07:00:00.802+00:00",
+  "dataScadenza": null,
+  "templates": [
+   {
+    "template": {
+     "metadata": {
+      "link_eform_ted": null,
+      "titolo": null,
+      "descrizione": "TRATTATIVA DIRETTA, EX ART. 50, COMMA 1, LETT. B) D.LGS 36/2023 PER IL SERVIZIO “GRAPHIC DESIGN PER VISIT ROMAGNA 2025-2026”.  CUP: E99G24000180004"
+     },
+     "sections": [
+      {
+       "name": "SEZ. A - Committente",
+       "fields": {
+        "soggetti_sa": [
+         {
+          "codice_fiscale": "91165780403",
+          "denominazione_amministrazione": "DESTINAZIONE TURISTICA ROMAGNA (PROVINCE FERRARA, FORLI'CESENA, RAVENNA, RIMINI)"
+         }
+        ]
+       }
+      },
+      {
+       "name": "SEZ. B - Dati Generali",
+       "fields": {
+        "documenti_di_gara_link": "https://destinazioneromagna.tuttogare.it/gare/dettaglio.php?codice=162"
+       }
+      },
+      {
+       "name": "SEZ. C - Oggetto",
+       "items": [
+        {
+         "tipo_oggetto": "aggiudicazione",
+         "cig": "B8D1A83EFE",
+         "natura_principale": "Servizi",
+         "descrizione": "TRATTATIVA DIRETTA, EX ART. 50, COMMA 1, LETT. B) D.LGS 36/2023 PER IL SERVIZIO “GRAPHIC DESIGN PER VISIT ROMAGNA 2025-2026”.  CUP: E99G24000180004",
+         "cpv": "Servizi di progettazione grafica",
+         "documenti_di_gara_link": "https://destinazioneromagna.tuttogare.it/gare/dettaglio.php?codice=162",
+         "luogo_nuts": "Rimini",
+         "luogo_istat": "RIMINI",
+         "motivazione_modifica": "Modifiche dovute al fatto che un nuovo contraente sostituisce l'aggiudicatario iniziale perché gli succede o perché il committente si assume gli obblighi del contraente principale nei confronti dei suoi subappaltatori."
+        }
+       ]
+      }
+     ]
+    },
+    "lingua": "it"
+   }
+  ],
+  "idAvviso": "2281a940-fe1a-43dd-9656-4368e0d699b6",
+  "count": 28.0,
+  "paginationToken": "CJ60QxoJKaKEW6WhAQAAGgJgARoGEICAgPgHIg5aDGrpwRviB8RoFEDF9w==",
+  "score": 1.0,
+  "scoreDetails": {
+   "value": 1.0,
+   "description": "sum of:",
+   "details": [
+    {
+     "value": 0.0,
+     "description": "match on required clause, product of:",
+     "details": [
+      {
+       "value": 0.0,
+       "description": "# clause",
+       "details": []
+      },
+      {
+       "value": 1.0,
+       "description": "IndexOrDocValuesQuery(indexQuery=$type:dateV2/dataPubblicazione:[1792886400000 TO 1793789962477], dvQuery=$type:dateV2/dataPubblicazione:[1792886400000 TO 1793789962477])",
+       "details": []
+      }
+     ]
+    },
+    {
+     "value": 1.0,
+     "description": "sum of:",
+     "details": [
+      {
+       "value": 1.0,
+       "description": "$type:token/templates.template.sections.items.cpv:[[53 65 72 76 69 7a 69 20 64 69 20 70 72 6f 67 65 74 74 61 7a 69 6f 6e 65 20 67 72 61 66 69 63 61] TO [53 65 72 76 69 7a 69 20 64 69 20 70 72 6f 67 65 74 74 61 7a 69 6f 6e 65 20 67 72 61 66 69 63 61]]",
+       "details": []
+      }
+     ]
+    }
+   ]
+  },
+  "oscurato": false,
+  "noteOscuramento": null,
+  "idAppalto": "b6b4417c-3b1e-4f9e-accf-301e81943028",
+  "dataPubblicazioneNuovoAvviso": null,
+  "tipoNuovoAvviso": null,
+  "dataPCP": "2026-11-03T12:10:19.000+00:00",
+  "dataCreazione": "2026-11-03T11:10:19.802+00:00",
   "tipo": "avviso",
   "attivo": true,
   "nuovoAvviso": null,
@@ -231,7 +217,7 @@
  {
   "codiceScheda": "AD2_25",
   "tipologia": "RISULTATI",
-  "dataPubblicazione": "2026-11-02T07:00:00.802+00:00",
+  "dataPubblicazione": "2026-11-04T07:00:00.517+00:00",
   "dataScadenza": null,
   "templates": [
    {
@@ -239,7 +225,7 @@
      "metadata": {
       "link_eform_ted": null,
       "titolo": null,
-      "descrizione": "affidamento servizio pubbliche affissioni fino al 31 dicembre 2026"
+      "descrizione": "Affidamento progetto Abruzzo  Cuore Manufatturiero del Made in Italy"
      },
      "sections": [
       {
@@ -247,8 +233,8 @@
        "fields": {
         "soggetti_sa": [
          {
-          "codice_fiscale": "82000230878",
-          "denominazione_amministrazione": "COMUNE DI CALTAGIRONE"
+          "codice_fiscale": "02558590697",
+          "denominazione_amministrazione": "CAMERA DI COMMERCIO INDUSTRIA ARTIGIANATO AGRICOLTURA CHIETI PESCARA"
          }
         ]
        }
@@ -256,10 +242,9 @@
       {
        "name": "SEZ. B - Dati Generali",
        "fields": {
-        "documenti_di_gara_link": "https://www.acquistinretepa.it/bandi/negoziata/rdo-td/074fbcafb5b0d595",
-        "accordo_quadro": "Nulla",
+        "documenti_di_gara_link": "https://www.acquistinretepa.it/bandi/negoziata/rdo-td/3fdbac6cd249b092",
         "sistema_dinamico_acquisizione": "Nessun sistema dinamico di acquisizione",
-        "tipo_procedura_aggiudicazione": "Negoziata senza previa indizione di gara"
+        "tipo_procedura_aggiudicazione": "Altra procedura a fase unica"
        }
       },
       {
@@ -267,23 +252,22 @@
        "items": [
         {
          "tipo_oggetto": "aggiudicazione",
-         "cig": "BD986A86C3",
+         "cig": "BDA046D093",
          "natura_principale": "Servizi",
-         "descrizione": "affidamento servizio pubbliche affissioni fino al 31 dicembre 2026",
-         "cpv": "Servizi di consulenza in pubbliche relazioni",
-         "documenti_di_gara_link": "https://www.acquistinretepa.it/bandi/negoziata/rdo-td/074fbcafb5b0d595",
-         "luogo_nuts": "Catania",
-         "luogo_istat": "CALTAGIRONE",
-         "valore_affidamento": 27450.0,
-         "accordo_quadro": "Nulla",
+         "descrizione": "Affidamento progetto Abruzzo  Cuore Manufatturiero del Made in Italy",
+         "cpv": "Servizi di organizzazione di mostre, fiere e congressi",
+         "documenti_di_gara_link": "https://www.acquistinretepa.it/bandi/negoziata/rdo-td/3fdbac6cd249b092",
+         "luogo_nuts": "Abruzzo",
+         "luogo_istat": "CHIETI",
+         "valore_affidamento": 40900.0,
          "sistema_dinamico_acquisizione": "Nessun sistema dinamico di acquisizione",
          "aggiudicatari_ad": [
           {
-           "importo": 27450.0,
+           "importo": 40900.0,
            "soggetti": [
             {
-             "codice_fiscale": "TRMNGL83P22B428V",
-             "denominazione": "AB SERVICE DI ANGELO TROMBINO"
+             "codice_fiscale": "13194800150",
+             "denominazione": "FIERA MILANO"
             }
            ]
           }
@@ -302,9 +286,9 @@
     "lingua": "it"
    }
   ],
-  "idAvviso": "7155f9ae-7a27-4ce0-bbdd-5aeb9107b5d2",
-  "count": 21.0,
-  "paginationToken": "CNDpQxoJKaLMDpuhAQAAGgJgARoGEICAgPgHIg5aDGrkjTxaEaRb31bnFg==",
+  "idAvviso": "023b59b9-b3d0-44ab-b388-904471ef0da4",
+  "count": 28.0,
+  "paginationToken": "CMGpQxoJKYWDW6WhAQAAGgJgARoGEICAgPgHIg5aDGrpqT7iB8RoFEC8wQ==",
   "score": 1.0,
   "scoreDetails": {
    "value": 1.0,
@@ -321,7 +305,7 @@
       },
       {
        "value": 1.0,
-       "description": "IndexOrDocValuesQuery(indexQuery=$type:dateV2/dataPubblicazione:[1792800000000 TO 1793703362737], dvQuery=$type:dateV2/dataPubblicazione:[1792800000000 TO 1793703362737])",
+       "description": "IndexOrDocValuesQuery(indexQuery=$type:dateV2/dataPubblicazione:[1792886400000 TO 1793789962477], dvQuery=$type:dateV2/dataPubblicazione:[1792886400000 TO 1793789962477])",
        "details": []
       }
      ]
@@ -332,7 +316,7 @@
      "details": [
       {
        "value": 1.0,
-       "description": "$type:token/templates.template.sections.items.cpv:[[53 65 72 76 69 7a 69 20 64 69 20 63 6f 6e 73 75 6c 65 6e 7a 61 20 69 6e 20 70 75 62 62 6c 69 63 68 65 20 72 65 6c 61 7a 69 6f 6e 69] TO [53 65 72 76 69 7a 69 20 64 69 20 63 6f 6e 73 75 6c 65 6e 7a 61 20 69 6e 20 70 75 62 62 6c 69 63 68 65 20 72 65 6c 61 7a 69 6f 6e 69]]",
+       "description": "$type:token/templates.template.sections.items.cpv:[[53 65 72 76 69 7a 69 20 64 69 20 6f 72 67 61 6e 69 7a 7a 61 7a 69 6f 6e 65 20 64 69 20 6d 6f 73 74 72 65 2c 20 66 69 65 72 65 20 65 20 63 6f 6e 67 72 65 73 73 69] TO [53 65 72 76 69 7a 69 20 64 69 20 6f 72 67 61 6e 69 7a 7a 61 7a 69 6f 6e 65 20 64 69 20 6d 6f 73 74 72 65 2c 20 66 69 65 72 65 20 65 20 63 6f 6e 67 72 65 73 73 69]]",
        "details": []
       }
      ]
@@ -341,11 +325,11 @@
   },
   "oscurato": false,
   "noteOscuramento": null,
-  "idAppalto": "2ab633da-77ab-4c57-8164-505e666092f7",
+  "idAppalto": "5d83baa7-bebf-4ff8-ba22-ee10b0118723",
   "dataPubblicazioneNuovoAvviso": null,
   "tipoNuovoAvviso": null,
-  "dataPCP": "2026-10-30T13:27:40.000+00:00",
-  "dataCreazione": "2026-10-30T12:27:40.802+00:00",
+  "dataPCP": "2026-11-03T10:28:30.000+00:00",
+  "dataCreazione": "2026-11-03T09:28:30.517+00:00",
   "tipo": "avviso",
   "attivo": true,
   "nuovoAvviso": null,

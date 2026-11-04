@@ -1,5 +1,5 @@
-# Radar gare Adduma, aggiornato 2026-11-03T10:56
-Letti oggi 58, nuovi 3, gare aperte pertinenti 16. Errori: 0
+# Radar gare Adduma, aggiornato 2026-11-04T10:59
+Letti oggi 68, nuovi 3, gare aperte pertinenti 16. Errori: 0
 
 ## PROCEDURA APERTA PER L’AFFIDAMENTO DEL SERVIZIO DI REALIZZAZIONE E ORGANIZZAZIONE DEGLI “STATI GENERALI DELLA SALUTE SENESE ”  EDIZIONE 2027 e EDIZIONE 2028
 - ente: COMUNE DI SIENA | luogo ISTAT SIENA
