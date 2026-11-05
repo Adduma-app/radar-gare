@@ -1,223 +1,8 @@
 [
  {
-  "codiceScheda": "P7_1_3",
-  "tipologia": "INDAGINI_DI_MERCATO_SOTTO_SOGLIA",
-  "dataPubblicazione": "2026-11-04T07:00:00.942+00:00",
-  "dataScadenza": "2026-11-19T12:00:00.000+00:00",
-  "templates": [
-   {
-    "template": {
-     "metadata": {
-      "link_eform_ted": null,
-      "titolo": null,
-      "descrizione": "Affidamento in concessione della gestione, organizzazione, svolgimento e promozione dei mercati per vendita diretta di prodotti agricoli di Lungorio IV novembre – Piazza Martiri di Belfiore e di Piazza Porta Giulia"
-     },
-     "sections": [
-      {
-       "name": "SEZ. A - Committente",
-       "fields": {
-        "soggetti_sa": [
-         {
-          "codice_fiscale": "00189800204",
-          "denominazione_amministrazione": "COMUNE DI MANTOVA"
-         }
-        ]
-       }
-      },
-      {
-       "name": "SEZ. B - Dati Generali",
-       "fields": {
-        "documenti_di_gara_link": "https://www.ariaspa.it"
-       }
-      },
-      {
-       "name": "SEZ. C - Oggetto",
-       "items": [
-        {
-         "tipo_oggetto": "lotto",
-         "cig": "BD9A9B1039",
-         "natura_principale": "Servizi",
-         "descrizione": "Affidamento in concessione della gestione, organizzazione, svolgimento e promozione dei mercati per vendita diretta di prodotti agricoli di Lungorio IV novembre – Piazza Martiri di Belfiore e di Piazza Porta Giulia",
-         "cpv": "Servizi di organizzazione di mostre, fiere e congressi",
-         "valore_complessivo_stimato": 513000.0,
-         "documenti_di_gara_link": "https://www.ariaspa.it",
-         "luogo_nuts": "Mantova",
-         "luogo_istat": "MANTOVA",
-         "termine_invito": "2026-11-19T12:00:00Z",
-         "categorie": [
-          {
-           "codice": "FS",
-           "descrizione": "FORNITURA DI SERVIZI"
-          }
-         ]
-        }
-       ]
-      }
-     ]
-    },
-    "lingua": "it"
-   }
-  ],
-  "idAvviso": "afe48aa0-fa81-4275-93bd-f4fe6c4d7ab1",
-  "count": 28.0,
-  "paginationToken": "CJurQxoJKS6FW6WhAQAAGgJgARoGEICAgPgHIg5aDGrpqcfiB8RoFEC89w==",
-  "score": 1.0,
-  "scoreDetails": {
-   "value": 1.0,
-   "description": "sum of:",
-   "details": [
-    {
-     "value": 0.0,
-     "description": "match on required clause, product of:",
-     "details": [
-      {
-       "value": 0.0,
-       "description": "# clause",
-       "details": []
-      },
-      {
-       "value": 1.0,
-       "description": "IndexOrDocValuesQuery(indexQuery=$type:dateV2/dataPubblicazione:[1792886400000 TO 1793789962477], dvQuery=$type:dateV2/dataPubblicazione:[1792886400000 TO 1793789962477])",
-       "details": []
-      }
-     ]
-    },
-    {
-     "value": 1.0,
-     "description": "sum of:",
-     "details": [
-      {
-       "value": 1.0,
-       "description": "$type:token/templates.template.sections.items.cpv:[[53 65 72 76 69 7a 69 20 64 69 20 6f 72 67 61 6e 69 7a 7a 61 7a 69 6f 6e 65 20 64 69 20 6d 6f 73 74 72 65 2c 20 66 69 65 72 65 20 65 20 63 6f 6e 67 72 65 73 73 69] TO [53 65 72 76 69 7a 69 20 64 69 20 6f 72 67 61 6e 69 7a 7a 61 7a 69 6f 6e 65 20 64 69 20 6d 6f 73 74 72 65 2c 20 66 69 65 72 65 20 65 20 63 6f 6e 67 72 65 73 73 69]]",
-       "details": []
-      }
-     ]
-    }
-   ]
-  },
-  "oscurato": false,
-  "noteOscuramento": null,
-  "idAppalto": "f093bed1-032d-4763-b534-56cebf79fa83",
-  "dataPubblicazioneNuovoAvviso": null,
-  "tipoNuovoAvviso": null,
-  "dataPCP": "2026-11-03T10:30:47.000+00:00",
-  "dataCreazione": "2026-11-03T09:30:47.943+00:00",
-  "tipo": "avviso",
-  "attivo": true,
-  "nuovoAvviso": null,
-  "codiceEform": null,
-  "stato": "NON_VERIFICATO",
-  "ambiente": null,
-  "categorie": null
- },
- {
-  "codiceScheda": "M2",
-  "tipologia": "MODIFICHE_CONTRATTUALI",
-  "dataPubblicazione": "2026-11-04T07:00:00.802+00:00",
-  "dataScadenza": null,
-  "templates": [
-   {
-    "template": {
-     "metadata": {
-      "link_eform_ted": null,
-      "titolo": null,
-      "descrizione": "TRATTATIVA DIRETTA, EX ART. 50, COMMA 1, LETT. B) D.LGS 36/2023 PER IL SERVIZIO “GRAPHIC DESIGN PER VISIT ROMAGNA 2025-2026”.  CUP: E99G24000180004"
-     },
-     "sections": [
-      {
-       "name": "SEZ. A - Committente",
-       "fields": {
-        "soggetti_sa": [
-         {
-          "codice_fiscale": "91165780403",
-          "denominazione_amministrazione": "DESTINAZIONE TURISTICA ROMAGNA (PROVINCE FERRARA, FORLI'CESENA, RAVENNA, RIMINI)"
-         }
-        ]
-       }
-      },
-      {
-       "name": "SEZ. B - Dati Generali",
-       "fields": {
-        "documenti_di_gara_link": "https://destinazioneromagna.tuttogare.it/gare/dettaglio.php?codice=162"
-       }
-      },
-      {
-       "name": "SEZ. C - Oggetto",
-       "items": [
-        {
-         "tipo_oggetto": "aggiudicazione",
-         "cig": "B8D1A83EFE",
-         "natura_principale": "Servizi",
-         "descrizione": "TRATTATIVA DIRETTA, EX ART. 50, COMMA 1, LETT. B) D.LGS 36/2023 PER IL SERVIZIO “GRAPHIC DESIGN PER VISIT ROMAGNA 2025-2026”.  CUP: E99G24000180004",
-         "cpv": "Servizi di progettazione grafica",
-         "documenti_di_gara_link": "https://destinazioneromagna.tuttogare.it/gare/dettaglio.php?codice=162",
-         "luogo_nuts": "Rimini",
-         "luogo_istat": "RIMINI",
-         "motivazione_modifica": "Modifiche dovute al fatto che un nuovo contraente sostituisce l'aggiudicatario iniziale perché gli succede o perché il committente si assume gli obblighi del contraente principale nei confronti dei suoi subappaltatori."
-        }
-       ]
-      }
-     ]
-    },
-    "lingua": "it"
-   }
-  ],
-  "idAvviso": "2281a940-fe1a-43dd-9656-4368e0d699b6",
-  "count": 28.0,
-  "paginationToken": "CJ60QxoJKaKEW6WhAQAAGgJgARoGEICAgPgHIg5aDGrpwRviB8RoFEDF9w==",
-  "score": 1.0,
-  "scoreDetails": {
-   "value": 1.0,
-   "description": "sum of:",
-   "details": [
-    {
-     "value": 0.0,
-     "description": "match on required clause, product of:",
-     "details": [
-      {
-       "value": 0.0,
-       "description": "# clause",
-       "details": []
-      },
-      {
-       "value": 1.0,
-       "description": "IndexOrDocValuesQuery(indexQuery=$type:dateV2/dataPubblicazione:[1792886400000 TO 1793789962477], dvQuery=$type:dateV2/dataPubblicazione:[1792886400000 TO 1793789962477])",
-       "details": []
-      }
-     ]
-    },
-    {
-     "value": 1.0,
-     "description": "sum of:",
-     "details": [
-      {
-       "value": 1.0,
-       "description": "$type:token/templates.template.sections.items.cpv:[[53 65 72 76 69 7a 69 20 64 69 20 70 72 6f 67 65 74 74 61 7a 69 6f 6e 65 20 67 72 61 66 69 63 61] TO [53 65 72 76 69 7a 69 20 64 69 20 70 72 6f 67 65 74 74 61 7a 69 6f 6e 65 20 67 72 61 66 69 63 61]]",
-       "details": []
-      }
-     ]
-    }
-   ]
-  },
-  "oscurato": false,
-  "noteOscuramento": null,
-  "idAppalto": "b6b4417c-3b1e-4f9e-accf-301e81943028",
-  "dataPubblicazioneNuovoAvviso": null,
-  "tipoNuovoAvviso": null,
-  "dataPCP": "2026-11-03T12:10:19.000+00:00",
-  "dataCreazione": "2026-11-03T11:10:19.802+00:00",
-  "tipo": "avviso",
-  "attivo": true,
-  "nuovoAvviso": null,
-  "codiceEform": null,
-  "stato": "NON_VERIFICATO",
-  "ambiente": null,
-  "categorie": null
- },
- {
   "codiceScheda": "AD2_25",
   "tipologia": "RISULTATI",
-  "dataPubblicazione": "2026-11-04T07:00:00.517+00:00",
+  "dataPubblicazione": "2026-11-05T07:00:00.912+00:00",
   "dataScadenza": null,
   "templates": [
    {
@@ -225,7 +10,7 @@
      "metadata": {
       "link_eform_ted": null,
       "titolo": null,
-      "descrizione": "Affidamento progetto Abruzzo  Cuore Manufatturiero del Made in Italy"
+      "descrizione": "GOING GLOBAL DESIGN IN PUGLIA SERVIZI PER DELEGAZIONE BUYER DANESI PROGRAMMA DI PROMOZIONE INTERNAZIONALE DELLE IMPRESE PUGLIESI PUGLIA GOING GLOBAL PUGLIA PROGRAMMA DI INTERNAZIONALIZZAZIONE E ATTRAZIONE DEGLI INVESTIMENTI ESTERI CUP B38I25003500003 e codice MIR C0305.69"
      },
      "sections": [
       {
@@ -233,8 +18,8 @@
        "fields": {
         "soggetti_sa": [
          {
-          "codice_fiscale": "02558590697",
-          "denominazione_amministrazione": "CAMERA DI COMMERCIO INDUSTRIA ARTIGIANATO AGRICOLTURA CHIETI PESCARA"
+          "codice_fiscale": "80000270720",
+          "denominazione_amministrazione": "UNIONCAMERE PUGLIA"
          }
         ]
        }
@@ -242,7 +27,7 @@
       {
        "name": "SEZ. B - Dati Generali",
        "fields": {
-        "documenti_di_gara_link": "https://www.acquistinretepa.it/bandi/negoziata/rdo-td/3fdbac6cd249b092",
+        "documenti_di_gara_link": "https://www.acquistinretepa.it/bandi/negoziata/rdo-td/283517c303752a2e",
         "sistema_dinamico_acquisizione": "Nessun sistema dinamico di acquisizione",
         "tipo_procedura_aggiudicazione": "Altra procedura a fase unica"
        }
@@ -252,22 +37,22 @@
        "items": [
         {
          "tipo_oggetto": "aggiudicazione",
-         "cig": "BDA046D093",
+         "cig": "BDA5291C62",
          "natura_principale": "Servizi",
-         "descrizione": "Affidamento progetto Abruzzo  Cuore Manufatturiero del Made in Italy",
-         "cpv": "Servizi di organizzazione di mostre, fiere e congressi",
-         "documenti_di_gara_link": "https://www.acquistinretepa.it/bandi/negoziata/rdo-td/3fdbac6cd249b092",
-         "luogo_nuts": "Abruzzo",
-         "luogo_istat": "CHIETI",
-         "valore_affidamento": 40900.0,
+         "descrizione": "GOING GLOBAL DESIGN IN PUGLIA SERVIZI PER DELEGAZIONE BUYER DANESI PROGRAMMA DI PROMOZIONE INTERNAZIONALE DELLE IMPRESE PUGLIESI PUGLIA GOING GLOBAL PUGLIA PROGRAMMA DI INTERNAZIONALIZZAZIONE E ATTRAZIONE DEGLI INVESTIMENTI ESTERI CUP B38I25003500003 e codice MIR C0305.69",
+         "cpv": "Servizi di consulenza in pubbliche relazioni",
+         "documenti_di_gara_link": "https://www.acquistinretepa.it/bandi/negoziata/rdo-td/283517c303752a2e",
+         "luogo_nuts": "Puglia",
+         "luogo_istat": "BARI",
+         "valore_affidamento": 7750.0,
          "sistema_dinamico_acquisizione": "Nessun sistema dinamico di acquisizione",
          "aggiudicatari_ad": [
           {
-           "importo": 40900.0,
+           "importo": 7750.0,
            "soggetti": [
             {
-             "codice_fiscale": "13194800150",
-             "denominazione": "FIERA MILANO"
+             "codice_fiscale": "00033326432",
+             "denominazione": "33326432"
             }
            ]
           }
@@ -286,9 +71,9 @@
     "lingua": "it"
    }
   ],
-  "idAvviso": "023b59b9-b3d0-44ab-b388-904471ef0da4",
-  "count": 28.0,
-  "paginationToken": "CMGpQxoJKYWDW6WhAQAAGgJgARoGEICAgPgHIg5aDGrpqT7iB8RoFEC8wQ==",
+  "idAvviso": "e59a1a04-0049-4765-be24-8a8be69cff09",
+  "count": 38.0,
+  "paginationToken": "CIXFRBoJKRDhgaqhAQAAGgJgARoGEICAgPgHIg5aDGrq7pIUSy1VGzqrFg==",
   "score": 1.0,
   "scoreDetails": {
    "value": 1.0,
@@ -305,7 +90,235 @@
       },
       {
        "value": 1.0,
-       "description": "IndexOrDocValuesQuery(indexQuery=$type:dateV2/dataPubblicazione:[1792886400000 TO 1793789962477], dvQuery=$type:dateV2/dataPubblicazione:[1792886400000 TO 1793789962477])",
+       "description": "IndexOrDocValuesQuery(indexQuery=$type:dateV2/dataPubblicazione:[1792972800000 TO 1793876371568], dvQuery=$type:dateV2/dataPubblicazione:[1792972800000 TO 1793876371568])",
+       "details": []
+      }
+     ]
+    },
+    {
+     "value": 1.0,
+     "description": "sum of:",
+     "details": [
+      {
+       "value": 1.0,
+       "description": "$type:token/templates.template.sections.items.cpv:[[53 65 72 76 69 7a 69 20 64 69 20 63 6f 6e 73 75 6c 65 6e 7a 61 20 69 6e 20 70 75 62 62 6c 69 63 68 65 20 72 65 6c 61 7a 69 6f 6e 69] TO [53 65 72 76 69 7a 69 20 64 69 20 63 6f 6e 73 75 6c 65 6e 7a 61 20 69 6e 20 70 75 62 62 6c 69 63 68 65 20 72 65 6c 61 7a 69 6f 6e 69]]",
+       "details": []
+      }
+     ]
+    }
+   ]
+  },
+  "oscurato": false,
+  "noteOscuramento": null,
+  "idAppalto": "a59651e8-ac3d-41d5-9f02-2256ac0b6fa2",
+  "dataPubblicazioneNuovoAvviso": null,
+  "tipoNuovoAvviso": null,
+  "dataPCP": "2026-11-04T09:36:34.000+00:00",
+  "dataCreazione": "2026-11-04T08:36:34.912+00:00",
+  "tipo": "avviso",
+  "attivo": true,
+  "nuovoAvviso": null,
+  "codiceEform": null,
+  "stato": "NON_VERIFICATO",
+  "ambiente": null,
+  "categorie": null
+ },
+ {
+  "codiceScheda": "M2",
+  "tipologia": "MODIFICHE_CONTRATTUALI",
+  "dataPubblicazione": "2026-11-05T07:00:00.809+00:00",
+  "dataScadenza": null,
+  "templates": [
+   {
+    "template": {
+     "metadata": {
+      "link_eform_ted": null,
+      "titolo": null,
+      "descrizione": "Realizzazione di una campagna di sensibilizzazione  ondate di calore "
+     },
+     "sections": [
+      {
+       "name": "SEZ. A - Committente",
+       "fields": {
+        "soggetti_sa": [
+         {
+          "codice_fiscale": "80013370210",
+          "denominazione_amministrazione": "AGENTUR FUER BEVOELKERUNGSSCHUTZ"
+         }
+        ]
+       }
+      },
+      {
+       "name": "SEZ. B - Dati Generali",
+       "fields": {
+        "documenti_di_gara_link": "https://www.bandi-altoadige.it/"
+       }
+      },
+      {
+       "name": "SEZ. C - Oggetto",
+       "items": [
+        {
+         "tipo_oggetto": "aggiudicazione",
+         "cig": "BB8CD37E37",
+         "natura_principale": "Servizi",
+         "descrizione": "Realizzazione di una campagna di sensibilizzazione  ondate di calore ",
+         "cpv": "Servizi di campagne pubblicitarie",
+         "documenti_di_gara_link": "https://www.bandi-altoadige.it/",
+         "luogo_nuts": "Bolzano/Bozen",
+         "luogo_istat": "BOLZANO/BOZEN",
+         "motivazione_modifica": "Le modifiche non sono sostanziali."
+        }
+       ]
+      }
+     ]
+    },
+    "lingua": "it"
+   }
+  ],
+  "idAvviso": "9f040ad1-b752-43b9-905a-92b831fa7a7e",
+  "count": 38.0,
+  "paginationToken": "CNDQRBoJKanggaqhAQAAGgJgARoGEICAgPgHIg5aDGrrSU3PZDbnyUC3dA==",
+  "score": 1.0,
+  "scoreDetails": {
+   "value": 1.0,
+   "description": "sum of:",
+   "details": [
+    {
+     "value": 0.0,
+     "description": "match on required clause, product of:",
+     "details": [
+      {
+       "value": 0.0,
+       "description": "# clause",
+       "details": []
+      },
+      {
+       "value": 1.0,
+       "description": "IndexOrDocValuesQuery(indexQuery=$type:dateV2/dataPubblicazione:[1792972800000 TO 1793876371568], dvQuery=$type:dateV2/dataPubblicazione:[1792972800000 TO 1793876371568])",
+       "details": []
+      }
+     ]
+    },
+    {
+     "value": 1.0,
+     "description": "sum of:",
+     "details": [
+      {
+       "value": 1.0,
+       "description": "$type:token/templates.template.sections.items.cpv:[[53 65 72 76 69 7a 69 20 64 69 20 63 61 6d 70 61 67 6e 65 20 70 75 62 62 6c 69 63 69 74 61 72 69 65] TO [53 65 72 76 69 7a 69 20 64 69 20 63 61 6d 70 61 67 6e 65 20 70 75 62 62 6c 69 63 69 74 61 72 69 65]]",
+       "details": []
+      }
+     ]
+    }
+   ]
+  },
+  "oscurato": false,
+  "noteOscuramento": null,
+  "idAppalto": "0bb662ed-f6e5-4c3a-a8ef-e69a1c0f436f",
+  "dataPubblicazioneNuovoAvviso": null,
+  "tipoNuovoAvviso": null,
+  "dataPCP": "2026-11-04T16:03:41.000+00:00",
+  "dataCreazione": "2026-11-04T15:03:41.810+00:00",
+  "tipo": "avviso",
+  "attivo": true,
+  "nuovoAvviso": null,
+  "codiceEform": null,
+  "stato": "NON_VERIFICATO",
+  "ambiente": null,
+  "categorie": null
+ },
+ {
+  "codiceScheda": "AD2_25",
+  "tipologia": "RISULTATI",
+  "dataPubblicazione": "2026-11-05T07:00:00.614+00:00",
+  "dataScadenza": null,
+  "templates": [
+   {
+    "template": {
+     "metadata": {
+      "link_eform_ted": null,
+      "titolo": null,
+      "descrizione": "Affidamento diretto del servizio di realizzazione del progetto Sulle orme di Procopio. Content Press Fam Trip e laboratorio narrativo per la promozione turistica di Palermo durante Sherbeth Festival 2026"
+     },
+     "sections": [
+      {
+       "name": "SEZ. A - Committente",
+       "fields": {
+        "soggetti_sa": [
+         {
+          "codice_fiscale": "80016350821",
+          "denominazione_amministrazione": "COMUNE DI PALERMO"
+         }
+        ]
+       }
+      },
+      {
+       "name": "SEZ. B - Dati Generali",
+       "fields": {
+        "documenti_di_gara_link": "https://www.acquistinretepa.it/bandi/negoziata/rdo-td/1b30bbc0c1b07fea",
+        "sistema_dinamico_acquisizione": "Nessun sistema dinamico di acquisizione",
+        "tipo_procedura_aggiudicazione": "Altra procedura a fase unica"
+       }
+      },
+      {
+       "name": "SEZ. C - Oggetto",
+       "items": [
+        {
+         "tipo_oggetto": "aggiudicazione",
+         "cig": "BDA607748C",
+         "natura_principale": "Servizi",
+         "descrizione": "Affidamento diretto del servizio di realizzazione del progetto Sulle orme di Procopio. Content Press Fam Trip e laboratorio narrativo per la promozione turistica di Palermo durante Sherbeth Festival 2026",
+         "cpv": "Servizi di organizzazione di mostre, fiere e congressi",
+         "documenti_di_gara_link": "https://www.acquistinretepa.it/bandi/negoziata/rdo-td/1b30bbc0c1b07fea",
+         "luogo_nuts": "Palermo",
+         "luogo_istat": "PALERMO",
+         "valore_affidamento": 7375.0,
+         "sistema_dinamico_acquisizione": "Nessun sistema dinamico di acquisizione",
+         "aggiudicatari_ad": [
+          {
+           "importo": 7375.0,
+           "soggetti": [
+            {
+             "codice_fiscale": "06615250823",
+             "denominazione": "GOOD EVENT S.R.L."
+            }
+           ]
+          }
+         ],
+         "categorie": [
+          {
+           "codice": "FS",
+           "descrizione": "FORNITURA DI SERVIZI"
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    },
+    "lingua": "it"
+   }
+  ],
+  "idAvviso": "986c3a42-fd5c-4072-b95a-6e9d2dacc7b1",
+  "count": 38.0,
+  "paginationToken": "CMHVRBoJKebfgaqhAQAAGgJgARoGEICAgPgHIg5aDGrrDgnPZDbnyUCorA==",
+  "score": 1.0,
+  "scoreDetails": {
+   "value": 1.0,
+   "description": "sum of:",
+   "details": [
+    {
+     "value": 0.0,
+     "description": "match on required clause, product of:",
+     "details": [
+      {
+       "value": 0.0,
+       "description": "# clause",
+       "details": []
+      },
+      {
+       "value": 1.0,
+       "description": "IndexOrDocValuesQuery(indexQuery=$type:dateV2/dataPubblicazione:[1792972800000 TO 1793876371568], dvQuery=$type:dateV2/dataPubblicazione:[1792972800000 TO 1793876371568])",
        "details": []
       }
      ]
@@ -325,11 +338,11 @@
   },
   "oscurato": false,
   "noteOscuramento": null,
-  "idAppalto": "5d83baa7-bebf-4ff8-ba22-ee10b0118723",
+  "idAppalto": "af27ae33-359c-4e24-b50a-5aa9f802bf32",
   "dataPubblicazioneNuovoAvviso": null,
   "tipoNuovoAvviso": null,
-  "dataPCP": "2026-11-03T10:28:30.000+00:00",
-  "dataCreazione": "2026-11-03T09:28:30.517+00:00",
+  "dataPCP": "2026-11-04T11:50:49.000+00:00",
+  "dataCreazione": "2026-11-04T10:50:49.615+00:00",
   "tipo": "avviso",
   "attivo": true,
   "nuovoAvviso": null,

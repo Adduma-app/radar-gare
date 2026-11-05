@@ -1,5 +1,5 @@
-# Radar gare Adduma, aggiornato 2026-11-04T10:59
-Letti oggi 68, nuovi 3, gare aperte pertinenti 16. Errori: 0
+# Radar gare Adduma, aggiornato 2026-11-05T10:59
+Letti oggi 83, nuovi 13, gare aperte pertinenti 18. Errori: 0
 
 ## PROCEDURA APERTA PER L’AFFIDAMENTO DEL SERVIZIO DI REALIZZAZIONE E ORGANIZZAZIONE DEGLI “STATI GENERALI DELLA SALUTE SENESE ”  EDIZIONE 2027 e EDIZIONE 2028
 - ente: COMUNE DI SIENA | luogo ISTAT SIENA
@@ -9,6 +9,15 @@ Letti oggi 68, nuovi 3, gare aperte pertinenti 16. Errori: 0
 - esecuzione: evento in loco | parole chiave: eventi
 - avviso: https://pubblicitalegale.anticorruzione.it/bandi/69d592e0-e561-48a8-a744-d075eda4d5fb
 - documenti: https://start.toscana.it/tendering/tenders/040271-2026/view/detail/1
+
+## RAVDA - Campagne pubblicitarie
+- ente: REGIONE AUTONOMA VALLE D'AOSTA | luogo ISTAT AOSTA
+- tipologia: BANDI | procedura: Aperta | CIG: BCD204D725, BCD204E7F8
+- importo: 17.078.400 € (FUORI TAGLIA) | lotti: 2
+- pubblicato: 05/11/2026 07:00 | scadenza: 09/11/2026 17:00 | primo avvistamento: 2026-11-05
+- esecuzione: da remoto | parole chiave: pubblicit, marketing
+- avviso: https://pubblicitalegale.anticorruzione.it/bandi/4cf0873e-aec9-4ca5-96b4-dcee105d149c
+- documenti: https://place-vda.aflink.it//Application/CustomDoc/DettaglioProcedura.asp?ID=1282294
 
 ## PROCEDURA APERTA PER L'AFFIDAMENTO DI SERVIZI DI PROGETTAZIONE, ORGANIZZAZIONE E REALIZZAZIONE DI SPETTACOLO MUSICALE DAL VIVO
 - ente: COMUNE DI GENOVA | luogo ISTAT GENOVA
@@ -75,6 +84,17 @@ Affidamento dei servizi e delle forniture relativi alle Linee A.2, A.3, A.4, B.2
 - esecuzione: da remoto | parole chiave: comunicazione, pubblicit
 - avviso: https://pubblicitalegale.anticorruzione.it/bandi/5b4b85e5-6116-4f08-a0b5-7c00a34d9096
 - documenti: https://www.acquistinretepa.it/bandi/aperta/gara-asp/fdcbea9e1ccf7f3d
+
+## Acquisizione di servizi di organizzazione integrata di eventi e/o singoli servizi per le strutture dell'Assemblea legislativa.
+Lotto 1 - Direzione generale
+Lotto 2 - Settore Diritti dei cittadini
+- ente: REGIONE EMILIA ROMAGNA | luogo ISTAT BOLOGNA
+- tipologia: INDAGINI_DI_MERCATO_SOTTO_SOGLIA | procedura: n.d. | CIG: BDA870665A, BDA870772D
+- importo: 157.024 € | lotti: 2
+- pubblicato: 05/11/2026 07:00 | scadenza: 20/11/2026 22:59 | primo avvistamento: 2026-11-05
+- esecuzione: evento in loco | parole chiave: eventi
+- avviso: https://pubblicitalegale.anticorruzione.it/bandi/571c6cdd-2e7d-45f5-b99c-c415f4644bb5
+- documenti: https://intercenter.regione.emilia-romagna.it/trovabando/BANDO_GARA_PORTALE@18256497
 
 ## Servizi di ideazione e realizzazione di una campagna di informazione e sensibilizzazione sui temi dello Sviluppo Sostenibile e della Cittadinanza Globale nel progetto denominato Campagna di informazione e sensibilizzazione sulla Strategia Nazionale per lo Sviluppo Sostenibile, Agenda 20230 e la Cittadinanza Globale
 - ente: AGENZIA ITALIANA PER LA COOPERAZIONE ALLO SVILUPPO | luogo ISTAT ROMA

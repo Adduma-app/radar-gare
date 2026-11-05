@@ -1,11 +1,11 @@
 {
  "stato": {
-  "aggiornato": "2026-11-04T10:59",
-  "letti_oggi": 68,
-  "nuovi_oggi": 3,
-  "aperte_pertinenti": 16,
-  "esiti_pertinenti": 67,
-  "scartati_oggi": 23,
+  "aggiornato": "2026-11-05T10:59",
+  "letti_oggi": 83,
+  "nuovi_oggi": 13,
+  "aperte_pertinenti": 18,
+  "esiti_pertinenti": 76,
+  "scartati_oggi": 25,
   "errori": []
  },
  "gare": [
@@ -43,6 +43,43 @@
    "pertinente": true,
    "motivo_scarto": null,
    "primo_avvistamento": "2026-10-21"
+  },
+  {
+   "id": "anac:4cf0873e-aec9-4ca5-96b4-dcee105d149c",
+   "fonte": "ANAC PVL",
+   "tipologia": "BANDI",
+   "titolo": "RAVDA - Campagne pubblicitarie",
+   "descrizione": "PROCEDURA APERTA PER L’AFFIDAMENTO DEL SERVIZIO DI CENTRO MEDIA E DI IDEAZIONE E REALIZZAZIONE DI CAMPAGNE PUBBLICITARIE PER COMUNICARE L’IMMAGINE E L’OFFERTA TURISTICA DELLA VALLE D’AOSTA, IN ITALIA E ALL’ESTERO",
+   "ente": "REGIONE AUTONOMA VALLE D'AOSTA",
+   "cf_ente": "80002270074",
+   "luogo_istat": "AOSTA",
+   "luogo_nuts": "Valle d'Aosta/Vallée d'Aoste",
+   "importo": 17078400.0,
+   "lotti": 2,
+   "cig": [
+    "BCD204D725",
+    "BCD204E7F8"
+   ],
+   "cpv": "Servizi pubblicitari e di marketing",
+   "procedura": "Aperta",
+   "pubblicazione": "2026-11-05T07:00",
+   "scadenza": "2026-11-09T17:00",
+   "link_avviso": "https://pubblicitalegale.anticorruzione.it/bandi/4cf0873e-aec9-4ca5-96b4-dcee105d149c",
+   "link_documenti": "https://place-vda.aflink.it//Application/CustomDoc/DettaglioProcedura.asp?ID=1282294",
+   "link_ted": "https://ted.europa.eu/udl?uri=TED:NOTICE:766748-2026:TEXT:IT:HTML",
+   "aggiudicatari": [],
+   "valore_aggiudicato": null,
+   "kw_score": 4,
+   "kw_trovate": [
+    "pubblicit",
+    "marketing"
+   ],
+   "kw_escluse": [],
+   "esecuzione": "da remoto",
+   "fuori_taglia": true,
+   "pertinente": true,
+   "motivo_scarto": null,
+   "primo_avvistamento": "2026-11-05"
   },
   {
    "id": "anac:e4b06ad4-8d16-4648-a1bd-a0dda5e13754",
@@ -300,6 +337,42 @@
    "pertinente": true,
    "motivo_scarto": null,
    "primo_avvistamento": "2026-10-21"
+  },
+  {
+   "id": "anac:571c6cdd-2e7d-45f5-b99c-c415f4644bb5",
+   "fonte": "ANAC PVL",
+   "tipologia": "INDAGINI_DI_MERCATO_SOTTO_SOGLIA",
+   "titolo": "Acquisizione di servizi di organizzazione integrata di eventi e/o singoli servizi per le strutture dell'Assemblea legislativa.\r\nLotto 1 - Direzione generale\r\nLotto 2 - Settore Diritti dei cittadini",
+   "descrizione": "Acquisizione di servizi di organizzazione integrata di eventi e/o singoli servizi per le strutture dell'Assemblea legislativa.\r\nLotto 1 - Direzione generale\r\nLotto 2 - Settore Diritti dei cittadini",
+   "ente": "REGIONE EMILIA ROMAGNA",
+   "cf_ente": "80062590379",
+   "luogo_istat": "BOLOGNA",
+   "luogo_nuts": "Bologna",
+   "importo": 157023.7,
+   "lotti": 2,
+   "cig": [
+    "BDA870665A",
+    "BDA870772D"
+   ],
+   "cpv": "Servizi di organizzazione di eventi",
+   "procedura": null,
+   "pubblicazione": "2026-11-05T07:00",
+   "scadenza": "2026-11-20T22:59",
+   "link_avviso": "https://pubblicitalegale.anticorruzione.it/bandi/571c6cdd-2e7d-45f5-b99c-c415f4644bb5",
+   "link_documenti": "https://intercenter.regione.emilia-romagna.it/trovabando/BANDO_GARA_PORTALE@18256497",
+   "link_ted": null,
+   "aggiudicatari": [],
+   "valore_aggiudicato": null,
+   "kw_score": 2,
+   "kw_trovate": [
+    "eventi"
+   ],
+   "kw_escluse": [],
+   "esecuzione": "evento in loco",
+   "fuori_taglia": false,
+   "pertinente": true,
+   "motivo_scarto": null,
+   "primo_avvistamento": "2026-11-05"
   },
   {
    "id": "anac:bd51772a-62cb-4e5b-9860-d4bfab90ee82",
