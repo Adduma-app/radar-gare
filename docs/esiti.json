@@ -1,14 +1,89 @@
 {
  "stato": {
-  "aggiornato": "2026-11-05T10:59",
-  "letti_oggi": 83,
-  "nuovi_oggi": 13,
+  "aggiornato": "2026-11-06T10:57",
+  "letti_oggi": 81,
+  "nuovi_oggi": 4,
   "aperte_pertinenti": 18,
-  "esiti_pertinenti": 76,
-  "scartati_oggi": 25,
+  "esiti_pertinenti": 78,
+  "scartati_oggi": 29,
   "errori": []
  },
  "esiti": [
+  {
+   "id": "anac:c7fc0576-d78d-4b7c-beef-776ac6887c5c",
+   "fonte": "ANAC PVL",
+   "tipologia": "RISULTATI",
+   "titolo": "Realizzazione di un'opera artistica unica per l’illuminazione del centro storico della città di Siena nel periodo delle Festività Natalizie 2025 2026.",
+   "descrizione": "Realizzazione di un'opera artistica unica per l’illuminazione del centro storico della città di Siena nel periodo delle Festività Natalizie 2025 2026.",
+   "ente": "COMUNE DI SIENA",
+   "cf_ente": "00050800523",
+   "luogo_istat": "SIENA",
+   "luogo_nuts": "Siena",
+   "importo": 400000.0,
+   "lotti": 1,
+   "cig": [
+    "B88D420130"
+   ],
+   "cpv": "Servizi di organizzazione di eventi culturali",
+   "procedura": "Negoziata senza previa indizione di gara",
+   "pubblicazione": "2026-11-06T07:00",
+   "scadenza": null,
+   "link_avviso": "https://pubblicitalegale.anticorruzione.it/bandi/c7fc0576-d78d-4b7c-beef-776ac6887c5c",
+   "link_documenti": "https://start.toscana.it",
+   "link_ted": null,
+   "aggiudicatari": [
+    "SARTINI GRANDI IMPIANTI S.R.L."
+   ],
+   "valore_aggiudicato": 400000.0,
+   "kw_score": 2,
+   "kw_trovate": [
+    "eventi"
+   ],
+   "kw_escluse": [],
+   "esecuzione": "evento in loco",
+   "fuori_taglia": true,
+   "pertinente": true,
+   "motivo_scarto": null,
+   "primo_avvistamento": "2026-11-06"
+  },
+  {
+   "id": "anac:e708aef4-77eb-4040-855a-8fe5e8a55910",
+   "fonte": "ANAC PVL",
+   "tipologia": "RISULTATI",
+   "titolo": " procedura negoziata, ai sensi dell'art. 76, comma 2, lettera b), del D.Lgs. n. 36 2023, per la realizzazione di un evento musicale in Piazza del Campo, in occasione del Capodanno 2025 2026, con l’esibizione in concerto del cantante Irama.",
+   "descrizione": " procedura negoziata, ai sensi dell'art. 76, comma 2, lettera b), del D.Lgs. n. 36 2023, per la realizzazione di un evento musicale in Piazza del Campo, in occasione del Capodanno 2025 2026, con l’esibizione in concerto del cantante Irama.",
+   "ente": "COMUNE DI SIENA",
+   "cf_ente": "00050800523",
+   "luogo_istat": "SIENA",
+   "luogo_nuts": "Siena",
+   "importo": 500000.0,
+   "lotti": 1,
+   "cig": [
+    "B9709AABFA"
+   ],
+   "cpv": "Servizi di organizzazione di eventi culturali",
+   "procedura": "Negoziata senza previa indizione di gara",
+   "pubblicazione": "2026-11-06T07:00",
+   "scadenza": null,
+   "link_avviso": "https://pubblicitalegale.anticorruzione.it/bandi/e708aef4-77eb-4040-855a-8fe5e8a55910",
+   "link_documenti": "https://start.toscana.it",
+   "link_ted": null,
+   "aggiudicatari": [
+    "Grm Entertainment srl "
+   ],
+   "valore_aggiudicato": 500000.0,
+   "kw_score": 4,
+   "kw_trovate": [
+    "evento",
+    "eventi"
+   ],
+   "kw_escluse": [],
+   "esecuzione": "evento in loco",
+   "fuori_taglia": true,
+   "pertinente": true,
+   "motivo_scarto": null,
+   "primo_avvistamento": "2026-11-06"
+  },
   {
    "id": "anac:e59a1a04-0049-4765-be24-8a8be69cff09",
    "fonte": "ANAC PVL",

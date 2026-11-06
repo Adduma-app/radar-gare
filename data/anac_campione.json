@@ -1,16 +1,16 @@
 [
  {
-  "codiceScheda": "AD2_25",
+  "codiceScheda": "A1_29",
   "tipologia": "RISULTATI",
-  "dataPubblicazione": "2026-11-05T07:00:00.912+00:00",
+  "dataPubblicazione": "2026-11-06T07:00:00.822+00:00",
   "dataScadenza": null,
   "templates": [
    {
     "template": {
      "metadata": {
-      "link_eform_ted": null,
-      "titolo": null,
-      "descrizione": "GOING GLOBAL DESIGN IN PUGLIA SERVIZI PER DELEGAZIONE BUYER DANESI PROGRAMMA DI PROMOZIONE INTERNAZIONALE DELLE IMPRESE PUGLIESI PUGLIA GOING GLOBAL PUGLIA PROGRAMMA DI INTERNAZIONALIZZAZIONE E ATTRAZIONE DEGLI INVESTIMENTI ESTERI CUP B38I25003500003 e codice MIR C0305.69"
+      "link_eform_ted": "https://ted.europa.eu/udl?uri=TED:NOTICE:769542-2026:TEXT:IT:HTML",
+      "titolo": "AFFIDAMENTO DEL SERVIZIO DI MESSA A DISPOSIZIONE DI SPAZI E SERVIZI INTEGRATI PER LE ATTIVITA' FORMATIVE A MILANO, CON PARTICOLARE RIFERIMENTO AL MASTER UNIVERSITARIO DI II LIVELLO IN MEDICINA ESTETICA E TERAPIA ESTETICA",
+      "descrizione": "AFFIDAMENTO DEL SERVIZIO DI MESSA A DISPOSIZIONE DI SPAZI E SERVIZI INTEGRATI PER LE ATTIVITA' FORMATIVE A MILANO, CON PARTICOLARE RIFERIMENTO AL MASTER UNIVERSITARIO DI II LIVELLO IN MEDICINA ESTETICA E TERAPIA ESTETICA"
      },
      "sections": [
       {
@@ -18,8 +18,8 @@
        "fields": {
         "soggetti_sa": [
          {
-          "codice_fiscale": "80000270720",
-          "denominazione_amministrazione": "UNIONCAMERE PUGLIA"
+          "codice_fiscale": "81001910439",
+          "denominazione_amministrazione": "UNIVERSITA' DEGLI STUDI DI CAMERINO"
          }
         ]
        }
@@ -27,9 +27,10 @@
       {
        "name": "SEZ. B - Dati Generali",
        "fields": {
-        "documenti_di_gara_link": "https://www.acquistinretepa.it/bandi/negoziata/rdo-td/283517c303752a2e",
+        "documenti_di_gara_link": "https://unicam.ubuy.cineca.it/PortaleAppalti/it/procedure/codice/G04715",
+        "accordo_quadro": "Nulla",
         "sistema_dinamico_acquisizione": "Nessun sistema dinamico di acquisizione",
-        "tipo_procedura_aggiudicazione": "Altra procedura a fase unica"
+        "tipo_procedura_aggiudicazione": "Aperta"
        }
       },
       {
@@ -37,22 +38,23 @@
        "items": [
         {
          "tipo_oggetto": "aggiudicazione",
-         "cig": "BDA5291C62",
+         "cig": "BC6D561733",
          "natura_principale": "Servizi",
-         "descrizione": "GOING GLOBAL DESIGN IN PUGLIA SERVIZI PER DELEGAZIONE BUYER DANESI PROGRAMMA DI PROMOZIONE INTERNAZIONALE DELLE IMPRESE PUGLIESI PUGLIA GOING GLOBAL PUGLIA PROGRAMMA DI INTERNAZIONALIZZAZIONE E ATTRAZIONE DEGLI INVESTIMENTI ESTERI CUP B38I25003500003 e codice MIR C0305.69",
-         "cpv": "Servizi di consulenza in pubbliche relazioni",
-         "documenti_di_gara_link": "https://www.acquistinretepa.it/bandi/negoziata/rdo-td/283517c303752a2e",
-         "luogo_nuts": "Puglia",
-         "luogo_istat": "BARI",
-         "valore_affidamento": 7750.0,
+         "descrizione": "AFFIDAMENTO DEL SERVIZIO DI MESSA A DISPOSIZIONE DI SPAZI E SERVIZI INTEGRATI PER LE ATTIVITA' FORMATIVE A MILANO, CON PARTICOLARE RIFERIMENTO AL MASTER UNIVERSITARIO DI II LIVELLO IN MEDICINA ESTETICA E TERAPIA ESTETICA",
+         "cpv": "Servizi di organizzazione di seminari",
+         "valore_complessivo_stimato": 1012500.0,
+         "luogo_nuts": "Macerata",
+         "luogo_istat": "CAMERINO",
+         "valore_offerta_vincente": 449550.0,
+         "accordo_quadro": "Nulla",
          "sistema_dinamico_acquisizione": "Nessun sistema dinamico di acquisizione",
-         "aggiudicatari_ad": [
+         "aggiudicatari": [
           {
-           "importo": 7750.0,
+           "importo": 449550.0,
            "soggetti": [
             {
-             "codice_fiscale": "00033326432",
-             "denominazione": "33326432"
+             "codice_fiscale": "09356020967",
+             "denominazione": "LAST SRL"
             }
            ]
           }
@@ -71,9 +73,9 @@
     "lingua": "it"
    }
   ],
-  "idAvviso": "e59a1a04-0049-4765-be24-8a8be69cff09",
-  "count": 38.0,
-  "paginationToken": "CIXFRBoJKRDhgaqhAQAAGgJgARoGEICAgPgHIg5aDGrq7pIUSy1VGzqrFg==",
+  "idAvviso": "35acd968-043b-4ea8-a6b2-7318b9c6e745",
+  "count": 40.0,
+  "paginationToken": "COz+RBoJKbY8qK+hAQAAGgJgARoGEICAgPgHIg5aDGrr+GUvljb2ytIokg==",
   "score": 1.0,
   "scoreDetails": {
    "value": 1.0,
@@ -90,7 +92,7 @@
       },
       {
        "value": 1.0,
-       "description": "IndexOrDocValuesQuery(indexQuery=$type:dateV2/dataPubblicazione:[1792972800000 TO 1793876371568], dvQuery=$type:dateV2/dataPubblicazione:[1792972800000 TO 1793876371568])",
+       "description": "IndexOrDocValuesQuery(indexQuery=$type:dateV2/dataPubblicazione:[1793059200000 TO 1793962636812], dvQuery=$type:dateV2/dataPubblicazione:[1793059200000 TO 1793962636812])",
        "details": []
       }
      ]
@@ -101,7 +103,7 @@
      "details": [
       {
        "value": 1.0,
-       "description": "$type:token/templates.template.sections.items.cpv:[[53 65 72 76 69 7a 69 20 64 69 20 63 6f 6e 73 75 6c 65 6e 7a 61 20 69 6e 20 70 75 62 62 6c 69 63 68 65 20 72 65 6c 61 7a 69 6f 6e 69] TO [53 65 72 76 69 7a 69 20 64 69 20 63 6f 6e 73 75 6c 65 6e 7a 61 20 69 6e 20 70 75 62 62 6c 69 63 68 65 20 72 65 6c 61 7a 69 6f 6e 69]]",
+       "description": "$type:token/templates.template.sections.items.cpv:[[53 65 72 76 69 7a 69 20 64 69 20 6f 72 67 61 6e 69 7a 7a 61 7a 69 6f 6e 65 20 64 69 20 73 65 6d 69 6e 61 72 69] TO [53 65 72 76 69 7a 69 20 64 69 20 6f 72 67 61 6e 69 7a 7a 61 7a 69 6f 6e 65 20 64 69 20 73 65 6d 69 6e 61 72 69]]",
        "details": []
       }
      ]
@@ -110,127 +112,23 @@
   },
   "oscurato": false,
   "noteOscuramento": null,
-  "idAppalto": "a59651e8-ac3d-41d5-9f02-2256ac0b6fa2",
+  "idAppalto": "3cbdd5cd-dfad-46fb-88fb-30072207740b",
   "dataPubblicazioneNuovoAvviso": null,
   "tipoNuovoAvviso": null,
-  "dataPCP": "2026-11-04T09:36:34.000+00:00",
-  "dataCreazione": "2026-11-04T08:36:34.912+00:00",
+  "dataPCP": "2026-11-04T23:00:00.000+00:00",
+  "dataCreazione": "2026-11-05T03:30:45.823+00:00",
   "tipo": "avviso",
   "attivo": true,
   "nuovoAvviso": null,
-  "codiceEform": null,
+  "codiceEform": "29",
   "stato": "NON_VERIFICATO",
   "ambiente": null,
   "categorie": null
  },
  {
-  "codiceScheda": "M2",
-  "tipologia": "MODIFICHE_CONTRATTUALI",
-  "dataPubblicazione": "2026-11-05T07:00:00.809+00:00",
-  "dataScadenza": null,
-  "templates": [
-   {
-    "template": {
-     "metadata": {
-      "link_eform_ted": null,
-      "titolo": null,
-      "descrizione": "Realizzazione di una campagna di sensibilizzazione  ondate di calore "
-     },
-     "sections": [
-      {
-       "name": "SEZ. A - Committente",
-       "fields": {
-        "soggetti_sa": [
-         {
-          "codice_fiscale": "80013370210",
-          "denominazione_amministrazione": "AGENTUR FUER BEVOELKERUNGSSCHUTZ"
-         }
-        ]
-       }
-      },
-      {
-       "name": "SEZ. B - Dati Generali",
-       "fields": {
-        "documenti_di_gara_link": "https://www.bandi-altoadige.it/"
-       }
-      },
-      {
-       "name": "SEZ. C - Oggetto",
-       "items": [
-        {
-         "tipo_oggetto": "aggiudicazione",
-         "cig": "BB8CD37E37",
-         "natura_principale": "Servizi",
-         "descrizione": "Realizzazione di una campagna di sensibilizzazione  ondate di calore ",
-         "cpv": "Servizi di campagne pubblicitarie",
-         "documenti_di_gara_link": "https://www.bandi-altoadige.it/",
-         "luogo_nuts": "Bolzano/Bozen",
-         "luogo_istat": "BOLZANO/BOZEN",
-         "motivazione_modifica": "Le modifiche non sono sostanziali."
-        }
-       ]
-      }
-     ]
-    },
-    "lingua": "it"
-   }
-  ],
-  "idAvviso": "9f040ad1-b752-43b9-905a-92b831fa7a7e",
-  "count": 38.0,
-  "paginationToken": "CNDQRBoJKanggaqhAQAAGgJgARoGEICAgPgHIg5aDGrrSU3PZDbnyUC3dA==",
-  "score": 1.0,
-  "scoreDetails": {
-   "value": 1.0,
-   "description": "sum of:",
-   "details": [
-    {
-     "value": 0.0,
-     "description": "match on required clause, product of:",
-     "details": [
-      {
-       "value": 0.0,
-       "description": "# clause",
-       "details": []
-      },
-      {
-       "value": 1.0,
-       "description": "IndexOrDocValuesQuery(indexQuery=$type:dateV2/dataPubblicazione:[1792972800000 TO 1793876371568], dvQuery=$type:dateV2/dataPubblicazione:[1792972800000 TO 1793876371568])",
-       "details": []
-      }
-     ]
-    },
-    {
-     "value": 1.0,
-     "description": "sum of:",
-     "details": [
-      {
-       "value": 1.0,
-       "description": "$type:token/templates.template.sections.items.cpv:[[53 65 72 76 69 7a 69 20 64 69 20 63 61 6d 70 61 67 6e 65 20 70 75 62 62 6c 69 63 69 74 61 72 69 65] TO [53 65 72 76 69 7a 69 20 64 69 20 63 61 6d 70 61 67 6e 65 20 70 75 62 62 6c 69 63 69 74 61 72 69 65]]",
-       "details": []
-      }
-     ]
-    }
-   ]
-  },
-  "oscurato": false,
-  "noteOscuramento": null,
-  "idAppalto": "0bb662ed-f6e5-4c3a-a8ef-e69a1c0f436f",
-  "dataPubblicazioneNuovoAvviso": null,
-  "tipoNuovoAvviso": null,
-  "dataPCP": "2026-11-04T16:03:41.000+00:00",
-  "dataCreazione": "2026-11-04T15:03:41.810+00:00",
-  "tipo": "avviso",
-  "attivo": true,
-  "nuovoAvviso": null,
-  "codiceEform": null,
-  "stato": "NON_VERIFICATO",
-  "ambiente": null,
-  "categorie": null
- },
- {
-  "codiceScheda": "AD2_25",
+  "codiceScheda": "A7_1_2",
   "tipologia": "RISULTATI",
-  "dataPubblicazione": "2026-11-05T07:00:00.614+00:00",
+  "dataPubblicazione": "2026-11-06T07:00:00.816+00:00",
   "dataScadenza": null,
   "templates": [
    {
@@ -238,7 +136,7 @@
      "metadata": {
       "link_eform_ted": null,
       "titolo": null,
-      "descrizione": "Affidamento diretto del servizio di realizzazione del progetto Sulle orme di Procopio. Content Press Fam Trip e laboratorio narrativo per la promozione turistica di Palermo durante Sherbeth Festival 2026"
+      "descrizione": "Procedura negoziata senza pubblicazione di un bando di gara, ai sensi dell'art. 76, comma 4, lett. b), del decreto legislativo 31 marzo 2023, n. 36, per l'affidamento di un servizio integrato di informazione ed attività connesse, comprensivo delle consegne complementari, per illustrare e divulgare le politiche in materia di disabilità in ambito internazionale"
      },
      "sections": [
       {
@@ -246,8 +144,8 @@
        "fields": {
         "soggetti_sa": [
          {
-          "codice_fiscale": "80016350821",
-          "denominazione_amministrazione": "COMUNE DI PALERMO"
+          "codice_fiscale": "80188230587",
+          "denominazione_amministrazione": "PRESIDENZA DEL CONSIGLIO DEI MINISTRI"
          }
         ]
        }
@@ -255,9 +153,10 @@
       {
        "name": "SEZ. B - Dati Generali",
        "fields": {
-        "documenti_di_gara_link": "https://www.acquistinretepa.it/bandi/negoziata/rdo-td/1b30bbc0c1b07fea",
+        "documenti_di_gara_link": "https://eproc.palazzochigi.it/PortaleAppalti/it/procedure/codice/G02194",
+        "accordo_quadro": "Nulla",
         "sistema_dinamico_acquisizione": "Nessun sistema dinamico di acquisizione",
-        "tipo_procedura_aggiudicazione": "Altra procedura a fase unica"
+        "tipo_procedura_aggiudicazione": "Negoziata senza previa indizione di gara"
        }
       },
       {
@@ -265,22 +164,23 @@
        "items": [
         {
          "tipo_oggetto": "aggiudicazione",
-         "cig": "BDA607748C",
+         "cig": "BB4B43D9A7",
          "natura_principale": "Servizi",
-         "descrizione": "Affidamento diretto del servizio di realizzazione del progetto Sulle orme di Procopio. Content Press Fam Trip e laboratorio narrativo per la promozione turistica di Palermo durante Sherbeth Festival 2026",
+         "descrizione": "Procedura negoziata senza pubblicazione di un bando di gara, ai sensi dell'art. 76, comma 4, lett. b), del decreto legislativo 31 marzo 2023, n. 36, per l'affidamento di un servizio integrato di informazione ed attività connesse, comprensivo delle consegne complementari, per illustrare e divulgare le politiche in materia di disabilità in ambito internazionale",
          "cpv": "Servizi di organizzazione di mostre, fiere e congressi",
-         "documenti_di_gara_link": "https://www.acquistinretepa.it/bandi/negoziata/rdo-td/1b30bbc0c1b07fea",
-         "luogo_nuts": "Palermo",
-         "luogo_istat": "PALERMO",
-         "valore_affidamento": 7375.0,
+         "valore_complessivo_stimato": 217400.0,
+         "luogo_nuts": "Roma",
+         "luogo_istat": "ROMA",
+         "valore_offerta_vincente": 215860.0,
+         "accordo_quadro": "Nulla",
          "sistema_dinamico_acquisizione": "Nessun sistema dinamico di acquisizione",
-         "aggiudicatari_ad": [
+         "aggiudicatari": [
           {
-           "importo": 7375.0,
+           "importo": 215860.0,
            "soggetti": [
             {
-             "codice_fiscale": "06615250823",
-             "denominazione": "GOOD EVENT S.R.L."
+             "codice_fiscale": "12130190015",
+             "denominazione": "auroraMeccanica soc. coop. a resp. lim."
             }
            ]
           }
@@ -299,9 +199,9 @@
     "lingua": "it"
    }
   ],
-  "idAvviso": "986c3a42-fd5c-4072-b95a-6e9d2dacc7b1",
-  "count": 38.0,
-  "paginationToken": "CMHVRBoJKebfgaqhAQAAGgJgARoGEICAgPgHIg5aDGrrDgnPZDbnyUCorA==",
+  "idAvviso": "41e8ffba-1e8f-4b7e-904f-96791bfb1c80",
+  "count": 40.0,
+  "paginationToken": "CKDwRBoJKbA8qK+hAQAAGgJgARoGEICAgPgHIg5aDGrsn3IxDy6riyJe2Q==",
   "score": 1.0,
   "scoreDetails": {
    "value": 1.0,
@@ -318,7 +218,7 @@
       },
       {
        "value": 1.0,
-       "description": "IndexOrDocValuesQuery(indexQuery=$type:dateV2/dataPubblicazione:[1792972800000 TO 1793876371568], dvQuery=$type:dateV2/dataPubblicazione:[1792972800000 TO 1793876371568])",
+       "description": "IndexOrDocValuesQuery(indexQuery=$type:dateV2/dataPubblicazione:[1793059200000 TO 1793962636812], dvQuery=$type:dateV2/dataPubblicazione:[1793059200000 TO 1793962636812])",
        "details": []
       }
      ]
@@ -338,11 +238,137 @@
   },
   "oscurato": false,
   "noteOscuramento": null,
-  "idAppalto": "af27ae33-359c-4e24-b50a-5aa9f802bf32",
+  "idAppalto": "8d87020f-a906-4173-8707-7a306b869499",
   "dataPubblicazioneNuovoAvviso": null,
   "tipoNuovoAvviso": null,
-  "dataPCP": "2026-11-04T11:50:49.000+00:00",
-  "dataCreazione": "2026-11-04T10:50:49.615+00:00",
+  "dataPCP": "2026-11-05T16:23:30.000+00:00",
+  "dataCreazione": "2026-11-05T15:23:30.816+00:00",
+  "tipo": "avviso",
+  "attivo": true,
+  "nuovoAvviso": null,
+  "codiceEform": null,
+  "stato": "NON_VERIFICATO",
+  "ambiente": null,
+  "categorie": null
+ },
+ {
+  "codiceScheda": "AD2_25",
+  "tipologia": "RISULTATI",
+  "dataPubblicazione": "2026-11-06T07:00:00.346+00:00",
+  "dataScadenza": null,
+  "templates": [
+   {
+    "template": {
+     "metadata": {
+      "link_eform_ted": null,
+      "titolo": null,
+      "descrizione": "Servizio specialistico di ideazione, curatela, organizzazione e realizzazione della mostra \"Fragili Me-raviglie\" da svolgersi presso l'Università degli Studi \"Magna Grcia\" di Catanzaro per la durata di mesi tre. "
+     },
+     "sections": [
+      {
+       "name": "SEZ. A - Committente",
+       "fields": {
+        "soggetti_sa": [
+         {
+          "codice_fiscale": "97026980793",
+          "denominazione_amministrazione": "UNIVERSITA DEGLI STUDI DI CATANZARO 'MAGNA GRAECIA'"
+         }
+        ]
+       }
+      },
+      {
+       "name": "SEZ. B - Dati Generali",
+       "fields": {
+        "documenti_di_gara_link": "https://unicz.ubuy.cineca.it/PortaleAppalti/it/procedure/codice/G01726",
+        "accordo_quadro": "Nulla",
+        "sistema_dinamico_acquisizione": "Nessun sistema dinamico di acquisizione",
+        "tipo_procedura_aggiudicazione": "Negoziata senza previa indizione di gara"
+       }
+      },
+      {
+       "name": "SEZ. C - Oggetto",
+       "items": [
+        {
+         "tipo_oggetto": "aggiudicazione",
+         "cig": "BDAAA06860",
+         "natura_principale": "Servizi",
+         "descrizione": "Servizio specialistico di ideazione, curatela, organizzazione e realizzazione della mostra \"Fragili Me-raviglie\" da svolgersi presso l'Università degli Studi \"Magna Grcia\" di Catanzaro per la durata di mesi tre. ",
+         "cpv": "Servizi di organizzazione di mostre, fiere e congressi",
+         "documenti_di_gara_link": "https://unicz.ubuy.cineca.it/PortaleAppalti/it/procedure/codice/G01726",
+         "luogo_nuts": "Catanzaro",
+         "luogo_istat": "CATANZARO",
+         "valore_affidamento": 20491.8,
+         "accordo_quadro": "Nulla",
+         "sistema_dinamico_acquisizione": "Nessun sistema dinamico di acquisizione",
+         "aggiudicatari_ad": [
+          {
+           "importo": 20491.8,
+           "soggetti": [
+            {
+             "codice_fiscale": "GGLGPP58A26I844Y",
+             "denominazione": "Prof. Giuseppe Giglio, Storico e Critico d'arte"
+            }
+           ]
+          }
+         ],
+         "categorie": [
+          {
+           "codice": "FS",
+           "descrizione": "FORNITURA DI SERVIZI"
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    },
+    "lingua": "it"
+   }
+  ],
+  "idAvviso": "7c3a12ce-d8fc-4336-8c45-d3254841813e",
+  "count": 40.0,
+  "paginationToken": "CPzSRBoJKdo6qK+hAQAAGgJgARoGEICAgPgHIg5aDGrsQ0Mvljb2ytIurA==",
+  "score": 1.0,
+  "scoreDetails": {
+   "value": 1.0,
+   "description": "sum of:",
+   "details": [
+    {
+     "value": 0.0,
+     "description": "match on required clause, product of:",
+     "details": [
+      {
+       "value": 0.0,
+       "description": "# clause",
+       "details": []
+      },
+      {
+       "value": 1.0,
+       "description": "IndexOrDocValuesQuery(indexQuery=$type:dateV2/dataPubblicazione:[1793059200000 TO 1793962636812], dvQuery=$type:dateV2/dataPubblicazione:[1793059200000 TO 1793962636812])",
+       "details": []
+      }
+     ]
+    },
+    {
+     "value": 1.0,
+     "description": "sum of:",
+     "details": [
+      {
+       "value": 1.0,
+       "description": "$type:token/templates.template.sections.items.cpv:[[53 65 72 76 69 7a 69 20 64 69 20 6f 72 67 61 6e 69 7a 7a 61 7a 69 6f 6e 65 20 64 69 20 6d 6f 73 74 72 65 2c 20 66 69 65 72 65 20 65 20 63 6f 6e 67 72 65 73 73 69] TO [53 65 72 76 69 7a 69 20 64 69 20 6f 72 67 61 6e 69 7a 7a 61 7a 69 6f 6e 65 20 64 69 20 6d 6f 73 74 72 65 2c 20 66 69 65 72 65 20 65 20 63 6f 6e 67 72 65 73 73 69]]",
+       "details": []
+      }
+     ]
+    }
+   ]
+  },
+  "oscurato": false,
+  "noteOscuramento": null,
+  "idAppalto": "e480b7d6-7e65-4364-9aaf-a1e6856cf77f",
+  "dataPubblicazioneNuovoAvviso": null,
+  "tipoNuovoAvviso": null,
+  "dataPCP": "2026-11-05T09:50:11.000+00:00",
+  "dataCreazione": "2026-11-05T08:50:11.347+00:00",
   "tipo": "avviso",
   "attivo": true,
   "nuovoAvviso": null,

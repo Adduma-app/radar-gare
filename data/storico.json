@@ -5138,5 +5138,153 @@
   "pertinente": true,
   "motivo_scarto": null,
   "primo_avvistamento": "2026-11-05"
+ },
+ "anac:65a15d14-88fd-47a5-9cbf-3fa23a0a1810": {
+  "id": "anac:65a15d14-88fd-47a5-9cbf-3fa23a0a1810",
+  "fonte": "ANAC PVL",
+  "tipologia": "MODIFICHE_CONTRATTUALI",
+  "titolo": "Presenza editoriale e radiofonica per la Regione Umbria presso Salone del Libro di Torino, 14-18 maggio 2026",
+  "descrizione": "Presenza editoriale e radiofonica per la Regione Umbria presso Salone del Libro di Torino, 14-18 maggio 2026",
+  "ente": "SOCIETA' REGIONALE PER LO SVILUPPO ECONOMICO DELL'UMBRIA - SVILUPPUMBRIA S.P.A.",
+  "cf_ente": "00267120541",
+  "luogo_istat": "PERUGIA",
+  "luogo_nuts": "Perugia",
+  "importo": null,
+  "lotti": 1,
+  "cig": [
+   "BB0D3873A6"
+  ],
+  "cpv": "Servizi di campagne pubblicitarie",
+  "procedura": null,
+  "pubblicazione": "2026-11-06T07:00",
+  "scadenza": null,
+  "link_avviso": "https://pubblicitalegale.anticorruzione.it/bandi/65a15d14-88fd-47a5-9cbf-3fa23a0a1810",
+  "link_documenti": "https://dati.anticorruzione.it/superset/dashboard/appalti/?native_filters_key=bC7RdqFTAgc6o7Cpkz2xx6X1K3lK1zGfh5AFMYIODVHFtnjE7P8QSIqEd5-yVqgr",
+  "link_ted": null,
+  "aggiudicatari": [],
+  "valore_aggiudicato": null,
+  "kw_score": 2,
+  "kw_trovate": [
+   "pubblicit"
+  ],
+  "kw_escluse": [],
+  "esecuzione": "da remoto",
+  "fuori_taglia": false,
+  "pertinente": true,
+  "motivo_scarto": null,
+  "primo_avvistamento": "2026-11-06"
+ },
+ "anac:c7fc0576-d78d-4b7c-beef-776ac6887c5c": {
+  "id": "anac:c7fc0576-d78d-4b7c-beef-776ac6887c5c",
+  "fonte": "ANAC PVL",
+  "tipologia": "RISULTATI",
+  "titolo": "Realizzazione di un'opera artistica unica per l’illuminazione del centro storico della città di Siena nel periodo delle Festività Natalizie 2025 2026.",
+  "descrizione": "Realizzazione di un'opera artistica unica per l’illuminazione del centro storico della città di Siena nel periodo delle Festività Natalizie 2025 2026.",
+  "ente": "COMUNE DI SIENA",
+  "cf_ente": "00050800523",
+  "luogo_istat": "SIENA",
+  "luogo_nuts": "Siena",
+  "importo": 400000.0,
+  "lotti": 1,
+  "cig": [
+   "B88D420130"
+  ],
+  "cpv": "Servizi di organizzazione di eventi culturali",
+  "procedura": "Negoziata senza previa indizione di gara",
+  "pubblicazione": "2026-11-06T07:00",
+  "scadenza": null,
+  "link_avviso": "https://pubblicitalegale.anticorruzione.it/bandi/c7fc0576-d78d-4b7c-beef-776ac6887c5c",
+  "link_documenti": "https://start.toscana.it",
+  "link_ted": null,
+  "aggiudicatari": [
+   "SARTINI GRANDI IMPIANTI S.R.L."
+  ],
+  "valore_aggiudicato": 400000.0,
+  "kw_score": 2,
+  "kw_trovate": [
+   "eventi"
+  ],
+  "kw_escluse": [],
+  "esecuzione": "evento in loco",
+  "fuori_taglia": true,
+  "pertinente": true,
+  "motivo_scarto": null,
+  "primo_avvistamento": "2026-11-06"
+ },
+ "anac:27c9691a-42f1-479b-9bc7-30852e8ad92d": {
+  "id": "anac:27c9691a-42f1-479b-9bc7-30852e8ad92d",
+  "fonte": "ANAC PVL",
+  "tipologia": "AVVISI_DI_PRE-INFORMAZIONE_INFORMATIVI",
+  "titolo": "Avviso pubblico finalizzato all' acquisizione di manifestazioni di interesse per l'affidamento del servizio di organizzazione e realizzazione di un evento natalizio presso una sede istituzionale, comprensivo di animazione e intrattenimento, nonché di fornitura a noleggio, allestimento e successivo disallestimento di un albero di Natale con addobbi per il periodo delle Festività Natalizie, per la realizzazione degli eventi connessi all'iniziativa Giocattolo Sospeso anno 2026.",
+  "descrizione": "Avviso pubblico finalizzato all' acquisizione di manifestazioni di interesse per l'affidamento del servizio di organizzazione e realizzazione di un evento natalizio presso una sede istituzionale, comprensivo di animazione e intrattenimento, nonché di fornitura a noleggio, allestimento e successivo disallestimento di un albero di Natale con addobbi per il periodo delle Festività Natalizie, per la realizzazione degli eventi connessi all'iniziativa Giocattolo Sospeso anno 2026.",
+  "ente": "COMUNE DI NAPOLI",
+  "cf_ente": "80014890638",
+  "luogo_istat": null,
+  "luogo_nuts": null,
+  "importo": null,
+  "lotti": 1,
+  "cig": [],
+  "cpv": "Servizi di organizzazione di eventi",
+  "procedura": null,
+  "pubblicazione": "2026-11-06T07:00",
+  "scadenza": null,
+  "link_avviso": "https://pubblicitalegale.anticorruzione.it/bandi/27c9691a-42f1-479b-9bc7-30852e8ad92d",
+  "link_documenti": "https://acquistitelematici.comune.napoli.it/PortaleAppalti/it/procedure/codice/G06152",
+  "link_ted": null,
+  "aggiudicatari": [],
+  "valore_aggiudicato": null,
+  "kw_score": 5,
+  "kw_trovate": [
+   "evento",
+   "eventi",
+   "manifestazion",
+   "allestiment"
+  ],
+  "kw_escluse": [
+   "noleggio"
+  ],
+  "esecuzione": "evento in loco",
+  "fuori_taglia": false,
+  "pertinente": true,
+  "motivo_scarto": null,
+  "primo_avvistamento": "2026-11-06"
+ },
+ "anac:e708aef4-77eb-4040-855a-8fe5e8a55910": {
+  "id": "anac:e708aef4-77eb-4040-855a-8fe5e8a55910",
+  "fonte": "ANAC PVL",
+  "tipologia": "RISULTATI",
+  "titolo": " procedura negoziata, ai sensi dell'art. 76, comma 2, lettera b), del D.Lgs. n. 36 2023, per la realizzazione di un evento musicale in Piazza del Campo, in occasione del Capodanno 2025 2026, con l’esibizione in concerto del cantante Irama.",
+  "descrizione": " procedura negoziata, ai sensi dell'art. 76, comma 2, lettera b), del D.Lgs. n. 36 2023, per la realizzazione di un evento musicale in Piazza del Campo, in occasione del Capodanno 2025 2026, con l’esibizione in concerto del cantante Irama.",
+  "ente": "COMUNE DI SIENA",
+  "cf_ente": "00050800523",
+  "luogo_istat": "SIENA",
+  "luogo_nuts": "Siena",
+  "importo": 500000.0,
+  "lotti": 1,
+  "cig": [
+   "B9709AABFA"
+  ],
+  "cpv": "Servizi di organizzazione di eventi culturali",
+  "procedura": "Negoziata senza previa indizione di gara",
+  "pubblicazione": "2026-11-06T07:00",
+  "scadenza": null,
+  "link_avviso": "https://pubblicitalegale.anticorruzione.it/bandi/e708aef4-77eb-4040-855a-8fe5e8a55910",
+  "link_documenti": "https://start.toscana.it",
+  "link_ted": null,
+  "aggiudicatari": [
+   "Grm Entertainment srl "
+  ],
+  "valore_aggiudicato": 500000.0,
+  "kw_score": 4,
+  "kw_trovate": [
+   "evento",
+   "eventi"
+  ],
+  "kw_escluse": [],
+  "esecuzione": "evento in loco",
+  "fuori_taglia": true,
+  "pertinente": true,
+  "motivo_scarto": null,
+  "primo_avvistamento": "2026-11-06"
  }
 }

@@ -1,49 +1,14 @@
 {
  "stato": {
-  "aggiornato": "2026-11-05T10:59",
-  "letti_oggi": 83,
-  "nuovi_oggi": 13,
+  "aggiornato": "2026-11-06T10:57",
+  "letti_oggi": 81,
+  "nuovi_oggi": 4,
   "aperte_pertinenti": 18,
-  "esiti_pertinenti": 76,
-  "scartati_oggi": 25,
+  "esiti_pertinenti": 78,
+  "scartati_oggi": 29,
   "errori": []
  },
  "gare": [
-  {
-   "id": "anac:69d592e0-e561-48a8-a744-d075eda4d5fb",
-   "fonte": "ANAC PVL",
-   "tipologia": "BANDI",
-   "titolo": "PROCEDURA APERTA PER L’AFFIDAMENTO DEL SERVIZIO DI REALIZZAZIONE E ORGANIZZAZIONE DEGLI “STATI GENERALI DELLA SALUTE SENESE ”  EDIZIONE 2027 e EDIZIONE 2028",
-   "descrizione": "PROCEDURA APERTA PER L’AFFIDAMENTO DEL SERVIZIO DI REALIZZAZIONE E ORGANIZZAZIONE DEGLI “STATI GENERALI DELLA SALUTE SENESE ”  EDIZIONE 2027 e EDIZIONE 2028",
-   "ente": "COMUNE DI SIENA",
-   "cf_ente": "00050800523",
-   "luogo_istat": "SIENA",
-   "luogo_nuts": "Siena",
-   "importo": 66888.0,
-   "lotti": 1,
-   "cig": [
-    "BD5787EE69"
-   ],
-   "cpv": "Servizi di organizzazione di eventi",
-   "procedura": "Aperta",
-   "pubblicazione": "2026-10-14T06:00",
-   "scadenza": "2026-11-05T08:30",
-   "link_avviso": "https://pubblicitalegale.anticorruzione.it/bandi/69d592e0-e561-48a8-a744-d075eda4d5fb",
-   "link_documenti": "https://start.toscana.it/tendering/tenders/040271-2026/view/detail/1",
-   "link_ted": null,
-   "aggiudicatari": [],
-   "valore_aggiudicato": null,
-   "kw_score": 2,
-   "kw_trovate": [
-    "eventi"
-   ],
-   "kw_escluse": [],
-   "esecuzione": "evento in loco",
-   "fuori_taglia": false,
-   "pertinente": true,
-   "motivo_scarto": null,
-   "primo_avvistamento": "2026-10-21"
-  },
   {
    "id": "anac:4cf0873e-aec9-4ca5-96b4-dcee105d149c",
    "fonte": "ANAC PVL",
@@ -661,6 +626,44 @@
    "pertinente": true,
    "motivo_scarto": null,
    "primo_avvistamento": "2026-10-21"
+  },
+  {
+   "id": "anac:27c9691a-42f1-479b-9bc7-30852e8ad92d",
+   "fonte": "ANAC PVL",
+   "tipologia": "AVVISI_DI_PRE-INFORMAZIONE_INFORMATIVI",
+   "titolo": "Avviso pubblico finalizzato all' acquisizione di manifestazioni di interesse per l'affidamento del servizio di organizzazione e realizzazione di un evento natalizio presso una sede istituzionale, comprensivo di animazione e intrattenimento, nonché di fornitura a noleggio, allestimento e successivo disallestimento di un albero di Natale con addobbi per il periodo delle Festività Natalizie, per la realizzazione degli eventi connessi all'iniziativa Giocattolo Sospeso anno 2026.",
+   "descrizione": "Avviso pubblico finalizzato all' acquisizione di manifestazioni di interesse per l'affidamento del servizio di organizzazione e realizzazione di un evento natalizio presso una sede istituzionale, comprensivo di animazione e intrattenimento, nonché di fornitura a noleggio, allestimento e successivo disallestimento di un albero di Natale con addobbi per il periodo delle Festività Natalizie, per la realizzazione degli eventi connessi all'iniziativa Giocattolo Sospeso anno 2026.",
+   "ente": "COMUNE DI NAPOLI",
+   "cf_ente": "80014890638",
+   "luogo_istat": null,
+   "luogo_nuts": null,
+   "importo": null,
+   "lotti": 1,
+   "cig": [],
+   "cpv": "Servizi di organizzazione di eventi",
+   "procedura": null,
+   "pubblicazione": "2026-11-06T07:00",
+   "scadenza": null,
+   "link_avviso": "https://pubblicitalegale.anticorruzione.it/bandi/27c9691a-42f1-479b-9bc7-30852e8ad92d",
+   "link_documenti": "https://acquistitelematici.comune.napoli.it/PortaleAppalti/it/procedure/codice/G06152",
+   "link_ted": null,
+   "aggiudicatari": [],
+   "valore_aggiudicato": null,
+   "kw_score": 5,
+   "kw_trovate": [
+    "evento",
+    "eventi",
+    "manifestazion",
+    "allestiment"
+   ],
+   "kw_escluse": [
+    "noleggio"
+   ],
+   "esecuzione": "evento in loco",
+   "fuori_taglia": false,
+   "pertinente": true,
+   "motivo_scarto": null,
+   "primo_avvistamento": "2026-11-06"
   }
  ]
 }

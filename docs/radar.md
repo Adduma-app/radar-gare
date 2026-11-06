@@ -1,14 +1,5 @@
-# Radar gare Adduma, aggiornato 2026-11-05T10:59
-Letti oggi 83, nuovi 13, gare aperte pertinenti 18. Errori: 0
-
-## PROCEDURA APERTA PER L’AFFIDAMENTO DEL SERVIZIO DI REALIZZAZIONE E ORGANIZZAZIONE DEGLI “STATI GENERALI DELLA SALUTE SENESE ”  EDIZIONE 2027 e EDIZIONE 2028
-- ente: COMUNE DI SIENA | luogo ISTAT SIENA
-- tipologia: BANDI | procedura: Aperta | CIG: BD5787EE69
-- importo: 66.888 € | lotti: 1
-- pubblicato: 14/10/2026 06:00 | scadenza: 05/11/2026 08:30 | primo avvistamento: 2026-10-21
-- esecuzione: evento in loco | parole chiave: eventi
-- avviso: https://pubblicitalegale.anticorruzione.it/bandi/69d592e0-e561-48a8-a744-d075eda4d5fb
-- documenti: https://start.toscana.it/tendering/tenders/040271-2026/view/detail/1
+# Radar gare Adduma, aggiornato 2026-11-06T10:57
+Letti oggi 81, nuovi 4, gare aperte pertinenti 18. Errori: 0
 
 ## RAVDA - Campagne pubblicitarie
 - ente: REGIONE AUTONOMA VALLE D'AOSTA | luogo ISTAT AOSTA
@@ -167,3 +158,12 @@ Lotto 2 - Settore Diritti dei cittadini
 - esecuzione: da remoto | parole chiave: grafic, brand
 - avviso: https://pubblicitalegale.anticorruzione.it/bandi/3cdf8cb3-8513-4829-9eaa-1e1e98cd25ba
 - documenti: https://comunepompei.traspare.com/announcements/150
+
+## Avviso pubblico finalizzato all' acquisizione di manifestazioni di interesse per l'affidamento del servizio di organizzazione e realizzazione di un evento natalizio presso una sede istituzionale, comprensivo di animazione e intrattenimento, nonché di fornitura a noleggio, allestimento e successivo disallestimento di un albero di Natale con addobbi per il periodo delle Festività Natalizie, per la realizzazione degli eventi connessi all'iniziativa Giocattolo Sospeso anno 2026.
+- ente: COMUNE DI NAPOLI | luogo ISTAT n.d.
+- tipologia: AVVISI_DI_PRE-INFORMAZIONE_INFORMATIVI | procedura: n.d. | CIG: n.d.
+- importo: n.d. | lotti: 1
+- pubblicato: 06/11/2026 07:00 | scadenza: n.d. | primo avvistamento: 2026-11-06
+- esecuzione: evento in loco | parole chiave: evento, eventi, manifestazion, allestiment
+- avviso: https://pubblicitalegale.anticorruzione.it/bandi/27c9691a-42f1-479b-9bc7-30852e8ad92d
+- documenti: https://acquistitelematici.comune.napoli.it/PortaleAppalti/it/procedure/codice/G06152
