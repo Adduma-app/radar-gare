@@ -1,5 +1,5 @@
-# Radar gare Adduma, aggiornato 2026-11-07T10:16
-Letti oggi 72, nuovi 0, gare aperte pertinenti 18. Errori: 0
+# Radar gare Adduma, aggiornato 2026-11-08T10:27
+Letti oggi 63, nuovi 0, gare aperte pertinenti 18. Errori: 0
 
 ## RAVDA - Campagne pubblicitarie
 - ente: REGIONE AUTONOMA VALLE D'AOSTA | luogo ISTAT AOSTA
