@@ -1,16 +1,16 @@
 [
  {
-  "codiceScheda": "A1_29",
-  "tipologia": "RISULTATI",
-  "dataPubblicazione": "2026-11-06T07:00:00.822+00:00",
+  "codiceScheda": "M2",
+  "tipologia": "MODIFICHE_CONTRATTUALI",
+  "dataPubblicazione": "2026-11-09T07:00:00.782+00:00",
   "dataScadenza": null,
   "templates": [
    {
     "template": {
      "metadata": {
-      "link_eform_ted": "https://ted.europa.eu/udl?uri=TED:NOTICE:769542-2026:TEXT:IT:HTML",
-      "titolo": "AFFIDAMENTO DEL SERVIZIO DI MESSA A DISPOSIZIONE DI SPAZI E SERVIZI INTEGRATI PER LE ATTIVITA' FORMATIVE A MILANO, CON PARTICOLARE RIFERIMENTO AL MASTER UNIVERSITARIO DI II LIVELLO IN MEDICINA ESTETICA E TERAPIA ESTETICA",
-      "descrizione": "AFFIDAMENTO DEL SERVIZIO DI MESSA A DISPOSIZIONE DI SPAZI E SERVIZI INTEGRATI PER LE ATTIVITA' FORMATIVE A MILANO, CON PARTICOLARE RIFERIMENTO AL MASTER UNIVERSITARIO DI II LIVELLO IN MEDICINA ESTETICA E TERAPIA ESTETICA"
+      "link_eform_ted": null,
+      "titolo": null,
+      "descrizione": "Servizi pubblicitari sui media di „Ahead Srl“per il 2025 a favore dell’Azienda Sanitaria dell’Alto Adige."
      },
      "sections": [
       {
@@ -18,8 +18,8 @@
        "fields": {
         "soggetti_sa": [
          {
-          "codice_fiscale": "81001910439",
-          "denominazione_amministrazione": "UNIVERSITA' DEGLI STUDI DI CAMERINO"
+          "codice_fiscale": "00773750211",
+          "denominazione_amministrazione": "AZIENDA SANITARIA DELL'ALTO ADIGE - SUEDTIROLER SANITAETSBETRIEB"
          }
         ]
        }
@@ -27,7 +27,213 @@
       {
        "name": "SEZ. B - Dati Generali",
        "fields": {
-        "documenti_di_gara_link": "https://unicam.ubuy.cineca.it/PortaleAppalti/it/procedure/codice/G04715",
+        "documenti_di_gara_link": "http://bandi-altoadige.it"
+       }
+      },
+      {
+       "name": "SEZ. C - Oggetto",
+       "items": [
+        {
+         "tipo_oggetto": "aggiudicazione",
+         "cig": "B57872EEFB",
+         "natura_principale": "Servizi",
+         "descrizione": "Servizi pubblicitari sui media di „Ahead Srl“per il 2025 a favore dell’Azienda Sanitaria dell’Alto Adige.",
+         "cpv": "Servizi pubblicitari e di marketing",
+         "documenti_di_gara_link": "http://bandi-altoadige.it",
+         "luogo_nuts": "Bolzano/Bozen",
+         "luogo_istat": "BOLZANO/BOZEN",
+         "motivazione_modifica": "Necessità di ulteriori lavori, forniture e servizi eseguiti dall'appaltatore originale."
+        }
+       ]
+      }
+     ]
+    },
+    "lingua": "it"
+   }
+  ],
+  "idAvviso": "5e8eea44-b3c8-4d41-bdd2-e22172ceeda9",
+  "count": 33.0,
+  "paginationToken": "CLvbRBoJKY5QG7+hAQAAGgJgARoGEICAgPgHIg5aDGrt8jVvUsYW/7u21Q==",
+  "score": 1.0,
+  "scoreDetails": {
+   "value": 1.0,
+   "description": "sum of:",
+   "details": [
+    {
+     "value": 0.0,
+     "description": "match on required clause, product of:",
+     "details": [
+      {
+       "value": 0.0,
+       "description": "# clause",
+       "details": []
+      },
+      {
+       "value": 1.0,
+       "description": "IndexOrDocValuesQuery(indexQuery=$type:dateV2/dataPubblicazione:[1793318400000 TO 1794224281953], dvQuery=$type:dateV2/dataPubblicazione:[1793318400000 TO 1794224281953])",
+       "details": []
+      }
+     ]
+    },
+    {
+     "value": 1.0,
+     "description": "sum of:",
+     "details": [
+      {
+       "value": 1.0,
+       "description": "$type:token/templates.template.sections.items.cpv:[[53 65 72 76 69 7a 69 20 70 75 62 62 6c 69 63 69 74 61 72 69 20 65 20 64 69 20 6d 61 72 6b 65 74 69 6e 67] TO [53 65 72 76 69 7a 69 20 70 75 62 62 6c 69 63 69 74 61 72 69 20 65 20 64 69 20 6d 61 72 6b 65 74 69 6e 67]]",
+       "details": []
+      }
+     ]
+    }
+   ]
+  },
+  "oscurato": false,
+  "noteOscuramento": null,
+  "idAppalto": "cafb90b3-4202-41f0-a41f-193faab5b884",
+  "dataPubblicazioneNuovoAvviso": null,
+  "tipoNuovoAvviso": null,
+  "dataPCP": "2026-11-06T16:28:53.000+00:00",
+  "dataCreazione": "2026-11-06T15:28:53.783+00:00",
+  "tipo": "avviso",
+  "attivo": true,
+  "nuovoAvviso": null,
+  "codiceEform": null,
+  "stato": "NON_VERIFICATO",
+  "ambiente": null,
+  "categorie": null
+ },
+ {
+  "codiceScheda": "M2",
+  "tipologia": "MODIFICHE_CONTRATTUALI",
+  "dataPubblicazione": "2026-11-09T07:00:00.482+00:00",
+  "dataScadenza": null,
+  "templates": [
+   {
+    "template": {
+     "metadata": {
+      "link_eform_ted": null,
+      "titolo": null,
+      "descrizione": "Affidamento servizi di guardiania 2025_2026"
+     },
+     "sections": [
+      {
+       "name": "SEZ. A - Committente",
+       "fields": {
+        "soggetti_sa": [
+         {
+          "codice_fiscale": "02714450984",
+          "denominazione_amministrazione": "PRO-BRIXIA"
+         }
+        ]
+       }
+      },
+      {
+       "name": "SEZ. B - Dati Generali",
+       "fields": {}
+      },
+      {
+       "name": "SEZ. C - Oggetto",
+       "items": [
+        {
+         "tipo_oggetto": "lotto",
+         "cig": "B732D84941",
+         "natura_principale": "Servizi",
+         "descrizione": "Affidamento servizi di guardiania 2025_2026",
+         "cpv": "Servizi di organizzazione di mostre, fiere e congressi",
+         "luogo_nuts": "ITALIA",
+         "luogo_istat": "BRESCIA",
+         "motivazione_modifica": "Necessità di ulteriori lavori, forniture e servizi eseguiti dall'appaltatore originale.",
+         "accordo_quadro": "Nulla"
+        }
+       ]
+      }
+     ]
+    },
+    "lingua": "it"
+   }
+  ],
+  "idAvviso": "ca05132d-9b08-43a3-8f70-94a0ce36e04c",
+  "count": 33.0,
+  "paginationToken": "CPuqRRoJKWJPG7+hAQAAGgJgARoGEICAgPgHIg5aDGrtukV2ioBvmcW9Dw==",
+  "score": 1.0,
+  "scoreDetails": {
+   "value": 1.0,
+   "description": "sum of:",
+   "details": [
+    {
+     "value": 0.0,
+     "description": "match on required clause, product of:",
+     "details": [
+      {
+       "value": 0.0,
+       "description": "# clause",
+       "details": []
+      },
+      {
+       "value": 1.0,
+       "description": "IndexOrDocValuesQuery(indexQuery=$type:dateV2/dataPubblicazione:[1793318400000 TO 1794224281953], dvQuery=$type:dateV2/dataPubblicazione:[1793318400000 TO 1794224281953])",
+       "details": []
+      }
+     ]
+    },
+    {
+     "value": 1.0,
+     "description": "sum of:",
+     "details": [
+      {
+       "value": 1.0,
+       "description": "$type:token/templates.template.sections.items.cpv:[[53 65 72 76 69 7a 69 20 64 69 20 6f 72 67 61 6e 69 7a 7a 61 7a 69 6f 6e 65 20 64 69 20 6d 6f 73 74 72 65 2c 20 66 69 65 72 65 20 65 20 63 6f 6e 67 72 65 73 73 69] TO [53 65 72 76 69 7a 69 20 64 69 20 6f 72 67 61 6e 69 7a 7a 61 7a 69 6f 6e 65 20 64 69 20 6d 6f 73 74 72 65 2c 20 66 69 65 72 65 20 65 20 63 6f 6e 67 72 65 73 73 69]]",
+       "details": []
+      }
+     ]
+    }
+   ]
+  },
+  "oscurato": false,
+  "noteOscuramento": null,
+  "idAppalto": "c2773e98-dfab-4b60-8e86-bec23e8909a6",
+  "dataPubblicazioneNuovoAvviso": null,
+  "tipoNuovoAvviso": null,
+  "dataPCP": "2026-11-06T12:30:13.000+00:00",
+  "dataCreazione": "2026-11-06T11:30:13.482+00:00",
+  "tipo": "avviso",
+  "attivo": true,
+  "nuovoAvviso": null,
+  "codiceEform": null,
+  "stato": "NON_VERIFICATO",
+  "ambiente": null,
+  "categorie": null
+ },
+ {
+  "codiceScheda": "A1_30",
+  "tipologia": "RISULTATI",
+  "dataPubblicazione": "2026-11-09T07:00:00.108+00:00",
+  "dataScadenza": null,
+  "templates": [
+   {
+    "template": {
+     "metadata": {
+      "link_eform_ted": "https://ted.europa.eu/udl?uri=TED:NOTICE:772204-2026:TEXT:IT:HTML",
+      "titolo": "2600657 - Sviluppo di campagne creative e l’organizzazione di eventi",
+      "descrizione": "2600657 - Sviluppo di campagne creative e l’organizzazione di eventi"
+     },
+     "sections": [
+      {
+       "name": "SEZ. A - Committente",
+       "fields": {
+        "soggetti_sa": [
+         {
+          "codice_fiscale": "13187590156",
+          "denominazione_amministrazione": "CAP HOLDING S.P.A."
+         }
+        ]
+       }
+      },
+      {
+       "name": "SEZ. B - Dati Generali",
+       "fields": {
+        "documenti_di_gara_link": "https://acquisti.gruppocap.it/",
         "accordo_quadro": "Nulla",
         "sistema_dinamico_acquisizione": "Nessun sistema dinamico di acquisizione",
         "tipo_procedura_aggiudicazione": "Aperta"
@@ -38,23 +244,23 @@
        "items": [
         {
          "tipo_oggetto": "aggiudicazione",
-         "cig": "BC6D561733",
+         "cig": "BC9351DBDF",
          "natura_principale": "Servizi",
-         "descrizione": "AFFIDAMENTO DEL SERVIZIO DI MESSA A DISPOSIZIONE DI SPAZI E SERVIZI INTEGRATI PER LE ATTIVITA' FORMATIVE A MILANO, CON PARTICOLARE RIFERIMENTO AL MASTER UNIVERSITARIO DI II LIVELLO IN MEDICINA ESTETICA E TERAPIA ESTETICA",
-         "cpv": "Servizi di organizzazione di seminari",
-         "valore_complessivo_stimato": 1012500.0,
-         "luogo_nuts": "Macerata",
-         "luogo_istat": "CAMERINO",
-         "valore_offerta_vincente": 449550.0,
+         "descrizione": "2600657 - Sviluppo di campagne creative e l’organizzazione di eventi",
+         "cpv": "Servizi pubblicitari",
+         "valore_complessivo_stimato": 456000.0,
+         "luogo_nuts": "Milano",
+         "luogo_istat": "MILANO",
+         "valore_offerta_vincente": 146775.0,
          "accordo_quadro": "Nulla",
          "sistema_dinamico_acquisizione": "Nessun sistema dinamico di acquisizione",
          "aggiudicatari": [
           {
-           "importo": 449550.0,
+           "importo": 146775.0,
            "soggetti": [
             {
-             "codice_fiscale": "09356020967",
-             "denominazione": "LAST SRL"
+             "codice_fiscale": "07137460155",
+             "denominazione": "MELISMELIS SRL"
             }
            ]
           }
@@ -73,9 +279,9 @@
     "lingua": "it"
    }
   ],
-  "idAvviso": "35acd968-043b-4ea8-a6b2-7318b9c6e745",
+  "idAvviso": "6e74c6ee-6c50-43bf-a3a5-fb7e50c018e0",
   "count": 33.0,
-  "paginationToken": "CKapRBoJKbY8qK+hAQAAGgJgARoGEICAgPgHIg5aDGrr+GUvljb2ytIokg==",
+  "paginationToken": "CNTDRRoJKexNG7+hAQAAGgJgARoGEICAgPgHIg5aDGrtSkwqCGKk964eCQ==",
   "score": 1.0,
   "scoreDetails": {
    "value": 1.0,
@@ -92,7 +298,7 @@
       },
       {
        "value": 1.0,
-       "description": "IndexOrDocValuesQuery(indexQuery=$type:dateV2/dataPubblicazione:[1793232000000 TO 1794133637864], dvQuery=$type:dateV2/dataPubblicazione:[1793232000000 TO 1794133637864])",
+       "description": "IndexOrDocValuesQuery(indexQuery=$type:dateV2/dataPubblicazione:[1793318400000 TO 1794224281953], dvQuery=$type:dateV2/dataPubblicazione:[1793318400000 TO 1794224281953])",
        "details": []
       }
      ]
@@ -103,7 +309,7 @@
      "details": [
       {
        "value": 1.0,
-       "description": "$type:token/templates.template.sections.items.cpv:[[53 65 72 76 69 7a 69 20 64 69 20 6f 72 67 61 6e 69 7a 7a 61 7a 69 6f 6e 65 20 64 69 20 73 65 6d 69 6e 61 72 69] TO [53 65 72 76 69 7a 69 20 64 69 20 6f 72 67 61 6e 69 7a 7a 61 7a 69 6f 6e 65 20 64 69 20 73 65 6d 69 6e 61 72 69]]",
+       "description": "$type:token/templates.template.sections.items.cpv:[[53 65 72 76 69 7a 69 20 70 75 62 62 6c 69 63 69 74 61 72 69] TO [53 65 72 76 69 7a 69 20 70 75 62 62 6c 69 63 69 74 61 72 69]]",
        "details": []
       }
      ]
@@ -112,267 +318,15 @@
   },
   "oscurato": false,
   "noteOscuramento": null,
-  "idAppalto": "3cbdd5cd-dfad-46fb-88fb-30072207740b",
+  "idAppalto": "6bbca8f2-98d5-450a-9fa4-04955b4f807b",
   "dataPubblicazioneNuovoAvviso": null,
   "tipoNuovoAvviso": null,
-  "dataPCP": "2026-11-04T23:00:00.000+00:00",
-  "dataCreazione": "2026-11-05T03:30:45.823+00:00",
+  "dataPCP": "2026-11-05T23:00:00.000+00:00",
+  "dataCreazione": "2026-11-06T03:32:28.110+00:00",
   "tipo": "avviso",
   "attivo": true,
   "nuovoAvviso": null,
-  "codiceEform": "29",
-  "stato": "NON_VERIFICATO",
-  "ambiente": null,
-  "categorie": null
- },
- {
-  "codiceScheda": "A7_1_2",
-  "tipologia": "RISULTATI",
-  "dataPubblicazione": "2026-11-06T07:00:00.816+00:00",
-  "dataScadenza": null,
-  "templates": [
-   {
-    "template": {
-     "metadata": {
-      "link_eform_ted": null,
-      "titolo": null,
-      "descrizione": "Procedura negoziata senza pubblicazione di un bando di gara, ai sensi dell'art. 76, comma 4, lett. b), del decreto legislativo 31 marzo 2023, n. 36, per l'affidamento di un servizio integrato di informazione ed attività connesse, comprensivo delle consegne complementari, per illustrare e divulgare le politiche in materia di disabilità in ambito internazionale"
-     },
-     "sections": [
-      {
-       "name": "SEZ. A - Committente",
-       "fields": {
-        "soggetti_sa": [
-         {
-          "codice_fiscale": "80188230587",
-          "denominazione_amministrazione": "PRESIDENZA DEL CONSIGLIO DEI MINISTRI"
-         }
-        ]
-       }
-      },
-      {
-       "name": "SEZ. B - Dati Generali",
-       "fields": {
-        "documenti_di_gara_link": "https://eproc.palazzochigi.it/PortaleAppalti/it/procedure/codice/G02194",
-        "accordo_quadro": "Nulla",
-        "sistema_dinamico_acquisizione": "Nessun sistema dinamico di acquisizione",
-        "tipo_procedura_aggiudicazione": "Negoziata senza previa indizione di gara"
-       }
-      },
-      {
-       "name": "SEZ. C - Oggetto",
-       "items": [
-        {
-         "tipo_oggetto": "aggiudicazione",
-         "cig": "BB4B43D9A7",
-         "natura_principale": "Servizi",
-         "descrizione": "Procedura negoziata senza pubblicazione di un bando di gara, ai sensi dell'art. 76, comma 4, lett. b), del decreto legislativo 31 marzo 2023, n. 36, per l'affidamento di un servizio integrato di informazione ed attività connesse, comprensivo delle consegne complementari, per illustrare e divulgare le politiche in materia di disabilità in ambito internazionale",
-         "cpv": "Servizi di organizzazione di mostre, fiere e congressi",
-         "valore_complessivo_stimato": 217400.0,
-         "luogo_nuts": "Roma",
-         "luogo_istat": "ROMA",
-         "valore_offerta_vincente": 215860.0,
-         "accordo_quadro": "Nulla",
-         "sistema_dinamico_acquisizione": "Nessun sistema dinamico di acquisizione",
-         "aggiudicatari": [
-          {
-           "importo": 215860.0,
-           "soggetti": [
-            {
-             "codice_fiscale": "12130190015",
-             "denominazione": "auroraMeccanica soc. coop. a resp. lim."
-            }
-           ]
-          }
-         ],
-         "categorie": [
-          {
-           "codice": "FS",
-           "descrizione": "FORNITURA DI SERVIZI"
-          }
-         ]
-        }
-       ]
-      }
-     ]
-    },
-    "lingua": "it"
-   }
-  ],
-  "idAvviso": "41e8ffba-1e8f-4b7e-904f-96791bfb1c80",
-  "count": 33.0,
-  "paginationToken": "CNeYRRoJKbA8qK+hAQAAGgJgARoGEICAgPgHIg5aDGrsn3IxDy6riyJe2Q==",
-  "score": 1.0,
-  "scoreDetails": {
-   "value": 1.0,
-   "description": "sum of:",
-   "details": [
-    {
-     "value": 0.0,
-     "description": "match on required clause, product of:",
-     "details": [
-      {
-       "value": 0.0,
-       "description": "# clause",
-       "details": []
-      },
-      {
-       "value": 1.0,
-       "description": "IndexOrDocValuesQuery(indexQuery=$type:dateV2/dataPubblicazione:[1793232000000 TO 1794133637864], dvQuery=$type:dateV2/dataPubblicazione:[1793232000000 TO 1794133637864])",
-       "details": []
-      }
-     ]
-    },
-    {
-     "value": 1.0,
-     "description": "sum of:",
-     "details": [
-      {
-       "value": 1.0,
-       "description": "$type:token/templates.template.sections.items.cpv:[[53 65 72 76 69 7a 69 20 64 69 20 6f 72 67 61 6e 69 7a 7a 61 7a 69 6f 6e 65 20 64 69 20 6d 6f 73 74 72 65 2c 20 66 69 65 72 65 20 65 20 63 6f 6e 67 72 65 73 73 69] TO [53 65 72 76 69 7a 69 20 64 69 20 6f 72 67 61 6e 69 7a 7a 61 7a 69 6f 6e 65 20 64 69 20 6d 6f 73 74 72 65 2c 20 66 69 65 72 65 20 65 20 63 6f 6e 67 72 65 73 73 69]]",
-       "details": []
-      }
-     ]
-    }
-   ]
-  },
-  "oscurato": false,
-  "noteOscuramento": null,
-  "idAppalto": "8d87020f-a906-4173-8707-7a306b869499",
-  "dataPubblicazioneNuovoAvviso": null,
-  "tipoNuovoAvviso": null,
-  "dataPCP": "2026-11-05T16:23:30.000+00:00",
-  "dataCreazione": "2026-11-05T15:23:30.816+00:00",
-  "tipo": "avviso",
-  "attivo": true,
-  "nuovoAvviso": null,
-  "codiceEform": null,
-  "stato": "NON_VERIFICATO",
-  "ambiente": null,
-  "categorie": null
- },
- {
-  "codiceScheda": "AD2_25",
-  "tipologia": "RISULTATI",
-  "dataPubblicazione": "2026-11-06T07:00:00.346+00:00",
-  "dataScadenza": null,
-  "templates": [
-   {
-    "template": {
-     "metadata": {
-      "link_eform_ted": null,
-      "titolo": null,
-      "descrizione": "Servizio specialistico di ideazione, curatela, organizzazione e realizzazione della mostra \"Fragili Me-raviglie\" da svolgersi presso l'Università degli Studi \"Magna Grcia\" di Catanzaro per la durata di mesi tre. "
-     },
-     "sections": [
-      {
-       "name": "SEZ. A - Committente",
-       "fields": {
-        "soggetti_sa": [
-         {
-          "codice_fiscale": "97026980793",
-          "denominazione_amministrazione": "UNIVERSITA DEGLI STUDI DI CATANZARO 'MAGNA GRAECIA'"
-         }
-        ]
-       }
-      },
-      {
-       "name": "SEZ. B - Dati Generali",
-       "fields": {
-        "documenti_di_gara_link": "https://unicz.ubuy.cineca.it/PortaleAppalti/it/procedure/codice/G01726",
-        "accordo_quadro": "Nulla",
-        "sistema_dinamico_acquisizione": "Nessun sistema dinamico di acquisizione",
-        "tipo_procedura_aggiudicazione": "Negoziata senza previa indizione di gara"
-       }
-      },
-      {
-       "name": "SEZ. C - Oggetto",
-       "items": [
-        {
-         "tipo_oggetto": "aggiudicazione",
-         "cig": "BDAAA06860",
-         "natura_principale": "Servizi",
-         "descrizione": "Servizio specialistico di ideazione, curatela, organizzazione e realizzazione della mostra \"Fragili Me-raviglie\" da svolgersi presso l'Università degli Studi \"Magna Grcia\" di Catanzaro per la durata di mesi tre. ",
-         "cpv": "Servizi di organizzazione di mostre, fiere e congressi",
-         "documenti_di_gara_link": "https://unicz.ubuy.cineca.it/PortaleAppalti/it/procedure/codice/G01726",
-         "luogo_nuts": "Catanzaro",
-         "luogo_istat": "CATANZARO",
-         "valore_affidamento": 20491.8,
-         "accordo_quadro": "Nulla",
-         "sistema_dinamico_acquisizione": "Nessun sistema dinamico di acquisizione",
-         "aggiudicatari_ad": [
-          {
-           "importo": 20491.8,
-           "soggetti": [
-            {
-             "codice_fiscale": "GGLGPP58A26I844Y",
-             "denominazione": "Prof. Giuseppe Giglio, Storico e Critico d'arte"
-            }
-           ]
-          }
-         ],
-         "categorie": [
-          {
-           "codice": "FS",
-           "descrizione": "FORNITURA DI SERVIZI"
-          }
-         ]
-        }
-       ]
-      }
-     ]
-    },
-    "lingua": "it"
-   }
-  ],
-  "idAvviso": "7c3a12ce-d8fc-4336-8c45-d3254841813e",
-  "count": 33.0,
-  "paginationToken": "CMSvRBoJKdo6qK+hAQAAGgJgARoGEICAgPgHIg5aDGrsQ0Mvljb2ytIurA==",
-  "score": 1.0,
-  "scoreDetails": {
-   "value": 1.0,
-   "description": "sum of:",
-   "details": [
-    {
-     "value": 0.0,
-     "description": "match on required clause, product of:",
-     "details": [
-      {
-       "value": 0.0,
-       "description": "# clause",
-       "details": []
-      },
-      {
-       "value": 1.0,
-       "description": "IndexOrDocValuesQuery(indexQuery=$type:dateV2/dataPubblicazione:[1793232000000 TO 1794133637864], dvQuery=$type:dateV2/dataPubblicazione:[1793232000000 TO 1794133637864])",
-       "details": []
-      }
-     ]
-    },
-    {
-     "value": 1.0,
-     "description": "sum of:",
-     "details": [
-      {
-       "value": 1.0,
-       "description": "$type:token/templates.template.sections.items.cpv:[[53 65 72 76 69 7a 69 20 64 69 20 6f 72 67 61 6e 69 7a 7a 61 7a 69 6f 6e 65 20 64 69 20 6d 6f 73 74 72 65 2c 20 66 69 65 72 65 20 65 20 63 6f 6e 67 72 65 73 73 69] TO [53 65 72 76 69 7a 69 20 64 69 20 6f 72 67 61 6e 69 7a 7a 61 7a 69 6f 6e 65 20 64 69 20 6d 6f 73 74 72 65 2c 20 66 69 65 72 65 20 65 20 63 6f 6e 67 72 65 73 73 69]]",
-       "details": []
-      }
-     ]
-    }
-   ]
-  },
-  "oscurato": false,
-  "noteOscuramento": null,
-  "idAppalto": "e480b7d6-7e65-4364-9aaf-a1e6856cf77f",
-  "dataPubblicazioneNuovoAvviso": null,
-  "tipoNuovoAvviso": null,
-  "dataPCP": "2026-11-05T09:50:11.000+00:00",
-  "dataCreazione": "2026-11-05T08:50:11.347+00:00",
-  "tipo": "avviso",
-  "attivo": true,
-  "nuovoAvviso": null,
-  "codiceEform": null,
+  "codiceEform": "30",
   "stato": "NON_VERIFICATO",
   "ambiente": null,
   "categorie": null
