@@ -1,14 +1,5 @@
-# Radar gare Adduma, aggiornato 2026-11-09T11:38
-Letti oggi 65, nuovi 6, gare aperte pertinenti 18. Errori: 0
-
-## RAVDA - Campagne pubblicitarie
-- ente: REGIONE AUTONOMA VALLE D'AOSTA | luogo ISTAT AOSTA
-- tipologia: BANDI | procedura: Aperta | CIG: BCD204D725, BCD204E7F8
-- importo: 17.078.400 € (FUORI TAGLIA) | lotti: 2
-- pubblicato: 05/11/2026 07:00 | scadenza: 09/11/2026 17:00 | primo avvistamento: 2026-11-05
-- esecuzione: da remoto | parole chiave: pubblicit, marketing
-- avviso: https://pubblicitalegale.anticorruzione.it/bandi/4cf0873e-aec9-4ca5-96b4-dcee105d149c
-- documenti: https://place-vda.aflink.it//Application/CustomDoc/DettaglioProcedura.asp?ID=1282294
+# Radar gare Adduma, aggiornato 2026-11-10T11:16
+Letti oggi 76, nuovi 11, gare aperte pertinenti 20. Errori: 0
 
 ## PROCEDURA APERTA PER L'AFFIDAMENTO DI SERVIZI DI PROGETTAZIONE, ORGANIZZAZIONE E REALIZZAZIONE DI SPETTACOLO MUSICALE DAL VIVO
 - ente: COMUNE DI GENOVA | luogo ISTAT GENOVA
@@ -123,6 +114,15 @@ Lotto 2 - Settore Diritti dei cittadini
 - avviso: https://pubblicitalegale.anticorruzione.it/bandi/56565b9e-f696-4145-8e24-7af64fe4f6b8
 - documenti: https://www.polimi.it/imprese/bandiperleimprese/bandidigara
 
+## AVVISO DI INDAGINE DI MERCATO FINALIZZATO ALL’ACQUISIZIONE DI MANIFESTAZIONE DI INTERESSE PER L’INDIVIDUAZIONE DI OPERATORI ECONOMICI INTERESSATI A PARTECIPARE ALLA PROCEDURA NEGOZIATA SENZA PUBBLICAZIONE DI BANDO, PER L'AFFIDAMENTO DEL SERVIZIO DI SUPPORTO ALLA DIFFUSIONE E COMUNICAZIONE DEGLI INTERVENTI E DEI RISULTATI DI SVILUPPO LAVORO S.P.A.
+- ente: SVILUPPO LAVORO ITALIA S.P.A. | luogo ISTAT ROMA
+- tipologia: INDAGINI_DI_MERCATO_SOTTO_SOGLIA | procedura: n.d. | CIG: BDB584EAA9
+- importo: 210.000 € | lotti: 1
+- pubblicato: 10/11/2026 07:00 | scadenza: 24/11/2026 22:59 | primo avvistamento: 2026-11-10
+- esecuzione: evento in loco | parole chiave: comunicazione, pubblicit, marketing, manifestazion
+- avviso: https://pubblicitalegale.anticorruzione.it/bandi/460d6b6f-d200-4299-b283-bc8f7165da5d
+- documenti: https://sviluppolavoroitalia.acquistitelematici.it/tender/60
+
 ## servizi di ideazione produzione, realizzazione, adattamento e distribuzione di contenuti audiovisivi destinati alla comunicazione istituzionale della Regione Liguria e del Sistema regionale allargato, mediante conclusione di un Accordo Quadro di cui all’art. 59, co. 3 del D.Lgs. 36/2023, con un unico operatore economico per la durata di tre anni
 - ente: IN LIGURIA AGENZIA REGIONALE PROMOZIONE TURISTICA DELLA LIGURIA | luogo ISTAT GENOVA
 - tipologia: BANDI | procedura: Aperta | CIG: BD8D346EB8
@@ -167,3 +167,21 @@ Lotto 2 - Settore Diritti dei cittadini
 - esecuzione: evento in loco | parole chiave: evento, eventi, manifestazion, allestiment
 - avviso: https://pubblicitalegale.anticorruzione.it/bandi/27c9691a-42f1-479b-9bc7-30852e8ad92d
 - documenti: https://acquistitelematici.comune.napoli.it/PortaleAppalti/it/procedure/codice/G06152
+
+## AVVISO PUBBLICO FINALIZZATO ALL'ACQUISIZIONE DI PREVENTIVI PER L'AFFIDAMENTO DIRETTO DEL SERVIZIO DI SVILUPPO DELLA CAMPAGNA DI COMUNICAZIONE PER LA PROMOZIONE DEGLI SCREENING ONCOLOGICI TRA I MIGRANTI NELLAMBITO DELLAZIONE CONGIUNTA JOINT ACTION ON IMPLEMENTATION OF CANCER SCREENING PROGRAMMES (AZIONE CONGIUNTA SULLIMPLEMENTAZIONE DI PROGRAMMI DI SCREENING ONCOLOGICI)
+- ente: AGENZIA REGIONALE SANITARIA MARCHE | luogo ISTAT n.d.
+- tipologia: AVVISI_DI_PRE-INFORMAZIONE_INFORMATIVI | procedura: n.d. | CIG: n.d.
+- importo: n.d. | lotti: 1
+- pubblicato: 10/11/2026 07:00 | scadenza: n.d. | primo avvistamento: 2026-11-10
+- esecuzione: evento in loco | parole chiave: comunicazione, campagna, promozion, pubblicit, eventi
+- avviso: https://pubblicitalegale.anticorruzione.it/bandi/70191dfb-edc0-4865-b7e4-2ffebbb4ada1
+- documenti: https://gtmultie.regione.marche.it/PortaleAppalti/it/procedure/codice/A00312
+
+## INDAGINE DI MERCATO PER LAFFIDAMENTO DEL SERVIZIO DI ORGANIZZAZIONE E COMUNICAZIONE DELLEVENTO PATRIMONIO CHE CURA  ITINERARI DI BENESSERE TRA CULTURA, CIBO, NATURA E COMUNIT (MACERATA, 14-16 MAGGIO 2027) AI SENSI DELLART. 50, COMMA 1, LETTERA B) DEL D.LGS. 36/2023 E S.M.I. RICHIESTA DI MANIFESTAZIONE DI INTERESSE E DI OFFERTA.
+- ente: COMUNE DI MACERATA | luogo ISTAT n.d.
+- tipologia: AVVISI_DI_PRE-INFORMAZIONE_INFORMATIVI | procedura: n.d. | CIG: n.d.
+- importo: n.d. | lotti: 1
+- pubblicato: 10/11/2026 07:00 | scadenza: n.d. | primo avvistamento: 2026-11-10
+- esecuzione: evento in loco | parole chiave: comunicazione, evento, eventi, manifestazion
+- avviso: https://pubblicitalegale.anticorruzione.it/bandi/f6ed2f6c-80e9-471f-8443-5f92a767afa1
+- documenti: https://appaltigtcomac.regione.marche.it/PortaleAppalti/it/procedure/codice/A00029
