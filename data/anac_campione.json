@@ -2,7 +2,7 @@
  {
   "codiceScheda": "M2",
   "tipologia": "MODIFICHE_CONTRATTUALI",
-  "dataPubblicazione": "2026-11-10T07:00:00.980+00:00",
+  "dataPubblicazione": "2026-11-11T07:00:00.983+00:00",
   "dataScadenza": null,
   "templates": [
    {
@@ -10,7 +10,7 @@
      "metadata": {
       "link_eform_ted": null,
       "titolo": null,
-      "descrizione": "INCARICO DI MEDIA MANAGEMENT IN MERITO A PROGETTO COMUNICAZIONE PER LINEE SIR2 E SIR3"
+      "descrizione": "Parchi archeologici di Crotone e Sibari  Affidamento del Servizio di supporto al RUP per la redazione dei contenuti testuali per i social media per i Parchi archeologici di Crotone e Sibari tramite affidamento diretto ME.PA., ai sensi dell’art. 50, comma 1, lett. b del D.lgs. n. 36 2023"
      },
      "sections": [
       {
@@ -18,8 +18,8 @@
        "fields": {
         "soggetti_sa": [
          {
-          "codice_fiscale": "03860240286",
-          "denominazione_amministrazione": "APS HOLDING S.P.A."
+          "codice_fiscale": "94036550781",
+          "denominazione_amministrazione": "PARCHI ARCHEOLOGICI DI CROTONE E SIBARI"
          }
         ]
        }
@@ -27,7 +27,7 @@
       {
        "name": "SEZ. B - Dati Generali",
        "fields": {
-        "documenti_di_gara_link": "https://app.albofornitori.it/alboeproc/albo_apsholding?customEntryView=elencoBandiAlboByLinkEntryView&idProcedura=319"
+        "documenti_di_gara_link": "https://pasib.authorityonline.eu/"
        }
       },
       {
@@ -35,15 +35,15 @@
        "items": [
         {
          "tipo_oggetto": "aggiudicazione",
-         "cig": "B3B6F7C8A9",
+         "cig": "B9497C06B4",
          "natura_principale": "Servizi",
-         "descrizione": "INCARICO DI MEDIA MANAGEMENT IN MERITO A PROGETTO COMUNICAZIONE PER LINEE SIR2 E SIR3",
+         "descrizione": "Servizio di supporto al RUP per la redazione dei contenuti testuali per i social media per i Parchi archeologici di Crotone e Sibari",
          "cpv": "Servizi pubblicitari e di marketing",
-         "documenti_di_gara_link": "https://app.albofornitori.it/alboeproc/albo_apsholding?customEntryView=elencoBandiAlboByLinkEntryView&idProcedura=319",
-         "luogo_nuts": "Padova",
-         "luogo_istat": "PADOVA",
-         "data_stipula_contratto": "2026-11-09T12:00:00+01:00",
-         "motivazione_modifica": "Necessità di ulteriori lavori, forniture e servizi eseguiti dall'appaltatore originale."
+         "documenti_di_gara_link": "https://pasib.authorityonline.eu/",
+         "luogo_nuts": "Calabria",
+         "luogo_istat": "CASSANO ALL'IONIO",
+         "data_stipula_contratto": "2026-11-10T12:00:00+01:00",
+         "motivazione_modifica": "Modifiche basate su clausole di revisione dei prezzi o opzioni."
         }
        ]
       }
@@ -52,9 +52,9 @@
     "lingua": "it"
    }
   ],
-  "idAvviso": "74ba61ee-b731-4b43-a485-10ad50ddcad1",
-  "count": 39.0,
-  "paginationToken": "CKqzRRoJKVStQcShAQAAGgJgARoGEICAgPgHIg5aDGrx5SGGRGBKCVl0mw==",
+  "idAvviso": "4906b5f8-fbdd-401a-8781-de5b545b9d63",
+  "count": 45.0,
+  "paginationToken": "CNKARhoJKVcJaMmhAQAAGgJgARoGEICAgPgHIg5aDGrzFE1iab8hfVfPBg==",
   "score": 1.0,
   "scoreDetails": {
    "value": 1.0,
@@ -71,7 +71,7 @@
       },
       {
        "value": 1.0,
-       "description": "IndexOrDocValuesQuery(indexQuery=$type:dateV2/dataPubblicazione:[1793404800000 TO 1794309376698], dvQuery=$type:dateV2/dataPubblicazione:[1793404800000 TO 1794309376698])",
+       "description": "IndexOrDocValuesQuery(indexQuery=$type:dateV2/dataPubblicazione:[1793491200000 TO 1794394925313], dvQuery=$type:dateV2/dataPubblicazione:[1793491200000 TO 1794394925313])",
        "details": []
       }
      ]
@@ -91,11 +91,11 @@
   },
   "oscurato": false,
   "noteOscuramento": null,
-  "idAppalto": "0fcf5a4f-3d23-4492-994f-a9d5ba195361",
+  "idAppalto": "a9817693-f2cf-439b-a063-0b8fdd5ce3f0",
   "dataPubblicazioneNuovoAvviso": null,
   "tipoNuovoAvviso": null,
-  "dataPCP": "2026-11-09T16:22:09.000+00:00",
-  "dataCreazione": "2026-11-09T15:22:09.982+00:00",
+  "dataPCP": "2026-11-10T13:55:41.000+00:00",
+  "dataCreazione": "2026-11-10T12:55:41.984+00:00",
   "tipo": "avviso",
   "attivo": true,
   "nuovoAvviso": null,
@@ -105,113 +105,9 @@
   "categorie": null
  },
  {
-  "codiceScheda": "M2",
-  "tipologia": "MODIFICHE_CONTRATTUALI",
-  "dataPubblicazione": "2026-11-10T07:00:00.959+00:00",
-  "dataScadenza": null,
-  "templates": [
-   {
-    "template": {
-     "metadata": {
-      "link_eform_ted": null,
-      "titolo": null,
-      "descrizione": "PR FESR 2021-2027 AZIONE 1.3.4 – Linea 3 - Partecipazione del sistema Liguria ad appuntamenti internazionali per proporre territori ed operatori di eccellenza – Partecipazione alla fiera IBTM – Barcellona (17-19 novembre 2026)– Incarico a ENIT S.p.a. – CUP J38J26000030009"
-     },
-     "sections": [
-      {
-       "name": "SEZ. A - Committente",
-       "fields": {
-        "soggetti_sa": [
-         {
-          "codice_fiscale": "95054110101",
-          "denominazione_amministrazione": "IN LIGURIA AGENZIA REGIONALE PROMOZIONE TURISTICA DELLA LIGURIA"
-         }
-        ]
-       }
-      },
-      {
-       "name": "SEZ. B - Dati Generali",
-       "fields": {
-        "documenti_di_gara_link": "https://agenziainliguria.tuttogare.it/gare/dettaglio.php?codice=551"
-       }
-      },
-      {
-       "name": "SEZ. C - Oggetto",
-       "items": [
-        {
-         "tipo_oggetto": "aggiudicazione",
-         "cig": "BCA25406A7",
-         "natura_principale": "Servizi",
-         "descrizione": "PR FESR 2021-2027 AZIONE 1.3.4 – Linea 3 - Partecipazione del sistema Liguria ad appuntamenti internazionali per proporre territori ed operatori di eccellenza – Partecipazione alla fiera IBTM – Barcellona (17-19 novembre 2026)– Incarico a ENIT S.p.a. – CUP J38J26000030009",
-         "cpv": "Servizi di organizzazione di mostre, fiere e congressi",
-         "documenti_di_gara_link": "https://agenziainliguria.tuttogare.it/gare/dettaglio.php?codice=551",
-         "luogo_nuts": "Roma",
-         "luogo_istat": "ROMA",
-         "motivazione_modifica": "Necessità di ulteriori lavori, forniture e servizi eseguiti dall'appaltatore originale."
-        }
-       ]
-      }
-     ]
-    },
-    "lingua": "it"
-   }
-  ],
-  "idAvviso": "06de75f3-daca-4eba-b0cb-31ea14ffc4c1",
-  "count": 39.0,
-  "paginationToken": "COSBRRoJKT+tQcShAQAAGgJgARoGEICAgPgHIg5aDGrx1KzUfeknkValGw==",
-  "score": 1.0,
-  "scoreDetails": {
-   "value": 1.0,
-   "description": "sum of:",
-   "details": [
-    {
-     "value": 0.0,
-     "description": "match on required clause, product of:",
-     "details": [
-      {
-       "value": 0.0,
-       "description": "# clause",
-       "details": []
-      },
-      {
-       "value": 1.0,
-       "description": "IndexOrDocValuesQuery(indexQuery=$type:dateV2/dataPubblicazione:[1793404800000 TO 1794309376698], dvQuery=$type:dateV2/dataPubblicazione:[1793404800000 TO 1794309376698])",
-       "details": []
-      }
-     ]
-    },
-    {
-     "value": 1.0,
-     "description": "sum of:",
-     "details": [
-      {
-       "value": 1.0,
-       "description": "$type:token/templates.template.sections.items.cpv:[[53 65 72 76 69 7a 69 20 64 69 20 6f 72 67 61 6e 69 7a 7a 61 7a 69 6f 6e 65 20 64 69 20 6d 6f 73 74 72 65 2c 20 66 69 65 72 65 20 65 20 63 6f 6e 67 72 65 73 73 69] TO [53 65 72 76 69 7a 69 20 64 69 20 6f 72 67 61 6e 69 7a 7a 61 7a 69 6f 6e 65 20 64 69 20 6d 6f 73 74 72 65 2c 20 66 69 65 72 65 20 65 20 63 6f 6e 67 72 65 73 73 69]]",
-       "details": []
-      }
-     ]
-    }
-   ]
-  },
-  "oscurato": false,
-  "noteOscuramento": null,
-  "idAppalto": "689d575c-4abc-4b85-bd17-b258224e6c3e",
-  "dataPubblicazioneNuovoAvviso": null,
-  "tipoNuovoAvviso": null,
-  "dataPCP": "2026-11-09T15:11:56.000+00:00",
-  "dataCreazione": "2026-11-09T14:11:56.960+00:00",
-  "tipo": "avviso",
-  "attivo": true,
-  "nuovoAvviso": null,
-  "codiceEform": null,
-  "stato": "NON_VERIFICATO",
-  "ambiente": null,
-  "categorie": null
- },
- {
-  "codiceScheda": "A2_30",
+  "codiceScheda": "AD2_25",
   "tipologia": "RISULTATI",
-  "dataPubblicazione": "2026-11-10T07:00:00.903+00:00",
+  "dataPubblicazione": "2026-11-11T07:00:00.382+00:00",
   "dataScadenza": null,
   "templates": [
    {
@@ -219,7 +115,7 @@
      "metadata": {
       "link_eform_ted": null,
       "titolo": null,
-      "descrizione": "ATTIVITÀ DI SOCIAL MEDIA MANAGEMENT_PROC. 1243/2026"
+      "descrizione": "GOING GLOBAL DESIGN IN PUGLIA 8-11 DICEMBRE 2026 PUBBLICITA AEROPORTO MEDIA PARTNERSHIP TOTEM STRADALI E AVVICINAMENTO"
      },
      "sections": [
       {
@@ -227,8 +123,8 @@
        "fields": {
         "soggetti_sa": [
          {
-          "codice_fiscale": "06705490966",
-          "denominazione_amministrazione": "TRENORD S.R.L."
+          "codice_fiscale": "80000270720",
+          "denominazione_amministrazione": "UNIONCAMERE PUGLIA"
          }
         ]
        }
@@ -236,10 +132,8 @@
       {
        "name": "SEZ. B - Dati Generali",
        "fields": {
-        "documenti_di_gara_link": "https://acquistionline.trenord.it/web/login.html",
-        "accordo_quadro": "Nulla",
-        "sistema_dinamico_acquisizione": "Nessun sistema dinamico di acquisizione",
-        "tipo_procedura_aggiudicazione": "Negoziata senza previa indizione di gara"
+        "documenti_di_gara_link": "https://www.acquistinretepa.it/bandi/negoziata/rdo-td/5b86378f288ae1c5",
+        "tipo_procedura_aggiudicazione": "Altra procedura a fase unica"
        }
       },
       {
@@ -247,23 +141,21 @@
        "items": [
         {
          "tipo_oggetto": "aggiudicazione",
-         "cig": "BC18C7F80A",
+         "cig": "BDBC7ED780",
          "natura_principale": "Servizi",
-         "descrizione": "ATTIVITÀ DI SOCIAL MEDIA MANAGEMENT_PROC. 1243/2026",
+         "descrizione": "GOING GLOBAL DESIGN IN PUGLIA 8-11 DICEMBRE 2026 PUBBLICITA AEROPORTO MEDIA PARTNERSHIP TOTEM STRADALI E AVVICINAMENTO",
          "cpv": "Servizi pubblicitari e di marketing",
-         "valore_complessivo_stimato": 400000.0,
-         "luogo_nuts": "ITALIA",
-         "luogo_istat": "MILANO",
-         "valore_offerta_vincente": 390000.0,
-         "accordo_quadro": "Nulla",
-         "sistema_dinamico_acquisizione": "Nessun sistema dinamico di acquisizione",
-         "aggiudicatari": [
+         "documenti_di_gara_link": "https://www.acquistinretepa.it/bandi/negoziata/rdo-td/5b86378f288ae1c5",
+         "luogo_nuts": "Puglia",
+         "luogo_istat": "BARI",
+         "valore_affidamento": 20000.0,
+         "aggiudicatari_ad": [
           {
-           "importo": 390000.0,
+           "importo": 20000.0,
            "soggetti": [
             {
-             "codice_fiscale": "09493020961",
-             "denominazione": "H48 SRL"
+             "codice_fiscale": "06320660720",
+             "denominazione": "SPAZIO EVENTI SRL"
             }
            ]
           }
@@ -282,9 +174,9 @@
     "lingua": "it"
    }
   ],
-  "idAvviso": "441d6772-07f2-41c5-94f9-bb3b4fbf9801",
-  "count": 39.0,
-  "paginationToken": "CK2ARRoJKQetQcShAQAAGgJgARoGEICAgPgHIg5aDGrxzCLUfeknkVaiuQ==",
+  "idAvviso": "a4829487-0083-447c-82c0-1f9a32a44c1f",
+  "count": 45.0,
+  "paginationToken": "CPaBRhoJKf4GaMmhAQAAGgJgARoGEICAgPgHIg5aDGrzGr1iab8hfVfReg==",
   "score": 1.0,
   "scoreDetails": {
    "value": 1.0,
@@ -301,7 +193,7 @@
       },
       {
        "value": 1.0,
-       "description": "IndexOrDocValuesQuery(indexQuery=$type:dateV2/dataPubblicazione:[1793404800000 TO 1794309376698], dvQuery=$type:dateV2/dataPubblicazione:[1793404800000 TO 1794309376698])",
+       "description": "IndexOrDocValuesQuery(indexQuery=$type:dateV2/dataPubblicazione:[1793491200000 TO 1794394925313], dvQuery=$type:dateV2/dataPubblicazione:[1793491200000 TO 1794394925313])",
        "details": []
       }
      ]
@@ -321,11 +213,113 @@
   },
   "oscurato": false,
   "noteOscuramento": null,
-  "idAppalto": "0f709bf7-934a-4ea8-b142-fa5da2fdc9d7",
+  "idAppalto": "8e585ed9-0ead-4216-866e-d32a669cff21",
   "dataPubblicazioneNuovoAvviso": null,
   "tipoNuovoAvviso": null,
-  "dataPCP": "2026-11-09T14:35:30.000+00:00",
-  "dataCreazione": "2026-11-09T13:35:30.903+00:00",
+  "dataPCP": "2026-11-10T14:23:09.000+00:00",
+  "dataCreazione": "2026-11-10T13:23:09.383+00:00",
+  "tipo": "avviso",
+  "attivo": true,
+  "nuovoAvviso": null,
+  "codiceEform": null,
+  "stato": "NON_VERIFICATO",
+  "ambiente": null,
+  "categorie": null
+ },
+ {
+  "codiceScheda": "M2",
+  "tipologia": "MODIFICHE_CONTRATTUALI",
+  "dataPubblicazione": "2026-11-11T07:00:00.314+00:00",
+  "dataScadenza": null,
+  "templates": [
+   {
+    "template": {
+     "metadata": {
+      "link_eform_ted": null,
+      "titolo": null,
+      "descrizione": "Acquisto di servizi e beni per le attività dell’Ufficio Stampa e dell’Ufficio Social Media"
+     },
+     "sections": [
+      {
+       "name": "SEZ. A - Committente",
+       "fields": {
+        "soggetti_sa": [
+         {
+          "codice_fiscale": "80143490581",
+          "denominazione_amministrazione": "REGIONE LAZIO"
+         }
+        ]
+       }
+      },
+      {
+       "name": "SEZ. B - Dati Generali",
+       "fields": {}
+      },
+      {
+       "name": "SEZ. C - Oggetto",
+       "items": [
+        {
+         "tipo_oggetto": "aggiudicazione",
+         "cig": "B9558A445F",
+         "natura_principale": "Servizi",
+         "descrizione": "Acquisto di servizi e beni per le attività dell’Ufficio Stampa e dell’Ufficio Social Media",
+         "cpv": "Servizi pubblicitari e di marketing",
+         "luogo_nuts": "Roma",
+         "luogo_istat": "ROMA",
+         "data_stipula_contratto": "2025-12-15T00:00:00Z",
+         "motivazione_modifica": "Necessità di ulteriori lavori, forniture e servizi eseguiti dall'appaltatore originale."
+        }
+       ]
+      }
+     ]
+    },
+    "lingua": "it"
+   }
+  ],
+  "idAvviso": "3269932e-686a-4474-8238-1e2f76f225c5",
+  "count": 45.0,
+  "paginationToken": "CNzFRRoJKboGaMmhAQAAGgJgARoGEICAgPgHIg5aDGrzP2tiab8hfVfacA==",
+  "score": 1.0,
+  "scoreDetails": {
+   "value": 1.0,
+   "description": "sum of:",
+   "details": [
+    {
+     "value": 0.0,
+     "description": "match on required clause, product of:",
+     "details": [
+      {
+       "value": 0.0,
+       "description": "# clause",
+       "details": []
+      },
+      {
+       "value": 1.0,
+       "description": "IndexOrDocValuesQuery(indexQuery=$type:dateV2/dataPubblicazione:[1793491200000 TO 1794394925313], dvQuery=$type:dateV2/dataPubblicazione:[1793491200000 TO 1794394925313])",
+       "details": []
+      }
+     ]
+    },
+    {
+     "value": 1.0,
+     "description": "sum of:",
+     "details": [
+      {
+       "value": 1.0,
+       "description": "$type:token/templates.template.sections.items.cpv:[[53 65 72 76 69 7a 69 20 70 75 62 62 6c 69 63 69 74 61 72 69 20 65 20 64 69 20 6d 61 72 6b 65 74 69 6e 67] TO [53 65 72 76 69 7a 69 20 70 75 62 62 6c 69 63 69 74 61 72 69 20 65 20 64 69 20 6d 61 72 6b 65 74 69 6e 67]]",
+       "details": []
+      }
+     ]
+    }
+   ]
+  },
+  "oscurato": false,
+  "noteOscuramento": null,
+  "idAppalto": "eaf590a8-2f3d-4fcd-a7b1-2d70ebcd1aa9",
+  "dataPubblicazioneNuovoAvviso": null,
+  "tipoNuovoAvviso": null,
+  "dataPCP": "2026-11-10T16:59:39.000+00:00",
+  "dataCreazione": "2026-11-10T15:59:39.314+00:00",
   "tipo": "avviso",
   "attivo": true,
   "nuovoAvviso": null,

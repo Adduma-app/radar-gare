@@ -1,14 +1,198 @@
 {
  "stato": {
-  "aggiornato": "2026-11-10T11:16",
-  "letti_oggi": 76,
-  "nuovi_oggi": 11,
-  "aperte_pertinenti": 20,
-  "esiti_pertinenti": 88,
-  "scartati_oggi": 31,
+  "aggiornato": "2026-11-11T11:02",
+  "letti_oggi": 87,
+  "nuovi_oggi": 10,
+  "aperte_pertinenti": 21,
+  "esiti_pertinenti": 93,
+  "scartati_oggi": 32,
   "errori": []
  },
  "esiti": [
+  {
+   "id": "anac:a4829487-0083-447c-82c0-1f9a32a44c1f",
+   "fonte": "ANAC PVL",
+   "tipologia": "RISULTATI",
+   "titolo": "GOING GLOBAL DESIGN IN PUGLIA 8-11 DICEMBRE 2026 PUBBLICITA AEROPORTO MEDIA PARTNERSHIP TOTEM STRADALI E AVVICINAMENTO",
+   "descrizione": "GOING GLOBAL DESIGN IN PUGLIA 8-11 DICEMBRE 2026 PUBBLICITA AEROPORTO MEDIA PARTNERSHIP TOTEM STRADALI E AVVICINAMENTO",
+   "ente": "UNIONCAMERE PUGLIA",
+   "cf_ente": "80000270720",
+   "luogo_istat": "BARI",
+   "luogo_nuts": "Puglia",
+   "importo": null,
+   "lotti": 1,
+   "cig": [
+    "BDBC7ED780"
+   ],
+   "cpv": "Servizi pubblicitari e di marketing",
+   "procedura": "Altra procedura a fase unica",
+   "pubblicazione": "2026-11-11T07:00",
+   "scadenza": null,
+   "link_avviso": "https://pubblicitalegale.anticorruzione.it/bandi/a4829487-0083-447c-82c0-1f9a32a44c1f",
+   "link_documenti": "https://www.acquistinretepa.it/bandi/negoziata/rdo-td/5b86378f288ae1c5",
+   "link_ted": null,
+   "aggiudicatari": [],
+   "valore_aggiudicato": null,
+   "kw_score": 4,
+   "kw_trovate": [
+    "pubblicit",
+    "marketing"
+   ],
+   "kw_escluse": [],
+   "esecuzione": "da remoto",
+   "fuori_taglia": false,
+   "pertinente": true,
+   "motivo_scarto": null,
+   "primo_avvistamento": "2026-11-11"
+  },
+  {
+   "id": "anac:c22ff146-3ee2-42e7-b3cd-936928ac46ee",
+   "fonte": "ANAC PVL",
+   "tipologia": "RISULTATI",
+   "titolo": "affidamento del servizio di supporto alla comunicazione di Ateneo per 2 anni",
+   "descrizione": "affidamento del servizio di supporto alla comunicazione di Ateneo per 2 anni",
+   "ente": "UNIVERSITA' DEGLI STUDI DI NAPOLI PARTHENOPE",
+   "cf_ente": "80018240632",
+   "luogo_istat": "NAPOLI",
+   "luogo_nuts": "Napoli",
+   "importo": 200000.0,
+   "lotti": 1,
+   "cig": [
+    "B5FEC85FF7"
+   ],
+   "cpv": "Servizi di consulenza pubblicitaria",
+   "procedura": "Ristretta",
+   "pubblicazione": "2026-11-11T07:00",
+   "scadenza": null,
+   "link_avviso": "https://pubblicitalegale.anticorruzione.it/bandi/c22ff146-3ee2-42e7-b3cd-936928ac46ee",
+   "link_documenti": "https://uniparthenope.portaleamministrazionetrasparente.it/",
+   "link_ted": null,
+   "aggiudicatari": [
+    "KIDEA S.R.L."
+   ],
+   "valore_aggiudicato": 196000.0,
+   "kw_score": 4,
+   "kw_trovate": [
+    "comunicazione",
+    "pubblicit"
+   ],
+   "kw_escluse": [],
+   "esecuzione": "da remoto",
+   "fuori_taglia": false,
+   "pertinente": true,
+   "motivo_scarto": null,
+   "primo_avvistamento": "2026-11-11"
+  },
+  {
+   "id": "anac:9c072547-1cda-472d-a80d-1d7dc6922318",
+   "fonte": "ANAC PVL",
+   "tipologia": "RISULTATI",
+   "titolo": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DI UN BANDO DI GARA, IN VIA D'URGENZA, AI SENSI DELL'ART. 76 COMMA 2 LETTERA C), PER L'AFFIDAMENTO DEL SERVIZIO DI PROGETTAZIONE, ORGANIZZAZIONE E REALIZZAZIONE DI UN'AREA HOSPITALITY, SITUATA IN VIA MALSICURA, PER LA PREPARAZIONE DEL POTENZIALE FORMULA 1 GRAN PREMIO DEL MADE IN ITALY E DELL'EMILIA-ROMAGNA, PREVISTO PER IL 4-6 DICEMBRE 2026 NEL CALENDARIO DEL CAMPIONATO DEL MONDO FIA DI FORMULA 1",
+   "descrizione": "PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DI UN BANDO DI GARA, IN VIA D'URGENZA, AI SENSI DELL'ART. 76 COMMA 2 LETTERA C), PER L'AFFIDAMENTO DEL SERVIZIO DI PROGETTAZIONE, ORGANIZZAZIONE E REALIZZAZIONE DI UN'AREA HOSPITALITY, SITUATA IN VIA MALSICURA, PER LA PREPARAZIONE DEL POTENZIALE FORMULA 1 GRAN PREMIO DEL MADE IN ITALY E DELL'EMILIA-ROMAGNA, PREVISTO PER IL 4-6 DICEMBRE 2026 NEL CALENDARIO DEL CAMPIONATO DEL MONDO FIA DI FORMULA 1",
+   "ente": "FORMULA IMOLA S.P.A.",
+   "cf_ente": "02823951203",
+   "luogo_istat": "IMOLA",
+   "luogo_nuts": "Bologna",
+   "importo": 730275.0,
+   "lotti": 1,
+   "cig": [
+    "BDA348F900"
+   ],
+   "cpv": "Servizi di organizzazione di eventi",
+   "procedura": "Negoziata senza previa indizione di gara",
+   "pubblicazione": "2026-11-11T07:00",
+   "scadenza": null,
+   "link_avviso": "https://pubblicitalegale.anticorruzione.it/bandi/9c072547-1cda-472d-a80d-1d7dc6922318",
+   "link_documenti": "https://autodromoimola-appalti.maggiolicloud.it/PortaleAppalti/it/procedure/codice/G00650",
+   "link_ted": null,
+   "aggiudicatari": [
+    "2COMEVENTI SRL"
+   ],
+   "valore_aggiudicato": 730275.0,
+   "kw_score": 2,
+   "kw_trovate": [
+    "eventi"
+   ],
+   "kw_escluse": [],
+   "esecuzione": "evento in loco",
+   "fuori_taglia": true,
+   "pertinente": true,
+   "motivo_scarto": null,
+   "primo_avvistamento": "2026-11-11"
+  },
+  {
+   "id": "anac:9ea5d761-8b30-4a4f-997d-755aeae9834a",
+   "fonte": "ANAC PVL",
+   "tipologia": "RISULTATI",
+   "titolo": "AFFIDAMENTO DEL SERVIZIO DI PROGETTAZIONE, ORGANIZZAZIONE E REALIZZAZIONE DELL’EVENTO DI CAPODANNO DEL 31 DICEMBRE 2026",
+   "descrizione": "AFFIDAMENTO DEL SERVIZIO DI PROGETTAZIONE, ORGANIZZAZIONE E REALIZZAZIONE DELL’EVENTO DI CAPODANNO DEL 31 DICEMBRE 2026",
+   "ente": "COMUNE DI RAVENNA",
+   "cf_ente": "00354730392",
+   "luogo_istat": "RAVENNA",
+   "luogo_nuts": "Ravenna",
+   "importo": 114754.1,
+   "lotti": 1,
+   "cig": [
+    "BD1DABA722"
+   ],
+   "cpv": "Servizi di organizzazione di eventi",
+   "procedura": "Negoziata senza previa indizione di gara",
+   "pubblicazione": "2026-11-11T07:00",
+   "scadenza": null,
+   "link_avviso": "https://pubblicitalegale.anticorruzione.it/bandi/9ea5d761-8b30-4a4f-997d-755aeae9834a",
+   "link_documenti": "https://www.acquistinretepa.it/bandi/negoziata/rdo-evoluta/885aa64ae0692891",
+   "link_ted": null,
+   "aggiudicatari": [
+    "RADIO STUDIO DELTA DI EMILIANI A. VALLETTA A. LUCCHI M. SNC "
+   ],
+   "valore_aggiudicato": 57000.0,
+   "kw_score": 4,
+   "kw_trovate": [
+    "evento",
+    "eventi"
+   ],
+   "kw_escluse": [],
+   "esecuzione": "evento in loco",
+   "fuori_taglia": false,
+   "pertinente": true,
+   "motivo_scarto": null,
+   "primo_avvistamento": "2026-11-11"
+  },
+  {
+   "id": "anac:dd86c51c-68c7-4cb2-816a-689aa0bbc43c",
+   "fonte": "ANAC PVL",
+   "tipologia": "RISULTATI",
+   "titolo": "75^ EDIZIONE RASSEGNA INTERNAZIONALE D'ARTE/PREMIO G.B. SALVI",
+   "descrizione": "75^ EDIZIONE RASSEGNA INTERNAZIONALE D'ARTE/PREMIO G.B. SALVI",
+   "ente": "COMUNE DI SASSOFERRATO",
+   "cf_ente": "00172960429",
+   "luogo_istat": "SASSOFERRATO",
+   "luogo_nuts": "Ancona",
+   "importo": null,
+   "lotti": 1,
+   "cig": [
+    "BDBA0B7BE0"
+   ],
+   "cpv": "Servizi di organizzazione di eventi culturali",
+   "procedura": "Altra procedura a fase unica",
+   "pubblicazione": "2026-11-11T07:00",
+   "scadenza": null,
+   "link_avviso": "https://pubblicitalegale.anticorruzione.it/bandi/dd86c51c-68c7-4cb2-816a-689aa0bbc43c",
+   "link_documenti": "https://www.acquistinretepa.it/bandi/negoziata/rdo-td/0dba77de664d70ca",
+   "link_ted": null,
+   "aggiudicatari": [],
+   "valore_aggiudicato": null,
+   "kw_score": 2,
+   "kw_trovate": [
+    "eventi"
+   ],
+   "kw_escluse": [],
+   "esecuzione": "evento in loco",
+   "fuori_taglia": false,
+   "pertinente": true,
+   "motivo_scarto": null,
+   "primo_avvistamento": "2026-11-11"
+  },
   {
    "id": "anac:441d6772-07f2-41c5-94f9-bb3b4fbf9801",
    "fonte": "ANAC PVL",

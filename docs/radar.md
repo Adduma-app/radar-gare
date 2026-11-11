@@ -1,5 +1,5 @@
-# Radar gare Adduma, aggiornato 2026-11-10T11:16
-Letti oggi 76, nuovi 11, gare aperte pertinenti 20. Errori: 0
+# Radar gare Adduma, aggiornato 2026-11-11T11:02
+Letti oggi 87, nuovi 10, gare aperte pertinenti 21. Errori: 0
 
 ## PROCEDURA APERTA PER L'AFFIDAMENTO DI SERVIZI DI PROGETTAZIONE, ORGANIZZAZIONE E REALIZZAZIONE DI SPETTACOLO MUSICALE DAL VIVO
 - ente: COMUNE DI GENOVA | luogo ISTAT GENOVA
@@ -122,6 +122,15 @@ Lotto 2 - Settore Diritti dei cittadini
 - esecuzione: evento in loco | parole chiave: comunicazione, pubblicit, marketing, manifestazion
 - avviso: https://pubblicitalegale.anticorruzione.it/bandi/460d6b6f-d200-4299-b283-bc8f7165da5d
 - documenti: https://sviluppolavoroitalia.acquistitelematici.it/tender/60
+
+## SERVIZIO DI ORGANIZZAZIONE E SUPPORTO ALLA COMUNICAZIONE DEGLI EVENTI NELL’AMBITO DELLA PAVIA INNOVATION WEEK 2027
+- ente: CMP SVILUPPOIMPRESA - AZIENDA SPECIALE DELLA CAMERA DI COMMERCIO DI CREMONA-MANTOVA-PAVIA | luogo ISTAT PAVIA
+- tipologia: BANDI | procedura: Aperta | CIG: BDBC2FD46B
+- importo: 110.000 € | lotti: 1
+- pubblicato: 11/11/2026 07:00 | scadenza: 25/11/2026 12:00 | primo avvistamento: 2026-11-11
+- esecuzione: evento in loco | parole chiave: comunicazione, eventi
+- avviso: https://pubblicitalegale.anticorruzione.it/bandi/cdec4df4-bb41-423c-85c2-f3a83bc24f65
+- documenti: https://www.cmpsviluppoimpresa.it/amministrazione-trasparente-cmp/
 
 ## servizi di ideazione produzione, realizzazione, adattamento e distribuzione di contenuti audiovisivi destinati alla comunicazione istituzionale della Regione Liguria e del Sistema regionale allargato, mediante conclusione di un Accordo Quadro di cui all’art. 59, co. 3 del D.Lgs. 36/2023, con un unico operatore economico per la durata di tre anni
 - ente: IN LIGURIA AGENZIA REGIONALE PROMOZIONE TURISTICA DELLA LIGURIA | luogo ISTAT GENOVA
