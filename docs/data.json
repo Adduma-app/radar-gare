@@ -1,11 +1,11 @@
 {
  "stato": {
-  "aggiornato": "2026-11-11T11:02",
-  "letti_oggi": 87,
-  "nuovi_oggi": 10,
-  "aperte_pertinenti": 21,
-  "esiti_pertinenti": 93,
-  "scartati_oggi": 32,
+  "aggiornato": "2026-11-12T11:19",
+  "letti_oggi": 100,
+  "nuovi_oggi": 8,
+  "aperte_pertinenti": 22,
+  "esiti_pertinenti": 97,
+  "scartati_oggi": 37,
   "errori": []
  },
  "gare": [
@@ -119,6 +119,45 @@
    "primo_avvistamento": "2026-10-30"
   },
   {
+   "id": "anac:4505ab77-9a52-4a96-882b-9ee3c92c224e",
+   "fonte": "ANAC PVL",
+   "tipologia": "BANDI",
+   "titolo": "Orizzonte Calabria",
+   "descrizione": "Servizi di promozione, comunicazione e marketing turistico",
+   "ente": "REGIONE CALABRIA",
+   "cf_ente": "02205340793",
+   "luogo_istat": "CATANZARO",
+   "luogo_nuts": "Catanzaro",
+   "importo": 95200000.0,
+   "lotti": 2,
+   "cig": [
+    "BD32936D96",
+    "BD32937E69"
+   ],
+   "cpv": "Servizi pubblicitari e di marketing",
+   "procedura": "Aperta",
+   "pubblicazione": "2026-11-12T07:00",
+   "scadenza": "2026-11-13T13:00",
+   "link_avviso": "https://pubblicitalegale.anticorruzione.it/bandi/4505ab77-9a52-4a96-882b-9ee3c92c224e",
+   "link_documenti": "https://sisgap.regione.calabria.it",
+   "link_ted": "https://ted.europa.eu/udl?uri=TED:NOTICE:784636-2026:TEXT:IT:HTML",
+   "aggiudicatari": [],
+   "valore_aggiudicato": null,
+   "kw_score": 8,
+   "kw_trovate": [
+    "comunicazione",
+    "promozion",
+    "pubblicit",
+    "marketing"
+   ],
+   "kw_escluse": [],
+   "esecuzione": "da remoto",
+   "fuori_taglia": true,
+   "pertinente": true,
+   "motivo_scarto": null,
+   "primo_avvistamento": "2026-11-12"
+  },
+  {
    "id": "anac:21fb2ff8-7e59-45af-b554-decd6ae05bfe",
    "fonte": "ANAC PVL",
    "tipologia": "BANDI",
@@ -216,42 +255,6 @@
    "link_avviso": "https://pubblicitalegale.anticorruzione.it/bandi/091f16f0-95bd-4265-a163-51d62206222d",
    "link_documenti": "https://www.ariaspa.it",
    "link_ted": "https://ted.europa.eu/udl?uri=TED:NOTICE:716586-2026:TEXT:IT:HTML",
-   "aggiudicatari": [],
-   "valore_aggiudicato": null,
-   "kw_score": 4,
-   "kw_trovate": [
-    "comunicazione",
-    "pubblicit"
-   ],
-   "kw_escluse": [],
-   "esecuzione": "da remoto",
-   "fuori_taglia": true,
-   "pertinente": true,
-   "motivo_scarto": null,
-   "primo_avvistamento": "2026-10-21"
-  },
-  {
-   "id": "anac:5b4b85e5-6116-4f08-a0b5-7c00a34d9096",
-   "fonte": "ANAC PVL",
-   "tipologia": "BANDI",
-   "titolo": "GARA EUROPEA A PROCEDURA APERTA ART 71 DEL D.LGS 36  2023 PER ACQUISIZIONE DI SERVIZI SPECIALISTICI DI PROGETTAZIONE, REALIZZAZIONE E GESTIONE DEL PIANO DI COMUNICAZIONE DEL COMPLEMENTO DI SVILUPPO RURALE CSR DELLA REGIONE LAZIO 2023, 2027",
-   "descrizione": "GARA EUROPEA A PROCEDURA APERTA ART 71 DEL D.LGS 36 2023 PER ACQUISIZIONE DI SERVIZI SPECIALISTICI DI PROGETTAZIONE, REALIZZAZIONE E GESTIONE DEL PIANO DI COMUNICAZIONE DEL COMPLEMENTO DI SVILUPPO RURALE CSR DELLA REGIONE LAZIO 2023, 2027",
-   "ente": "ARSIAL",
-   "cf_ente": "04838391003",
-   "luogo_istat": "ROMA",
-   "luogo_nuts": null,
-   "importo": 1052000.0,
-   "lotti": 1,
-   "cig": [
-    "BD456C79DF"
-   ],
-   "cpv": "Servizi di campagne pubblicitarie",
-   "procedura": "Aperta",
-   "pubblicazione": "2026-10-12T06:00",
-   "scadenza": "2026-11-16T16:00",
-   "link_avviso": "https://pubblicitalegale.anticorruzione.it/bandi/5b4b85e5-6116-4f08-a0b5-7c00a34d9096",
-   "link_documenti": "https://www.acquistinretepa.it/bandi/aperta/gara-asp/fdcbea9e1ccf7f3d",
-   "link_ted": "https://ted.europa.eu/udl?uri=TED:NOTICE:697588-2026:TEXT:IT:HTML",
    "aggiudicatari": [],
    "valore_aggiudicato": null,
    "kw_score": 4,
@@ -627,6 +630,42 @@
    "pertinente": true,
    "motivo_scarto": null,
    "primo_avvistamento": "2026-10-28"
+  },
+  {
+   "id": "anac:f62a81f5-844d-4092-a0ff-0aa3288d679d",
+   "fonte": "ANAC PVL",
+   "tipologia": "BANDI",
+   "titolo": "PROCEDURA APERTA PRODUZIONE TV, REGIA e DIRETTE VIDEOSTREAMING EVENTI FIS 2027",
+   "descrizione": "PROCEDURA APERTA PRODUZIONE TV, REGIA e DIRETTE VIDEOSTREAMING EVENTI FIS 2027",
+   "ente": "FEDERAZIONE ITALIANA SCHERMA",
+   "cf_ente": "05271310582",
+   "luogo_istat": "ROMA",
+   "luogo_nuts": "ITALIA",
+   "importo": 120000.0,
+   "lotti": 1,
+   "cig": [
+    "BDC2E45C6B"
+   ],
+   "cpv": "Servizi di produzione televisiva",
+   "procedura": "Aperta",
+   "pubblicazione": "2026-11-12T07:00",
+   "scadenza": "2026-12-13T15:00",
+   "link_avviso": "https://pubblicitalegale.anticorruzione.it/bandi/f62a81f5-844d-4092-a0ff-0aa3288d679d",
+   "link_documenti": "https://federscherma.acquistitelematici.it/tender/1476",
+   "link_ted": null,
+   "aggiudicatari": [],
+   "valore_aggiudicato": null,
+   "kw_score": 5,
+   "kw_trovate": [
+    "video",
+    "eventi"
+   ],
+   "kw_escluse": [],
+   "esecuzione": "evento in loco",
+   "fuori_taglia": false,
+   "pertinente": true,
+   "motivo_scarto": null,
+   "primo_avvistamento": "2026-11-12"
   },
   {
    "id": "anac:3cdf8cb3-8513-4829-9eaa-1e1e98cd25ba",

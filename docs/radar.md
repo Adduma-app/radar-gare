@@ -1,5 +1,5 @@
-# Radar gare Adduma, aggiornato 2026-11-11T11:02
-Letti oggi 87, nuovi 10, gare aperte pertinenti 21. Errori: 0
+# Radar gare Adduma, aggiornato 2026-11-12T11:19
+Letti oggi 100, nuovi 8, gare aperte pertinenti 22. Errori: 0
 
 ## PROCEDURA APERTA PER L'AFFIDAMENTO DI SERVIZI DI PROGETTAZIONE, ORGANIZZAZIONE E REALIZZAZIONE DI SPETTACOLO MUSICALE DAL VIVO
 - ente: COMUNE DI GENOVA | luogo ISTAT GENOVA
@@ -31,6 +31,15 @@ Affidamento dei servizi e delle forniture relativi alle Linee A.2, A.3, A.4, B.2
 - avviso: https://pubblicitalegale.anticorruzione.it/bandi/5fea0b7d-82b3-4737-8424-69293a1de060
 - documenti: https://appalti-comunemonreale.maggiolicloud.it/PortaleAppalti/it/procedure/codice/G00319
 
+## Orizzonte Calabria
+- ente: REGIONE CALABRIA | luogo ISTAT CATANZARO
+- tipologia: BANDI | procedura: Aperta | CIG: BD32936D96, BD32937E69
+- importo: 95.200.000 € (FUORI TAGLIA) | lotti: 2
+- pubblicato: 12/11/2026 07:00 | scadenza: 13/11/2026 13:00 | primo avvistamento: 2026-11-12
+- esecuzione: da remoto | parole chiave: comunicazione, promozion, pubblicit, marketing
+- avviso: https://pubblicitalegale.anticorruzione.it/bandi/4505ab77-9a52-4a96-882b-9ee3c92c224e
+- documenti: https://sisgap.regione.calabria.it
+
 ## PROCEDURA APERTA AI SENSI DELL'ART. 71 DEL D.LGS.36 2023 PER L'AFFIDAMENTO DEL SERVIZIO DI UFFICIO STAMPA, GESTIONE DEI SOCIAL MEDIA E PRODUZIONE GRAFICA  DELL'ORDINE DEGLI PSICOLOGI DELLA TOSCANA
 - ente: ORDINE DEGLI PSICOLOGI DELLA REGIONE TOSCANA | luogo ISTAT FIRENZE
 - tipologia: BANDI | procedura: Aperta | CIG: BD64CC7D53
@@ -57,15 +66,6 @@ Affidamento dei servizi e delle forniture relativi alle Linee A.2, A.3, A.4, B.2
 - esecuzione: da remoto | parole chiave: comunicazione, pubblicit
 - avviso: https://pubblicitalegale.anticorruzione.it/bandi/091f16f0-95bd-4265-a163-51d62206222d
 - documenti: https://www.ariaspa.it
-
-## GARA EUROPEA A PROCEDURA APERTA ART 71 DEL D.LGS 36  2023 PER ACQUISIZIONE DI SERVIZI SPECIALISTICI DI PROGETTAZIONE, REALIZZAZIONE E GESTIONE DEL PIANO DI COMUNICAZIONE DEL COMPLEMENTO DI SVILUPPO RURALE CSR DELLA REGIONE LAZIO 2023, 2027
-- ente: ARSIAL | luogo ISTAT ROMA
-- tipologia: BANDI | procedura: Aperta | CIG: BD456C79DF
-- importo: 1.052.000 € (FUORI TAGLIA) | lotti: 1
-- pubblicato: 12/10/2026 06:00 | scadenza: 16/11/2026 16:00 | primo avvistamento: 2026-10-21
-- esecuzione: da remoto | parole chiave: comunicazione, pubblicit
-- avviso: https://pubblicitalegale.anticorruzione.it/bandi/5b4b85e5-6116-4f08-a0b5-7c00a34d9096
-- documenti: https://www.acquistinretepa.it/bandi/aperta/gara-asp/fdcbea9e1ccf7f3d
 
 ## Acquisizione di servizi di organizzazione integrata di eventi e/o singoli servizi per le strutture dell'Assemblea legislativa.
 Lotto 1 - Direzione generale
@@ -158,6 +158,15 @@ Lotto 2 - Settore Diritti dei cittadini
 - esecuzione: evento in loco | parole chiave: eventi
 - avviso: https://pubblicitalegale.anticorruzione.it/bandi/acaa22bc-e0c5-422f-8729-aebded02911a
 - documenti: https://www.acquistinretepa.it/bandi/negoziata/adi/02b8e670c8a337d3
+
+## PROCEDURA APERTA PRODUZIONE TV, REGIA e DIRETTE VIDEOSTREAMING EVENTI FIS 2027
+- ente: FEDERAZIONE ITALIANA SCHERMA | luogo ISTAT ROMA
+- tipologia: BANDI | procedura: Aperta | CIG: BDC2E45C6B
+- importo: 120.000 € | lotti: 1
+- pubblicato: 12/11/2026 07:00 | scadenza: 13/12/2026 15:00 | primo avvistamento: 2026-11-12
+- esecuzione: evento in loco | parole chiave: video, eventi
+- avviso: https://pubblicitalegale.anticorruzione.it/bandi/f62a81f5-844d-4092-a0ff-0aa3288d679d
+- documenti: https://federscherma.acquistitelematici.it/tender/1476
 
 ## POMPEI BRAND IDENTITY
 - ente: COMUNE DI POMPEI | luogo ISTAT POMPEI
