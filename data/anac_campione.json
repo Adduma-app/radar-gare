@@ -1,155 +1,16 @@
 [
  {
-  "codiceScheda": "P1_16",
-  "tipologia": "BANDI",
-  "dataPubblicazione": "2026-11-12T07:00:00.623+00:00",
-  "dataScadenza": "2026-11-13T13:00:00.000+00:00",
-  "templates": [
-   {
-    "template": {
-     "metadata": {
-      "link_eform_ted": "https://ted.europa.eu/udl?uri=TED:NOTICE:784636-2026:TEXT:IT:HTML",
-      "titolo": "Orizzonte Calabria",
-      "descrizione": "Servizi di promozione, comunicazione e marketing turistico"
-     },
-     "sections": [
-      {
-       "name": "SEZ. A - Committente",
-       "fields": {
-        "soggetti_sa": [
-         {
-          "codice_fiscale": "02205340793",
-          "denominazione_amministrazione": "REGIONE CALABRIA"
-         }
-        ]
-       }
-      },
-      {
-       "name": "SEZ. B - Dati Generali",
-       "fields": {
-        "documenti_di_gara_link": "https://sisgap.regione.calabria.it",
-        "accordo_quadro": "Accordo quadro, senza riapertura della gara",
-        "sistema_dinamico_acquisizione": "Nessun sistema dinamico di acquisizione",
-        "tipo_procedura_aggiudicazione": "Aperta",
-        "asta_elettronica": "false"
-       }
-      },
-      {
-       "name": "SEZ. C - Oggetto",
-       "items": [
-        {
-         "tipo_oggetto": "lotto",
-         "cig": "BD32936D96",
-         "natura_principale": "Servizi",
-         "descrizione": "Servizi di ideazione, produzione, pianificazione, gestione e rendicontazione di campagne di marketing territoriale digitale per la promozione turistica della Regione Calabria (“Destinazione Calabria”) sui seguenti mercati regionali: Liguria, Lombardia, Piemonte, Valle d'Aosta, Emilia-Romagna, Friuli-Venezia Giulia, Trentino-Alto Adige, Veneto, Lazio, Marche, Toscana, Umbria.",
-         "cpv": "Servizi pubblicitari e di marketing",
-         "valore_complessivo_stimato": 45500000.0,
-         "documenti_di_gara_link": "https://sisgap.regione.calabria.it",
-         "luogo_nuts": "Catanzaro",
-         "luogo_istat": "CATANZARO",
-         "asta_elettronica": "false",
-         "termine_ricezione": "2026-11-13+01:00",
-         "accordo_quadro": "Accordo quadro, senza riapertura della gara",
-         "sistema_dinamico_acquisizione": "Nessun sistema dinamico di acquisizione",
-         "categorie": [
-          {
-           "codice": "FS",
-           "descrizione": "FORNITURA DI SERVIZI"
-          }
-         ]
-        },
-        {
-         "tipo_oggetto": "lotto",
-         "cig": "BD32937E69",
-         "natura_principale": "Servizi",
-         "descrizione": "Servizi di ideazione, produzione, pianificazione, gestione e rendicontazione di campagne di marketing territoriale digitale per la promozione turistica della Regione Calabria (“Destinazione Calabria”) sui seguenti mercati nazionali: Regno Unito, Irlanda, Francia, Belgio, Olanda, Lussemburgo, Spagna, Portogallo, Albania, Bosnia, Croazia, Repubblica Ceca, Slovacchia, Svizzera, Liechtenstein, Austria, Slovenia, Germania, Norvegia, Svezia, Finlandia, Danimarca, Malta, Ungheria, Polonia, Turchia, Russia, Bielorussia, Kazakistan, Moldavia, Ucraina, Estonia, Lettonia, Lituania, Armenia, Azerbaijan, Georgia, Bulgaria, Grecia, Macedonia, Romania, Serbia, Montenegro.",
-         "cpv": "Servizi pubblicitari e di marketing",
-         "valore_complessivo_stimato": 49700000.0,
-         "documenti_di_gara_link": "https://sisgap.regione.calabria.it",
-         "luogo_nuts": "Catanzaro",
-         "luogo_istat": "CATANZARO",
-         "asta_elettronica": "false",
-         "termine_ricezione": "2026-11-13+01:00",
-         "accordo_quadro": "Accordo quadro, senza riapertura della gara",
-         "sistema_dinamico_acquisizione": "Nessun sistema dinamico di acquisizione",
-         "categorie": [
-          {
-           "codice": "FS",
-           "descrizione": "FORNITURA DI SERVIZI"
-          }
-         ]
-        }
-       ]
-      }
-     ]
-    },
-    "lingua": "it"
-   }
-  ],
-  "idAvviso": "4505ab77-9a52-4a96-882b-9ee3c92c224e",
-  "count": 53.0,
-  "paginationToken": "COrnRRoJKe9jjs6hAQAAGgJgARoGEICAgPgHIg5aDGrz4ToYvJTyOWT8/Q==",
-  "score": 1.0,
-  "scoreDetails": {
-   "value": 1.0,
-   "description": "sum of:",
-   "details": [
-    {
-     "value": 0.0,
-     "description": "match on required clause, product of:",
-     "details": [
-      {
-       "value": 0.0,
-       "description": "# clause",
-       "details": []
-      },
-      {
-       "value": 1.0,
-       "description": "IndexOrDocValuesQuery(indexQuery=$type:dateV2/dataPubblicazione:[1793577600000 TO 1794482340189], dvQuery=$type:dateV2/dataPubblicazione:[1793577600000 TO 1794482340189])",
-       "details": []
-      }
-     ]
-    },
-    {
-     "value": 1.0,
-     "description": "sum of:",
-     "details": [
-      {
-       "value": 1.0,
-       "description": "$type:token/templates.template.sections.items.cpv:[[53 65 72 76 69 7a 69 20 70 75 62 62 6c 69 63 69 74 61 72 69 20 65 20 64 69 20 6d 61 72 6b 65 74 69 6e 67] TO [53 65 72 76 69 7a 69 20 70 75 62 62 6c 69 63 69 74 61 72 69 20 65 20 64 69 20 6d 61 72 6b 65 74 69 6e 67]]",
-       "details": []
-      }
-     ]
-    }
-   ]
-  },
-  "oscurato": false,
-  "noteOscuramento": null,
-  "idAppalto": "b088a40b-e3f2-4710-b0b1-59ea0f00076d",
-  "dataPubblicazioneNuovoAvviso": null,
-  "tipoNuovoAvviso": null,
-  "dataPCP": "2026-11-10T23:00:00.000+00:00",
-  "dataCreazione": "2026-11-11T03:30:02.625+00:00",
-  "tipo": "rettifica",
-  "attivo": true,
-  "nuovoAvviso": null,
-  "codiceEform": "16",
-  "stato": "NON_VERIFICATO",
-  "ambiente": null,
-  "categorie": null
- },
- {
   "codiceScheda": "P1_19",
   "tipologia": "BANDI",
-  "dataPubblicazione": "2026-11-12T07:00:00.615+00:00",
-  "dataScadenza": "2026-11-23T16:00:00.000+00:00",
+  "dataPubblicazione": "2026-11-13T07:00:00.990+00:00",
+  "dataScadenza": "2026-12-14T11:00:00.000+00:00",
   "templates": [
    {
     "template": {
      "metadata": {
-      "link_eform_ted": "https://ted.europa.eu/udl?uri=TED:NOTICE:783885-2026:TEXT:IT:HTML",
-      "titolo": "CONCESSIONE  SU PROPOSTA DI FINANZA DI PROGETTO DEI SERVIZI DI MANUTENZIONE E GESTIONE DI IMPIANTI PUBBLICITARI PER USO COMMERCIALE NELLE AREE DEL COMUNE DI LUCCA",
-      "descrizione": "AFFIDAMENTO IN CONCESSIONE, SU PROPOSTA DI FINANZA DI PROGETTO EX ART. 193 D.LGS. 36/2023, DEI SERVIZI DI MANUTENZIONE E GESTIONE DI IMPIANTI PUBBLICITARI PER USO COMMERCIALE NELLE AREE DEL COMUNE DI LUCCA IN UN’OTTICA DI IMPLEMENTAZIONE DI NUOVE TECNOLOGIE DI COMUNICAZIONE DIGITALE \nPROCEDURA APERTA AI SENSI DELL’ART. 71 DEL D.LGS 36/2023 SVOLTA IN MODALITÀ TELEMATICA CON L’UTILIZZO DEL SISTEMA START FINALIZZATA ALLA CONCLUSIONE DI UNA CONCESSIONE"
+      "link_eform_ted": "https://ted.europa.eu/udl?uri=TED:NOTICE:786818-2026:TEXT:IT:HTML",
+      "titolo": "Affidamento in concessione dell'utilizzo per fini pubblicitari degli spazi espositivi presenti nelle pensiline ACTV, nelle paline di fermata BUS e nelle autorimesse comunali",
+      "descrizione": "Affidamento in concessione dell'utilizzo per fini pubblicitari degli spazi espositivi presenti nelle pensiline ACTV, nelle paline di fermata BUS e nelle autorimesse comunali"
      },
      "sections": [
       {
@@ -157,12 +18,8 @@
        "fields": {
         "soggetti_sa": [
          {
-          "codice_fiscale": "00378210462",
-          "denominazione_amministrazione": "COMUNE DI LUCCA"
-         },
-         {
-          "codice_fiscale": "01969730462",
-          "denominazione_amministrazione": "LUCCA RISCOSSIONI E SERVIZI S.R.L."
+          "codice_fiscale": "03069670275",
+          "denominazione_amministrazione": "VE.LA SPA"
          }
         ]
        }
@@ -170,7 +27,7 @@
       {
        "name": "SEZ. B - Dati Generali",
        "fields": {
-        "documenti_di_gara_link": "https://lucca-be.trasparenza-valutazione-merito.it/web/trasparenza/papca-g/-/papca/display/10574414?p_p_state=pop_up",
+        "documenti_di_gara_link": "https://portalegare.avmspa.it/PortaleAppalti/it/procedure/codice/G40874",
         "tipo_procedura_aggiudicazione": "Aperta",
         "asta_elettronica": "false"
        }
@@ -180,17 +37,19 @@
        "items": [
         {
          "tipo_oggetto": "lotto",
-         "cig": "BD6346A267",
+         "cig": "BDBDD5950B",
          "natura_principale": "Servizi",
-         "descrizione": "AFFIDAMENTO IN CONCESSIONE, SU PROPOSTA DI FINANZA DI PROGETTO EX ART. 193 D.LGS. 36/2023, DEI SERVIZI DI MANUTENZIONE E GESTIONE DI IMPIANTI PUBBLICITARI PER USO COMMERCIALE NELLE AREE DEL COMUNE DI LUCCA IN UN’OTTICA DI IMPLEMENTAZIONE DI NUOVE TECNOLOGIE DI COMUNICAZIONE DIGITALE \n\nPROCEDURA APERTA AI SENSI DELL’ART. 71 DEL D.LGS 36/2023 SVOLTA IN MODALITÀ TELEMATICA CON L’UTILIZZO DEL SISTEMA START FINALIZZATA ALLA CONCLUSIONE DI UNA CONCESSIONE",
+         "descrizione": "Affidamento in concessione dell'utilizzo per fini pubblicitari degli spazi espositivi presenti nelle pensiline ACTV, nelle paline di fermata BUS e nelle autorimesse comunali",
          "cpv": "Servizi di gestione pubblicitaria",
-         "valore_complessivo_stimato": 6576000.0,
-         "documenti_di_gara_link": "https://lucca-be.trasparenza-valutazione-merito.it/web/trasparenza/papca-g/-/papca/display/10574414?p_p_state=pop_up",
-         "luogo_nuts": "Lucca",
-         "luogo_istat": "LUCCA",
+         "valore_complessivo_stimato": 540000.0,
+         "documenti_di_gara_link": "https://portalegare.avmspa.it/PortaleAppalti/it/procedure/codice/G40874",
+         "luogo_nuts": "Venezia",
+         "luogo_istat": "VENEZIA",
+         "durata_contratto": "24",
          "asta_elettronica": "false",
          "criteri_aggiudicazione": "Qualità",
-         "termine_ricezione": "2026-11-23+01:00",
+         "termine_ricezione": "2026-12-14+01:00",
+         "durata": "24",
          "categorie": [
           {
            "codice": "FS",
@@ -205,9 +64,9 @@
     "lingua": "it"
    }
   ],
-  "idAvviso": "fc8b2507-7082-4218-9a6b-60bc4a10de5d",
-  "count": 53.0,
-  "paginationToken": "COLnRRoJKedjjs6hAQAAGgJgARoGEICAgPgHIg5aDGrz4TwYvJTyOWT9Aw==",
+  "idAvviso": "a04f9cfe-d985-46a5-82c6-d5194f2566cf",
+  "count": 56.0,
+  "paginationToken": "CKaqRhoJKV7BtNOhAQAAGgJgARoGEICAgPgHIg5aDGr1Lz2hP83rPr9fjQ==",
   "score": 1.0,
   "scoreDetails": {
    "value": 1.0,
@@ -224,7 +83,7 @@
       },
       {
        "value": 1.0,
-       "description": "IndexOrDocValuesQuery(indexQuery=$type:dateV2/dataPubblicazione:[1793577600000 TO 1794482340189], dvQuery=$type:dateV2/dataPubblicazione:[1793577600000 TO 1794482340189])",
+       "description": "IndexOrDocValuesQuery(indexQuery=$type:dateV2/dataPubblicazione:[1793664000000 TO 1794567823050], dvQuery=$type:dateV2/dataPubblicazione:[1793664000000 TO 1794567823050])",
        "details": []
       }
      ]
@@ -244,12 +103,12 @@
   },
   "oscurato": false,
   "noteOscuramento": null,
-  "idAppalto": "7d2c2d2c-26da-4915-9a03-1da1f16da546",
+  "idAppalto": "0a3b5cda-324e-4cba-8ade-d2038430f85c",
   "dataPubblicazioneNuovoAvviso": null,
   "tipoNuovoAvviso": null,
-  "dataPCP": "2026-11-10T23:00:00.000+00:00",
-  "dataCreazione": "2026-11-11T03:30:04.616+00:00",
-  "tipo": "rettifica",
+  "dataPCP": "2026-11-11T23:00:00.000+00:00",
+  "dataCreazione": "2026-11-12T03:15:09.990+00:00",
+  "tipo": "avviso",
   "attivo": true,
   "nuovoAvviso": null,
   "codiceEform": "19",
@@ -258,17 +117,17 @@
   "categorie": null
  },
  {
-  "codiceScheda": "AD2_25",
-  "tipologia": "RISULTATI",
-  "dataPubblicazione": "2026-11-12T07:00:00.530+00:00",
-  "dataScadenza": null,
+  "codiceScheda": "P7_1_3",
+  "tipologia": "INDAGINI_DI_MERCATO_SOTTO_SOGLIA",
+  "dataPubblicazione": "2026-11-13T07:00:00.800+00:00",
+  "dataScadenza": "2026-11-28T18:00:00.000+00:00",
   "templates": [
    {
     "template": {
      "metadata": {
       "link_eform_ted": null,
       "titolo": null,
-      "descrizione": "Affidamento diretto del servizio di realizzazione del progetto turistico Palermo fa Sport Palermo Cresce"
+      "descrizione": "AVVISO ESPLORATIVO PER L'AFFIDAMENTO IN CONCESSIONE DEL SERVIZIO DI PROGETTAZIONE GRAFICA, STAMPA, DISTRIBUZIONE, GESTIONE E VENDITA DEGLI SPAZI PUBBLICITARI DEL PERIODICO INFORMATIVO COMUNALE."
      },
      "sections": [
       {
@@ -276,8 +135,8 @@
        "fields": {
         "soggetti_sa": [
          {
-          "codice_fiscale": "80016350821",
-          "denominazione_amministrazione": "COMUNE DI PALERMO"
+          "codice_fiscale": "81000370288",
+          "denominazione_amministrazione": "COMUNE DI CITTADELLA"
          }
         ]
        }
@@ -285,36 +144,23 @@
       {
        "name": "SEZ. B - Dati Generali",
        "fields": {
-        "documenti_di_gara_link": "https://www.acquistinretepa.it/bandi/negoziata/rdo-td/d8f5cb6aa90a453c",
-        "sistema_dinamico_acquisizione": "Nessun sistema dinamico di acquisizione",
-        "tipo_procedura_aggiudicazione": "Altra procedura a fase unica"
+        "documenti_di_gara_link": "https://www.acquistinretepa.it/bandi/negoziata/adi/c75a2fcb081f2006"
        }
       },
       {
        "name": "SEZ. C - Oggetto",
        "items": [
         {
-         "tipo_oggetto": "aggiudicazione",
-         "cig": "BDBC403C9E",
+         "tipo_oggetto": "lotto",
+         "cig": "BDC43C9DC3",
          "natura_principale": "Servizi",
-         "descrizione": "Affidamento diretto del servizio di realizzazione del progetto turistico Palermo fa Sport Palermo Cresce",
-         "cpv": "Servizi di organizzazione di mostre, fiere e congressi",
-         "documenti_di_gara_link": "https://www.acquistinretepa.it/bandi/negoziata/rdo-td/d8f5cb6aa90a453c",
-         "luogo_nuts": "Palermo",
-         "luogo_istat": "PALERMO",
-         "valore_affidamento": 30327.86,
-         "sistema_dinamico_acquisizione": "Nessun sistema dinamico di acquisizione",
-         "aggiudicatari_ad": [
-          {
-           "importo": 30327.86,
-           "soggetti": [
-            {
-             "codice_fiscale": "14735551005",
-             "denominazione": "CMA - CREATIVE MANAGEMENT ASSOCIATION - SOCIETA' A RESPONSABILITA LIMITATA"
-            }
-           ]
-          }
-         ],
+         "descrizione": "Lotto 1",
+         "cpv": "Servizi di progettazione grafica",
+         "valore_complessivo_stimato": 187000.0,
+         "documenti_di_gara_link": "https://www.acquistinretepa.it/bandi/negoziata/adi/c75a2fcb081f2006",
+         "luogo_nuts": "Padova",
+         "luogo_istat": "CITTADELLA",
+         "termine_invito": "2026-11-28T18:00:00Z",
          "categorie": [
           {
            "codice": "FS",
@@ -329,9 +175,9 @@
     "lingua": "it"
    }
   ],
-  "idAvviso": "162bb7f7-955b-4494-83a2-ae2f701be8c8",
-  "count": 53.0,
-  "paginationToken": "CNqSRRoJKZJjjs6hAQAAGgJgARoGEICAgPgHIg5aDGr0HpAYvJTyOWT/1w==",
+  "idAvviso": "96a800c9-853d-4ecf-ba25-e8220f19bb09",
+  "count": 56.0,
+  "paginationToken": "COjDRRoJKaDAtNOhAQAAGgJgARoGEICAgPgHIg5aDGr1cj4LZdo98u/dBQ==",
   "score": 1.0,
   "scoreDetails": {
    "value": 1.0,
@@ -348,7 +194,7 @@
       },
       {
        "value": 1.0,
-       "description": "IndexOrDocValuesQuery(indexQuery=$type:dateV2/dataPubblicazione:[1793577600000 TO 1794482340189], dvQuery=$type:dateV2/dataPubblicazione:[1793577600000 TO 1794482340189])",
+       "description": "IndexOrDocValuesQuery(indexQuery=$type:dateV2/dataPubblicazione:[1793664000000 TO 1794567823050], dvQuery=$type:dateV2/dataPubblicazione:[1793664000000 TO 1794567823050])",
        "details": []
       }
      ]
@@ -359,7 +205,7 @@
      "details": [
       {
        "value": 1.0,
-       "description": "$type:token/templates.template.sections.items.cpv:[[53 65 72 76 69 7a 69 20 64 69 20 6f 72 67 61 6e 69 7a 7a 61 7a 69 6f 6e 65 20 64 69 20 6d 6f 73 74 72 65 2c 20 66 69 65 72 65 20 65 20 63 6f 6e 67 72 65 73 73 69] TO [53 65 72 76 69 7a 69 20 64 69 20 6f 72 67 61 6e 69 7a 7a 61 7a 69 6f 6e 65 20 64 69 20 6d 6f 73 74 72 65 2c 20 66 69 65 72 65 20 65 20 63 6f 6e 67 72 65 73 73 69]]",
+       "description": "$type:token/templates.template.sections.items.cpv:[[53 65 72 76 69 7a 69 20 64 69 20 70 72 6f 67 65 74 74 61 7a 69 6f 6e 65 20 67 72 61 66 69 63 61] TO [53 65 72 76 69 7a 69 20 64 69 20 70 72 6f 67 65 74 74 61 7a 69 6f 6e 65 20 67 72 61 66 69 63 61]]",
        "details": []
       }
      ]
@@ -368,15 +214,136 @@
   },
   "oscurato": false,
   "noteOscuramento": null,
-  "idAppalto": "874fbea0-22d3-4517-9149-e926274de707",
+  "idAppalto": "08b7160a-2837-4bff-bd9f-27f67e19b820",
   "dataPubblicazioneNuovoAvviso": null,
   "tipoNuovoAvviso": null,
-  "dataPCP": "2026-11-11T08:51:44.000+00:00",
-  "dataCreazione": "2026-11-11T07:51:44.530+00:00",
+  "dataPCP": "2026-11-12T09:01:02.000+00:00",
+  "dataCreazione": "2026-11-12T08:01:02.801+00:00",
   "tipo": "avviso",
   "attivo": true,
   "nuovoAvviso": null,
   "codiceEform": null,
+  "stato": "NON_VERIFICATO",
+  "ambiente": null,
+  "categorie": null
+ },
+ {
+  "codiceScheda": "P1_16",
+  "tipologia": "BANDI",
+  "dataPubblicazione": "2026-11-13T07:00:00.741+00:00",
+  "dataScadenza": "2026-12-14T11:00:00.000+00:00",
+  "templates": [
+   {
+    "template": {
+     "metadata": {
+      "link_eform_ted": "https://ted.europa.eu/udl?uri=TED:NOTICE:788061-2026:TEXT:IT:HTML",
+      "titolo": "SEFAP26069 - Procedura aperta per l’affidamento di servizi di comunicazione nell’ambito delle attività di Giubileo 2025 S.p.A.",
+      "descrizione": "SEFAP26069 - Procedura aperta per l’affidamento di servizi di comunicazione nell’ambito delle attività di Giubileo 2025 S.p.A."
+     },
+     "sections": [
+      {
+       "name": "SEZ. A - Committente",
+       "fields": {
+        "soggetti_sa": [
+         {
+          "codice_fiscale": "16791301001",
+          "denominazione_amministrazione": "GIUBILEO 2025 SPA"
+         }
+        ]
+       }
+      },
+      {
+       "name": "SEZ. B - Dati Generali",
+       "fields": {
+        "documenti_di_gara_link": "https://www.portalegare.societagiubileo2025.it/esop/guest/go/opportunity/detail?opportunityId=5846",
+        "accordo_quadro": "Accordo quadro, senza riapertura della gara",
+        "sistema_dinamico_acquisizione": "Nessun sistema dinamico di acquisizione",
+        "tipo_procedura_aggiudicazione": "Aperta",
+        "asta_elettronica": "false"
+       }
+      },
+      {
+       "name": "SEZ. C - Oggetto",
+       "items": [
+        {
+         "tipo_oggetto": "lotto",
+         "cig": "BDBAE8B52F",
+         "natura_principale": "Servizi",
+         "descrizione": "SEFAP26069. Procedura aperta per l’affidamento di servizi di comunicazione nell’ambito delle attività di Giubileo 2025 S.p.A.",
+         "cpv": "Servizi di progettazione grafica",
+         "valore_complessivo_stimato": 498376.0,
+         "documenti_di_gara_link": "https://www.portalegare.societagiubileo2025.it/esop/guest/go/opportunity/detail?opportunityId=5846",
+         "luogo_nuts": "Roma",
+         "luogo_istat": "ROMA",
+         "durata_contratto": "24",
+         "asta_elettronica": "false",
+         "criteri_aggiudicazione": "Qualità",
+         "termine_ricezione": "2026-12-14+01:00",
+         "durata": "24",
+         "accordo_quadro": "Accordo quadro, senza riapertura della gara",
+         "sistema_dinamico_acquisizione": "Nessun sistema dinamico di acquisizione",
+         "categorie": [
+          {
+           "codice": "FS",
+           "descrizione": "FORNITURA DI SERVIZI"
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    },
+    "lingua": "it"
+   }
+  ],
+  "idAvviso": "dc28c02a-53e1-4582-a2c8-ca4f285b542e",
+  "count": 56.0,
+  "paginationToken": "CJWqRhoJKWXAtNOhAQAAGgJgARoGEICAgPgHIg5aDGr1LzWhP83rPr9fQQ==",
+  "score": 1.0,
+  "scoreDetails": {
+   "value": 1.0,
+   "description": "sum of:",
+   "details": [
+    {
+     "value": 0.0,
+     "description": "match on required clause, product of:",
+     "details": [
+      {
+       "value": 0.0,
+       "description": "# clause",
+       "details": []
+      },
+      {
+       "value": 1.0,
+       "description": "IndexOrDocValuesQuery(indexQuery=$type:dateV2/dataPubblicazione:[1793664000000 TO 1794567823050], dvQuery=$type:dateV2/dataPubblicazione:[1793664000000 TO 1794567823050])",
+       "details": []
+      }
+     ]
+    },
+    {
+     "value": 1.0,
+     "description": "sum of:",
+     "details": [
+      {
+       "value": 1.0,
+       "description": "$type:token/templates.template.sections.items.cpv:[[53 65 72 76 69 7a 69 20 64 69 20 70 72 6f 67 65 74 74 61 7a 69 6f 6e 65 20 67 72 61 66 69 63 61] TO [53 65 72 76 69 7a 69 20 64 69 20 70 72 6f 67 65 74 74 61 7a 69 6f 6e 65 20 67 72 61 66 69 63 61]]",
+       "details": []
+      }
+     ]
+    }
+   ]
+  },
+  "oscurato": false,
+  "noteOscuramento": null,
+  "idAppalto": "a87adf66-cc29-4e9b-bfcd-f40e312becc0",
+  "dataPubblicazioneNuovoAvviso": null,
+  "tipoNuovoAvviso": null,
+  "dataPCP": "2026-11-11T23:00:00.000+00:00",
+  "dataCreazione": "2026-11-12T03:15:01.741+00:00",
+  "tipo": "avviso",
+  "attivo": true,
+  "nuovoAvviso": null,
+  "codiceEform": "16",
   "stato": "NON_VERIFICATO",
   "ambiente": null,
   "categorie": null

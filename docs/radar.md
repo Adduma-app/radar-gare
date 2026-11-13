@@ -1,35 +1,5 @@
-# Radar gare Adduma, aggiornato 2026-11-12T11:19
-Letti oggi 100, nuovi 8, gare aperte pertinenti 22. Errori: 0
-
-## PROCEDURA APERTA PER L'AFFIDAMENTO DI SERVIZI DI PROGETTAZIONE, ORGANIZZAZIONE E REALIZZAZIONE DI SPETTACOLO MUSICALE DAL VIVO
-- ente: COMUNE DI GENOVA | luogo ISTAT GENOVA
-- tipologia: BANDI | procedura: Aperta | CIG: BD51193032
-- importo: 888.000 € (FUORI TAGLIA) | lotti: 1
-- pubblicato: 14/10/2026 06:00 | scadenza: 12/11/2026 10:00 | primo avvistamento: 2026-10-21
-- esecuzione: evento in loco | parole chiave: eventi
-- avviso: https://pubblicitalegale.anticorruzione.it/bandi/e4b06ad4-8d16-4648-a1bd-a0dda5e13754
-- documenti: https://appalti.comune.genova.it/PortaleAppalti/it/procedure/codice/G11558
-
-## AFFIDAMENTO DELLA PROGETTAZIONE, ALLESTIMENTO,  ORGANIZZAZIONE E GESTIONE DELL’AREA ESPOSITIVA COMMERCIALE DELLA 284^ EDIZIONE DELLA 
-FIERA PESSIMA (TA). BANDO DI GARA EDIZIONE 2027
-- ente: UNIONE DEI COMUNI MONTEDORO | luogo ISTAT TARANTO
-- tipologia: BANDI | procedura: Aperta | CIG: BD545EF585
-- importo: 655.837 € (FUORI TAGLIA) | lotti: 1
-- pubblicato: 15/10/2026 06:00 | scadenza: 12/11/2026 11:00 | primo avvistamento: 2026-10-21
-- esecuzione: evento in loco | parole chiave: allestiment, fiera
-- avviso: https://pubblicitalegale.anticorruzione.it/bandi/7ec36028-52cd-466d-8a33-945bb4f3ca1a
-- documenti: https://montedoro.traspare.com/pdnd/ted_procedures/3/ted_procedure_has_notices/5/edit
-
-## PROCEDURA NEGOZIATA AI SENSI DELLART. 50, COMMA 1, LETT. e), D.LGS. 36/2023
-Affidamento dei servizi e delle forniture relativi alle Linee A.2, A.3, A.4, B.2, C e D del Progetto Il Cammino dei Mille da Renda a Palermo
-
-- ente: COMUNE DI MONREALE | luogo ISTAT MONREALE
-- tipologia: INDAGINI_DI_MERCATO_SOTTO_SOGLIA | procedura: n.d. | CIG: BD918221D2, BD918232A5, BD91824378, BD9182544B
-- importo: 110.705 € | lotti: 4
-- pubblicato: 30/10/2026 07:00 | scadenza: 12/11/2026 12:00 | primo avvistamento: 2026-10-30
-- esecuzione: da remoto | parole chiave: grafic
-- avviso: https://pubblicitalegale.anticorruzione.it/bandi/5fea0b7d-82b3-4737-8424-69293a1de060
-- documenti: https://appalti-comunemonreale.maggiolicloud.it/PortaleAppalti/it/procedure/codice/G00319
+# Radar gare Adduma, aggiornato 2026-11-13T11:03
+Letti oggi 107, nuovi 9, gare aperte pertinenti 20. Errori: 0
 
 ## Orizzonte Calabria
 - ente: REGIONE CALABRIA | luogo ISTAT CATANZARO
@@ -167,6 +137,15 @@ Lotto 2 - Settore Diritti dei cittadini
 - esecuzione: evento in loco | parole chiave: video, eventi
 - avviso: https://pubblicitalegale.anticorruzione.it/bandi/f62a81f5-844d-4092-a0ff-0aa3288d679d
 - documenti: https://federscherma.acquistitelematici.it/tender/1476
+
+## SEFAP26069 - Procedura aperta per l’affidamento di servizi di comunicazione nell’ambito delle attività di Giubileo 2025 S.p.A.
+- ente: GIUBILEO 2025 SPA | luogo ISTAT ROMA
+- tipologia: BANDI | procedura: Aperta | CIG: BDBAE8B52F
+- importo: 498.376 € (FUORI TAGLIA) | lotti: 1
+- pubblicato: 13/11/2026 07:00 | scadenza: 14/12/2026 11:00 | primo avvistamento: 2026-11-13
+- esecuzione: da remoto | parole chiave: grafic, comunicazione
+- avviso: https://pubblicitalegale.anticorruzione.it/bandi/dc28c02a-53e1-4582-a2c8-ca4f285b542e
+- documenti: https://www.portalegare.societagiubileo2025.it/esop/guest/go/opportunity/detail?opportunityId=5846
 
 ## POMPEI BRAND IDENTITY
 - ente: COMUNE DI POMPEI | luogo ISTAT POMPEI
