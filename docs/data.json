@@ -1,53 +1,14 @@
 {
  "stato": {
-  "aggiornato": "2026-11-13T11:03",
-  "letti_oggi": 107,
-  "nuovi_oggi": 9,
-  "aperte_pertinenti": 20,
+  "aggiornato": "2026-11-14T10:30",
+  "letti_oggi": 101,
+  "nuovi_oggi": 0,
+  "aperte_pertinenti": 19,
   "esiti_pertinenti": 105,
-  "scartati_oggi": 40,
+  "scartati_oggi": 37,
   "errori": []
  },
  "gare": [
-  {
-   "id": "anac:4505ab77-9a52-4a96-882b-9ee3c92c224e",
-   "fonte": "ANAC PVL",
-   "tipologia": "BANDI",
-   "titolo": "Orizzonte Calabria",
-   "descrizione": "Servizi di promozione, comunicazione e marketing turistico",
-   "ente": "REGIONE CALABRIA",
-   "cf_ente": "02205340793",
-   "luogo_istat": "CATANZARO",
-   "luogo_nuts": "Catanzaro",
-   "importo": 95200000.0,
-   "lotti": 2,
-   "cig": [
-    "BD32936D96",
-    "BD32937E69"
-   ],
-   "cpv": "Servizi pubblicitari e di marketing",
-   "procedura": "Aperta",
-   "pubblicazione": "2026-11-12T07:00",
-   "scadenza": "2026-11-13T13:00",
-   "link_avviso": "https://pubblicitalegale.anticorruzione.it/bandi/4505ab77-9a52-4a96-882b-9ee3c92c224e",
-   "link_documenti": "https://sisgap.regione.calabria.it",
-   "link_ted": "https://ted.europa.eu/udl?uri=TED:NOTICE:784636-2026:TEXT:IT:HTML",
-   "aggiudicatari": [],
-   "valore_aggiudicato": null,
-   "kw_score": 8,
-   "kw_trovate": [
-    "comunicazione",
-    "promozion",
-    "pubblicit",
-    "marketing"
-   ],
-   "kw_escluse": [],
-   "esecuzione": "da remoto",
-   "fuori_taglia": true,
-   "pertinente": true,
-   "motivo_scarto": null,
-   "primo_avvistamento": "2026-11-12"
-  },
   {
    "id": "anac:21fb2ff8-7e59-45af-b554-decd6ae05bfe",
    "fonte": "ANAC PVL",

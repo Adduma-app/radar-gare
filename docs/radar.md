@@ -1,14 +1,5 @@
-# Radar gare Adduma, aggiornato 2026-11-13T11:03
-Letti oggi 107, nuovi 9, gare aperte pertinenti 20. Errori: 0
-
-## Orizzonte Calabria
-- ente: REGIONE CALABRIA | luogo ISTAT CATANZARO
-- tipologia: BANDI | procedura: Aperta | CIG: BD32936D96, BD32937E69
-- importo: 95.200.000 € (FUORI TAGLIA) | lotti: 2
-- pubblicato: 12/11/2026 07:00 | scadenza: 13/11/2026 13:00 | primo avvistamento: 2026-11-12
-- esecuzione: da remoto | parole chiave: comunicazione, promozion, pubblicit, marketing
-- avviso: https://pubblicitalegale.anticorruzione.it/bandi/4505ab77-9a52-4a96-882b-9ee3c92c224e
-- documenti: https://sisgap.regione.calabria.it
+# Radar gare Adduma, aggiornato 2026-11-14T10:30
+Letti oggi 101, nuovi 0, gare aperte pertinenti 19. Errori: 0
 
 ## PROCEDURA APERTA AI SENSI DELL'ART. 71 DEL D.LGS.36 2023 PER L'AFFIDAMENTO DEL SERVIZIO DI UFFICIO STAMPA, GESTIONE DEI SOCIAL MEDIA E PRODUZIONE GRAFICA  DELL'ORDINE DEGLI PSICOLOGI DELLA TOSCANA
 - ente: ORDINE DEGLI PSICOLOGI DELLA REGIONE TOSCANA | luogo ISTAT FIRENZE
