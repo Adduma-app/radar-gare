@@ -1,11 +1,11 @@
 {
  "stato": {
-  "aggiornato": "2026-11-15T10:58",
-  "letti_oggi": 91,
-  "nuovi_oggi": 0,
-  "aperte_pertinenti": 19,
-  "esiti_pertinenti": 105,
-  "scartati_oggi": 30,
+  "aggiornato": "2026-11-16T11:26",
+  "letti_oggi": 89,
+  "nuovi_oggi": 6,
+  "aperte_pertinenti": 17,
+  "esiti_pertinenti": 109,
+  "scartati_oggi": 35,
   "errori": []
  },
  "gare": [
@@ -49,43 +49,6 @@
    "primo_avvistamento": "2026-10-21"
   },
   {
-   "id": "anac:addf380b-ee2d-4a42-b27f-ac3daccb0350",
-   "fonte": "ANAC PVL",
-   "tipologia": "BANDI",
-   "titolo": "PROCEDURA APERTA PER L'AFFIDAMENTO, MEDIANTE ACCORDO QUADRO CON UN SOLO OPERATORE, DEL SERVIZIO DI ALLESTIMENTO DEGLI SPAZI NELL'AMBITO DELL'EVENTO CIOCCOLATO' 2027 - 2028.",
-   "descrizione": "PROCEDURA APERTA PER L'AFFIDAMENTO, MEDIANTE ACCORDO QUADRO CON UN SOLO OPERATORE, DEL SERVIZIO DI ALLESTIMENTO DEGLI SPAZI NELL'AMBITO DELL'EVENTO CIOCCOLATO' 2027 - 2028.",
-   "ente": "TECNOSERVICECAMERE S.C.P.A.",
-   "cf_ente": "04786421000",
-   "luogo_istat": "TORINO",
-   "luogo_nuts": "Torino",
-   "importo": 1318214.4,
-   "lotti": 1,
-   "cig": [
-    "BD5C02C552"
-   ],
-   "cpv": "Servizi di organizzazione di eventi",
-   "procedura": "Aperta",
-   "pubblicazione": "2026-10-16T06:00",
-   "scadenza": "2026-11-16T10:00",
-   "link_avviso": "https://pubblicitalegale.anticorruzione.it/bandi/addf380b-ee2d-4a42-b27f-ac3daccb0350",
-   "link_documenti": "https://garetelematiche.tecnoservicecamere.it/PortaleAppalti/it/procedure/codice/G07600",
-   "link_ted": "https://ted.europa.eu/udl?uri=TED:NOTICE:712003-2026:TEXT:IT:HTML",
-   "aggiudicatari": [],
-   "valore_aggiudicato": null,
-   "kw_score": 6,
-   "kw_trovate": [
-    "evento",
-    "eventi",
-    "allestiment"
-   ],
-   "kw_escluse": [],
-   "esecuzione": "evento in loco",
-   "fuori_taglia": true,
-   "pertinente": true,
-   "motivo_scarto": null,
-   "primo_avvistamento": "2026-10-21"
-  },
-  {
    "id": "anac:091f16f0-95bd-4265-a163-51d62206222d",
    "fonte": "ANAC PVL",
    "tipologia": "BANDI",
@@ -122,6 +85,42 @@
    "primo_avvistamento": "2026-10-21"
   },
   {
+   "id": "anac:06401de0-bee3-42b2-aa1a-0339a5bc097e",
+   "fonte": "ANAC PVL",
+   "tipologia": "AVVISI_DI_PRE-INFORMAZIONE_INDITTIVI",
+   "titolo": "AVVISO PUBBLICO PER MANIFESTAZIONE DI INTERESSE / INDAGINE ESPLORATIVA DI MERCATOFinalizzato alla ricognizione del mercato e all’individuazione di operatori economici interessati alla possibile organizzazione e realizzazione della XXV edizione del “Festival dei Piccoli Lettori – La lettura ti fa grande” – Annualità 2026Valore economico massimo di riferimento della distinta linea comunale del Festival: € 23.000,00, IVA compresa ove dovuta.",
+   "descrizione": "AVVISO PUBBLICO PER MANIFESTAZIONE DI INTERESSE / INDAGINE ESPLORATIVA DI MERCATOFinalizzato alla ricognizione del mercato e all’individuazione di operatori economici interessati alla possibile organizzazione e realizzazione della XXV edizione del “Festival dei Piccoli Lettori – La lettura ti fa grande” – Annualità 2026Valore economico massimo di riferimento della distinta linea comunale del Festival: € 23.000,00, IVA compresa ove dovuta.",
+   "ente": "COMUNE DI CALIMERA",
+   "cf_ente": "93000030754",
+   "luogo_istat": "CALIMERA",
+   "luogo_nuts": "Lecce",
+   "importo": 18852.46,
+   "lotti": 1,
+   "cig": [
+    "BDCAAE21F8"
+   ],
+   "cpv": "Servizi di organizzazione di eventi culturali",
+   "procedura": "Negoziata con previa indizione di gara / competitiva con negoziazione",
+   "pubblicazione": "2026-11-16T07:00",
+   "scadenza": "2026-11-18T11:00",
+   "link_avviso": "https://pubblicitalegale.anticorruzione.it/bandi/06401de0-bee3-42b2-aa1a-0339a5bc097e",
+   "link_documenti": "https://calimera.tuttogare.it/gare/dettaglio.php?codice=339",
+   "link_ted": null,
+   "aggiudicatari": [],
+   "valore_aggiudicato": null,
+   "kw_score": 3,
+   "kw_trovate": [
+    "eventi",
+    "manifestazion"
+   ],
+   "kw_escluse": [],
+   "esecuzione": "evento in loco",
+   "fuori_taglia": false,
+   "pertinente": true,
+   "motivo_scarto": null,
+   "primo_avvistamento": "2026-11-16"
+  },
+  {
    "id": "anac:571c6cdd-2e7d-45f5-b99c-c415f4644bb5",
    "fonte": "ANAC PVL",
    "tipologia": "INDAGINI_DI_MERCATO_SOTTO_SOGLIA",
@@ -156,78 +155,6 @@
    "pertinente": true,
    "motivo_scarto": null,
    "primo_avvistamento": "2026-11-05"
-  },
-  {
-   "id": "anac:bd51772a-62cb-4e5b-9860-d4bfab90ee82",
-   "fonte": "ANAC PVL",
-   "tipologia": "BANDI",
-   "titolo": "Servizi di ideazione e realizzazione di una campagna di informazione e sensibilizzazione sui temi dello Sviluppo Sostenibile e della Cittadinanza Globale nel progetto denominato Campagna di informazione e sensibilizzazione sulla Strategia Nazionale per lo Sviluppo Sostenibile, Agenda 20230 e la Cittadinanza Globale",
-   "descrizione": "Servizi di ideazione e realizzazione di una campagna di informazione e sensibilizzazione sui temi dello Sviluppo Sostenibile e della Cittadinanza Globale nel progetto denominato Campagna di informazione e sensibilizzazione sulla Strategia Nazionale per lo Sviluppo Sostenibile, Agenda 20230 e la Cittadinanza Globale",
-   "ente": "AGENZIA ITALIANA PER LA COOPERAZIONE ALLO SVILUPPO",
-   "cf_ente": "97871890584",
-   "luogo_istat": "ROMA",
-   "luogo_nuts": "Roma",
-   "importo": 448800.0,
-   "lotti": 1,
-   "cig": [
-    "BD5CEB10B1"
-   ],
-   "cpv": "Servizi di campagne pubblicitarie",
-   "procedura": "Aperta",
-   "pubblicazione": "2026-10-16T06:00",
-   "scadenza": "2026-11-23T15:00",
-   "link_avviso": "https://pubblicitalegale.anticorruzione.it/bandi/bd51772a-62cb-4e5b-9860-d4bfab90ee82",
-   "link_documenti": "https://www.acquistinretepa.it/bandi/aperta/gara-asp/5ade3bea3bbe242e",
-   "link_ted": "https://ted.europa.eu/udl?uri=TED:NOTICE:712592-2026:TEXT:IT:HTML",
-   "aggiudicatari": [],
-   "valore_aggiudicato": null,
-   "kw_score": 5,
-   "kw_trovate": [
-    "campagna",
-    "pubblicit"
-   ],
-   "kw_escluse": [],
-   "esecuzione": "da remoto",
-   "fuori_taglia": true,
-   "pertinente": true,
-   "motivo_scarto": null,
-   "primo_avvistamento": "2026-10-21"
-  },
-  {
-   "id": "anac:25b04721-4ae8-4f20-b011-9fb2eb392ad2",
-   "fonte": "ANAC PVL",
-   "tipologia": "BANDI",
-   "titolo": "Procedura aperta finalizzata alla stipula di un Accordo Quadro concluso con un solo operatore economico ai sensi dell'art. 59 del D. Lgs. n. 36/2023, per i servizi di progettazione, organizzazione, allestimento e gestione chiavi in mano dei convegni e degli eventi nell'ambito della attività convegnistica in materia di politiche in favore delle persone con disabilità per anni 2027 e 2028",
-   "descrizione": "Procedura aperta finalizzata alla stipula di un Accordo Quadro concluso con un solo operatore economico ai sensi dell'art. 59 del D. Lgs. n. 36/2023, per i servizi di progettazione, organizzazione, allestimento e gestione chiavi in mano dei convegni e degli eventi nell'ambito della attività convegnistica in materia di politiche in favore delle persone con disabilità per anni 2027 e 2028",
-   "ente": "PRESIDENZA DEL CONSIGLIO DEI MINISTRI",
-   "cf_ente": "80188230587",
-   "luogo_istat": "ROMA",
-   "luogo_nuts": "Roma",
-   "importo": 4200000.0,
-   "lotti": 1,
-   "cig": [
-    "BD5468949B"
-   ],
-   "cpv": "Servizi di organizzazione di eventi",
-   "procedura": "Aperta",
-   "pubblicazione": "2026-10-16T06:00",
-   "scadenza": "2026-11-23T16:30",
-   "link_avviso": "https://pubblicitalegale.anticorruzione.it/bandi/25b04721-4ae8-4f20-b011-9fb2eb392ad2",
-   "link_documenti": "https://eproc.palazzochigi.it/PortaleAppalti/it/procedure/codice/G02553",
-   "link_ted": "https://ted.europa.eu/udl?uri=TED:NOTICE:714739-2026:TEXT:IT:HTML",
-   "aggiudicatari": [],
-   "valore_aggiudicato": null,
-   "kw_score": 4,
-   "kw_trovate": [
-    "eventi",
-    "allestiment"
-   ],
-   "kw_escluse": [],
-   "esecuzione": "evento in loco",
-   "fuori_taglia": true,
-   "pertinente": true,
-   "motivo_scarto": null,
-   "primo_avvistamento": "2026-10-21"
   },
   {
    "id": "anac:3e122c88-abd1-44fe-af68-0f3e879985c5",

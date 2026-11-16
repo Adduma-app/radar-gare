@@ -6922,5 +6922,226 @@
   "pertinente": true,
   "motivo_scarto": null,
   "primo_avvistamento": "2026-11-13"
+ },
+ "anac:aa915a6b-c5f6-45a0-8a66-ca002620d94c": {
+  "id": "anac:aa915a6b-c5f6-45a0-8a66-ca002620d94c",
+  "fonte": "ANAC PVL",
+  "tipologia": "RISULTATI",
+  "titolo": "PARTNERSHIP TRIENNALE FEDERAZIONE ITALIANA SCHERMA ",
+  "descrizione": "PARTNERSHIP TRIENNALE FEDERAZIONE ITALIANA SCHERMA ",
+  "ente": "TRENTINO SVILUPPO S.P.A.",
+  "cf_ente": "00123240228",
+  "luogo_istat": "FOLGARIA",
+  "luogo_nuts": "Trento",
+  "importo": 300000.0,
+  "lotti": 1,
+  "cig": [
+   "BD5D2F884E"
+  ],
+  "cpv": "Servizi pubblicitari e di marketing",
+  "procedura": "Negoziata senza previa indizione di gara",
+  "pubblicazione": "2026-11-16T07:00",
+  "scadenza": null,
+  "link_avviso": "https://pubblicitalegale.anticorruzione.it/bandi/aa915a6b-c5f6-45a0-8a66-ca002620d94c",
+  "link_documenti": "https://sicopat2.provincia.tn.it/trasparenza-fe/#/procedura?uuid=65700ce0-c41b-4be2-98f0-5f17b4964403",
+  "link_ted": null,
+  "aggiudicatari": [
+   "FEDERAZIONE ITALIANA SCHERMA"
+  ],
+  "valore_aggiudicato": 300000.0,
+  "kw_score": 4,
+  "kw_trovate": [
+   "pubblicit",
+   "marketing"
+  ],
+  "kw_escluse": [],
+  "esecuzione": "da remoto",
+  "fuori_taglia": false,
+  "pertinente": true,
+  "motivo_scarto": null,
+  "primo_avvistamento": "2026-11-16"
+ },
+ "anac:2ecdcd99-64d5-4e4d-a972-77dc0566eacd": {
+  "id": "anac:2ecdcd99-64d5-4e4d-a972-77dc0566eacd",
+  "fonte": "ANAC PVL",
+  "tipologia": "MODIFICHE_CONTRATTUALI",
+  "titolo": "Spese annuali e pubblicitarie  dell'anno 2025.",
+  "descrizione": "Spese annuali e pubblicitarie  dell'anno 2025.",
+  "ente": "VERSUCHSZENTRUM LAIMBURG - CENTRO DI SPERIMENTAZIONE LAIMBURG",
+  "cf_ente": "00136670213",
+  "luogo_istat": "VADENA/PFATTEN",
+  "luogo_nuts": "Bolzano/Bozen",
+  "importo": null,
+  "lotti": 1,
+  "cig": [
+   "B61E445523"
+  ],
+  "cpv": "Servizi pubblicitari",
+  "procedura": null,
+  "pubblicazione": "2026-11-16T07:00",
+  "scadenza": null,
+  "link_avviso": "https://pubblicitalegale.anticorruzione.it/bandi/2ecdcd99-64d5-4e4d-a972-77dc0566eacd",
+  "link_documenti": "https://www.bandi-altoadige.it/awards/list-public",
+  "link_ted": null,
+  "aggiudicatari": [],
+  "valore_aggiudicato": null,
+  "kw_score": 2,
+  "kw_trovate": [
+   "pubblicit"
+  ],
+  "kw_escluse": [],
+  "esecuzione": "da remoto",
+  "fuori_taglia": false,
+  "pertinente": true,
+  "motivo_scarto": null,
+  "primo_avvistamento": "2026-11-16"
+ },
+ "anac:347c9fe5-3b07-46c2-a413-77359a7f4fb1": {
+  "id": "anac:347c9fe5-3b07-46c2-a413-77359a7f4fb1",
+  "fonte": "ANAC PVL",
+  "tipologia": "RISULTATI",
+  "titolo": "ORGANIZZAZIONE E GESTIONE DELL' EVENTO TURISTICO E FIERA PROMOZIONALE “PIETRASANTA MEDIOEVALE”  CON ANNESSO MERCATINO DEGLI OPERATORI NON PROFESSIONALI (CD. HOBBISTI)  PER IL TRIENNIO 2025-2027",
+  "descrizione": "ORGANIZZAZIONE E GESTIONE DELL' EVENTO TURISTICO E FIERA PROMOZIONALE “PIETRASANTA MEDIOEVALE”  CON ANNESSO MERCATINO DEGLI OPERATORI NON PROFESSIONALI (CD. HOBBISTI) \nPER IL TRIENNIO 2025-2027",
+  "ente": "COMUNE DI PIETRASANTA",
+  "cf_ente": "00188210462",
+  "luogo_istat": "PIETRASANTA",
+  "luogo_nuts": null,
+  "importo": 61475.3984375,
+  "lotti": 1,
+  "cig": [
+   "B7F046B745"
+  ],
+  "cpv": "Servizi di organizzazione di mostre, fiere e congressi",
+  "procedura": "Aperta",
+  "pubblicazione": "2026-11-16T07:00",
+  "scadenza": null,
+  "link_avviso": "https://pubblicitalegale.anticorruzione.it/bandi/347c9fe5-3b07-46c2-a413-77359a7f4fb1",
+  "link_documenti": "https://start.toscana.it/tendering/tenders/031871-2025/view/detail/1",
+  "link_ted": "https://ted.europa.eu/udl?uri=TED:NOTICE:792114-2026:TEXT:IT:HTML",
+  "aggiudicatari": [
+   "CONTRADA LA CERVIA APS"
+  ],
+  "valore_aggiudicato": 61475.4,
+  "kw_score": 5,
+  "kw_trovate": [
+   "promozion",
+   "evento",
+   "fiera"
+  ],
+  "kw_escluse": [],
+  "esecuzione": "evento in loco",
+  "fuori_taglia": false,
+  "pertinente": true,
+  "motivo_scarto": null,
+  "primo_avvistamento": "2026-11-16"
+ },
+ "anac:bfebb903-2544-4b3f-a388-3bb0f62027ad": {
+  "id": "anac:bfebb903-2544-4b3f-a388-3bb0f62027ad",
+  "fonte": "ANAC PVL",
+  "tipologia": "RISULTATI",
+  "titolo": "Servizio di allestimento del Calendario dell’Avvento e strutture accessorie. Natale 2026.",
+  "descrizione": "Servizio di allestimento del Calendario dell’Avvento e strutture accessorie. Natale 2026.",
+  "ente": "COMUNE DI TORINO",
+  "cf_ente": "00514490010",
+  "luogo_istat": "TORINO",
+  "luogo_nuts": "Torino",
+  "importo": 57400.0,
+  "lotti": 1,
+  "cig": [
+   "BD70631F81"
+  ],
+  "cpv": "Servizi di organizzazione di eventi",
+  "procedura": "Negoziata senza previa indizione di gara",
+  "pubblicazione": "2026-11-16T07:00",
+  "scadenza": null,
+  "link_avviso": "https://pubblicitalegale.anticorruzione.it/bandi/bfebb903-2544-4b3f-a388-3bb0f62027ad",
+  "link_documenti": "https://www.acquistinretepa.it/bandi/aperta/rdo-semplice/6d73358114db1027",
+  "link_ted": null,
+  "aggiudicatari": [
+   "PIEFFE S.R.L."
+  ],
+  "valore_aggiudicato": 48000.0,
+  "kw_score": 4,
+  "kw_trovate": [
+   "eventi",
+   "allestiment"
+  ],
+  "kw_escluse": [],
+  "esecuzione": "evento in loco",
+  "fuori_taglia": false,
+  "pertinente": true,
+  "motivo_scarto": null,
+  "primo_avvistamento": "2026-11-16"
+ },
+ "anac:06401de0-bee3-42b2-aa1a-0339a5bc097e": {
+  "id": "anac:06401de0-bee3-42b2-aa1a-0339a5bc097e",
+  "fonte": "ANAC PVL",
+  "tipologia": "AVVISI_DI_PRE-INFORMAZIONE_INDITTIVI",
+  "titolo": "AVVISO PUBBLICO PER MANIFESTAZIONE DI INTERESSE / INDAGINE ESPLORATIVA DI MERCATOFinalizzato alla ricognizione del mercato e all’individuazione di operatori economici interessati alla possibile organizzazione e realizzazione della XXV edizione del “Festival dei Piccoli Lettori – La lettura ti fa grande” – Annualità 2026Valore economico massimo di riferimento della distinta linea comunale del Festival: € 23.000,00, IVA compresa ove dovuta.",
+  "descrizione": "AVVISO PUBBLICO PER MANIFESTAZIONE DI INTERESSE / INDAGINE ESPLORATIVA DI MERCATOFinalizzato alla ricognizione del mercato e all’individuazione di operatori economici interessati alla possibile organizzazione e realizzazione della XXV edizione del “Festival dei Piccoli Lettori – La lettura ti fa grande” – Annualità 2026Valore economico massimo di riferimento della distinta linea comunale del Festival: € 23.000,00, IVA compresa ove dovuta.",
+  "ente": "COMUNE DI CALIMERA",
+  "cf_ente": "93000030754",
+  "luogo_istat": "CALIMERA",
+  "luogo_nuts": "Lecce",
+  "importo": 18852.46,
+  "lotti": 1,
+  "cig": [
+   "BDCAAE21F8"
+  ],
+  "cpv": "Servizi di organizzazione di eventi culturali",
+  "procedura": "Negoziata con previa indizione di gara / competitiva con negoziazione",
+  "pubblicazione": "2026-11-16T07:00",
+  "scadenza": "2026-11-18T11:00",
+  "link_avviso": "https://pubblicitalegale.anticorruzione.it/bandi/06401de0-bee3-42b2-aa1a-0339a5bc097e",
+  "link_documenti": "https://calimera.tuttogare.it/gare/dettaglio.php?codice=339",
+  "link_ted": null,
+  "aggiudicatari": [],
+  "valore_aggiudicato": null,
+  "kw_score": 3,
+  "kw_trovate": [
+   "eventi",
+   "manifestazion"
+  ],
+  "kw_escluse": [],
+  "esecuzione": "evento in loco",
+  "fuori_taglia": false,
+  "pertinente": true,
+  "motivo_scarto": null,
+  "primo_avvistamento": "2026-11-16"
+ },
+ "anac:0bd1b73a-7d51-492c-b7eb-792f8e8eb757": {
+  "id": "anac:0bd1b73a-7d51-492c-b7eb-792f8e8eb757",
+  "fonte": "ANAC PVL",
+  "tipologia": "RISULTATI",
+  "titolo": "GOING GLOBAL SETTIMANA DELLA CUCINA ITALIANA NEL MONDO IN CINA IN PROGRAMMA DAL 10 AL 21 NOVEMBRE 2026. REALIZZAZIONE INIZIATIVE DI SUPPORTO ALL’INTERNAZIONALIZZAZIONE DELLE IMPRESE E ALL’ATTRAZIONE DEGLI INVESTIMENTI IN PUGLIA",
+  "descrizione": "GOING GLOBAL SETTIMANA DELLA CUCINA ITALIANA NEL MONDO IN CINA IN PROGRAMMA DAL 10 AL 21 NOVEMBRE 2026. REALIZZAZIONE INIZIATIVE DI SUPPORTO ALL’INTERNAZIONALIZZAZIONE DELLE IMPRESE E ALL’ATTRAZIONE DEGLI INVESTIMENTI IN PUGLIA",
+  "ente": "UNIONCAMERE PUGLIA",
+  "cf_ente": "80000270720",
+  "luogo_istat": "BARI",
+  "luogo_nuts": "Puglia",
+  "importo": null,
+  "lotti": 1,
+  "cig": [
+   "BDCC1ABF7F"
+  ],
+  "cpv": "Servizi di organizzazione di eventi",
+  "procedura": "Altra procedura a fase unica",
+  "pubblicazione": "2026-11-16T07:00",
+  "scadenza": null,
+  "link_avviso": "https://pubblicitalegale.anticorruzione.it/bandi/0bd1b73a-7d51-492c-b7eb-792f8e8eb757",
+  "link_documenti": "https://www.acquistinretepa.it/bandi/negoziata/rdo-td/f6477b73724130dc",
+  "link_ted": null,
+  "aggiudicatari": [],
+  "valore_aggiudicato": null,
+  "kw_score": 2,
+  "kw_trovate": [
+   "eventi"
+  ],
+  "kw_escluse": [],
+  "esecuzione": "evento in loco",
+  "fuori_taglia": false,
+  "pertinente": true,
+  "motivo_scarto": null,
+  "primo_avvistamento": "2026-11-16"
  }
 }

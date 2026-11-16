@@ -1,133 +1,16 @@
 [
  {
-  "codiceScheda": "P1_19",
-  "tipologia": "BANDI",
-  "dataPubblicazione": "2026-11-13T07:00:00.990+00:00",
-  "dataScadenza": "2026-12-14T11:00:00.000+00:00",
-  "templates": [
-   {
-    "template": {
-     "metadata": {
-      "link_eform_ted": "https://ted.europa.eu/udl?uri=TED:NOTICE:786818-2026:TEXT:IT:HTML",
-      "titolo": "Affidamento in concessione dell'utilizzo per fini pubblicitari degli spazi espositivi presenti nelle pensiline ACTV, nelle paline di fermata BUS e nelle autorimesse comunali",
-      "descrizione": "Affidamento in concessione dell'utilizzo per fini pubblicitari degli spazi espositivi presenti nelle pensiline ACTV, nelle paline di fermata BUS e nelle autorimesse comunali"
-     },
-     "sections": [
-      {
-       "name": "SEZ. A - Committente",
-       "fields": {
-        "soggetti_sa": [
-         {
-          "codice_fiscale": "03069670275",
-          "denominazione_amministrazione": "VE.LA SPA"
-         }
-        ]
-       }
-      },
-      {
-       "name": "SEZ. B - Dati Generali",
-       "fields": {
-        "documenti_di_gara_link": "https://portalegare.avmspa.it/PortaleAppalti/it/procedure/codice/G40874",
-        "tipo_procedura_aggiudicazione": "Aperta",
-        "asta_elettronica": "false"
-       }
-      },
-      {
-       "name": "SEZ. C - Oggetto",
-       "items": [
-        {
-         "tipo_oggetto": "lotto",
-         "cig": "BDBDD5950B",
-         "natura_principale": "Servizi",
-         "descrizione": "Affidamento in concessione dell'utilizzo per fini pubblicitari degli spazi espositivi presenti nelle pensiline ACTV, nelle paline di fermata BUS e nelle autorimesse comunali",
-         "cpv": "Servizi di gestione pubblicitaria",
-         "valore_complessivo_stimato": 540000.0,
-         "documenti_di_gara_link": "https://portalegare.avmspa.it/PortaleAppalti/it/procedure/codice/G40874",
-         "luogo_nuts": "Venezia",
-         "luogo_istat": "VENEZIA",
-         "durata_contratto": "24",
-         "asta_elettronica": "false",
-         "criteri_aggiudicazione": "Qualità",
-         "termine_ricezione": "2026-12-14+01:00",
-         "durata": "24",
-         "categorie": [
-          {
-           "codice": "FS",
-           "descrizione": "FORNITURA DI SERVIZI"
-          }
-         ]
-        }
-       ]
-      }
-     ]
-    },
-    "lingua": "it"
-   }
-  ],
-  "idAvviso": "a04f9cfe-d985-46a5-82c6-d5194f2566cf",
-  "count": 47.0,
-  "paginationToken": "CKzHRhoJKV7BtNOhAQAAGgJgARoGEICAgPgHIg5aDGr1Lz2hP83rPr9fjQ==",
-  "score": 1.0,
-  "scoreDetails": {
-   "value": 1.0,
-   "description": "sum of:",
-   "details": [
-    {
-     "value": 0.0,
-     "description": "match on required clause, product of:",
-     "details": [
-      {
-       "value": 0.0,
-       "description": "# clause",
-       "details": []
-      },
-      {
-       "value": 1.0,
-       "description": "IndexOrDocValuesQuery(indexQuery=$type:dateV2/dataPubblicazione:[1793836800000 TO 1794740329149], dvQuery=$type:dateV2/dataPubblicazione:[1793836800000 TO 1794740329149])",
-       "details": []
-      }
-     ]
-    },
-    {
-     "value": 1.0,
-     "description": "sum of:",
-     "details": [
-      {
-       "value": 1.0,
-       "description": "$type:token/templates.template.sections.items.cpv:[[53 65 72 76 69 7a 69 20 64 69 20 67 65 73 74 69 6f 6e 65 20 70 75 62 62 6c 69 63 69 74 61 72 69 61] TO [53 65 72 76 69 7a 69 20 64 69 20 67 65 73 74 69 6f 6e 65 20 70 75 62 62 6c 69 63 69 74 61 72 69 61]]",
-       "details": []
-      }
-     ]
-    }
-   ]
-  },
-  "oscurato": false,
-  "noteOscuramento": null,
-  "idAppalto": "0a3b5cda-324e-4cba-8ade-d2038430f85c",
-  "dataPubblicazioneNuovoAvviso": null,
-  "tipoNuovoAvviso": null,
-  "dataPCP": "2026-11-11T23:00:00.000+00:00",
-  "dataCreazione": "2026-11-12T03:15:09.990+00:00",
-  "tipo": "avviso",
-  "attivo": true,
-  "nuovoAvviso": null,
-  "codiceEform": "19",
-  "stato": "NON_VERIFICATO",
-  "ambiente": null,
-  "categorie": null
- },
- {
-  "codiceScheda": "P7_1_3",
-  "tipologia": "INDAGINI_DI_MERCATO_SOTTO_SOGLIA",
-  "dataPubblicazione": "2026-11-13T07:00:00.800+00:00",
-  "dataScadenza": "2026-11-28T18:00:00.000+00:00",
+  "codiceScheda": "A7_1_2",
+  "tipologia": "RISULTATI",
+  "dataPubblicazione": "2026-11-16T07:00:00.936+00:00",
+  "dataScadenza": null,
   "templates": [
    {
     "template": {
      "metadata": {
       "link_eform_ted": null,
       "titolo": null,
-      "descrizione": "AVVISO ESPLORATIVO PER L'AFFIDAMENTO IN CONCESSIONE DEL SERVIZIO DI PROGETTAZIONE GRAFICA, STAMPA, DISTRIBUZIONE, GESTIONE E VENDITA DEGLI SPAZI PUBBLICITARI DEL PERIODICO INFORMATIVO COMUNALE."
+      "descrizione": "affidamento in esclusiva di servizi diversificati all'Operatore Economico Italian Exhibition Group S.p.A., ai sensi dell'art. 76, comma 2, lett. b), n. 3), del D.Lgs. n. 36/2023, per la partecipazione di AMA S.p.A. alla manifestazione \"Ecomondo 2026\" - 29 edizione, in programma dal 3 al 6 novembre 2026 presso il Quartiere Fieristico di Rimini."
      },
      "sections": [
       {
@@ -135,8 +18,8 @@
        "fields": {
         "soggetti_sa": [
          {
-          "codice_fiscale": "81000370288",
-          "denominazione_amministrazione": "COMUNE DI CITTADELLA"
+          "codice_fiscale": "05445891004",
+          "denominazione_amministrazione": "AZIENDA MUNICIPALE AMBIENTE SPA ROMA"
          }
         ]
        }
@@ -144,23 +27,38 @@
       {
        "name": "SEZ. B - Dati Generali",
        "fields": {
-        "documenti_di_gara_link": "https://www.acquistinretepa.it/bandi/negoziata/adi/c75a2fcb081f2006"
+        "documenti_di_gara_link": "https://albofornitori.amaroma.it/PortaleAppalti/it/procedure/codice/26/000417",
+        "accordo_quadro": "Nulla",
+        "sistema_dinamico_acquisizione": "Nessun sistema dinamico di acquisizione",
+        "tipo_procedura_aggiudicazione": "Negoziata senza previa indizione di gara"
        }
       },
       {
        "name": "SEZ. C - Oggetto",
        "items": [
         {
-         "tipo_oggetto": "lotto",
-         "cig": "BDC43C9DC3",
+         "tipo_oggetto": "aggiudicazione",
+         "cig": "BD8460D455",
          "natura_principale": "Servizi",
-         "descrizione": "Lotto 1",
-         "cpv": "Servizi di progettazione grafica",
-         "valore_complessivo_stimato": 187000.0,
-         "documenti_di_gara_link": "https://www.acquistinretepa.it/bandi/negoziata/adi/c75a2fcb081f2006",
-         "luogo_nuts": "Padova",
-         "luogo_istat": "CITTADELLA",
-         "termine_invito": "2026-11-28T18:00:00Z",
+         "descrizione": "affidamento in esclusiva di servizi diversificati all'Operatore Economico Italian Exhibition Group S.p.A., ai sensi dell'art. 76, comma 2, lett. b), n. 3), del D.Lgs. n. 36/2023, per la partecipazione di AMA S.p.A. alla manifestazione \"Ecomondo 2026\" - 29 edizione, in programma dal 3 al 6 novembre 2026 presso il Quartiere Fieristico di Rimini.",
+         "cpv": "Servizi di organizzazione di mostre, fiere e congressi",
+         "valore_complessivo_stimato": 58535.99,
+         "luogo_nuts": "Roma",
+         "luogo_istat": "ROMA",
+         "valore_offerta_vincente": 58535.99,
+         "accordo_quadro": "Nulla",
+         "sistema_dinamico_acquisizione": "Nessun sistema dinamico di acquisizione",
+         "aggiudicatari": [
+          {
+           "importo": 58535.99,
+           "soggetti": [
+            {
+             "codice_fiscale": "00139440408",
+             "denominazione": "ITALIAN EXHIBITION GROUP SPA"
+            }
+           ]
+          }
+         ],
          "categorie": [
           {
            "codice": "FS",
@@ -175,9 +73,9 @@
     "lingua": "it"
    }
   ],
-  "idAvviso": "96a800c9-853d-4ecf-ba25-e8220f19bb09",
-  "count": 47.0,
-  "paginationToken": "COjDRRoJKaDAtNOhAQAAGgJgARoGEICAgPgHIg5aDGr1cj4LZdo98u/dBQ==",
+  "idAvviso": "24c48ae1-e8b4-4de0-a4a8-7b999bb77153",
+  "count": 43.0,
+  "paginationToken": "CIOTRhoJKSjVJ+OhAQAAGgJgARoGEICAgPgHIg5aDGr23bGxT/xHx7RZCg==",
   "score": 1.0,
   "scoreDetails": {
    "value": 1.0,
@@ -194,7 +92,7 @@
       },
       {
        "value": 1.0,
-       "description": "IndexOrDocValuesQuery(indexQuery=$type:dateV2/dataPubblicazione:[1793836800000 TO 1794740329149], dvQuery=$type:dateV2/dataPubblicazione:[1793836800000 TO 1794740329149])",
+       "description": "IndexOrDocValuesQuery(indexQuery=$type:dateV2/dataPubblicazione:[1793923200000 TO 1794828413350], dvQuery=$type:dateV2/dataPubblicazione:[1793923200000 TO 1794828413350])",
        "details": []
       }
      ]
@@ -205,7 +103,7 @@
      "details": [
       {
        "value": 1.0,
-       "description": "$type:token/templates.template.sections.items.cpv:[[53 65 72 76 69 7a 69 20 64 69 20 70 72 6f 67 65 74 74 61 7a 69 6f 6e 65 20 67 72 61 66 69 63 61] TO [53 65 72 76 69 7a 69 20 64 69 20 70 72 6f 67 65 74 74 61 7a 69 6f 6e 65 20 67 72 61 66 69 63 61]]",
+       "description": "$type:token/templates.template.sections.items.cpv:[[53 65 72 76 69 7a 69 20 64 69 20 6f 72 67 61 6e 69 7a 7a 61 7a 69 6f 6e 65 20 64 69 20 6d 6f 73 74 72 65 2c 20 66 69 65 72 65 20 65 20 63 6f 6e 67 72 65 73 73 69] TO [53 65 72 76 69 7a 69 20 64 69 20 6f 72 67 61 6e 69 7a 7a 61 7a 69 6f 6e 65 20 64 69 20 6d 6f 73 74 72 65 2c 20 66 69 65 72 65 20 65 20 63 6f 6e 67 72 65 73 73 69]]",
        "details": []
       }
      ]
@@ -214,11 +112,11 @@
   },
   "oscurato": false,
   "noteOscuramento": null,
-  "idAppalto": "08b7160a-2837-4bff-bd9f-27f67e19b820",
+  "idAppalto": "77fc8326-f475-4017-b943-9f70fe813680",
   "dataPubblicazioneNuovoAvviso": null,
   "tipoNuovoAvviso": null,
-  "dataPCP": "2026-11-12T09:01:02.000+00:00",
-  "dataCreazione": "2026-11-12T08:01:02.801+00:00",
+  "dataPCP": "2026-11-13T10:51:45.000+00:00",
+  "dataCreazione": "2026-11-13T09:51:45.937+00:00",
   "tipo": "avviso",
   "attivo": true,
   "nuovoAvviso": null,
@@ -228,17 +126,17 @@
   "categorie": null
  },
  {
-  "codiceScheda": "P1_16",
-  "tipologia": "BANDI",
-  "dataPubblicazione": "2026-11-13T07:00:00.741+00:00",
-  "dataScadenza": "2026-12-14T11:00:00.000+00:00",
+  "codiceScheda": "A2_29",
+  "tipologia": "RISULTATI",
+  "dataPubblicazione": "2026-11-16T07:00:00.919+00:00",
+  "dataScadenza": null,
   "templates": [
    {
     "template": {
      "metadata": {
-      "link_eform_ted": "https://ted.europa.eu/udl?uri=TED:NOTICE:788061-2026:TEXT:IT:HTML",
-      "titolo": "SEFAP26069 - Procedura aperta per l’affidamento di servizi di comunicazione nell’ambito delle attività di Giubileo 2025 S.p.A.",
-      "descrizione": "SEFAP26069 - Procedura aperta per l’affidamento di servizi di comunicazione nell’ambito delle attività di Giubileo 2025 S.p.A."
+      "link_eform_ted": null,
+      "titolo": null,
+      "descrizione": "PARTNERSHIP TRIENNALE FEDERAZIONE ITALIANA SCHERMA "
      },
      "sections": [
       {
@@ -246,8 +144,8 @@
        "fields": {
         "soggetti_sa": [
          {
-          "codice_fiscale": "16791301001",
-          "denominazione_amministrazione": "GIUBILEO 2025 SPA"
+          "codice_fiscale": "00123240228",
+          "denominazione_amministrazione": "TRENTINO SVILUPPO S.P.A."
          }
         ]
        }
@@ -255,33 +153,38 @@
       {
        "name": "SEZ. B - Dati Generali",
        "fields": {
-        "documenti_di_gara_link": "https://www.portalegare.societagiubileo2025.it/esop/guest/go/opportunity/detail?opportunityId=5846",
-        "accordo_quadro": "Accordo quadro, senza riapertura della gara",
+        "documenti_di_gara_link": "https://sicopat2.provincia.tn.it/trasparenza-fe/#/procedura?uuid=65700ce0-c41b-4be2-98f0-5f17b4964403",
+        "accordo_quadro": "Nulla",
         "sistema_dinamico_acquisizione": "Nessun sistema dinamico di acquisizione",
-        "tipo_procedura_aggiudicazione": "Aperta",
-        "asta_elettronica": "false"
+        "tipo_procedura_aggiudicazione": "Negoziata senza previa indizione di gara"
        }
       },
       {
        "name": "SEZ. C - Oggetto",
        "items": [
         {
-         "tipo_oggetto": "lotto",
-         "cig": "BDBAE8B52F",
+         "tipo_oggetto": "aggiudicazione",
+         "cig": "BD5D2F884E",
          "natura_principale": "Servizi",
-         "descrizione": "SEFAP26069. Procedura aperta per l’affidamento di servizi di comunicazione nell’ambito delle attività di Giubileo 2025 S.p.A.",
-         "cpv": "Servizi di progettazione grafica",
-         "valore_complessivo_stimato": 498376.0,
-         "documenti_di_gara_link": "https://www.portalegare.societagiubileo2025.it/esop/guest/go/opportunity/detail?opportunityId=5846",
-         "luogo_nuts": "Roma",
-         "luogo_istat": "ROMA",
-         "durata_contratto": "24",
-         "asta_elettronica": "false",
-         "criteri_aggiudicazione": "Qualità",
-         "termine_ricezione": "2026-12-14+01:00",
-         "durata": "24",
-         "accordo_quadro": "Accordo quadro, senza riapertura della gara",
+         "descrizione": "PARTNERSHIP TRIENNALE CON FEDERAZIONE ITALIANA SCHERMA",
+         "cpv": "Servizi pubblicitari e di marketing",
+         "valore_complessivo_stimato": 300000.0,
+         "luogo_nuts": "Trento",
+         "luogo_istat": "FOLGARIA",
+         "valore_offerta_vincente": 300000.0,
+         "accordo_quadro": "Nulla",
          "sistema_dinamico_acquisizione": "Nessun sistema dinamico di acquisizione",
+         "aggiudicatari": [
+          {
+           "importo": 300000.0,
+           "soggetti": [
+            {
+             "codice_fiscale": "05271310582",
+             "denominazione": "FEDERAZIONE ITALIANA SCHERMA"
+            }
+           ]
+          }
+         ],
          "categorie": [
           {
            "codice": "FS",
@@ -296,9 +199,9 @@
     "lingua": "it"
    }
   ],
-  "idAvviso": "dc28c02a-53e1-4582-a2c8-ca4f285b542e",
-  "count": 47.0,
-  "paginationToken": "CJvHRhoJKWXAtNOhAQAAGgJgARoGEICAgPgHIg5aDGr1LzWhP83rPr9fQQ==",
+  "idAvviso": "aa915a6b-c5f6-45a0-8a66-ca002620d94c",
+  "count": 43.0,
+  "paginationToken": "CKujRhoJKRfVJ+OhAQAAGgJgARoGEICAgPgHIg5aDGr3EDmxT/xHx7RpVA==",
   "score": 1.0,
   "scoreDetails": {
    "value": 1.0,
@@ -315,7 +218,7 @@
       },
       {
        "value": 1.0,
-       "description": "IndexOrDocValuesQuery(indexQuery=$type:dateV2/dataPubblicazione:[1793836800000 TO 1794740329149], dvQuery=$type:dateV2/dataPubblicazione:[1793836800000 TO 1794740329149])",
+       "description": "IndexOrDocValuesQuery(indexQuery=$type:dateV2/dataPubblicazione:[1793923200000 TO 1794828413350], dvQuery=$type:dateV2/dataPubblicazione:[1793923200000 TO 1794828413350])",
        "details": []
       }
      ]
@@ -326,7 +229,7 @@
      "details": [
       {
        "value": 1.0,
-       "description": "$type:token/templates.template.sections.items.cpv:[[53 65 72 76 69 7a 69 20 64 69 20 70 72 6f 67 65 74 74 61 7a 69 6f 6e 65 20 67 72 61 66 69 63 61] TO [53 65 72 76 69 7a 69 20 64 69 20 70 72 6f 67 65 74 74 61 7a 69 6f 6e 65 20 67 72 61 66 69 63 61]]",
+       "description": "$type:token/templates.template.sections.items.cpv:[[53 65 72 76 69 7a 69 20 70 75 62 62 6c 69 63 69 74 61 72 69 20 65 20 64 69 20 6d 61 72 6b 65 74 69 6e 67] TO [53 65 72 76 69 7a 69 20 70 75 62 62 6c 69 63 69 74 61 72 69 20 65 20 64 69 20 6d 61 72 6b 65 74 69 6e 67]]",
        "details": []
       }
      ]
@@ -335,15 +238,120 @@
   },
   "oscurato": false,
   "noteOscuramento": null,
-  "idAppalto": "a87adf66-cc29-4e9b-bfcd-f40e312becc0",
+  "idAppalto": "c154060f-5acd-44ff-a81a-c0bdc1ee2758",
   "dataPubblicazioneNuovoAvviso": null,
   "tipoNuovoAvviso": null,
-  "dataPCP": "2026-11-11T23:00:00.000+00:00",
-  "dataCreazione": "2026-11-12T03:15:01.741+00:00",
+  "dataPCP": "2026-11-13T14:27:21.000+00:00",
+  "dataCreazione": "2026-11-13T13:27:21.919+00:00",
   "tipo": "avviso",
   "attivo": true,
   "nuovoAvviso": null,
-  "codiceEform": "16",
+  "codiceEform": null,
+  "stato": "NON_VERIFICATO",
+  "ambiente": null,
+  "categorie": null
+ },
+ {
+  "codiceScheda": "M2",
+  "tipologia": "MODIFICHE_CONTRATTUALI",
+  "dataPubblicazione": "2026-11-16T07:00:00.689+00:00",
+  "dataScadenza": null,
+  "templates": [
+   {
+    "template": {
+     "metadata": {
+      "link_eform_ted": null,
+      "titolo": null,
+      "descrizione": "Spese annuali e pubblicitarie  dell'anno 2025."
+     },
+     "sections": [
+      {
+       "name": "SEZ. A - Committente",
+       "fields": {
+        "soggetti_sa": [
+         {
+          "codice_fiscale": "00136670213",
+          "denominazione_amministrazione": "VERSUCHSZENTRUM LAIMBURG - CENTRO DI SPERIMENTAZIONE LAIMBURG"
+         }
+        ]
+       }
+      },
+      {
+       "name": "SEZ. B - Dati Generali",
+       "fields": {
+        "documenti_di_gara_link": "https://www.bandi-altoadige.it/awards/list-public"
+       }
+      },
+      {
+       "name": "SEZ. C - Oggetto",
+       "items": [
+        {
+         "tipo_oggetto": "aggiudicazione",
+         "cig": "B61E445523",
+         "natura_principale": "Servizi",
+         "descrizione": "Spese annuali e pubblicitarie  dell'anno 2025.",
+         "cpv": "Servizi pubblicitari",
+         "documenti_di_gara_link": "https://www.bandi-altoadige.it/awards/list-public",
+         "luogo_nuts": "Bolzano/Bozen",
+         "luogo_istat": "VADENA/PFATTEN",
+         "data_stipula_contratto": "2026-01-26T08:35:00Z",
+         "motivazione_modifica": "Necessità di modifiche dovute a circostante non prevedibili da un committente diligente."
+        }
+       ]
+      }
+     ]
+    },
+    "lingua": "it"
+   }
+  ],
+  "idAvviso": "2ecdcd99-64d5-4e4d-a972-77dc0566eacd",
+  "count": 43.0,
+  "paginationToken": "CN+PRhoJKTHUJ+OhAQAAGgJgARoGEICAgPgHIg5aDGr20FaxT/xHx7RUJA==",
+  "score": 1.0,
+  "scoreDetails": {
+   "value": 1.0,
+   "description": "sum of:",
+   "details": [
+    {
+     "value": 0.0,
+     "description": "match on required clause, product of:",
+     "details": [
+      {
+       "value": 0.0,
+       "description": "# clause",
+       "details": []
+      },
+      {
+       "value": 1.0,
+       "description": "IndexOrDocValuesQuery(indexQuery=$type:dateV2/dataPubblicazione:[1793923200000 TO 1794828413350], dvQuery=$type:dateV2/dataPubblicazione:[1793923200000 TO 1794828413350])",
+       "details": []
+      }
+     ]
+    },
+    {
+     "value": 1.0,
+     "description": "sum of:",
+     "details": [
+      {
+       "value": 1.0,
+       "description": "$type:token/templates.template.sections.items.cpv:[[53 65 72 76 69 7a 69 20 70 75 62 62 6c 69 63 69 74 61 72 69] TO [53 65 72 76 69 7a 69 20 70 75 62 62 6c 69 63 69 74 61 72 69]]",
+       "details": []
+      }
+     ]
+    }
+   ]
+  },
+  "oscurato": false,
+  "noteOscuramento": null,
+  "idAppalto": "dda0af6a-de7d-41a3-b29f-ac41765b0ab8",
+  "dataPubblicazioneNuovoAvviso": null,
+  "tipoNuovoAvviso": null,
+  "dataPCP": "2026-11-13T09:54:46.000+00:00",
+  "dataCreazione": "2026-11-13T08:54:46.690+00:00",
+  "tipo": "avviso",
+  "attivo": true,
+  "nuovoAvviso": null,
+  "codiceEform": null,
   "stato": "NON_VERIFICATO",
   "ambiente": null,
   "categorie": null

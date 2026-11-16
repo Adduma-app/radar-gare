@@ -1,5 +1,5 @@
-# Radar gare Adduma, aggiornato 2026-11-15T10:58
-Letti oggi 91, nuovi 0, gare aperte pertinenti 19. Errori: 0
+# Radar gare Adduma, aggiornato 2026-11-16T11:26
+Letti oggi 89, nuovi 6, gare aperte pertinenti 17. Errori: 0
 
 ## PROCEDURA APERTA AI SENSI DELL'ART. 71 DEL D.LGS.36 2023 PER L'AFFIDAMENTO DEL SERVIZIO DI UFFICIO STAMPA, GESTIONE DEI SOCIAL MEDIA E PRODUZIONE GRAFICA  DELL'ORDINE DEGLI PSICOLOGI DELLA TOSCANA
 - ente: ORDINE DEGLI PSICOLOGI DELLA REGIONE TOSCANA | luogo ISTAT FIRENZE
@@ -10,15 +10,6 @@ Letti oggi 91, nuovi 0, gare aperte pertinenti 19. Errori: 0
 - avviso: https://pubblicitalegale.anticorruzione.it/bandi/21fb2ff8-7e59-45af-b554-decd6ae05bfe
 - documenti: https://start.toscana.it/tendering/tenders/042042-2026/view/detail/1
 
-## PROCEDURA APERTA PER L'AFFIDAMENTO, MEDIANTE ACCORDO QUADRO CON UN SOLO OPERATORE, DEL SERVIZIO DI ALLESTIMENTO DEGLI SPAZI NELL'AMBITO DELL'EVENTO CIOCCOLATO' 2027 - 2028.
-- ente: TECNOSERVICECAMERE S.C.P.A. | luogo ISTAT TORINO
-- tipologia: BANDI | procedura: Aperta | CIG: BD5C02C552
-- importo: 1.318.214 € (FUORI TAGLIA) | lotti: 1
-- pubblicato: 16/10/2026 06:00 | scadenza: 16/11/2026 10:00 | primo avvistamento: 2026-10-21
-- esecuzione: evento in loco | parole chiave: evento, eventi, allestiment
-- avviso: https://pubblicitalegale.anticorruzione.it/bandi/addf380b-ee2d-4a42-b27f-ac3daccb0350
-- documenti: https://garetelematiche.tecnoservicecamere.it/PortaleAppalti/it/procedure/codice/G07600
-
 ## Servizi di agenzia di comunicazione integrata e servizi di supporto complementari alla DCOM dell'Autorità
 - ente: AUTORITA' DI REGOLAZIONE PER ENERGIA, RETI E AMBIENTE | luogo ISTAT MILANO
 - tipologia: BANDI | procedura: Aperta | CIG: BD5B2B6996
@@ -27,6 +18,15 @@ Letti oggi 91, nuovi 0, gare aperte pertinenti 19. Errori: 0
 - esecuzione: da remoto | parole chiave: comunicazione, pubblicit
 - avviso: https://pubblicitalegale.anticorruzione.it/bandi/091f16f0-95bd-4265-a163-51d62206222d
 - documenti: https://www.ariaspa.it
+
+## AVVISO PUBBLICO PER MANIFESTAZIONE DI INTERESSE / INDAGINE ESPLORATIVA DI MERCATOFinalizzato alla ricognizione del mercato e all’individuazione di operatori economici interessati alla possibile organizzazione e realizzazione della XXV edizione del “Festival dei Piccoli Lettori – La lettura ti fa grande” – Annualità 2026Valore economico massimo di riferimento della distinta linea comunale del Festival: € 23.000,00, IVA compresa ove dovuta.
+- ente: COMUNE DI CALIMERA | luogo ISTAT CALIMERA
+- tipologia: AVVISI_DI_PRE-INFORMAZIONE_INDITTIVI | procedura: Negoziata con previa indizione di gara / competitiva con negoziazione | CIG: BDCAAE21F8
+- importo: 18.852 € | lotti: 1
+- pubblicato: 16/11/2026 07:00 | scadenza: 18/11/2026 11:00 | primo avvistamento: 2026-11-16
+- esecuzione: evento in loco | parole chiave: eventi, manifestazion
+- avviso: https://pubblicitalegale.anticorruzione.it/bandi/06401de0-bee3-42b2-aa1a-0339a5bc097e
+- documenti: https://calimera.tuttogare.it/gare/dettaglio.php?codice=339
 
 ## Acquisizione di servizi di organizzazione integrata di eventi e/o singoli servizi per le strutture dell'Assemblea legislativa.
 Lotto 1 - Direzione generale
@@ -38,24 +38,6 @@ Lotto 2 - Settore Diritti dei cittadini
 - esecuzione: evento in loco | parole chiave: eventi
 - avviso: https://pubblicitalegale.anticorruzione.it/bandi/571c6cdd-2e7d-45f5-b99c-c415f4644bb5
 - documenti: https://intercenter.regione.emilia-romagna.it/trovabando/BANDO_GARA_PORTALE@18256497
-
-## Servizi di ideazione e realizzazione di una campagna di informazione e sensibilizzazione sui temi dello Sviluppo Sostenibile e della Cittadinanza Globale nel progetto denominato Campagna di informazione e sensibilizzazione sulla Strategia Nazionale per lo Sviluppo Sostenibile, Agenda 20230 e la Cittadinanza Globale
-- ente: AGENZIA ITALIANA PER LA COOPERAZIONE ALLO SVILUPPO | luogo ISTAT ROMA
-- tipologia: BANDI | procedura: Aperta | CIG: BD5CEB10B1
-- importo: 448.800 € (FUORI TAGLIA) | lotti: 1
-- pubblicato: 16/10/2026 06:00 | scadenza: 23/11/2026 15:00 | primo avvistamento: 2026-10-21
-- esecuzione: da remoto | parole chiave: campagna, pubblicit
-- avviso: https://pubblicitalegale.anticorruzione.it/bandi/bd51772a-62cb-4e5b-9860-d4bfab90ee82
-- documenti: https://www.acquistinretepa.it/bandi/aperta/gara-asp/5ade3bea3bbe242e
-
-## Procedura aperta finalizzata alla stipula di un Accordo Quadro concluso con un solo operatore economico ai sensi dell'art. 59 del D. Lgs. n. 36/2023, per i servizi di progettazione, organizzazione, allestimento e gestione chiavi in mano dei convegni e degli eventi nell'ambito della attività convegnistica in materia di politiche in favore delle persone con disabilità per anni 2027 e 2028
-- ente: PRESIDENZA DEL CONSIGLIO DEI MINISTRI | luogo ISTAT ROMA
-- tipologia: BANDI | procedura: Aperta | CIG: BD5468949B
-- importo: 4.200.000 € (FUORI TAGLIA) | lotti: 1
-- pubblicato: 16/10/2026 06:00 | scadenza: 23/11/2026 16:30 | primo avvistamento: 2026-10-21
-- esecuzione: evento in loco | parole chiave: eventi, allestiment
-- avviso: https://pubblicitalegale.anticorruzione.it/bandi/25b04721-4ae8-4f20-b011-9fb2eb392ad2
-- documenti: https://eproc.palazzochigi.it/PortaleAppalti/it/procedure/codice/G02553
 
 ## SERVIZIO QUADRIENNALE DI PRODUZIONE PROGRAMMI E CONTENUTI MEDIA/AUDIOVISIVI (COME DEFINITI DAL D.LGS. N.208/2021) DA TRASMETTERE SUI TRENI DI FERROVIE APPULO LUCANE S.R.L. DELLA LINEA BARI - ALTAMURA - GRAVINA – MATERA
 - ente: FERROVIE APPULO LUCANE SRL | luogo ISTAT BARI
