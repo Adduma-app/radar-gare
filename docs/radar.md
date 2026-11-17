@@ -1,23 +1,5 @@
-# Radar gare Adduma, aggiornato 2026-11-16T11:26
-Letti oggi 89, nuovi 6, gare aperte pertinenti 17. Errori: 0
-
-## PROCEDURA APERTA AI SENSI DELL'ART. 71 DEL D.LGS.36 2023 PER L'AFFIDAMENTO DEL SERVIZIO DI UFFICIO STAMPA, GESTIONE DEI SOCIAL MEDIA E PRODUZIONE GRAFICA  DELL'ORDINE DEGLI PSICOLOGI DELLA TOSCANA
-- ente: ORDINE DEGLI PSICOLOGI DELLA REGIONE TOSCANA | luogo ISTAT FIRENZE
-- tipologia: BANDI | procedura: Aperta | CIG: BD64CC7D53
-- importo: 68.000 € | lotti: 1
-- pubblicato: 20/10/2026 06:00 | scadenza: 16/11/2026 09:00 | primo avvistamento: 2026-10-21
-- esecuzione: da remoto | parole chiave: grafic, comunicazione, social, ufficio stampa, multimedial
-- avviso: https://pubblicitalegale.anticorruzione.it/bandi/21fb2ff8-7e59-45af-b554-decd6ae05bfe
-- documenti: https://start.toscana.it/tendering/tenders/042042-2026/view/detail/1
-
-## Servizi di agenzia di comunicazione integrata e servizi di supporto complementari alla DCOM dell'Autorità
-- ente: AUTORITA' DI REGOLAZIONE PER ENERGIA, RETI E AMBIENTE | luogo ISTAT MILANO
-- tipologia: BANDI | procedura: Aperta | CIG: BD5B2B6996
-- importo: 2.600.000 € (FUORI TAGLIA) | lotti: 1
-- pubblicato: 19/10/2026 06:00 | scadenza: 16/11/2026 11:30 | primo avvistamento: 2026-10-21
-- esecuzione: da remoto | parole chiave: comunicazione, pubblicit
-- avviso: https://pubblicitalegale.anticorruzione.it/bandi/091f16f0-95bd-4265-a163-51d62206222d
-- documenti: https://www.ariaspa.it
+# Radar gare Adduma, aggiornato 2026-11-17T11:56
+Letti oggi 95, nuovi 15, gare aperte pertinenti 17. Errori: 0
 
 ## AVVISO PUBBLICO PER MANIFESTAZIONE DI INTERESSE / INDAGINE ESPLORATIVA DI MERCATOFinalizzato alla ricognizione del mercato e all’individuazione di operatori economici interessati alla possibile organizzazione e realizzazione della XXV edizione del “Festival dei Piccoli Lettori – La lettura ti fa grande” – Annualità 2026Valore economico massimo di riferimento della distinta linea comunale del Festival: € 23.000,00, IVA compresa ove dovuta.
 - ente: COMUNE DI CALIMERA | luogo ISTAT CALIMERA
@@ -75,6 +57,15 @@ Lotto 2 - Settore Diritti dei cittadini
 - avviso: https://pubblicitalegale.anticorruzione.it/bandi/cdec4df4-bb41-423c-85c2-f3a83bc24f65
 - documenti: https://www.cmpsviluppoimpresa.it/amministrazione-trasparente-cmp/
 
+## CAPODANNO IN PIAZZA 2027_COMUNE DI SASSARI
+- ente: COMUNE DI SASSARI | luogo ISTAT SASSARI
+- tipologia: BANDI | procedura: Aperta | CIG: BDC8268AF7
+- importo: 684.546 € (FUORI TAGLIA) | lotti: 1
+- pubblicato: 17/11/2026 07:00 | scadenza: 28/11/2026 08:00 | primo avvistamento: 2026-11-17
+- esecuzione: evento in loco | parole chiave: evento, eventi
+- avviso: https://pubblicitalegale.anticorruzione.it/bandi/8faf37e8-39d1-4e95-8160-b3777a16d0ea
+- documenti: https://sardegnacat.regione.sardegna.it/Application/CustomDoc/DettaglioProcedura.asp?ID=1057095
+
 ## servizi di ideazione produzione, realizzazione, adattamento e distribuzione di contenuti audiovisivi destinati alla comunicazione istituzionale della Regione Liguria e del Sistema regionale allargato, mediante conclusione di un Accordo Quadro di cui all’art. 59, co. 3 del D.Lgs. 36/2023, con un unico operatore economico per la durata di tre anni
 - ente: IN LIGURIA AGENZIA REGIONALE PROMOZIONE TURISTICA DELLA LIGURIA | luogo ISTAT GENOVA
 - tipologia: BANDI | procedura: Aperta | CIG: BD8D346EB8
@@ -101,6 +92,15 @@ Lotto 2 - Settore Diritti dei cittadini
 - esecuzione: evento in loco | parole chiave: eventi
 - avviso: https://pubblicitalegale.anticorruzione.it/bandi/acaa22bc-e0c5-422f-8729-aebded02911a
 - documenti: https://www.acquistinretepa.it/bandi/negoziata/adi/02b8e670c8a337d3
+
+## SERVIZIO DI SERVICE AUDIO E LUCI PER LE MANIFESTAZIONI ORGANIZZATE DAL COMUNE – TRIENNIO 2027/2029
+- ente: COMUNE DI PONTE SAN PIETRO | luogo ISTAT PONTE SAN PIETRO
+- tipologia: INDAGINI_DI_MERCATO_SOTTO_SOGLIA | procedura: n.d. | CIG: BDD0BE5076
+- importo: 55.500 € | lotti: 1
+- pubblicato: 17/11/2026 07:00 | scadenza: 03/12/2026 09:00 | primo avvistamento: 2026-11-17
+- esecuzione: evento in loco | parole chiave: eventi, manifestazion
+- avviso: https://pubblicitalegale.anticorruzione.it/bandi/7d077db0-e6e3-4f14-b10c-0b34c3c35fc6
+- documenti: https://pontesanpietro.acquistitelematici.it/tender-esiti/dettaglio/1264
 
 ## PROCEDURA APERTA PRODUZIONE TV, REGIA e DIRETTE VIDEOSTREAMING EVENTI FIS 2027
 - ente: FEDERAZIONE ITALIANA SCHERMA | luogo ISTAT ROMA

@@ -1,14 +1,241 @@
 {
  "stato": {
-  "aggiornato": "2026-11-16T11:26",
-  "letti_oggi": 89,
-  "nuovi_oggi": 6,
+  "aggiornato": "2026-11-17T11:56",
+  "letti_oggi": 95,
+  "nuovi_oggi": 15,
   "aperte_pertinenti": 17,
-  "esiti_pertinenti": 109,
-  "scartati_oggi": 35,
+  "esiti_pertinenti": 115,
+  "scartati_oggi": 30,
   "errori": []
  },
  "esiti": [
+  {
+   "id": "anac:72eb687d-4a5e-479d-adc5-9a927586be3d",
+   "fonte": "ANAC PVL",
+   "tipologia": "RISULTATI",
+   "titolo": "Campagna media ADV multicanale di co-branding",
+   "descrizione": "Campagna media ADV multicanale di co-branding",
+   "ente": "TRENTINO SVILUPPO S.P.A.",
+   "cf_ente": "00123240228",
+   "luogo_istat": "TRENTO",
+   "luogo_nuts": "Trento",
+   "importo": 240000.0,
+   "lotti": 1,
+   "cig": [
+    "BCC8ECC44D"
+   ],
+   "cpv": "Servizi pubblicitari e di marketing",
+   "procedura": "Negoziata senza previa indizione di gara",
+   "pubblicazione": "2026-11-17T07:00",
+   "scadenza": null,
+   "link_avviso": "https://pubblicitalegale.anticorruzione.it/bandi/72eb687d-4a5e-479d-adc5-9a927586be3d",
+   "link_documenti": null,
+   "link_ted": null,
+   "aggiudicatari": [
+    "CONSORZIO MELINDA"
+   ],
+   "valore_aggiudicato": 240000.0,
+   "kw_score": 10,
+   "kw_trovate": [
+    "brand",
+    "campagna",
+    "pubblicit",
+    "marketing"
+   ],
+   "kw_escluse": [],
+   "esecuzione": "da remoto",
+   "fuori_taglia": false,
+   "pertinente": true,
+   "motivo_scarto": null,
+   "primo_avvistamento": "2026-11-17"
+  },
+  {
+   "id": "anac:691ebaec-61ca-47d0-8ea2-82ffed307675",
+   "fonte": "ANAC PVL",
+   "tipologia": "RISULTATI",
+   "titolo": "C - 53050 - Servizi connessi alla organizzazione della 19a Riunione Plenaria del Global Forum sulla trasparenza e lo scambio di informazioni a fini fiscali (OCSE) - Roma primo trimestre 2027",
+   "descrizione": "C - 53050 - Servizi connessi alla organizzazione della 19a Riunione Plenaria del Global Forum sulla trasparenza e lo scambio di informazioni a fini fiscali (OCSE) - Roma primo trimestre 2027",
+   "ente": "CONSIP S.P.A.",
+   "cf_ente": "05359681003",
+   "luogo_istat": "ROMA",
+   "luogo_nuts": "Roma",
+   "importo": 749000.0,
+   "lotti": 1,
+   "cig": [
+    "BD1ECF0E54"
+   ],
+   "cpv": "Servizi di organizzazione di eventi",
+   "procedura": "Negoziata senza previa indizione di gara",
+   "pubblicazione": "2026-11-17T07:00",
+   "scadenza": null,
+   "link_avviso": "https://pubblicitalegale.anticorruzione.it/bandi/691ebaec-61ca-47d0-8ea2-82ffed307675",
+   "link_documenti": "https://www.acquistinretepa.it/bandi/aperta/gara-asp/88edf436eaa35e65",
+   "link_ted": null,
+   "aggiudicatari": [
+    "STUDIO EGA SRL"
+   ],
+   "valore_aggiudicato": 683458.5,
+   "kw_score": 2,
+   "kw_trovate": [
+    "eventi"
+   ],
+   "kw_escluse": [],
+   "esecuzione": "evento in loco",
+   "fuori_taglia": true,
+   "pertinente": true,
+   "motivo_scarto": null,
+   "primo_avvistamento": "2026-11-17"
+  },
+  {
+   "id": "anac:da482521-98e1-4e29-83a1-c2f6e919f880",
+   "fonte": "ANAC PVL",
+   "tipologia": "RISULTATI",
+   "titolo": "PROCEDURA NEGOZIATA EX ART. 76 d.LGS N. 36/2023 SERVIZI COMUNICAZIONE UMBRIA JAZZ WINTER 2026",
+   "descrizione": "PROCEDURA NEGOZIATA EX ART. 76 d.LGS N. 36/2023 SERVIZI COMUNICAZIONE UMBRIA JAZZ WINTER 2026",
+   "ente": "REGIONE UMBRIA",
+   "cf_ente": "80000130544",
+   "luogo_istat": "PERUGIA",
+   "luogo_nuts": "Umbria",
+   "importo": 10000.0,
+   "lotti": 1,
+   "cig": [
+    "BD85810174"
+   ],
+   "cpv": "Servizi di organizzazione di eventi",
+   "procedura": "Negoziata senza previa indizione di gara",
+   "pubblicazione": "2026-11-17T07:00",
+   "scadenza": null,
+   "link_avviso": "https://pubblicitalegale.anticorruzione.it/bandi/da482521-98e1-4e29-83a1-c2f6e919f880",
+   "link_documenti": "https://app.albofornitori.it/alboeproc/albo_regioneumbria",
+   "link_ted": null,
+   "aggiudicatari": [
+    "FONDAZIONE DI PARTECIPAZIONE UMBRIA JAZZ"
+   ],
+   "valore_aggiudicato": 10000.0,
+   "kw_score": 4,
+   "kw_trovate": [
+    "comunicazione",
+    "eventi"
+   ],
+   "kw_escluse": [],
+   "esecuzione": "evento in loco",
+   "fuori_taglia": false,
+   "pertinente": true,
+   "motivo_scarto": null,
+   "primo_avvistamento": "2026-11-17"
+  },
+  {
+   "id": "anac:159969cf-3857-4c3e-b9f8-36dcf9136491",
+   "fonte": "ANAC PVL",
+   "tipologia": "RISULTATI",
+   "titolo": "FABBRICHE APERTE 2026 13-15 NOVEMBRE",
+   "descrizione": "FABBRICHE APERTE 2026 13-15 NOVEMBRE",
+   "ente": "UNIONCAMERE PUGLIA",
+   "cf_ente": "80000270720",
+   "luogo_istat": "BARI",
+   "luogo_nuts": "Puglia",
+   "importo": null,
+   "lotti": 1,
+   "cig": [
+    "BDC32599F5"
+   ],
+   "cpv": "Servizi di organizzazione di eventi",
+   "procedura": "Altra procedura a fase unica",
+   "pubblicazione": "2026-11-17T07:00",
+   "scadenza": null,
+   "link_avviso": "https://pubblicitalegale.anticorruzione.it/bandi/159969cf-3857-4c3e-b9f8-36dcf9136491",
+   "link_documenti": "https://www.acquistinretepa.it/bandi/negoziata/rdo-td/19549789435972ec",
+   "link_ted": null,
+   "aggiudicatari": [],
+   "valore_aggiudicato": null,
+   "kw_score": 2,
+   "kw_trovate": [
+    "eventi"
+   ],
+   "kw_escluse": [],
+   "esecuzione": "evento in loco",
+   "fuori_taglia": false,
+   "pertinente": true,
+   "motivo_scarto": null,
+   "primo_avvistamento": "2026-11-17"
+  },
+  {
+   "id": "anac:c3a75a35-fbdf-4e29-8600-9e09cb112445",
+   "fonte": "ANAC PVL",
+   "tipologia": "RISULTATI",
+   "titolo": "Affidamento diretto del servizio di organizzazione evento Stati generali arre protette Regione Abruzzo 2 3 dicembre",
+   "descrizione": "Affidamento diretto del servizio di organizzazione evento Stati generali arre protette Regione Abruzzo 2 3 dicembre",
+   "ente": "REGIONE ABRUZZO",
+   "cf_ente": "80003170661",
+   "luogo_istat": "L'AQUILA",
+   "luogo_nuts": "ITALIA",
+   "importo": null,
+   "lotti": 1,
+   "cig": [
+    "BDD0863B65"
+   ],
+   "cpv": "Servizi di organizzazione di eventi",
+   "procedura": "Altra procedura a fase unica",
+   "pubblicazione": "2026-11-17T07:00",
+   "scadenza": null,
+   "link_avviso": "https://pubblicitalegale.anticorruzione.it/bandi/c3a75a35-fbdf-4e29-8600-9e09cb112445",
+   "link_documenti": "https://www.acquistinretepa.it/bandi/negoziata/rdo-td/9b1f00450970a3b5",
+   "link_ted": null,
+   "aggiudicatari": [],
+   "valore_aggiudicato": null,
+   "kw_score": 4,
+   "kw_trovate": [
+    "evento",
+    "eventi"
+   ],
+   "kw_escluse": [],
+   "esecuzione": "evento in loco",
+   "fuori_taglia": false,
+   "pertinente": true,
+   "motivo_scarto": null,
+   "primo_avvistamento": "2026-11-17"
+  },
+  {
+   "id": "anac:7654d54a-9cab-4ced-a94f-a9574106764a",
+   "fonte": "ANAC PVL",
+   "tipologia": "RISULTATI",
+   "titolo": "Servizi di allestimento fieristico, audiovisivi, trasporto facility per evento promozionale GOING GLOBAL DESIGN IN PUGLIA 8-11 dicembre 2026 presso LA ROSSANI BilioTeca del Mediterraneo Bari",
+   "descrizione": "Servizi di allestimento fieristico, audiovisivi, trasporto facility per evento promozionale GOING GLOBAL DESIGN IN PUGLIA 8-11 dicembre 2026 presso LA ROSSANI BilioTeca del Mediterraneo Bari",
+   "ente": "UNIONCAMERE PUGLIA",
+   "cf_ente": "80000270720",
+   "luogo_istat": "BARI",
+   "luogo_nuts": "Puglia",
+   "importo": null,
+   "lotti": 1,
+   "cig": [
+    "BDD3DB186F"
+   ],
+   "cpv": "Servizi di organizzazione di eventi",
+   "procedura": "Altra procedura a fase unica",
+   "pubblicazione": "2026-11-17T07:00",
+   "scadenza": null,
+   "link_avviso": "https://pubblicitalegale.anticorruzione.it/bandi/7654d54a-9cab-4ced-a94f-a9574106764a",
+   "link_documenti": "https://www.acquistinretepa.it/bandi/negoziata/rdo-cdp/2ad612944ed3764d",
+   "link_ted": null,
+   "aggiudicatari": [],
+   "valore_aggiudicato": null,
+   "kw_score": 8,
+   "kw_trovate": [
+    "audiovisiv",
+    "promozion",
+    "evento",
+    "eventi",
+    "allestiment"
+   ],
+   "kw_escluse": [
+    "trasporto"
+   ],
+   "esecuzione": "evento in loco",
+   "fuori_taglia": false,
+   "pertinente": true,
+   "motivo_scarto": null,
+   "primo_avvistamento": "2026-11-17"
+  },
   {
    "id": "anac:aa915a6b-c5f6-45a0-8a66-ca002620d94c",
    "fonte": "ANAC PVL",

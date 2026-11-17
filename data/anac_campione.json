@@ -1,8 +1,8 @@
 [
  {
-  "codiceScheda": "A7_1_2",
-  "tipologia": "RISULTATI",
-  "dataPubblicazione": "2026-11-16T07:00:00.936+00:00",
+  "codiceScheda": "M2",
+  "tipologia": "MODIFICHE_CONTRATTUALI",
+  "dataPubblicazione": "2026-11-17T07:00:00.938+00:00",
   "dataScadenza": null,
   "templates": [
    {
@@ -10,7 +10,7 @@
      "metadata": {
       "link_eform_ted": null,
       "titolo": null,
-      "descrizione": "affidamento in esclusiva di servizi diversificati all'Operatore Economico Italian Exhibition Group S.p.A., ai sensi dell'art. 76, comma 2, lett. b), n. 3), del D.Lgs. n. 36/2023, per la partecipazione di AMA S.p.A. alla manifestazione \"Ecomondo 2026\" - 29 edizione, in programma dal 3 al 6 novembre 2026 presso il Quartiere Fieristico di Rimini."
+      "descrizione": "CAPITOLATO D’ONERI ED INVITO ALLA PROCEDURA NEGOZIATA SENZA PUBBLICAZIONE DI UN BANDO, AI SENSI DELL’ARTICOLO 76, COMMA 2, LETTERA B), PUNTO 3 DEL D.LGS. 36/2023, PER L’AFFIDAMENTO DI SERVIZI PUBBLICITARI PRESSO IL CIRCUITO NAZIONALE GRANDI STAZIONI RETAIL, A SOSTEGNO DELLA CAMPAGNA DI COMUNICAZIONE DELLA VALLE D’AOSTA PER L’ANNO 2026, IN ESECUZIONE ALLA DGR N. 1370 DEL 3 OTTOBRE 2025."
      },
      "sections": [
       {
@@ -18,53 +18,30 @@
        "fields": {
         "soggetti_sa": [
          {
-          "codice_fiscale": "05445891004",
-          "denominazione_amministrazione": "AZIENDA MUNICIPALE AMBIENTE SPA ROMA"
+          "codice_fiscale": "80002270074",
+          "denominazione_amministrazione": "REGIONE AUTONOMA VALLE D'AOSTA"
          }
         ]
        }
       },
       {
        "name": "SEZ. B - Dati Generali",
-       "fields": {
-        "documenti_di_gara_link": "https://albofornitori.amaroma.it/PortaleAppalti/it/procedure/codice/26/000417",
-        "accordo_quadro": "Nulla",
-        "sistema_dinamico_acquisizione": "Nessun sistema dinamico di acquisizione",
-        "tipo_procedura_aggiudicazione": "Negoziata senza previa indizione di gara"
-       }
+       "fields": {}
       },
       {
        "name": "SEZ. C - Oggetto",
        "items": [
         {
-         "tipo_oggetto": "aggiudicazione",
-         "cig": "BD8460D455",
+         "tipo_oggetto": "lotto",
+         "cig": "BBA1B4E158",
          "natura_principale": "Servizi",
-         "descrizione": "affidamento in esclusiva di servizi diversificati all'Operatore Economico Italian Exhibition Group S.p.A., ai sensi dell'art. 76, comma 2, lett. b), n. 3), del D.Lgs. n. 36/2023, per la partecipazione di AMA S.p.A. alla manifestazione \"Ecomondo 2026\" - 29 edizione, in programma dal 3 al 6 novembre 2026 presso il Quartiere Fieristico di Rimini.",
-         "cpv": "Servizi di organizzazione di mostre, fiere e congressi",
-         "valore_complessivo_stimato": 58535.99,
-         "luogo_nuts": "Roma",
-         "luogo_istat": "ROMA",
-         "valore_offerta_vincente": 58535.99,
-         "accordo_quadro": "Nulla",
-         "sistema_dinamico_acquisizione": "Nessun sistema dinamico di acquisizione",
-         "aggiudicatari": [
-          {
-           "importo": 58535.99,
-           "soggetti": [
-            {
-             "codice_fiscale": "00139440408",
-             "denominazione": "ITALIAN EXHIBITION GROUP SPA"
-            }
-           ]
-          }
-         ],
-         "categorie": [
-          {
-           "codice": "FS",
-           "descrizione": "FORNITURA DI SERVIZI"
-          }
-         ]
+         "descrizione": "Acquisto spazi pubblicitari presso il circuito Grandi stazioni retail",
+         "cpv": "Servizi di campagne pubblicitarie",
+         "luogo_nuts": "Valle d'Aosta/Vallée d'Aoste",
+         "luogo_istat": "AOSTA",
+         "data_stipula_contratto": "2026-05-27T00:00:00Z",
+         "motivazione_modifica": "Necessità di ulteriori lavori, forniture e servizi eseguiti dall'appaltatore originale.",
+         "accordo_quadro": "Nulla"
         }
        ]
       }
@@ -73,9 +50,9 @@
     "lingua": "it"
    }
   ],
-  "idAvviso": "24c48ae1-e8b4-4de0-a4a8-7b999bb77153",
-  "count": 43.0,
-  "paginationToken": "CIOTRhoJKSjVJ+OhAQAAGgJgARoGEICAgPgHIg5aDGr23bGxT/xHx7RZCg==",
+  "idAvviso": "4b1d00c3-17db-42bf-990f-86c3db669a09",
+  "count": 45.0,
+  "paginationToken": "CMmeRxoJKSoxTuihAQAAGgJgARoGEICAgPgHIg5aDGr63E38zZyMtoUHmw==",
   "score": 1.0,
   "scoreDetails": {
    "value": 1.0,
@@ -92,7 +69,7 @@
       },
       {
        "value": 1.0,
-       "description": "IndexOrDocValuesQuery(indexQuery=$type:dateV2/dataPubblicazione:[1793923200000 TO 1794828413350], dvQuery=$type:dateV2/dataPubblicazione:[1793923200000 TO 1794828413350])",
+       "description": "IndexOrDocValuesQuery(indexQuery=$type:dateV2/dataPubblicazione:[1794009600000 TO 1794916614287], dvQuery=$type:dateV2/dataPubblicazione:[1794009600000 TO 1794916614287])",
        "details": []
       }
      ]
@@ -103,7 +80,7 @@
      "details": [
       {
        "value": 1.0,
-       "description": "$type:token/templates.template.sections.items.cpv:[[53 65 72 76 69 7a 69 20 64 69 20 6f 72 67 61 6e 69 7a 7a 61 7a 69 6f 6e 65 20 64 69 20 6d 6f 73 74 72 65 2c 20 66 69 65 72 65 20 65 20 63 6f 6e 67 72 65 73 73 69] TO [53 65 72 76 69 7a 69 20 64 69 20 6f 72 67 61 6e 69 7a 7a 61 7a 69 6f 6e 65 20 64 69 20 6d 6f 73 74 72 65 2c 20 66 69 65 72 65 20 65 20 63 6f 6e 67 72 65 73 73 69]]",
+       "description": "$type:token/templates.template.sections.items.cpv:[[53 65 72 76 69 7a 69 20 64 69 20 63 61 6d 70 61 67 6e 65 20 70 75 62 62 6c 69 63 69 74 61 72 69 65] TO [53 65 72 76 69 7a 69 20 64 69 20 63 61 6d 70 61 67 6e 65 20 70 75 62 62 6c 69 63 69 74 61 72 69 65]]",
        "details": []
       }
      ]
@@ -112,137 +89,11 @@
   },
   "oscurato": false,
   "noteOscuramento": null,
-  "idAppalto": "77fc8326-f475-4017-b943-9f70fe813680",
+  "idAppalto": "5cf8d4c2-44fb-4638-baf0-3d5407a9ff8e",
   "dataPubblicazioneNuovoAvviso": null,
   "tipoNuovoAvviso": null,
-  "dataPCP": "2026-11-13T10:51:45.000+00:00",
-  "dataCreazione": "2026-11-13T09:51:45.937+00:00",
-  "tipo": "avviso",
-  "attivo": true,
-  "nuovoAvviso": null,
-  "codiceEform": null,
-  "stato": "NON_VERIFICATO",
-  "ambiente": null,
-  "categorie": null
- },
- {
-  "codiceScheda": "A2_29",
-  "tipologia": "RISULTATI",
-  "dataPubblicazione": "2026-11-16T07:00:00.919+00:00",
-  "dataScadenza": null,
-  "templates": [
-   {
-    "template": {
-     "metadata": {
-      "link_eform_ted": null,
-      "titolo": null,
-      "descrizione": "PARTNERSHIP TRIENNALE FEDERAZIONE ITALIANA SCHERMA "
-     },
-     "sections": [
-      {
-       "name": "SEZ. A - Committente",
-       "fields": {
-        "soggetti_sa": [
-         {
-          "codice_fiscale": "00123240228",
-          "denominazione_amministrazione": "TRENTINO SVILUPPO S.P.A."
-         }
-        ]
-       }
-      },
-      {
-       "name": "SEZ. B - Dati Generali",
-       "fields": {
-        "documenti_di_gara_link": "https://sicopat2.provincia.tn.it/trasparenza-fe/#/procedura?uuid=65700ce0-c41b-4be2-98f0-5f17b4964403",
-        "accordo_quadro": "Nulla",
-        "sistema_dinamico_acquisizione": "Nessun sistema dinamico di acquisizione",
-        "tipo_procedura_aggiudicazione": "Negoziata senza previa indizione di gara"
-       }
-      },
-      {
-       "name": "SEZ. C - Oggetto",
-       "items": [
-        {
-         "tipo_oggetto": "aggiudicazione",
-         "cig": "BD5D2F884E",
-         "natura_principale": "Servizi",
-         "descrizione": "PARTNERSHIP TRIENNALE CON FEDERAZIONE ITALIANA SCHERMA",
-         "cpv": "Servizi pubblicitari e di marketing",
-         "valore_complessivo_stimato": 300000.0,
-         "luogo_nuts": "Trento",
-         "luogo_istat": "FOLGARIA",
-         "valore_offerta_vincente": 300000.0,
-         "accordo_quadro": "Nulla",
-         "sistema_dinamico_acquisizione": "Nessun sistema dinamico di acquisizione",
-         "aggiudicatari": [
-          {
-           "importo": 300000.0,
-           "soggetti": [
-            {
-             "codice_fiscale": "05271310582",
-             "denominazione": "FEDERAZIONE ITALIANA SCHERMA"
-            }
-           ]
-          }
-         ],
-         "categorie": [
-          {
-           "codice": "FS",
-           "descrizione": "FORNITURA DI SERVIZI"
-          }
-         ]
-        }
-       ]
-      }
-     ]
-    },
-    "lingua": "it"
-   }
-  ],
-  "idAvviso": "aa915a6b-c5f6-45a0-8a66-ca002620d94c",
-  "count": 43.0,
-  "paginationToken": "CKujRhoJKRfVJ+OhAQAAGgJgARoGEICAgPgHIg5aDGr3EDmxT/xHx7RpVA==",
-  "score": 1.0,
-  "scoreDetails": {
-   "value": 1.0,
-   "description": "sum of:",
-   "details": [
-    {
-     "value": 0.0,
-     "description": "match on required clause, product of:",
-     "details": [
-      {
-       "value": 0.0,
-       "description": "# clause",
-       "details": []
-      },
-      {
-       "value": 1.0,
-       "description": "IndexOrDocValuesQuery(indexQuery=$type:dateV2/dataPubblicazione:[1793923200000 TO 1794828413350], dvQuery=$type:dateV2/dataPubblicazione:[1793923200000 TO 1794828413350])",
-       "details": []
-      }
-     ]
-    },
-    {
-     "value": 1.0,
-     "description": "sum of:",
-     "details": [
-      {
-       "value": 1.0,
-       "description": "$type:token/templates.template.sections.items.cpv:[[53 65 72 76 69 7a 69 20 70 75 62 62 6c 69 63 69 74 61 72 69 20 65 20 64 69 20 6d 61 72 6b 65 74 69 6e 67] TO [53 65 72 76 69 7a 69 20 70 75 62 62 6c 69 63 69 74 61 72 69 20 65 20 64 69 20 6d 61 72 6b 65 74 69 6e 67]]",
-       "details": []
-      }
-     ]
-    }
-   ]
-  },
-  "oscurato": false,
-  "noteOscuramento": null,
-  "idAppalto": "c154060f-5acd-44ff-a81a-c0bdc1ee2758",
-  "dataPubblicazioneNuovoAvviso": null,
-  "tipoNuovoAvviso": null,
-  "dataPCP": "2026-11-13T14:27:21.000+00:00",
-  "dataCreazione": "2026-11-13T13:27:21.919+00:00",
+  "dataPCP": "2026-11-16T11:34:53.000+00:00",
+  "dataCreazione": "2026-11-16T10:34:53.938+00:00",
   "tipo": "avviso",
   "attivo": true,
   "nuovoAvviso": null,
@@ -254,7 +105,7 @@
  {
   "codiceScheda": "M2",
   "tipologia": "MODIFICHE_CONTRATTUALI",
-  "dataPubblicazione": "2026-11-16T07:00:00.689+00:00",
+  "dataPubblicazione": "2026-11-17T07:00:00.788+00:00",
   "dataScadenza": null,
   "templates": [
    {
@@ -262,7 +113,7 @@
      "metadata": {
       "link_eform_ted": null,
       "titolo": null,
-      "descrizione": "Spese annuali e pubblicitarie  dell'anno 2025."
+      "descrizione": "CAPITOLATO D’ONERI ED INVITO ALLA PROCEDURA NEGOZIATA SENZA PUBBLICAZIONE DI UN BANDO, AI SENSI DELL’ARTICOLO 76, COMMA 2, LETTERA B), PUNTO 3, DEL D.LGS. 36/2023, PER L’AFFIDAMENTO DI SERVIZI PER LA DIFFUSIONE DI ANNUNCI PUBBLICITARI SUI MEZZI DI COMUNICAZIONE MEDIASET, A SOSTEGNO DELLA CAMPAGNA DI COMUNICAZIONE DELLA VALLE D'AOSTA PER L'ANNO 2026."
      },
      "sections": [
       {
@@ -270,32 +121,30 @@
        "fields": {
         "soggetti_sa": [
          {
-          "codice_fiscale": "00136670213",
-          "denominazione_amministrazione": "VERSUCHSZENTRUM LAIMBURG - CENTRO DI SPERIMENTAZIONE LAIMBURG"
+          "codice_fiscale": "80002270074",
+          "denominazione_amministrazione": "REGIONE AUTONOMA VALLE D'AOSTA"
          }
         ]
        }
       },
       {
        "name": "SEZ. B - Dati Generali",
-       "fields": {
-        "documenti_di_gara_link": "https://www.bandi-altoadige.it/awards/list-public"
-       }
+       "fields": {}
       },
       {
        "name": "SEZ. C - Oggetto",
        "items": [
         {
-         "tipo_oggetto": "aggiudicazione",
-         "cig": "B61E445523",
+         "tipo_oggetto": "lotto",
+         "cig": "BBA8B89EE6",
          "natura_principale": "Servizi",
-         "descrizione": "Spese annuali e pubblicitarie  dell'anno 2025.",
-         "cpv": "Servizi pubblicitari",
-         "documenti_di_gara_link": "https://www.bandi-altoadige.it/awards/list-public",
-         "luogo_nuts": "Bolzano/Bozen",
-         "luogo_istat": "VADENA/PFATTEN",
-         "data_stipula_contratto": "2026-01-26T08:35:00Z",
-         "motivazione_modifica": "Necessità di modifiche dovute a circostante non prevedibili da un committente diligente."
+         "descrizione": "Acquisto spazi pubblicitari sulle reti Mediaset",
+         "cpv": "Servizi di campagne pubblicitarie",
+         "luogo_nuts": "Valle d'Aosta/Vallée d'Aoste",
+         "luogo_istat": "AOSTA",
+         "data_stipula_contratto": "2026-05-27T00:00:00Z",
+         "motivazione_modifica": "Necessità di ulteriori lavori, forniture e servizi eseguiti dall'appaltatore originale.",
+         "accordo_quadro": "Nulla"
         }
        ]
       }
@@ -304,9 +153,9 @@
     "lingua": "it"
    }
   ],
-  "idAvviso": "2ecdcd99-64d5-4e4d-a972-77dc0566eacd",
-  "count": 43.0,
-  "paginationToken": "CN+PRhoJKTHUJ+OhAQAAGgJgARoGEICAgPgHIg5aDGr20FaxT/xHx7RUJA==",
+  "idAvviso": "525b75bb-89c1-40c4-8c22-b6f1e93d1e33",
+  "count": 45.0,
+  "paginationToken": "CIadRxoJKZQwTuihAQAAGgJgARoGEICAgPgHIg5aDGr61kv8zZyMtoUE/w==",
   "score": 1.0,
   "scoreDetails": {
    "value": 1.0,
@@ -323,7 +172,7 @@
       },
       {
        "value": 1.0,
-       "description": "IndexOrDocValuesQuery(indexQuery=$type:dateV2/dataPubblicazione:[1793923200000 TO 1794828413350], dvQuery=$type:dateV2/dataPubblicazione:[1793923200000 TO 1794828413350])",
+       "description": "IndexOrDocValuesQuery(indexQuery=$type:dateV2/dataPubblicazione:[1794009600000 TO 1794916614287], dvQuery=$type:dateV2/dataPubblicazione:[1794009600000 TO 1794916614287])",
        "details": []
       }
      ]
@@ -334,7 +183,7 @@
      "details": [
       {
        "value": 1.0,
-       "description": "$type:token/templates.template.sections.items.cpv:[[53 65 72 76 69 7a 69 20 70 75 62 62 6c 69 63 69 74 61 72 69] TO [53 65 72 76 69 7a 69 20 70 75 62 62 6c 69 63 69 74 61 72 69]]",
+       "description": "$type:token/templates.template.sections.items.cpv:[[53 65 72 76 69 7a 69 20 64 69 20 63 61 6d 70 61 67 6e 65 20 70 75 62 62 6c 69 63 69 74 61 72 69 65] TO [53 65 72 76 69 7a 69 20 64 69 20 63 61 6d 70 61 67 6e 65 20 70 75 62 62 6c 69 63 69 74 61 72 69 65]]",
        "details": []
       }
      ]
@@ -343,11 +192,114 @@
   },
   "oscurato": false,
   "noteOscuramento": null,
-  "idAppalto": "dda0af6a-de7d-41a3-b29f-ac41765b0ab8",
+  "idAppalto": "5de0c4a3-8b29-41b4-a76e-f6da63212b49",
   "dataPubblicazioneNuovoAvviso": null,
   "tipoNuovoAvviso": null,
-  "dataPCP": "2026-11-13T09:54:46.000+00:00",
-  "dataCreazione": "2026-11-13T08:54:46.690+00:00",
+  "dataPCP": "2026-11-16T11:09:15.000+00:00",
+  "dataCreazione": "2026-11-16T10:09:15.788+00:00",
+  "tipo": "avviso",
+  "attivo": true,
+  "nuovoAvviso": null,
+  "codiceEform": null,
+  "stato": "NON_VERIFICATO",
+  "ambiente": null,
+  "categorie": null
+ },
+ {
+  "codiceScheda": "M2",
+  "tipologia": "MODIFICHE_CONTRATTUALI",
+  "dataPubblicazione": "2026-11-17T07:00:00.780+00:00",
+  "dataScadenza": null,
+  "templates": [
+   {
+    "template": {
+     "metadata": {
+      "link_eform_ted": null,
+      "titolo": null,
+      "descrizione": "CAPITOLATO D’ONERI ED INVITO ALLA PROCEDURA NEGOZIATA SENZA PUBBLICAZIONE DI UN BANDO, AI SENSI DELL’ARTICOLO 76, COMMA 2, LETTERA B), PUNTO 3 DEL D.LGS. 36/2023, PER L’AFFIDAMENTO DI SERVIZI PER LA DIFFUSIONE DI ANNUNCI PUBBLICITARI SULLE RETI RAI, A SOSTEGNO DELLA CAMPAGNA DI COMUNICAZIONE DELLA VALLE D’AOSTA PER L’ANNO 2026, IN ESECUZIONE ALLA DGR N. 1370 DEL 3 OTTOBRE 2025 (CUP B69B25003230002)"
+     },
+     "sections": [
+      {
+       "name": "SEZ. A - Committente",
+       "fields": {
+        "soggetti_sa": [
+         {
+          "codice_fiscale": "80002270074",
+          "denominazione_amministrazione": "REGIONE AUTONOMA VALLE D'AOSTA"
+         }
+        ]
+       }
+      },
+      {
+       "name": "SEZ. B - Dati Generali",
+       "fields": {}
+      },
+      {
+       "name": "SEZ. C - Oggetto",
+       "items": [
+        {
+         "tipo_oggetto": "lotto",
+         "cig": "BBB4987841",
+         "natura_principale": "Servizi",
+         "descrizione": "Acquisto spazi pubblicitari sulle reti RAI come da capitolato d'appalto allegato",
+         "cpv": "Servizi di campagne pubblicitarie",
+         "luogo_nuts": "Valle d'Aosta/Vallée d'Aoste",
+         "luogo_istat": "AOSTA",
+         "data_stipula_contratto": "2026-05-27T00:00:00Z",
+         "motivazione_modifica": "Necessità di ulteriori lavori, forniture e servizi eseguiti dall'appaltatore originale.",
+         "accordo_quadro": "Nulla"
+        }
+       ]
+      }
+     ]
+    },
+    "lingua": "it"
+   }
+  ],
+  "idAvviso": "1b6d6f8b-a762-4d91-aa54-ac34e5d1193d",
+  "count": 45.0,
+  "paginationToken": "CLnZRhoJKYwwTuihAQAAGgJgARoGEICAgPgHIg5aDGr6zcP8zZyMtoUB4Q==",
+  "score": 1.0,
+  "scoreDetails": {
+   "value": 1.0,
+   "description": "sum of:",
+   "details": [
+    {
+     "value": 0.0,
+     "description": "match on required clause, product of:",
+     "details": [
+      {
+       "value": 0.0,
+       "description": "# clause",
+       "details": []
+      },
+      {
+       "value": 1.0,
+       "description": "IndexOrDocValuesQuery(indexQuery=$type:dateV2/dataPubblicazione:[1794009600000 TO 1794916614287], dvQuery=$type:dateV2/dataPubblicazione:[1794009600000 TO 1794916614287])",
+       "details": []
+      }
+     ]
+    },
+    {
+     "value": 1.0,
+     "description": "sum of:",
+     "details": [
+      {
+       "value": 1.0,
+       "description": "$type:token/templates.template.sections.items.cpv:[[53 65 72 76 69 7a 69 20 64 69 20 63 61 6d 70 61 67 6e 65 20 70 75 62 62 6c 69 63 69 74 61 72 69 65] TO [53 65 72 76 69 7a 69 20 64 69 20 63 61 6d 70 61 67 6e 65 20 70 75 62 62 6c 69 63 69 74 61 72 69 65]]",
+       "details": []
+      }
+     ]
+    }
+   ]
+  },
+  "oscurato": false,
+  "noteOscuramento": null,
+  "idAppalto": "dfb88bd8-ee1c-4ea6-9021-58f4c6f63044",
+  "dataPubblicazioneNuovoAvviso": null,
+  "tipoNuovoAvviso": null,
+  "dataPCP": "2026-11-16T10:32:51.000+00:00",
+  "dataCreazione": "2026-11-16T09:32:51.780+00:00",
   "tipo": "avviso",
   "attivo": true,
   "nuovoAvviso": null,

@@ -1,89 +1,14 @@
 {
  "stato": {
-  "aggiornato": "2026-11-16T11:26",
-  "letti_oggi": 89,
-  "nuovi_oggi": 6,
+  "aggiornato": "2026-11-17T11:56",
+  "letti_oggi": 95,
+  "nuovi_oggi": 15,
   "aperte_pertinenti": 17,
-  "esiti_pertinenti": 109,
-  "scartati_oggi": 35,
+  "esiti_pertinenti": 115,
+  "scartati_oggi": 30,
   "errori": []
  },
  "gare": [
-  {
-   "id": "anac:21fb2ff8-7e59-45af-b554-decd6ae05bfe",
-   "fonte": "ANAC PVL",
-   "tipologia": "BANDI",
-   "titolo": "PROCEDURA APERTA AI SENSI DELL'ART. 71 DEL D.LGS.36 2023 PER L'AFFIDAMENTO DEL SERVIZIO DI UFFICIO STAMPA, GESTIONE DEI SOCIAL MEDIA E PRODUZIONE GRAFICA  DELL'ORDINE DEGLI PSICOLOGI DELLA TOSCANA",
-   "descrizione": "L’appalto ha per oggetto un servizio unitario di comunicazione istituzionale articolato in tre aree strettamente connesse: (i) ufficio stampa; (ii) gestione dei social media istituzionali (Facebook, Instagram, LinkedIn); (iii) produzione grafica e multimediale, come descritto nel Capitolato speciale d’appalto.",
-   "ente": "ORDINE DEGLI PSICOLOGI DELLA REGIONE TOSCANA",
-   "cf_ente": "92009700458",
-   "luogo_istat": "FIRENZE",
-   "luogo_nuts": "Firenze",
-   "importo": 68000.0,
-   "lotti": 1,
-   "cig": [
-    "BD64CC7D53"
-   ],
-   "cpv": "Servizi di gestione di pubbliche relazioni",
-   "procedura": "Aperta",
-   "pubblicazione": "2026-10-20T06:00",
-   "scadenza": "2026-11-16T09:00",
-   "link_avviso": "https://pubblicitalegale.anticorruzione.it/bandi/21fb2ff8-7e59-45af-b554-decd6ae05bfe",
-   "link_documenti": "https://start.toscana.it/tendering/tenders/042042-2026/view/detail/1",
-   "link_ted": "https://ted.europa.eu/udl?uri=TED:NOTICE:720810-2026:TEXT:IT:HTML",
-   "aggiudicatari": [],
-   "valore_aggiudicato": null,
-   "kw_score": 12,
-   "kw_trovate": [
-    "grafic",
-    "comunicazione",
-    "social",
-    "ufficio stampa",
-    "multimedial"
-   ],
-   "kw_escluse": [],
-   "esecuzione": "da remoto",
-   "fuori_taglia": false,
-   "pertinente": true,
-   "motivo_scarto": null,
-   "primo_avvistamento": "2026-10-21"
-  },
-  {
-   "id": "anac:091f16f0-95bd-4265-a163-51d62206222d",
-   "fonte": "ANAC PVL",
-   "tipologia": "BANDI",
-   "titolo": "Servizi di agenzia di comunicazione integrata e servizi di supporto complementari alla DCOM dell'Autorità",
-   "descrizione": "Servizi di agenzia di comunicazione integrata e servizi di supporto complementari alla DCOM dell'Autorità",
-   "ente": "AUTORITA' DI REGOLAZIONE PER ENERGIA, RETI E AMBIENTE",
-   "cf_ente": "97190020152",
-   "luogo_istat": "MILANO",
-   "luogo_nuts": "Milano",
-   "importo": 2600000.0,
-   "lotti": 1,
-   "cig": [
-    "BD5B2B6996"
-   ],
-   "cpv": "Servizi di campagne pubblicitarie",
-   "procedura": "Aperta",
-   "pubblicazione": "2026-10-19T06:00",
-   "scadenza": "2026-11-16T11:30",
-   "link_avviso": "https://pubblicitalegale.anticorruzione.it/bandi/091f16f0-95bd-4265-a163-51d62206222d",
-   "link_documenti": "https://www.ariaspa.it",
-   "link_ted": "https://ted.europa.eu/udl?uri=TED:NOTICE:716586-2026:TEXT:IT:HTML",
-   "aggiudicatari": [],
-   "valore_aggiudicato": null,
-   "kw_score": 4,
-   "kw_trovate": [
-    "comunicazione",
-    "pubblicit"
-   ],
-   "kw_escluse": [],
-   "esecuzione": "da remoto",
-   "fuori_taglia": true,
-   "pertinente": true,
-   "motivo_scarto": null,
-   "primo_avvistamento": "2026-10-21"
-  },
   {
    "id": "anac:06401de0-bee3-42b2-aa1a-0339a5bc097e",
    "fonte": "ANAC PVL",
@@ -303,6 +228,42 @@
    "primo_avvistamento": "2026-11-11"
   },
   {
+   "id": "anac:8faf37e8-39d1-4e95-8160-b3777a16d0ea",
+   "fonte": "ANAC PVL",
+   "tipologia": "BANDI",
+   "titolo": "CAPODANNO IN PIAZZA 2027_COMUNE DI SASSARI",
+   "descrizione": "ADEMPIMENTI CONSEQUENZIALI ALLA DELIBERAZIONE DI GIUNTA COMUNALE N. 313/2026 - AVVIO DELLA PROCEDURA APERTA SOPRA SOGLIA COMUNITARIA PER L'AFFIDAMENTO DEI SERVIZI ORGANIZZATIVI/TECNICI PER L'EVENTO \"CAPODANNO IN PIAZZA 2027\" CON IL CRITERIO DELL'OFFERTA ECONOMICAMENTE PIÙ VANTAGGIOSA – RIDUZIONE DEI TERMINI PER RAGIONI DI URGENZA AI SENSI DELL'ART. 71, COMMA 3, DEL D.LGS. N. 36/2023 - APPROVAZIONE ATTI DI GARA  -  CUP E71D26000100003",
+   "ente": "COMUNE DI SASSARI",
+   "cf_ente": "00239740905",
+   "luogo_istat": "SASSARI",
+   "luogo_nuts": "Sassari",
+   "importo": 684546.0,
+   "lotti": 1,
+   "cig": [
+    "BDC8268AF7"
+   ],
+   "cpv": "Servizi di organizzazione di eventi",
+   "procedura": "Aperta",
+   "pubblicazione": "2026-11-17T07:00",
+   "scadenza": "2026-11-28T08:00",
+   "link_avviso": "https://pubblicitalegale.anticorruzione.it/bandi/8faf37e8-39d1-4e95-8160-b3777a16d0ea",
+   "link_documenti": "https://sardegnacat.regione.sardegna.it/Application/CustomDoc/DettaglioProcedura.asp?ID=1057095",
+   "link_ted": "https://ted.europa.eu/udl?uri=TED:NOTICE:794361-2026:TEXT:IT:HTML",
+   "aggiudicatari": [],
+   "valore_aggiudicato": null,
+   "kw_score": 4,
+   "kw_trovate": [
+    "evento",
+    "eventi"
+   ],
+   "kw_escluse": [],
+   "esecuzione": "evento in loco",
+   "fuori_taglia": true,
+   "pertinente": true,
+   "motivo_scarto": null,
+   "primo_avvistamento": "2026-11-17"
+  },
+  {
    "id": "anac:936f9317-f533-4aa8-9251-2162c7469108",
    "fonte": "ANAC PVL",
    "tipologia": "BANDI",
@@ -409,6 +370,44 @@
    "pertinente": true,
    "motivo_scarto": null,
    "primo_avvistamento": "2026-10-28"
+  },
+  {
+   "id": "anac:7d077db0-e6e3-4f14-b10c-0b34c3c35fc6",
+   "fonte": "ANAC PVL",
+   "tipologia": "INDAGINI_DI_MERCATO_SOTTO_SOGLIA",
+   "titolo": "SERVIZIO DI SERVICE AUDIO E LUCI PER LE MANIFESTAZIONI ORGANIZZATE DAL COMUNE – TRIENNIO 2027/2029",
+   "descrizione": "SERVIZIO DI SERVICE AUDIO E LUCI PER LE MANIFESTAZIONI ORGANIZZATE DAL COMUNE – TRIENNIO 2027/2029",
+   "ente": "COMUNE DI PONTE SAN PIETRO",
+   "cf_ente": "00250450160",
+   "luogo_istat": "PONTE SAN PIETRO",
+   "luogo_nuts": "ITALIA",
+   "importo": 55500.0,
+   "lotti": 1,
+   "cig": [
+    "BDD0BE5076"
+   ],
+   "cpv": "Servizi di organizzazione di eventi",
+   "procedura": null,
+   "pubblicazione": "2026-11-17T07:00",
+   "scadenza": "2026-12-03T09:00",
+   "link_avviso": "https://pubblicitalegale.anticorruzione.it/bandi/7d077db0-e6e3-4f14-b10c-0b34c3c35fc6",
+   "link_documenti": "https://pontesanpietro.acquistitelematici.it/tender-esiti/dettaglio/1264",
+   "link_ted": null,
+   "aggiudicatari": [],
+   "valore_aggiudicato": null,
+   "kw_score": 2,
+   "kw_trovate": [
+    "eventi",
+    "manifestazion"
+   ],
+   "kw_escluse": [
+    "service audio"
+   ],
+   "esecuzione": "evento in loco",
+   "fuori_taglia": false,
+   "pertinente": true,
+   "motivo_scarto": null,
+   "primo_avvistamento": "2026-11-17"
   },
   {
    "id": "anac:f62a81f5-844d-4092-a0ff-0aa3288d679d",
