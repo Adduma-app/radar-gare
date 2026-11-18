@@ -1,11 +1,11 @@
 {
  "stato": {
-  "aggiornato": "2026-11-17T11:56",
-  "letti_oggi": 95,
-  "nuovi_oggi": 15,
-  "aperte_pertinenti": 17,
-  "esiti_pertinenti": 115,
-  "scartati_oggi": 30,
+  "aggiornato": "2026-11-18T11:47",
+  "letti_oggi": 105,
+  "nuovi_oggi": 6,
+  "aperte_pertinenti": 18,
+  "esiti_pertinenti": 118,
+  "scartati_oggi": 34,
   "errori": []
  },
  "gare": [
@@ -44,6 +44,42 @@
    "pertinente": true,
    "motivo_scarto": null,
    "primo_avvistamento": "2026-11-16"
+  },
+  {
+   "id": "anac:10052a9c-fc4a-4e05-91cb-1746bdb720e6",
+   "fonte": "ANAC PVL",
+   "tipologia": "AVVISI_DI_PRE-INFORMAZIONE_INDITTIVI",
+   "titolo": "AVVISO PUBBLICO PER MANIFESTAZIONE DI INTERESSE / INDAGINE ESPLORATIVA DI MERCATOFinalizzato alla ricognizione del mercato e all’individuazione di operatori economici interessati alla possibile organizzazione e realizzazione della XXV edizione del “Festival dei Piccoli Lettori – La lettura ti fa grande” – Annualità 2026Valore economico massimo di riferimento della distinta linea comunale del Festival: € 23.000,00, IVA compresa ove dovuta.",
+   "descrizione": "AVVISO PUBBLICO PER MANIFESTAZIONE DI INTERESSE / INDAGINE ESPLORATIVA DI MERCATOFinalizzato alla ricognizione del mercato e all’individuazione di operatori economici interessati alla possibile organizzazione e realizzazione della XXV edizione del “Festival dei Piccoli Lettori – La lettura ti fa grande” – Annualità 2026Valore economico massimo di riferimento della distinta linea comunale del Festival: € 23.000,00, IVA compresa ove dovuta.",
+   "ente": "COMUNE DI CALIMERA",
+   "cf_ente": "93000030754",
+   "luogo_istat": "CALIMERA",
+   "luogo_nuts": "Lecce",
+   "importo": 18852.46,
+   "lotti": 1,
+   "cig": [
+    "BDCAAE21F8"
+   ],
+   "cpv": "Servizi di organizzazione di eventi culturali",
+   "procedura": "Negoziata con previa indizione di gara / competitiva con negoziazione",
+   "pubblicazione": "2026-11-18T07:00",
+   "scadenza": "2026-11-20T11:00",
+   "link_avviso": "https://pubblicitalegale.anticorruzione.it/bandi/10052a9c-fc4a-4e05-91cb-1746bdb720e6",
+   "link_documenti": "https://calimera.tuttogare.it/gare/dettaglio.php?codice=339",
+   "link_ted": null,
+   "aggiudicatari": [],
+   "valore_aggiudicato": null,
+   "kw_score": 3,
+   "kw_trovate": [
+    "eventi",
+    "manifestazion"
+   ],
+   "kw_escluse": [],
+   "esecuzione": "evento in loco",
+   "fuori_taglia": false,
+   "pertinente": true,
+   "motivo_scarto": null,
+   "primo_avvistamento": "2026-11-18"
   },
   {
    "id": "anac:571c6cdd-2e7d-45f5-b99c-c415f4644bb5",

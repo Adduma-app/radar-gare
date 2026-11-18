@@ -2,7 +2,7 @@
  {
   "codiceScheda": "M2",
   "tipologia": "MODIFICHE_CONTRATTUALI",
-  "dataPubblicazione": "2026-11-17T07:00:00.938+00:00",
+  "dataPubblicazione": "2026-11-18T07:00:00.981+00:00",
   "dataScadenza": null,
   "templates": [
    {
@@ -10,7 +10,7 @@
      "metadata": {
       "link_eform_ted": null,
       "titolo": null,
-      "descrizione": "CAPITOLATO D’ONERI ED INVITO ALLA PROCEDURA NEGOZIATA SENZA PUBBLICAZIONE DI UN BANDO, AI SENSI DELL’ARTICOLO 76, COMMA 2, LETTERA B), PUNTO 3 DEL D.LGS. 36/2023, PER L’AFFIDAMENTO DI SERVIZI PUBBLICITARI PRESSO IL CIRCUITO NAZIONALE GRANDI STAZIONI RETAIL, A SOSTEGNO DELLA CAMPAGNA DI COMUNICAZIONE DELLA VALLE D’AOSTA PER L’ANNO 2026, IN ESECUZIONE ALLA DGR N. 1370 DEL 3 OTTOBRE 2025."
+      "descrizione": "Servizio branding IT-Wallet"
      },
      "sections": [
       {
@@ -18,30 +18,32 @@
        "fields": {
         "soggetti_sa": [
          {
-          "codice_fiscale": "80002270074",
-          "denominazione_amministrazione": "REGIONE AUTONOMA VALLE D'AOSTA"
+          "codice_fiscale": "15376371009",
+          "denominazione_amministrazione": "PAGOPA S.P.A."
          }
         ]
        }
       },
       {
        "name": "SEZ. B - Dati Generali",
-       "fields": {}
+       "fields": {
+        "documenti_di_gara_link": "https://pagopa.tuttogare.it/gare/dettaglio.php?codice=69"
+       }
       },
       {
        "name": "SEZ. C - Oggetto",
        "items": [
         {
-         "tipo_oggetto": "lotto",
-         "cig": "BBA1B4E158",
+         "tipo_oggetto": "aggiudicazione",
+         "cig": "B6D1E38D8E",
          "natura_principale": "Servizi",
-         "descrizione": "Acquisto spazi pubblicitari presso il circuito Grandi stazioni retail",
-         "cpv": "Servizi di campagne pubblicitarie",
-         "luogo_nuts": "Valle d'Aosta/Vallée d'Aoste",
-         "luogo_istat": "AOSTA",
-         "data_stipula_contratto": "2026-05-27T00:00:00Z",
-         "motivazione_modifica": "Necessità di ulteriori lavori, forniture e servizi eseguiti dall'appaltatore originale.",
-         "accordo_quadro": "Nulla"
+         "descrizione": "Servizio branding IT-Wallet",
+         "cpv": "Servizi pubblicitari e di marketing",
+         "documenti_di_gara_link": "https://pagopa.tuttogare.it/gare/dettaglio.php?codice=69",
+         "luogo_nuts": "Roma",
+         "luogo_istat": "ROMA",
+         "data_stipula_contratto": "2026-02-12T15:20:00+01:00",
+         "motivazione_modifica": "Le modifiche non sono sostanziali."
         }
        ]
       }
@@ -50,9 +52,9 @@
     "lingua": "it"
    }
   ],
-  "idAvviso": "4b1d00c3-17db-42bf-990f-86c3db669a09",
-  "count": 45.0,
-  "paginationToken": "CMmeRxoJKSoxTuihAQAAGgJgARoGEICAgPgHIg5aDGr63E38zZyMtoUHmw==",
+  "idAvviso": "73051ac3-33cf-4a23-8239-047a05984535",
+  "count": 51.0,
+  "paginationToken": "CN2HRhoJKVWNdO2hAQAAGgJgARoGEICAgPgHIg5aDGr8YtF2xOZySv+ZUg==",
   "score": 1.0,
   "scoreDetails": {
    "value": 1.0,
@@ -69,7 +71,7 @@
       },
       {
        "value": 1.0,
-       "description": "IndexOrDocValuesQuery(indexQuery=$type:dateV2/dataPubblicazione:[1794009600000 TO 1794916614287], dvQuery=$type:dateV2/dataPubblicazione:[1794009600000 TO 1794916614287])",
+       "description": "IndexOrDocValuesQuery(indexQuery=$type:dateV2/dataPubblicazione:[1794096000000 TO 1795002477773], dvQuery=$type:dateV2/dataPubblicazione:[1794096000000 TO 1795002477773])",
        "details": []
       }
      ]
@@ -80,7 +82,7 @@
      "details": [
       {
        "value": 1.0,
-       "description": "$type:token/templates.template.sections.items.cpv:[[53 65 72 76 69 7a 69 20 64 69 20 63 61 6d 70 61 67 6e 65 20 70 75 62 62 6c 69 63 69 74 61 72 69 65] TO [53 65 72 76 69 7a 69 20 64 69 20 63 61 6d 70 61 67 6e 65 20 70 75 62 62 6c 69 63 69 74 61 72 69 65]]",
+       "description": "$type:token/templates.template.sections.items.cpv:[[53 65 72 76 69 7a 69 20 70 75 62 62 6c 69 63 69 74 61 72 69 20 65 20 64 69 20 6d 61 72 6b 65 74 69 6e 67] TO [53 65 72 76 69 7a 69 20 70 75 62 62 6c 69 63 69 74 61 72 69 20 65 20 64 69 20 6d 61 72 6b 65 74 69 6e 67]]",
        "details": []
       }
      ]
@@ -89,11 +91,11 @@
   },
   "oscurato": false,
   "noteOscuramento": null,
-  "idAppalto": "5cf8d4c2-44fb-4638-baf0-3d5407a9ff8e",
+  "idAppalto": "93b52904-4241-4118-a1f6-74c13b9f03ef",
   "dataPubblicazioneNuovoAvviso": null,
   "tipoNuovoAvviso": null,
-  "dataPCP": "2026-11-16T11:34:53.000+00:00",
-  "dataCreazione": "2026-11-16T10:34:53.938+00:00",
+  "dataPCP": "2026-11-17T15:21:05.000+00:00",
+  "dataCreazione": "2026-11-17T14:21:05.981+00:00",
   "tipo": "avviso",
   "attivo": true,
   "nuovoAvviso": null,
@@ -103,9 +105,9 @@
   "categorie": null
  },
  {
-  "codiceScheda": "M2",
-  "tipologia": "MODIFICHE_CONTRATTUALI",
-  "dataPubblicazione": "2026-11-17T07:00:00.788+00:00",
+  "codiceScheda": "A2_29",
+  "tipologia": "RISULTATI",
+  "dataPubblicazione": "2026-11-18T07:00:00.930+00:00",
   "dataScadenza": null,
   "templates": [
    {
@@ -113,7 +115,7 @@
      "metadata": {
       "link_eform_ted": null,
       "titolo": null,
-      "descrizione": "CAPITOLATO D’ONERI ED INVITO ALLA PROCEDURA NEGOZIATA SENZA PUBBLICAZIONE DI UN BANDO, AI SENSI DELL’ARTICOLO 76, COMMA 2, LETTERA B), PUNTO 3, DEL D.LGS. 36/2023, PER L’AFFIDAMENTO DI SERVIZI PER LA DIFFUSIONE DI ANNUNCI PUBBLICITARI SUI MEZZI DI COMUNICAZIONE MEDIASET, A SOSTEGNO DELLA CAMPAGNA DI COMUNICAZIONE DELLA VALLE D'AOSTA PER L'ANNO 2026."
+      "descrizione": "servizi connessi alla partecipazione di AMA S.p.A. alla Conferenza \"Roma, il futuro si infrastruttura\", in programma il 20 ottobre 2026 presso la Camera di Commercio di Roma, ai sensi dell'art. 76, comma 2, let. b), n. 3) del D.Lgs. n. 36/2023."
      },
      "sections": [
       {
@@ -121,30 +123,53 @@
        "fields": {
         "soggetti_sa": [
          {
-          "codice_fiscale": "80002270074",
-          "denominazione_amministrazione": "REGIONE AUTONOMA VALLE D'AOSTA"
+          "codice_fiscale": "05445891004",
+          "denominazione_amministrazione": "AZIENDA MUNICIPALE AMBIENTE SPA ROMA"
          }
         ]
        }
       },
       {
        "name": "SEZ. B - Dati Generali",
-       "fields": {}
+       "fields": {
+        "documenti_di_gara_link": "https://albofornitori.amaroma.it/PortaleAppalti/it/procedure/codice/26/000433",
+        "accordo_quadro": "Nulla",
+        "sistema_dinamico_acquisizione": "Nessun sistema dinamico di acquisizione",
+        "tipo_procedura_aggiudicazione": "Negoziata senza previa indizione di gara"
+       }
       },
       {
        "name": "SEZ. C - Oggetto",
        "items": [
         {
-         "tipo_oggetto": "lotto",
-         "cig": "BBA8B89EE6",
+         "tipo_oggetto": "aggiudicazione",
+         "cig": "BDAB25FBE1",
          "natura_principale": "Servizi",
-         "descrizione": "Acquisto spazi pubblicitari sulle reti Mediaset",
-         "cpv": "Servizi di campagne pubblicitarie",
-         "luogo_nuts": "Valle d'Aosta/Vallée d'Aoste",
-         "luogo_istat": "AOSTA",
-         "data_stipula_contratto": "2026-05-27T00:00:00Z",
-         "motivazione_modifica": "Necessità di ulteriori lavori, forniture e servizi eseguiti dall'appaltatore originale.",
-         "accordo_quadro": "Nulla"
+         "descrizione": "servizi connessi alla partecipazione di AMA S.p.A. alla Conferenza \"Roma, il futuro si infrastruttura\", in programma il 20 ottobre 2026 presso la Camera di Commercio di Roma, ai sensi dell'art. 76, comma 2, let. b), n. 3) del D.Lgs. n. 36/2023.",
+         "cpv": "Servizi di organizzazione di mostre, fiere e congressi",
+         "valore_complessivo_stimato": 10000.0,
+         "luogo_nuts": "Roma",
+         "luogo_istat": "ROMA",
+         "valore_offerta_vincente": 10000.0,
+         "accordo_quadro": "Nulla",
+         "sistema_dinamico_acquisizione": "Nessun sistema dinamico di acquisizione",
+         "aggiudicatari": [
+          {
+           "importo": 10000.0,
+           "soggetti": [
+            {
+             "codice_fiscale": "17596711006",
+             "denominazione": "Ora Editoriale Srl"
+            }
+           ]
+          }
+         ],
+         "categorie": [
+          {
+           "codice": "FS",
+           "descrizione": "FORNITURA DI SERVIZI"
+          }
+         ]
         }
        ]
       }
@@ -153,9 +178,9 @@
     "lingua": "it"
    }
   ],
-  "idAvviso": "525b75bb-89c1-40c4-8c22-b6f1e93d1e33",
-  "count": 45.0,
-  "paginationToken": "CIadRxoJKZQwTuihAQAAGgJgARoGEICAgPgHIg5aDGr61kv8zZyMtoUE/w==",
+  "idAvviso": "9f4e7b12-e851-430a-8096-cef89faa8769",
+  "count": 51.0,
+  "paginationToken": "CLmIRhoJKSKNdO2hAQAAGgJgARoGEICAgPgHIg5aDGr8OXqQBBSshjeCOQ==",
   "score": 1.0,
   "scoreDetails": {
    "value": 1.0,
@@ -172,7 +197,7 @@
       },
       {
        "value": 1.0,
-       "description": "IndexOrDocValuesQuery(indexQuery=$type:dateV2/dataPubblicazione:[1794009600000 TO 1794916614287], dvQuery=$type:dateV2/dataPubblicazione:[1794009600000 TO 1794916614287])",
+       "description": "IndexOrDocValuesQuery(indexQuery=$type:dateV2/dataPubblicazione:[1794096000000 TO 1795002477773], dvQuery=$type:dateV2/dataPubblicazione:[1794096000000 TO 1795002477773])",
        "details": []
       }
      ]
@@ -183,7 +208,7 @@
      "details": [
       {
        "value": 1.0,
-       "description": "$type:token/templates.template.sections.items.cpv:[[53 65 72 76 69 7a 69 20 64 69 20 63 61 6d 70 61 67 6e 65 20 70 75 62 62 6c 69 63 69 74 61 72 69 65] TO [53 65 72 76 69 7a 69 20 64 69 20 63 61 6d 70 61 67 6e 65 20 70 75 62 62 6c 69 63 69 74 61 72 69 65]]",
+       "description": "$type:token/templates.template.sections.items.cpv:[[53 65 72 76 69 7a 69 20 64 69 20 6f 72 67 61 6e 69 7a 7a 61 7a 69 6f 6e 65 20 64 69 20 6d 6f 73 74 72 65 2c 20 66 69 65 72 65 20 65 20 63 6f 6e 67 72 65 73 73 69] TO [53 65 72 76 69 7a 69 20 64 69 20 6f 72 67 61 6e 69 7a 7a 61 7a 69 6f 6e 65 20 64 69 20 6d 6f 73 74 72 65 2c 20 66 69 65 72 65 20 65 20 63 6f 6e 67 72 65 73 73 69]]",
        "details": []
       }
      ]
@@ -192,11 +217,11 @@
   },
   "oscurato": false,
   "noteOscuramento": null,
-  "idAppalto": "5de0c4a3-8b29-41b4-a76e-f6da63212b49",
+  "idAppalto": "82c7a0c1-c7d5-4008-8e57-f464dba07014",
   "dataPubblicazioneNuovoAvviso": null,
   "tipoNuovoAvviso": null,
-  "dataPCP": "2026-11-16T11:09:15.000+00:00",
-  "dataCreazione": "2026-11-16T10:09:15.788+00:00",
+  "dataPCP": "2026-11-17T12:24:42.000+00:00",
+  "dataCreazione": "2026-11-17T11:24:42.930+00:00",
   "tipo": "avviso",
   "attivo": true,
   "nuovoAvviso": null,
@@ -206,9 +231,9 @@
   "categorie": null
  },
  {
-  "codiceScheda": "M2",
-  "tipologia": "MODIFICHE_CONTRATTUALI",
-  "dataPubblicazione": "2026-11-17T07:00:00.780+00:00",
+  "codiceScheda": "AD2_25",
+  "tipologia": "RISULTATI",
+  "dataPubblicazione": "2026-11-18T07:00:00.863+00:00",
   "dataScadenza": null,
   "templates": [
    {
@@ -216,7 +241,7 @@
      "metadata": {
       "link_eform_ted": null,
       "titolo": null,
-      "descrizione": "CAPITOLATO D’ONERI ED INVITO ALLA PROCEDURA NEGOZIATA SENZA PUBBLICAZIONE DI UN BANDO, AI SENSI DELL’ARTICOLO 76, COMMA 2, LETTERA B), PUNTO 3 DEL D.LGS. 36/2023, PER L’AFFIDAMENTO DI SERVIZI PER LA DIFFUSIONE DI ANNUNCI PUBBLICITARI SULLE RETI RAI, A SOSTEGNO DELLA CAMPAGNA DI COMUNICAZIONE DELLA VALLE D’AOSTA PER L’ANNO 2026, IN ESECUZIONE ALLA DGR N. 1370 DEL 3 OTTOBRE 2025 (CUP B69B25003230002)"
+      "descrizione": "GOING GLOBAL DESIGN IN PUGLIA SERVIZI DIGITALI SITO WEB VETRINA DIGITALE SOCIAL WEB SERVIZI AUDIO VIDEO CON INTERVISTE E BACKSTAGE"
      },
      "sections": [
       {
@@ -224,30 +249,51 @@
        "fields": {
         "soggetti_sa": [
          {
-          "codice_fiscale": "80002270074",
-          "denominazione_amministrazione": "REGIONE AUTONOMA VALLE D'AOSTA"
+          "codice_fiscale": "80000270720",
+          "denominazione_amministrazione": "UNIONCAMERE PUGLIA"
          }
         ]
        }
       },
       {
        "name": "SEZ. B - Dati Generali",
-       "fields": {}
+       "fields": {
+        "documenti_di_gara_link": "https://www.acquistinretepa.it/bandi/negoziata/rdo-cdp/11b5f2da7b7941a1",
+        "sistema_dinamico_acquisizione": "Nessun sistema dinamico di acquisizione",
+        "tipo_procedura_aggiudicazione": "Altra procedura a fase unica"
+       }
       },
       {
        "name": "SEZ. C - Oggetto",
        "items": [
         {
-         "tipo_oggetto": "lotto",
-         "cig": "BBB4987841",
+         "tipo_oggetto": "aggiudicazione",
+         "cig": "BDD42F727F",
          "natura_principale": "Servizi",
-         "descrizione": "Acquisto spazi pubblicitari sulle reti RAI come da capitolato d'appalto allegato",
+         "descrizione": "GOING GLOBAL DESIGN IN PUGLIA SERVIZI DIGITALI SITO WEB VETRINA DIGITALE SOCIAL WEB SERVIZI AUDIO VIDEO CON INTERVISTE E BACKSTAGE",
          "cpv": "Servizi di campagne pubblicitarie",
-         "luogo_nuts": "Valle d'Aosta/Vallée d'Aoste",
-         "luogo_istat": "AOSTA",
-         "data_stipula_contratto": "2026-05-27T00:00:00Z",
-         "motivazione_modifica": "Necessità di ulteriori lavori, forniture e servizi eseguiti dall'appaltatore originale.",
-         "accordo_quadro": "Nulla"
+         "documenti_di_gara_link": "https://www.acquistinretepa.it/bandi/negoziata/rdo-cdp/11b5f2da7b7941a1",
+         "luogo_nuts": "Puglia",
+         "luogo_istat": "BARI",
+         "valore_affidamento": 13900.0,
+         "sistema_dinamico_acquisizione": "Nessun sistema dinamico di acquisizione",
+         "aggiudicatari_ad": [
+          {
+           "importo": 13900.0,
+           "soggetti": [
+            {
+             "codice_fiscale": "08535090727",
+             "denominazione": "TEKMORE S.R.L."
+            }
+           ]
+          }
+         ],
+         "categorie": [
+          {
+           "codice": "FS",
+           "descrizione": "FORNITURA DI SERVIZI"
+          }
+         ]
         }
        ]
       }
@@ -256,9 +302,9 @@
     "lingua": "it"
    }
   ],
-  "idAvviso": "1b6d6f8b-a762-4d91-aa54-ac34e5d1193d",
-  "count": 45.0,
-  "paginationToken": "CLnZRhoJKYwwTuihAQAAGgJgARoGEICAgPgHIg5aDGr6zcP8zZyMtoUB4Q==",
+  "idAvviso": "dc5ef31b-67e4-4313-a9f3-ec9cea1dc7e0",
+  "count": 51.0,
+  "paginationToken": "CL6jRxoJKd+MdO2hAQAAGgJgARoGEICAgPgHIg5aDGr7dxyQBBSshjdyTw==",
   "score": 1.0,
   "scoreDetails": {
    "value": 1.0,
@@ -275,7 +321,7 @@
       },
       {
        "value": 1.0,
-       "description": "IndexOrDocValuesQuery(indexQuery=$type:dateV2/dataPubblicazione:[1794009600000 TO 1794916614287], dvQuery=$type:dateV2/dataPubblicazione:[1794009600000 TO 1794916614287])",
+       "description": "IndexOrDocValuesQuery(indexQuery=$type:dateV2/dataPubblicazione:[1794096000000 TO 1795002477773], dvQuery=$type:dateV2/dataPubblicazione:[1794096000000 TO 1795002477773])",
        "details": []
       }
      ]
@@ -295,11 +341,11 @@
   },
   "oscurato": false,
   "noteOscuramento": null,
-  "idAppalto": "dfb88bd8-ee1c-4ea6-9021-58f4c6f63044",
+  "idAppalto": "e8928c82-04b5-4e2f-b086-a9f7f5c0a600",
   "dataPubblicazioneNuovoAvviso": null,
   "tipoNuovoAvviso": null,
-  "dataPCP": "2026-11-16T10:32:51.000+00:00",
-  "dataCreazione": "2026-11-16T09:32:51.780+00:00",
+  "dataPCP": "2026-11-16T22:35:24.000+00:00",
+  "dataCreazione": "2026-11-16T21:35:24.863+00:00",
   "tipo": "avviso",
   "attivo": true,
   "nuovoAvviso": null,

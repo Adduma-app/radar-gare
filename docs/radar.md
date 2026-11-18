@@ -1,5 +1,5 @@
-# Radar gare Adduma, aggiornato 2026-11-17T11:56
-Letti oggi 95, nuovi 15, gare aperte pertinenti 17. Errori: 0
+# Radar gare Adduma, aggiornato 2026-11-18T11:47
+Letti oggi 105, nuovi 6, gare aperte pertinenti 18. Errori: 0
 
 ## AVVISO PUBBLICO PER MANIFESTAZIONE DI INTERESSE / INDAGINE ESPLORATIVA DI MERCATOFinalizzato alla ricognizione del mercato e all’individuazione di operatori economici interessati alla possibile organizzazione e realizzazione della XXV edizione del “Festival dei Piccoli Lettori – La lettura ti fa grande” – Annualità 2026Valore economico massimo di riferimento della distinta linea comunale del Festival: € 23.000,00, IVA compresa ove dovuta.
 - ente: COMUNE DI CALIMERA | luogo ISTAT CALIMERA
@@ -8,6 +8,15 @@ Letti oggi 95, nuovi 15, gare aperte pertinenti 17. Errori: 0
 - pubblicato: 16/11/2026 07:00 | scadenza: 18/11/2026 11:00 | primo avvistamento: 2026-11-16
 - esecuzione: evento in loco | parole chiave: eventi, manifestazion
 - avviso: https://pubblicitalegale.anticorruzione.it/bandi/06401de0-bee3-42b2-aa1a-0339a5bc097e
+- documenti: https://calimera.tuttogare.it/gare/dettaglio.php?codice=339
+
+## AVVISO PUBBLICO PER MANIFESTAZIONE DI INTERESSE / INDAGINE ESPLORATIVA DI MERCATOFinalizzato alla ricognizione del mercato e all’individuazione di operatori economici interessati alla possibile organizzazione e realizzazione della XXV edizione del “Festival dei Piccoli Lettori – La lettura ti fa grande” – Annualità 2026Valore economico massimo di riferimento della distinta linea comunale del Festival: € 23.000,00, IVA compresa ove dovuta.
+- ente: COMUNE DI CALIMERA | luogo ISTAT CALIMERA
+- tipologia: AVVISI_DI_PRE-INFORMAZIONE_INDITTIVI | procedura: Negoziata con previa indizione di gara / competitiva con negoziazione | CIG: BDCAAE21F8
+- importo: 18.852 € | lotti: 1
+- pubblicato: 18/11/2026 07:00 | scadenza: 20/11/2026 11:00 | primo avvistamento: 2026-11-18
+- esecuzione: evento in loco | parole chiave: eventi, manifestazion
+- avviso: https://pubblicitalegale.anticorruzione.it/bandi/10052a9c-fc4a-4e05-91cb-1746bdb720e6
 - documenti: https://calimera.tuttogare.it/gare/dettaglio.php?codice=339
 
 ## Acquisizione di servizi di organizzazione integrata di eventi e/o singoli servizi per le strutture dell'Assemblea legislativa.

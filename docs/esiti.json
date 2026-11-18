@@ -1,14 +1,127 @@
 {
  "stato": {
-  "aggiornato": "2026-11-17T11:56",
-  "letti_oggi": 95,
-  "nuovi_oggi": 15,
-  "aperte_pertinenti": 17,
-  "esiti_pertinenti": 115,
-  "scartati_oggi": 30,
+  "aggiornato": "2026-11-18T11:47",
+  "letti_oggi": 105,
+  "nuovi_oggi": 6,
+  "aperte_pertinenti": 18,
+  "esiti_pertinenti": 118,
+  "scartati_oggi": 34,
   "errori": []
  },
  "esiti": [
+  {
+   "id": "anac:dc5ef31b-67e4-4313-a9f3-ec9cea1dc7e0",
+   "fonte": "ANAC PVL",
+   "tipologia": "RISULTATI",
+   "titolo": "GOING GLOBAL DESIGN IN PUGLIA SERVIZI DIGITALI SITO WEB VETRINA DIGITALE SOCIAL WEB SERVIZI AUDIO VIDEO CON INTERVISTE E BACKSTAGE",
+   "descrizione": "GOING GLOBAL DESIGN IN PUGLIA SERVIZI DIGITALI SITO WEB VETRINA DIGITALE SOCIAL WEB SERVIZI AUDIO VIDEO CON INTERVISTE E BACKSTAGE",
+   "ente": "UNIONCAMERE PUGLIA",
+   "cf_ente": "80000270720",
+   "luogo_istat": "BARI",
+   "luogo_nuts": "Puglia",
+   "importo": null,
+   "lotti": 1,
+   "cig": [
+    "BDD42F727F"
+   ],
+   "cpv": "Servizi di campagne pubblicitarie",
+   "procedura": "Altra procedura a fase unica",
+   "pubblicazione": "2026-11-18T07:00",
+   "scadenza": null,
+   "link_avviso": "https://pubblicitalegale.anticorruzione.it/bandi/dc5ef31b-67e4-4313-a9f3-ec9cea1dc7e0",
+   "link_documenti": "https://www.acquistinretepa.it/bandi/negoziata/rdo-cdp/11b5f2da7b7941a1",
+   "link_ted": null,
+   "aggiudicatari": [],
+   "valore_aggiudicato": null,
+   "kw_score": 11,
+   "kw_trovate": [
+    "video",
+    "pubblicit",
+    "social",
+    "sito web"
+   ],
+   "kw_escluse": [],
+   "esecuzione": "trasferta breve",
+   "fuori_taglia": false,
+   "pertinente": true,
+   "motivo_scarto": null,
+   "primo_avvistamento": "2026-11-18"
+  },
+  {
+   "id": "anac:27345625-bbca-4be6-b16c-d1be6cdeb93e",
+   "fonte": "ANAC PVL",
+   "tipologia": "RISULTATI",
+   "titolo": "SERVIZIO DI SUPPORTO NELL’ADEGUAMENTO DEL SITO WEB E PASSAGGIO AL DIGITALE DEGLI ATTI. PERIODO DAL 1° SETTEMBRE 2024 AL 28 FEBBRAIO 2025.  ",
+   "descrizione": "SERVIZIO DI SUPPORTO NELL’ADEGUAMENTO DEL SITO WEB E PASSAGGIO AL DIGITALE DEGLI ATTI. PERIODO DAL 1° SETTEMBRE 2024 AL 28 FEBBRAIO 2025.  ",
+   "ente": "COMUNE DI COLORNO",
+   "cf_ente": "00226180347",
+   "luogo_istat": "COLORNO",
+   "luogo_nuts": null,
+   "importo": 9600.0,
+   "lotti": 1,
+   "cig": [
+    "B2DC66EC49"
+   ],
+   "cpv": "Servizi di pubbliche relazioni",
+   "procedura": "Altra procedura a fase unica",
+   "pubblicazione": "2026-11-18T07:00",
+   "scadenza": null,
+   "link_avviso": "https://pubblicitalegale.anticorruzione.it/bandi/27345625-bbca-4be6-b16c-d1be6cdeb93e",
+   "link_documenti": "https://colorno.trasparenza-valutazione-merito.it/web/trasparenza/trasparenza",
+   "link_ted": null,
+   "aggiudicatari": [
+    "CABIRIA - SOCIETA' COOPERATIVA SOCIALE A RESPONSABILITA' LIMITATA"
+   ],
+   "valore_aggiudicato": 9500.0,
+   "kw_score": 3,
+   "kw_trovate": [
+    "sito web"
+   ],
+   "kw_escluse": [],
+   "esecuzione": "da remoto",
+   "fuori_taglia": false,
+   "pertinente": true,
+   "motivo_scarto": null,
+   "primo_avvistamento": "2026-11-18"
+  },
+  {
+   "id": "anac:c8ae3e70-bbdf-4511-b884-a87381b352f1",
+   "fonte": "ANAC PVL",
+   "tipologia": "RISULTATI",
+   "titolo": "Servizio di ideazione, progettazione, attività redazionali e riprese televisive per la realizzazione di quattro puntate del programma Linea Verde Discovery nell’ambito del progetto “Roma e l’identità del suo territorio - alla scoperta della campagna romana e delle sue eccellenze territoriali”",
+   "descrizione": "Servizio di ideazione, progettazione, attività redazionali e riprese televisive per la realizzazione di quattro puntate del programma Linea Verde Discovery nell’ambito del progetto “Roma e l’identità del suo territorio - alla scoperta della campagna romana e delle sue eccellenze territoriali”",
+   "ente": "INNOVA CAMERA",
+   "cf_ente": "10203811004",
+   "luogo_istat": "ROMA",
+   "luogo_nuts": "Roma",
+   "importo": 108000.0,
+   "lotti": 1,
+   "cig": [
+    "BDA0480041"
+   ],
+   "cpv": "Servizi di produzione televisiva",
+   "procedura": "Negoziata senza previa indizione di gara",
+   "pubblicazione": "2026-11-18T07:00",
+   "scadenza": null,
+   "link_avviso": "https://pubblicitalegale.anticorruzione.it/bandi/c8ae3e70-bbdf-4511-b884-a87381b352f1",
+   "link_documenti": "https://innovacamera.patisweb.it/page/10/details/274602/servizio-di-ideazione-progettazione-attivita-redazionali-e-riprese-televisive-per-la-realizzazione-di-quattro-puntate-del-programma-linea-verde-discovery-nellambito-del-progetto-roma-e-lidentita-del-suo-territorio-alla-scoperta-della-campagna-romana-e-delle-sue-eccellenze-territoriali.html",
+   "link_ted": null,
+   "aggiudicatari": [
+    "TVCOM SRL"
+   ],
+   "valore_aggiudicato": 108000.0,
+   "kw_score": 5,
+   "kw_trovate": [
+    "riprese",
+    "campagna"
+   ],
+   "kw_escluse": [],
+   "esecuzione": "trasferta breve",
+   "fuori_taglia": false,
+   "pertinente": true,
+   "motivo_scarto": null,
+   "primo_avvistamento": "2026-11-18"
+  },
   {
    "id": "anac:72eb687d-4a5e-479d-adc5-9a927586be3d",
    "fonte": "ANAC PVL",
