@@ -1,14 +1,5 @@
-# Radar gare Adduma, aggiornato 2026-11-18T11:47
-Letti oggi 105, nuovi 6, gare aperte pertinenti 18. Errori: 0
-
-## AVVISO PUBBLICO PER MANIFESTAZIONE DI INTERESSE / INDAGINE ESPLORATIVA DI MERCATOFinalizzato alla ricognizione del mercato e all’individuazione di operatori economici interessati alla possibile organizzazione e realizzazione della XXV edizione del “Festival dei Piccoli Lettori – La lettura ti fa grande” – Annualità 2026Valore economico massimo di riferimento della distinta linea comunale del Festival: € 23.000,00, IVA compresa ove dovuta.
-- ente: COMUNE DI CALIMERA | luogo ISTAT CALIMERA
-- tipologia: AVVISI_DI_PRE-INFORMAZIONE_INDITTIVI | procedura: Negoziata con previa indizione di gara / competitiva con negoziazione | CIG: BDCAAE21F8
-- importo: 18.852 € | lotti: 1
-- pubblicato: 16/11/2026 07:00 | scadenza: 18/11/2026 11:00 | primo avvistamento: 2026-11-16
-- esecuzione: evento in loco | parole chiave: eventi, manifestazion
-- avviso: https://pubblicitalegale.anticorruzione.it/bandi/06401de0-bee3-42b2-aa1a-0339a5bc097e
-- documenti: https://calimera.tuttogare.it/gare/dettaglio.php?codice=339
+# Radar gare Adduma, aggiornato 2026-11-19T11:44
+Letti oggi 121, nuovi 12, gare aperte pertinenti 18. Errori: 0
 
 ## AVVISO PUBBLICO PER MANIFESTAZIONE DI INTERESSE / INDAGINE ESPLORATIVA DI MERCATOFinalizzato alla ricognizione del mercato e all’individuazione di operatori economici interessati alla possibile organizzazione e realizzazione della XXV edizione del “Festival dei Piccoli Lettori – La lettura ti fa grande” – Annualità 2026Valore economico massimo di riferimento della distinta linea comunale del Festival: € 23.000,00, IVA compresa ove dovuta.
 - ente: COMUNE DI CALIMERA | luogo ISTAT CALIMERA
@@ -29,15 +20,6 @@ Lotto 2 - Settore Diritti dei cittadini
 - esecuzione: evento in loco | parole chiave: eventi
 - avviso: https://pubblicitalegale.anticorruzione.it/bandi/571c6cdd-2e7d-45f5-b99c-c415f4644bb5
 - documenti: https://intercenter.regione.emilia-romagna.it/trovabando/BANDO_GARA_PORTALE@18256497
-
-## SERVIZIO QUADRIENNALE DI PRODUZIONE PROGRAMMI E CONTENUTI MEDIA/AUDIOVISIVI (COME DEFINITI DAL D.LGS. N.208/2021) DA TRASMETTERE SUI TRENI DI FERROVIE APPULO LUCANE S.R.L. DELLA LINEA BARI - ALTAMURA - GRAVINA – MATERA
-- ente: FERROVIE APPULO LUCANE SRL | luogo ISTAT BARI
-- tipologia: BANDI | procedura: Aperta | CIG: BD66F1D313
-- importo: 190.000 € | lotti: 1
-- pubblicato: 19/10/2026 06:00 | scadenza: 24/11/2026 09:00 | primo avvistamento: 2026-10-21
-- esecuzione: trasferta breve | parole chiave: video, audiovisiv
-- avviso: https://pubblicitalegale.anticorruzione.it/bandi/3e122c88-abd1-44fe-af68-0f3e879985c5
-- documenti: https://ferrovieappulolucane.traspare.com/announcements/2945
 
 ## GARA EUROPEA A PROCEDURA TELEMATICA APERTA PER LA STIPULA DI UN ACCORDO QUADRO MONOAGGIUDICATARIO PER L’AFFIDAMENTO DI SERVIZI DI ALLESTIMENTO IN OCCASIONE DI EVENTI, FIERE, MOSTRE E CONVEGNI DEL POLITECNICO DI MILANO
 - ente: POLITECNICO DI MILANO | luogo ISTAT MILANO
@@ -83,6 +65,15 @@ Lotto 2 - Settore Diritti dei cittadini
 - esecuzione: trasferta breve | parole chiave: video, audiovisiv, comunicazione
 - avviso: https://pubblicitalegale.anticorruzione.it/bandi/936f9317-f533-4aa8-9251-2162c7469108
 - documenti: https://agenziainliguria.tuttogare.it/gare/dettaglio.php?codice=777
+
+## 16SER003 SERV.ORGANIZZAZIONE EVENTI FORMATIVI FINO AL 30/09/2027
+- ente: AZIENDA REGIONALE DI COORDINAMENTO PER LA SALUTE | luogo ISTAT UDINE
+- tipologia: INDAGINI_DI_MERCATO_PARI_O_SOPRA_SOGLIA | procedura: n.d. | CIG: BDDAD57B0B
+- importo: 540.000 € (FUORI TAGLIA) | lotti: 1
+- pubblicato: 19/11/2026 07:00 | scadenza: 30/11/2026 11:00 | primo avvistamento: 2026-11-19
+- esecuzione: evento in loco | parole chiave: eventi
+- avviso: https://pubblicitalegale.anticorruzione.it/bandi/72b6f5e9-980c-4e66-8a3f-fcadb9f22ad7
+- documenti: https://eappalti.regione.fvg.it/go/1351626701A1E9489E57
 
 ## Procedura aperta, ex art. 71 del Decreto legislativo 31 marzo 2023, n. 36, finalizzata all'affidamento del servizio relativo all'acquisto per un periodo di 24 mesi (più eventuali 9 mesi di proroga), di attività di comunicazione, informazione e divulgazione delle attività istituzionali analogica e digitale dell'Università degli studi di Bergamo
 - ente: UNIVERSITA' DEGLI STUDI DI BERGAMO | luogo ISTAT BERGAMO
@@ -164,3 +155,13 @@ Lotto 2 - Settore Diritti dei cittadini
 - esecuzione: evento in loco | parole chiave: comunicazione, evento, eventi, manifestazion
 - avviso: https://pubblicitalegale.anticorruzione.it/bandi/f6ed2f6c-80e9-471f-8443-5f92a767afa1
 - documenti: https://appaltigtcomac.regione.marche.it/PortaleAppalti/it/procedure/codice/A00029
+
+## CONSULTAZIONE DI MERCATO
+Servizio di riprese in movimento - per la copertura televisiva degli eventi della Lega del ciclismo professionistico 2027/2028 - presso varie località Italia - dal 01/01/2027 al 31/12/2027 (con opzione di rinnovo al 31/12/2028).
+- ente: RAI RADIOTELEVISIONE ITALIANA S.P.A. | luogo ISTAT n.d.
+- tipologia: AVVISI_DI_PRE-INFORMAZIONE_INFORMATIVI | procedura: n.d. | CIG: n.d.
+- importo: n.d. | lotti: 1
+- pubblicato: 19/11/2026 07:00 | scadenza: n.d. | primo avvistamento: 2026-11-19
+- esecuzione: evento in loco | parole chiave: riprese, eventi
+- avviso: https://pubblicitalegale.anticorruzione.it/bandi/32a0a9d1-829b-40e9-b3d1-63927c8a2546
+- documenti: n.d.

@@ -1,50 +1,14 @@
 {
  "stato": {
-  "aggiornato": "2026-11-18T11:47",
-  "letti_oggi": 105,
-  "nuovi_oggi": 6,
+  "aggiornato": "2026-11-19T11:44",
+  "letti_oggi": 121,
+  "nuovi_oggi": 12,
   "aperte_pertinenti": 18,
-  "esiti_pertinenti": 118,
-  "scartati_oggi": 34,
+  "esiti_pertinenti": 126,
+  "scartati_oggi": 38,
   "errori": []
  },
  "gare": [
-  {
-   "id": "anac:06401de0-bee3-42b2-aa1a-0339a5bc097e",
-   "fonte": "ANAC PVL",
-   "tipologia": "AVVISI_DI_PRE-INFORMAZIONE_INDITTIVI",
-   "titolo": "AVVISO PUBBLICO PER MANIFESTAZIONE DI INTERESSE / INDAGINE ESPLORATIVA DI MERCATOFinalizzato alla ricognizione del mercato e all’individuazione di operatori economici interessati alla possibile organizzazione e realizzazione della XXV edizione del “Festival dei Piccoli Lettori – La lettura ti fa grande” – Annualità 2026Valore economico massimo di riferimento della distinta linea comunale del Festival: € 23.000,00, IVA compresa ove dovuta.",
-   "descrizione": "AVVISO PUBBLICO PER MANIFESTAZIONE DI INTERESSE / INDAGINE ESPLORATIVA DI MERCATOFinalizzato alla ricognizione del mercato e all’individuazione di operatori economici interessati alla possibile organizzazione e realizzazione della XXV edizione del “Festival dei Piccoli Lettori – La lettura ti fa grande” – Annualità 2026Valore economico massimo di riferimento della distinta linea comunale del Festival: € 23.000,00, IVA compresa ove dovuta.",
-   "ente": "COMUNE DI CALIMERA",
-   "cf_ente": "93000030754",
-   "luogo_istat": "CALIMERA",
-   "luogo_nuts": "Lecce",
-   "importo": 18852.46,
-   "lotti": 1,
-   "cig": [
-    "BDCAAE21F8"
-   ],
-   "cpv": "Servizi di organizzazione di eventi culturali",
-   "procedura": "Negoziata con previa indizione di gara / competitiva con negoziazione",
-   "pubblicazione": "2026-11-16T07:00",
-   "scadenza": "2026-11-18T11:00",
-   "link_avviso": "https://pubblicitalegale.anticorruzione.it/bandi/06401de0-bee3-42b2-aa1a-0339a5bc097e",
-   "link_documenti": "https://calimera.tuttogare.it/gare/dettaglio.php?codice=339",
-   "link_ted": null,
-   "aggiudicatari": [],
-   "valore_aggiudicato": null,
-   "kw_score": 3,
-   "kw_trovate": [
-    "eventi",
-    "manifestazion"
-   ],
-   "kw_escluse": [],
-   "esecuzione": "evento in loco",
-   "fuori_taglia": false,
-   "pertinente": true,
-   "motivo_scarto": null,
-   "primo_avvistamento": "2026-11-16"
-  },
   {
    "id": "anac:10052a9c-fc4a-4e05-91cb-1746bdb720e6",
    "fonte": "ANAC PVL",
@@ -116,42 +80,6 @@
    "pertinente": true,
    "motivo_scarto": null,
    "primo_avvistamento": "2026-11-05"
-  },
-  {
-   "id": "anac:3e122c88-abd1-44fe-af68-0f3e879985c5",
-   "fonte": "ANAC PVL",
-   "tipologia": "BANDI",
-   "titolo": "SERVIZIO QUADRIENNALE DI PRODUZIONE PROGRAMMI E CONTENUTI MEDIA/AUDIOVISIVI (COME DEFINITI DAL D.LGS. N.208/2021) DA TRASMETTERE SUI TRENI DI FERROVIE APPULO LUCANE S.R.L. DELLA LINEA BARI - ALTAMURA - GRAVINA – MATERA",
-   "descrizione": "SERVIZIO QUADRIENNALE DI PRODUZIONE PROGRAMMI E CONTENUTI MEDIA/AUDIOVISIVI (COME DEFINITI DAL D.LGS. N.208/2021) DA TRASMETTERE SUI TRENI DI FERROVIE APPULO LUCANE S.R.L. DELLA LINEA BARI - ALTAMURA - GRAVINA – MATERA",
-   "ente": "FERROVIE APPULO LUCANE SRL",
-   "cf_ente": "05538100727",
-   "luogo_istat": "BARI",
-   "luogo_nuts": "Bari",
-   "importo": 190000.0,
-   "lotti": 1,
-   "cig": [
-    "BD66F1D313"
-   ],
-   "cpv": "Servizi di produzione di film e video",
-   "procedura": "Aperta",
-   "pubblicazione": "2026-10-19T06:00",
-   "scadenza": "2026-11-24T09:00",
-   "link_avviso": "https://pubblicitalegale.anticorruzione.it/bandi/3e122c88-abd1-44fe-af68-0f3e879985c5",
-   "link_documenti": "https://ferrovieappulolucane.traspare.com/announcements/2945",
-   "link_ted": null,
-   "aggiudicatari": [],
-   "valore_aggiudicato": null,
-   "kw_score": 6,
-   "kw_trovate": [
-    "video",
-    "audiovisiv"
-   ],
-   "kw_escluse": [],
-   "esecuzione": "trasferta breve",
-   "fuori_taglia": false,
-   "pertinente": true,
-   "motivo_scarto": null,
-   "primo_avvistamento": "2026-10-21"
   },
   {
    "id": "anac:56565b9e-f696-4145-8e24-7af64fe4f6b8",
@@ -335,6 +263,41 @@
    "pertinente": true,
    "motivo_scarto": null,
    "primo_avvistamento": "2026-10-29"
+  },
+  {
+   "id": "anac:72b6f5e9-980c-4e66-8a3f-fcadb9f22ad7",
+   "fonte": "ANAC PVL",
+   "tipologia": "INDAGINI_DI_MERCATO_PARI_O_SOPRA_SOGLIA",
+   "titolo": "16SER003 SERV.ORGANIZZAZIONE EVENTI FORMATIVI FINO AL 30/09/2027",
+   "descrizione": "16SER003 SERV.ORGANIZZAZIONE EVENTI FORMATIVI FINO AL 30/09/2027",
+   "ente": "AZIENDA REGIONALE DI COORDINAMENTO PER LA SALUTE",
+   "cf_ente": "02948180308",
+   "luogo_istat": "UDINE",
+   "luogo_nuts": "Friuli-Venezia Giulia",
+   "importo": 540000.0,
+   "lotti": 1,
+   "cig": [
+    "BDDAD57B0B"
+   ],
+   "cpv": "Servizi di organizzazione di eventi",
+   "procedura": null,
+   "pubblicazione": "2026-11-19T07:00",
+   "scadenza": "2026-11-30T11:00",
+   "link_avviso": "https://pubblicitalegale.anticorruzione.it/bandi/72b6f5e9-980c-4e66-8a3f-fcadb9f22ad7",
+   "link_documenti": "https://eappalti.regione.fvg.it/go/1351626701A1E9489E57",
+   "link_ted": null,
+   "aggiudicatari": [],
+   "valore_aggiudicato": null,
+   "kw_score": 2,
+   "kw_trovate": [
+    "eventi"
+   ],
+   "kw_escluse": [],
+   "esecuzione": "evento in loco",
+   "fuori_taglia": true,
+   "pertinente": true,
+   "motivo_scarto": null,
+   "primo_avvistamento": "2026-11-19"
   },
   {
    "id": "anac:299bb5bc-e38e-4ef5-9d18-bf925dc4f612",
@@ -663,6 +626,40 @@
    "pertinente": true,
    "motivo_scarto": null,
    "primo_avvistamento": "2026-11-10"
+  },
+  {
+   "id": "anac:32a0a9d1-829b-40e9-b3d1-63927c8a2546",
+   "fonte": "ANAC PVL",
+   "tipologia": "AVVISI_DI_PRE-INFORMAZIONE_INFORMATIVI",
+   "titolo": "CONSULTAZIONE DI MERCATO\r\nServizio di riprese in movimento - per la copertura televisiva degli eventi della Lega del ciclismo professionistico 2027/2028 - presso varie località Italia - dal 01/01/2027 al 31/12/2027 (con opzione di rinnovo al 31/12/2028).",
+   "descrizione": "La consultazione preliminare di mercato per l'affidamento del Servizio di riprese in movimento per la copertura televisiva degli eventi della Lega del ciclismo per la stagione televisiva del 2027 con un'opzione di rinnovo per un ulteriore anno, ha la finalità di ottenere una migliore comprensione del mercato di riferimento e permettere alla Stazione Appaltante di definire una valutazione estimativa nonché determinare la fattibilità a procedere con l’iniziativa. L'importo stimato dalla Stazione Appaltante per la procedura in oggetto è pari ad euro 1.076.200,00.\nLa procedura è svolta tramite Sistema informatico per procedure telematiche di acquisto ( Piattaforma) accessibile all'indirizzo https://piattaformaacquisti.rai.it/PortaleAppalti/it/procedure/codice/G50594. \nTramite il sito si accede alla procedura ed alla documentazione, all'interno dell'area di dettaglio relativa all'iniziativa. Informazioni e chiarimenti possono essere richiesti entro e non oltre il 26/11/2026, utilizzando l'area Comunicazioni riservate al Concorrente, presente nell'area di dettaglio della procedura. Le risposte alle richieste di chiarimenti sono fornite mediante pubblicazione delle richieste in forma anonima e delle relative risposte sulla Piattaforma nell'area Comunicazioni della Stazione Appaltante.",
+   "ente": "RAI RADIOTELEVISIONE ITALIANA S.P.A.",
+   "cf_ente": "06382641006",
+   "luogo_istat": null,
+   "luogo_nuts": null,
+   "importo": null,
+   "lotti": 1,
+   "cig": [],
+   "cpv": "Servizi di produzione televisiva",
+   "procedura": null,
+   "pubblicazione": "2026-11-19T07:00",
+   "scadenza": null,
+   "link_avviso": "https://pubblicitalegale.anticorruzione.it/bandi/32a0a9d1-829b-40e9-b3d1-63927c8a2546",
+   "link_documenti": null,
+   "link_ted": "https://ted.europa.eu/udl?uri=TED:NOTICE:803508-2026:TEXT:IT:HTML",
+   "aggiudicatari": [],
+   "valore_aggiudicato": null,
+   "kw_score": 4,
+   "kw_trovate": [
+    "riprese",
+    "eventi"
+   ],
+   "kw_escluse": [],
+   "esecuzione": "evento in loco",
+   "fuori_taglia": false,
+   "pertinente": true,
+   "motivo_scarto": null,
+   "primo_avvistamento": "2026-11-19"
   }
  ]
 }

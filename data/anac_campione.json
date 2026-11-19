@@ -1,113 +1,8 @@
 [
  {
-  "codiceScheda": "M2",
-  "tipologia": "MODIFICHE_CONTRATTUALI",
-  "dataPubblicazione": "2026-11-18T07:00:00.981+00:00",
-  "dataScadenza": null,
-  "templates": [
-   {
-    "template": {
-     "metadata": {
-      "link_eform_ted": null,
-      "titolo": null,
-      "descrizione": "Servizio branding IT-Wallet"
-     },
-     "sections": [
-      {
-       "name": "SEZ. A - Committente",
-       "fields": {
-        "soggetti_sa": [
-         {
-          "codice_fiscale": "15376371009",
-          "denominazione_amministrazione": "PAGOPA S.P.A."
-         }
-        ]
-       }
-      },
-      {
-       "name": "SEZ. B - Dati Generali",
-       "fields": {
-        "documenti_di_gara_link": "https://pagopa.tuttogare.it/gare/dettaglio.php?codice=69"
-       }
-      },
-      {
-       "name": "SEZ. C - Oggetto",
-       "items": [
-        {
-         "tipo_oggetto": "aggiudicazione",
-         "cig": "B6D1E38D8E",
-         "natura_principale": "Servizi",
-         "descrizione": "Servizio branding IT-Wallet",
-         "cpv": "Servizi pubblicitari e di marketing",
-         "documenti_di_gara_link": "https://pagopa.tuttogare.it/gare/dettaglio.php?codice=69",
-         "luogo_nuts": "Roma",
-         "luogo_istat": "ROMA",
-         "data_stipula_contratto": "2026-02-12T15:20:00+01:00",
-         "motivazione_modifica": "Le modifiche non sono sostanziali."
-        }
-       ]
-      }
-     ]
-    },
-    "lingua": "it"
-   }
-  ],
-  "idAvviso": "73051ac3-33cf-4a23-8239-047a05984535",
-  "count": 51.0,
-  "paginationToken": "CN2HRhoJKVWNdO2hAQAAGgJgARoGEICAgPgHIg5aDGr8YtF2xOZySv+ZUg==",
-  "score": 1.0,
-  "scoreDetails": {
-   "value": 1.0,
-   "description": "sum of:",
-   "details": [
-    {
-     "value": 0.0,
-     "description": "match on required clause, product of:",
-     "details": [
-      {
-       "value": 0.0,
-       "description": "# clause",
-       "details": []
-      },
-      {
-       "value": 1.0,
-       "description": "IndexOrDocValuesQuery(indexQuery=$type:dateV2/dataPubblicazione:[1794096000000 TO 1795002477773], dvQuery=$type:dateV2/dataPubblicazione:[1794096000000 TO 1795002477773])",
-       "details": []
-      }
-     ]
-    },
-    {
-     "value": 1.0,
-     "description": "sum of:",
-     "details": [
-      {
-       "value": 1.0,
-       "description": "$type:token/templates.template.sections.items.cpv:[[53 65 72 76 69 7a 69 20 70 75 62 62 6c 69 63 69 74 61 72 69 20 65 20 64 69 20 6d 61 72 6b 65 74 69 6e 67] TO [53 65 72 76 69 7a 69 20 70 75 62 62 6c 69 63 69 74 61 72 69 20 65 20 64 69 20 6d 61 72 6b 65 74 69 6e 67]]",
-       "details": []
-      }
-     ]
-    }
-   ]
-  },
-  "oscurato": false,
-  "noteOscuramento": null,
-  "idAppalto": "93b52904-4241-4118-a1f6-74c13b9f03ef",
-  "dataPubblicazioneNuovoAvviso": null,
-  "tipoNuovoAvviso": null,
-  "dataPCP": "2026-11-17T15:21:05.000+00:00",
-  "dataCreazione": "2026-11-17T14:21:05.981+00:00",
-  "tipo": "avviso",
-  "attivo": true,
-  "nuovoAvviso": null,
-  "codiceEform": null,
-  "stato": "NON_VERIFICATO",
-  "ambiente": null,
-  "categorie": null
- },
- {
-  "codiceScheda": "A2_29",
+  "codiceScheda": "AD2_28",
   "tipologia": "RISULTATI",
-  "dataPubblicazione": "2026-11-18T07:00:00.930+00:00",
+  "dataPubblicazione": "2026-11-19T07:00:00.590+00:00",
   "dataScadenza": null,
   "templates": [
    {
@@ -115,7 +10,7 @@
      "metadata": {
       "link_eform_ted": null,
       "titolo": null,
-      "descrizione": "servizi connessi alla partecipazione di AMA S.p.A. alla Conferenza \"Roma, il futuro si infrastruttura\", in programma il 20 ottobre 2026 presso la Camera di Commercio di Roma, ai sensi dell'art. 76, comma 2, let. b), n. 3) del D.Lgs. n. 36/2023."
+      "descrizione": "RINNOVO CONVENZIONE PER LORGANIZZAZIONE E GESTIONE DELLE FIERE DEL COMUNE DI BELLARIA IGEA MARINA PER IL BIENNIO 2027/2028"
      },
      "sections": [
       {
@@ -123,8 +18,8 @@
        "fields": {
         "soggetti_sa": [
          {
-          "codice_fiscale": "05445891004",
-          "denominazione_amministrazione": "AZIENDA MUNICIPALE AMBIENTE SPA ROMA"
+          "codice_fiscale": "00250950409",
+          "denominazione_amministrazione": "COMUNE DI BELLARIA IGEA MARINA"
          }
         ]
        }
@@ -132,9 +27,7 @@
       {
        "name": "SEZ. B - Dati Generali",
        "fields": {
-        "documenti_di_gara_link": "https://albofornitori.amaroma.it/PortaleAppalti/it/procedure/codice/26/000433",
-        "accordo_quadro": "Nulla",
-        "sistema_dinamico_acquisizione": "Nessun sistema dinamico di acquisizione",
+        "documenti_di_gara_link": "https://appalti.comune.bellaria-igea-marina.rn.it/PortaleAppalti/it/procedure/codice/G00773",
         "tipo_procedura_aggiudicazione": "Negoziata senza previa indizione di gara"
        }
       },
@@ -143,23 +36,21 @@
        "items": [
         {
          "tipo_oggetto": "aggiudicazione",
-         "cig": "BDAB25FBE1",
+         "cig": "BDDCCEFD78",
          "natura_principale": "Servizi",
-         "descrizione": "servizi connessi alla partecipazione di AMA S.p.A. alla Conferenza \"Roma, il futuro si infrastruttura\", in programma il 20 ottobre 2026 presso la Camera di Commercio di Roma, ai sensi dell'art. 76, comma 2, let. b), n. 3) del D.Lgs. n. 36/2023.",
+         "descrizione": "RINNOVO CONVENZIONE PER LORGANIZZAZIONE E GESTIONE DELLE FIERE DEL COMUNE DI BELLARIA IGEA MARINA PER IL BIENNIO 2027/2028",
          "cpv": "Servizi di organizzazione di mostre, fiere e congressi",
-         "valore_complessivo_stimato": 10000.0,
-         "luogo_nuts": "Roma",
-         "luogo_istat": "ROMA",
-         "valore_offerta_vincente": 10000.0,
-         "accordo_quadro": "Nulla",
-         "sistema_dinamico_acquisizione": "Nessun sistema dinamico di acquisizione",
-         "aggiudicatari": [
+         "documenti_di_gara_link": "https://appalti.comune.bellaria-igea-marina.rn.it/PortaleAppalti/it/procedure/codice/G00773",
+         "luogo_nuts": "Rimini",
+         "luogo_istat": "BELLARIA-IGEA MARINA",
+         "valore_affidamento": 100000.0,
+         "aggiudicatari_ad": [
           {
-           "importo": 10000.0,
+           "importo": 100000.0,
            "soggetti": [
             {
-             "codice_fiscale": "17596711006",
-             "denominazione": "Ora Editoriale Srl"
+             "codice_fiscale": "01783330382",
+             "denominazione": "L'Accento s.r.l."
             }
            ]
           }
@@ -178,9 +69,9 @@
     "lingua": "it"
    }
   ],
-  "idAvviso": "9f4e7b12-e851-430a-8096-cef89faa8769",
-  "count": 51.0,
-  "paginationToken": "CLmIRhoJKSKNdO2hAQAAGgJgARoGEICAgPgHIg5aDGr8OXqQBBSshjeCOQ==",
+  "idAvviso": "0a8b5ee0-f27d-4c7f-82c4-089552b323d6",
+  "count": 59.0,
+  "paginationToken": "CIbcRxoJKc7nmvKhAQAAGgJgARoGEICAgPgHIg5aDGr9hleGSQq461N3ww==",
   "score": 1.0,
   "scoreDetails": {
    "value": 1.0,
@@ -197,7 +88,7 @@
       },
       {
        "value": 1.0,
-       "description": "IndexOrDocValuesQuery(indexQuery=$type:dateV2/dataPubblicazione:[1794096000000 TO 1795002477773], dvQuery=$type:dateV2/dataPubblicazione:[1794096000000 TO 1795002477773])",
+       "description": "IndexOrDocValuesQuery(indexQuery=$type:dateV2/dataPubblicazione:[1794182400000 TO 1795088655541], dvQuery=$type:dateV2/dataPubblicazione:[1794182400000 TO 1795088655541])",
        "details": []
       }
      ]
@@ -217,11 +108,11 @@
   },
   "oscurato": false,
   "noteOscuramento": null,
-  "idAppalto": "82c7a0c1-c7d5-4008-8e57-f464dba07014",
+  "idAppalto": "dbcd1c28-819d-4d8c-826c-436b14d212cf",
   "dataPubblicazioneNuovoAvviso": null,
   "tipoNuovoAvviso": null,
-  "dataPCP": "2026-11-17T12:24:42.000+00:00",
-  "dataCreazione": "2026-11-17T11:24:42.930+00:00",
+  "dataPCP": "2026-11-18T12:04:55.000+00:00",
+  "dataCreazione": "2026-11-18T11:04:55.595+00:00",
   "tipo": "avviso",
   "attivo": true,
   "nuovoAvviso": null,
@@ -231,9 +122,9 @@
   "categorie": null
  },
  {
-  "codiceScheda": "AD2_25",
+  "codiceScheda": "A2_29",
   "tipologia": "RISULTATI",
-  "dataPubblicazione": "2026-11-18T07:00:00.863+00:00",
+  "dataPubblicazione": "2026-11-19T07:00:00.588+00:00",
   "dataScadenza": null,
   "templates": [
    {
@@ -241,7 +132,7 @@
      "metadata": {
       "link_eform_ted": null,
       "titolo": null,
-      "descrizione": "GOING GLOBAL DESIGN IN PUGLIA SERVIZI DIGITALI SITO WEB VETRINA DIGITALE SOCIAL WEB SERVIZI AUDIO VIDEO CON INTERVISTE E BACKSTAGE"
+      "descrizione": "TUR MC - ATTIVITÀ DI PROMOZIONE DEL MARCHIO “IO SONO FRIULI VENEZIA GIULIA” PER L’ANNO 2025"
      },
      "sections": [
       {
@@ -249,8 +140,8 @@
        "fields": {
         "soggetti_sa": [
          {
-          "codice_fiscale": "80000270720",
-          "denominazione_amministrazione": "UNIONCAMERE PUGLIA"
+          "codice_fiscale": "01218220323",
+          "denominazione_amministrazione": "PROMOTURISMOFVG"
          }
         ]
        }
@@ -258,9 +149,9 @@
       {
        "name": "SEZ. B - Dati Generali",
        "fields": {
-        "documenti_di_gara_link": "https://www.acquistinretepa.it/bandi/negoziata/rdo-cdp/11b5f2da7b7941a1",
+        "accordo_quadro": "Nulla",
         "sistema_dinamico_acquisizione": "Nessun sistema dinamico di acquisizione",
-        "tipo_procedura_aggiudicazione": "Altra procedura a fase unica"
+        "tipo_procedura_aggiudicazione": "Negoziata senza previa indizione di gara"
        }
       },
       {
@@ -268,22 +159,23 @@
        "items": [
         {
          "tipo_oggetto": "aggiudicazione",
-         "cig": "BDD42F727F",
+         "cig": "BBD67948C1",
          "natura_principale": "Servizi",
-         "descrizione": "GOING GLOBAL DESIGN IN PUGLIA SERVIZI DIGITALI SITO WEB VETRINA DIGITALE SOCIAL WEB SERVIZI AUDIO VIDEO CON INTERVISTE E BACKSTAGE",
-         "cpv": "Servizi di campagne pubblicitarie",
-         "documenti_di_gara_link": "https://www.acquistinretepa.it/bandi/negoziata/rdo-cdp/11b5f2da7b7941a1",
-         "luogo_nuts": "Puglia",
-         "luogo_istat": "BARI",
-         "valore_affidamento": 13900.0,
+         "descrizione": "TUR MC - ATTIVITÀ DI PROMOZIONE DEL MARCHIO “IO SONO FRIULI VENEZIA GIULIA” PER L’ANNO 2025",
+         "cpv": "Servizi pubblicitari e di marketing",
+         "valore_complessivo_stimato": 192257.24,
+         "luogo_nuts": "Friuli-Venezia Giulia",
+         "luogo_istat": "COLLOREDO DI MONTE ALBANO",
+         "valore_offerta_vincente": 192257.24,
+         "accordo_quadro": "Nulla",
          "sistema_dinamico_acquisizione": "Nessun sistema dinamico di acquisizione",
-         "aggiudicatari_ad": [
+         "aggiudicatari": [
           {
-           "importo": 13900.0,
+           "importo": 192257.24,
            "soggetti": [
             {
-             "codice_fiscale": "08535090727",
-             "denominazione": "TEKMORE S.R.L."
+             "codice_fiscale": "94151430306",
+             "denominazione": "FONDAZIONE AGRIFOOD & BIOECONOMY FVG "
             }
            ]
           }
@@ -302,9 +194,9 @@
     "lingua": "it"
    }
   ],
-  "idAvviso": "dc5ef31b-67e4-4313-a9f3-ec9cea1dc7e0",
-  "count": 51.0,
-  "paginationToken": "CL6jRxoJKd+MdO2hAQAAGgJgARoGEICAgPgHIg5aDGr7dxyQBBSshjdyTw==",
+  "idAvviso": "d6f06278-2f0f-4751-91e2-4f1d9c04c4fe",
+  "count": 59.0,
+  "paginationToken": "CNvTRxoJKcznmvKhAQAAGgJgARoGEICAgPgHIg5aDGr9hObNDtsQD2CxIw==",
   "score": 1.0,
   "scoreDetails": {
    "value": 1.0,
@@ -321,7 +213,133 @@
       },
       {
        "value": 1.0,
-       "description": "IndexOrDocValuesQuery(indexQuery=$type:dateV2/dataPubblicazione:[1794096000000 TO 1795002477773], dvQuery=$type:dateV2/dataPubblicazione:[1794096000000 TO 1795002477773])",
+       "description": "IndexOrDocValuesQuery(indexQuery=$type:dateV2/dataPubblicazione:[1794182400000 TO 1795088655541], dvQuery=$type:dateV2/dataPubblicazione:[1794182400000 TO 1795088655541])",
+       "details": []
+      }
+     ]
+    },
+    {
+     "value": 1.0,
+     "description": "sum of:",
+     "details": [
+      {
+       "value": 1.0,
+       "description": "$type:token/templates.template.sections.items.cpv:[[53 65 72 76 69 7a 69 20 70 75 62 62 6c 69 63 69 74 61 72 69 20 65 20 64 69 20 6d 61 72 6b 65 74 69 6e 67] TO [53 65 72 76 69 7a 69 20 70 75 62 62 6c 69 63 69 74 61 72 69 20 65 20 64 69 20 6d 61 72 6b 65 74 69 6e 67]]",
+       "details": []
+      }
+     ]
+    }
+   ]
+  },
+  "oscurato": false,
+  "noteOscuramento": null,
+  "idAppalto": "e3fe1f57-7c9e-4ae7-96ba-e833bd6c4ded",
+  "dataPubblicazioneNuovoAvviso": null,
+  "tipoNuovoAvviso": null,
+  "dataPCP": "2026-11-18T11:58:46.000+00:00",
+  "dataCreazione": "2026-11-18T10:58:46.588+00:00",
+  "tipo": "avviso",
+  "attivo": true,
+  "nuovoAvviso": null,
+  "codiceEform": null,
+  "stato": "NON_VERIFICATO",
+  "ambiente": null,
+  "categorie": null
+ },
+ {
+  "codiceScheda": "A2_29",
+  "tipologia": "RISULTATI",
+  "dataPubblicazione": "2026-11-19T07:00:00.524+00:00",
+  "dataScadenza": null,
+  "templates": [
+   {
+    "template": {
+     "metadata": {
+      "link_eform_ted": null,
+      "titolo": null,
+      "descrizione": "Campagne TV per i prodotti agroalimentari di qualità dell’Alto Adige sul mercato italiano nella primavera 2026."
+     },
+     "sections": [
+      {
+       "name": "SEZ. A - Committente",
+       "fields": {
+        "soggetti_sa": [
+         {
+          "codice_fiscale": "02521490215",
+          "denominazione_amministrazione": "IDM SUEDTIROL - ALTO ADIGE"
+         }
+        ]
+       }
+      },
+      {
+       "name": "SEZ. B - Dati Generali",
+       "fields": {
+        "documenti_di_gara_link": "https://www.bandi-altoadige.it/",
+        "accordo_quadro": "Nulla",
+        "sistema_dinamico_acquisizione": "Nessun sistema dinamico di acquisizione",
+        "tipo_procedura_aggiudicazione": "Negoziata senza previa indizione di gara"
+       }
+      },
+      {
+       "name": "SEZ. C - Oggetto",
+       "items": [
+        {
+         "tipo_oggetto": "aggiudicazione",
+         "cig": "BB7146DE0D",
+         "natura_principale": "Servizi",
+         "descrizione": "Campagne TV per i prodotti agroalimentari di qualità dell’Alto Adige sul mercato italiano nella primavera 2026.",
+         "cpv": "Servizi di campagne pubblicitarie",
+         "valore_complessivo_stimato": 1735000.0,
+         "luogo_nuts": "Bolzano/Bozen",
+         "luogo_istat": "BOLZANO/BOZEN",
+         "valore_offerta_vincente": 1735000.0,
+         "accordo_quadro": "Nulla",
+         "sistema_dinamico_acquisizione": "Nessun sistema dinamico di acquisizione",
+         "aggiudicatari": [
+          {
+           "importo": 1735000.0,
+           "soggetti": [
+            {
+             "codice_fiscale": "04529390157",
+             "denominazione": "Publitalia '80 S.p.A."
+            }
+           ]
+          }
+         ],
+         "categorie": [
+          {
+           "codice": "FS",
+           "descrizione": "FORNITURA DI SERVIZI"
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    },
+    "lingua": "it"
+   }
+  ],
+  "idAvviso": "c81b8829-2c49-4566-a0bd-25ea3ecdd207",
+  "count": 59.0,
+  "paginationToken": "CODjRBoJKYznmvKhAQAAGgJgARoGEICAgPgHIg5aDGr9Yeh2xOZySv+nag==",
+  "score": 1.0,
+  "scoreDetails": {
+   "value": 1.0,
+   "description": "sum of:",
+   "details": [
+    {
+     "value": 0.0,
+     "description": "match on required clause, product of:",
+     "details": [
+      {
+       "value": 0.0,
+       "description": "# clause",
+       "details": []
+      },
+      {
+       "value": 1.0,
+       "description": "IndexOrDocValuesQuery(indexQuery=$type:dateV2/dataPubblicazione:[1794182400000 TO 1795088655541], dvQuery=$type:dateV2/dataPubblicazione:[1794182400000 TO 1795088655541])",
        "details": []
       }
      ]
@@ -341,11 +359,11 @@
   },
   "oscurato": false,
   "noteOscuramento": null,
-  "idAppalto": "e8928c82-04b5-4e2f-b086-a9f7f5c0a600",
+  "idAppalto": "b57c7a90-9ffb-4758-ac70-1a9fbb3e6028",
   "dataPubblicazioneNuovoAvviso": null,
   "tipoNuovoAvviso": null,
-  "dataPCP": "2026-11-16T22:35:24.000+00:00",
-  "dataCreazione": "2026-11-16T21:35:24.863+00:00",
+  "dataPCP": "2026-11-18T09:29:28.000+00:00",
+  "dataCreazione": "2026-11-18T08:29:28.524+00:00",
   "tipo": "avviso",
   "attivo": true,
   "nuovoAvviso": null,

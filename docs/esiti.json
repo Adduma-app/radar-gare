@@ -1,14 +1,316 @@
 {
  "stato": {
-  "aggiornato": "2026-11-18T11:47",
-  "letti_oggi": 105,
-  "nuovi_oggi": 6,
+  "aggiornato": "2026-11-19T11:44",
+  "letti_oggi": 121,
+  "nuovi_oggi": 12,
   "aperte_pertinenti": 18,
-  "esiti_pertinenti": 118,
-  "scartati_oggi": 34,
+  "esiti_pertinenti": 126,
+  "scartati_oggi": 38,
   "errori": []
  },
  "esiti": [
+  {
+   "id": "anac:d6f06278-2f0f-4751-91e2-4f1d9c04c4fe",
+   "fonte": "ANAC PVL",
+   "tipologia": "RISULTATI",
+   "titolo": "TUR MC - ATTIVITÀ DI PROMOZIONE DEL MARCHIO “IO SONO FRIULI VENEZIA GIULIA” PER L’ANNO 2025",
+   "descrizione": "TUR MC - ATTIVITÀ DI PROMOZIONE DEL MARCHIO “IO SONO FRIULI VENEZIA GIULIA” PER L’ANNO 2025",
+   "ente": "PROMOTURISMOFVG",
+   "cf_ente": "01218220323",
+   "luogo_istat": "COLLOREDO DI MONTE ALBANO",
+   "luogo_nuts": "Friuli-Venezia Giulia",
+   "importo": 192257.24,
+   "lotti": 1,
+   "cig": [
+    "BBD67948C1"
+   ],
+   "cpv": "Servizi pubblicitari e di marketing",
+   "procedura": "Negoziata senza previa indizione di gara",
+   "pubblicazione": "2026-11-19T07:00",
+   "scadenza": null,
+   "link_avviso": "https://pubblicitalegale.anticorruzione.it/bandi/d6f06278-2f0f-4751-91e2-4f1d9c04c4fe",
+   "link_documenti": null,
+   "link_ted": null,
+   "aggiudicatari": [
+    "FONDAZIONE AGRIFOOD & BIOECONOMY FVG "
+   ],
+   "valore_aggiudicato": 192257.24,
+   "kw_score": 7,
+   "kw_trovate": [
+    "marchio",
+    "promozion",
+    "pubblicit",
+    "marketing"
+   ],
+   "kw_escluse": [],
+   "esecuzione": "da remoto",
+   "fuori_taglia": false,
+   "pertinente": true,
+   "motivo_scarto": null,
+   "primo_avvistamento": "2026-11-19"
+  },
+  {
+   "id": "anac:c81b8829-2c49-4566-a0bd-25ea3ecdd207",
+   "fonte": "ANAC PVL",
+   "tipologia": "RISULTATI",
+   "titolo": "Campagne TV per i prodotti agroalimentari di qualità dell’Alto Adige sul mercato italiano nella primavera 2026.",
+   "descrizione": "Campagne TV per i prodotti agroalimentari di qualità dell’Alto Adige sul mercato italiano nella primavera 2026.",
+   "ente": "IDM SUEDTIROL - ALTO ADIGE",
+   "cf_ente": "02521490215",
+   "luogo_istat": "BOLZANO/BOZEN",
+   "luogo_nuts": "Bolzano/Bozen",
+   "importo": 1735000.0,
+   "lotti": 1,
+   "cig": [
+    "BB7146DE0D"
+   ],
+   "cpv": "Servizi di campagne pubblicitarie",
+   "procedura": "Negoziata senza previa indizione di gara",
+   "pubblicazione": "2026-11-19T07:00",
+   "scadenza": null,
+   "link_avviso": "https://pubblicitalegale.anticorruzione.it/bandi/c81b8829-2c49-4566-a0bd-25ea3ecdd207",
+   "link_documenti": "https://www.bandi-altoadige.it/",
+   "link_ted": null,
+   "aggiudicatari": [
+    "Publitalia '80 S.p.A."
+   ],
+   "valore_aggiudicato": 1735000.0,
+   "kw_score": 2,
+   "kw_trovate": [
+    "pubblicit"
+   ],
+   "kw_escluse": [],
+   "esecuzione": "da remoto",
+   "fuori_taglia": true,
+   "pertinente": true,
+   "motivo_scarto": null,
+   "primo_avvistamento": "2026-11-19"
+  },
+  {
+   "id": "anac:af14e527-27e9-4ca2-b669-b41962603b4c",
+   "fonte": "ANAC PVL",
+   "tipologia": "RISULTATI",
+   "titolo": "TUR SB - BASKET STAMPA, DIGITAL E SOCIAL SU QUOTIDIANI CORRIERE DELLA SERA, LA GAZZETTA DELLO SPORT E MENSILE DOVE",
+   "descrizione": "TUR SB - BASKET STAMPA, DIGITAL E SOCIAL SU QUOTIDIANI CORRIERE DELLA SERA, LA GAZZETTA DELLO SPORT E MENSILE DOVE",
+   "ente": "PROMOTURISMOFVG",
+   "cf_ente": "01218220323",
+   "luogo_istat": "MILANO",
+   "luogo_nuts": "Lombardia",
+   "importo": 250000.0,
+   "lotti": 1,
+   "cig": [
+    "BB04068B26"
+   ],
+   "cpv": "Servizi di marketing",
+   "procedura": "Negoziata senza previa indizione di gara",
+   "pubblicazione": "2026-11-19T07:00",
+   "scadenza": null,
+   "link_avviso": "https://pubblicitalegale.anticorruzione.it/bandi/af14e527-27e9-4ca2-b669-b41962603b4c",
+   "link_documenti": "https://eappalti-bandigara.regione.fvg.it/include/it/bandi-di-gara/01218220323",
+   "link_ted": null,
+   "aggiudicatari": [
+    "CAIRORCS MEDIA SPA "
+   ],
+   "valore_aggiudicato": 250000.0,
+   "kw_score": 5,
+   "kw_trovate": [
+    "marketing",
+    "social"
+   ],
+   "kw_escluse": [],
+   "esecuzione": "da remoto",
+   "fuori_taglia": false,
+   "pertinente": true,
+   "motivo_scarto": null,
+   "primo_avvistamento": "2026-11-19"
+  },
+  {
+   "id": "anac:1b7795e8-8425-49fe-99e7-8715131705be",
+   "fonte": "ANAC PVL",
+   "tipologia": "RISULTATI",
+   "titolo": "TUR GP - adv Tv lineare e digital Mediaset",
+   "descrizione": "TUR GP - adv Tv lineare e digital Mediaset",
+   "ente": "PROMOTURISMOFVG",
+   "cf_ente": "01218220323",
+   "luogo_istat": "UDINE",
+   "luogo_nuts": "Friuli-Venezia Giulia",
+   "importo": 526663.0,
+   "lotti": 1,
+   "cig": [
+    "BB4597710F"
+   ],
+   "cpv": "Servizi pubblicitari e di marketing",
+   "procedura": "Negoziata senza previa indizione di gara",
+   "pubblicazione": "2026-11-19T07:00",
+   "scadenza": null,
+   "link_avviso": "https://pubblicitalegale.anticorruzione.it/bandi/1b7795e8-8425-49fe-99e7-8715131705be",
+   "link_documenti": "https://eappalti-bandigara.regione.fvg.it/include/it/bandi-di-gara/01218220323",
+   "link_ted": null,
+   "aggiudicatari": [
+    "Publitalia’80 spa"
+   ],
+   "valore_aggiudicato": 526663.0,
+   "kw_score": 4,
+   "kw_trovate": [
+    "pubblicit",
+    "marketing"
+   ],
+   "kw_escluse": [],
+   "esecuzione": "da remoto",
+   "fuori_taglia": true,
+   "pertinente": true,
+   "motivo_scarto": null,
+   "primo_avvistamento": "2026-11-19"
+  },
+  {
+   "id": "anac:3de002af-2fa9-4ccd-a974-845acb5a3184",
+   "fonte": "ANAC PVL",
+   "tipologia": "RISULTATI",
+   "titolo": "ATTIVITA' ADDETTO STAMPA TDIC 08/11/2026 - 07/11/2027",
+   "descrizione": "ATTIVITA' ADDETTO STAMPA TDIC 08/11/2026 - 07/11/2027",
+   "ente": "AZIENDA SPECIALE SERVIZI CULTURA TURISMO E SPETTACOLO TEATRI DI CIVITANOVA",
+   "cf_ente": "01539220432",
+   "luogo_istat": "CIVITANOVA MARCHE",
+   "luogo_nuts": "Macerata",
+   "importo": null,
+   "lotti": 1,
+   "cig": [
+    "BDDE47462A"
+   ],
+   "cpv": "Servizi di marketing",
+   "procedura": "Negoziata senza previa indizione di gara",
+   "pubblicazione": "2026-11-19T07:00",
+   "scadenza": null,
+   "link_avviso": "https://pubblicitalegale.anticorruzione.it/bandi/3de002af-2fa9-4ccd-a974-845acb5a3184",
+   "link_documenti": "https://www.acquistinretepa.it/bandi/negoziata/rdo-td/6bb6346998fa9d2a",
+   "link_ted": null,
+   "aggiudicatari": [],
+   "valore_aggiudicato": null,
+   "kw_score": 2,
+   "kw_trovate": [
+    "marketing"
+   ],
+   "kw_escluse": [],
+   "esecuzione": "da remoto",
+   "fuori_taglia": false,
+   "pertinente": true,
+   "motivo_scarto": null,
+   "primo_avvistamento": "2026-11-19"
+  },
+  {
+   "id": "anac:1e4f2ba0-6e7c-4b47-af3f-7b578c15dbeb",
+   "fonte": "ANAC PVL",
+   "tipologia": "RISULTATI",
+   "titolo": "TUR MC - ORGANIZZAZIONE E PROMOZIONE DELLA 20^ TAPPA DEL GIRO D'ITALIA CHE SI SVOLGERA' IL 30 MAGGIO 2026 GEMONA - PIANCAVALLO E PER LA 6^ TAPPA GIRO E 30 MAGGIO 2026 SAN DANIELE D.F. - PIANCAVALLO",
+   "descrizione": "TUR MC - ORGANIZZAZIONE E PROMOZIONE DELLA 20^ TAPPA DEL GIRO D'ITALIA CHE SI SVOLGERA' IL 30 MAGGIO 2026 GEMONA - PIANCAVALLO E PER LA 6^ TAPPA GIRO E 30 MAGGIO 2026 SAN DANIELE D.F. - PIANCAVALLO",
+   "ente": "PROMOTURISMOFVG",
+   "cf_ente": "01218220323",
+   "luogo_istat": "GEMONA DEL FRIULI",
+   "luogo_nuts": "Friuli-Venezia Giulia",
+   "importo": 500000.0,
+   "lotti": 1,
+   "cig": [
+    "BB2539B72D"
+   ],
+   "cpv": "Servizi di organizzazione di eventi",
+   "procedura": "Negoziata senza previa indizione di gara",
+   "pubblicazione": "2026-11-19T07:00",
+   "scadenza": null,
+   "link_avviso": "https://pubblicitalegale.anticorruzione.it/bandi/1e4f2ba0-6e7c-4b47-af3f-7b578c15dbeb",
+   "link_documenti": null,
+   "link_ted": null,
+   "aggiudicatari": [
+    "RCS SPORT"
+   ],
+   "valore_aggiudicato": 600000.0,
+   "kw_score": 4,
+   "kw_trovate": [
+    "promozion",
+    "eventi"
+   ],
+   "kw_escluse": [],
+   "esecuzione": "evento in loco",
+   "fuori_taglia": true,
+   "pertinente": true,
+   "motivo_scarto": null,
+   "primo_avvistamento": "2026-11-19"
+  },
+  {
+   "id": "anac:e15fb704-1eaa-44a3-8709-fd4c1bc32b49",
+   "fonte": "ANAC PVL",
+   "tipologia": "RISULTATI",
+   "titolo": "DG MC - SERVIZI PROMOZIONE TERRITORIALE E VALORIZZAZIONE DESTINAZIONE FRIULI VENEZIA GIULIA MEDIANTE L'ORGANIZZAZIONE DI EVENTI MUSICALI",
+   "descrizione": "DG MC - SERVIZI PROMOZIONE TERRITORIALE E VALORIZZAZIONE DESTINAZIONE FRIULI VENEZIA GIULIA MEDIANTE L'ORGANIZZAZIONE DI EVENTI MUSICALI",
+   "ente": "PROMOTURISMOFVG",
+   "cf_ente": "01218220323",
+   "luogo_istat": "CODROIPO",
+   "luogo_nuts": "Friuli-Venezia Giulia",
+   "importo": 1480000.0,
+   "lotti": 1,
+   "cig": [
+    "BC4F4B4CA5"
+   ],
+   "cpv": "Servizi di organizzazione di eventi",
+   "procedura": "Negoziata senza previa indizione di gara",
+   "pubblicazione": "2026-11-19T07:00",
+   "scadenza": null,
+   "link_avviso": "https://pubblicitalegale.anticorruzione.it/bandi/e15fb704-1eaa-44a3-8709-fd4c1bc32b49",
+   "link_documenti": "https://eappalti-bandigara.regione.fvg.it/include/it/bandi-di-gara/01218220323",
+   "link_ted": null,
+   "aggiudicatari": [
+    "ZENIT S.R.L."
+   ],
+   "valore_aggiudicato": 1480000.0,
+   "kw_score": 4,
+   "kw_trovate": [
+    "promozion",
+    "eventi"
+   ],
+   "kw_escluse": [],
+   "esecuzione": "evento in loco",
+   "fuori_taglia": true,
+   "pertinente": true,
+   "motivo_scarto": null,
+   "primo_avvistamento": "2026-11-19"
+  },
+  {
+   "id": "anac:caab3755-0e11-4c7d-af59-8519c1b61117",
+   "fonte": "ANAC PVL",
+   "tipologia": "RISULTATI",
+   "titolo": "DG MC - SERVIZI PROMOZIONE TERRITORIALE E VALORIZZAZIONE DESTINAZIONE FRIULI VENEZIA GIULIA MEDIANTE L'ORGANIZZAZIONE DI EVENTI MUSICALI",
+   "descrizione": "DG MC - SERVIZI PROMOZIONE TERRITORIALE E VALORIZZAZIONE DESTINAZIONE FRIULI VENEZIA GIULIA MEDIANTE L'ORGANIZZAZIONE DI EVENTI MUSICALI",
+   "ente": "PROMOTURISMOFVG",
+   "cf_ente": "01218220323",
+   "luogo_istat": "TRIESTE",
+   "luogo_nuts": "Friuli-Venezia Giulia",
+   "importo": 497000.0,
+   "lotti": 1,
+   "cig": [
+    "BC55BB3B62"
+   ],
+   "cpv": "Servizi di organizzazione di eventi",
+   "procedura": "Negoziata senza previa indizione di gara",
+   "pubblicazione": "2026-11-19T07:00",
+   "scadenza": null,
+   "link_avviso": "https://pubblicitalegale.anticorruzione.it/bandi/caab3755-0e11-4c7d-af59-8519c1b61117",
+   "link_documenti": "https://eappalti-bandigara.regione.fvg.it/include/it/bandi-di-gara/01218220323",
+   "link_ted": null,
+   "aggiudicatari": [
+    "PLATINUM LIVE SRL"
+   ],
+   "valore_aggiudicato": 397000.0,
+   "kw_score": 4,
+   "kw_trovate": [
+    "promozion",
+    "eventi"
+   ],
+   "kw_escluse": [],
+   "esecuzione": "evento in loco",
+   "fuori_taglia": true,
+   "pertinente": true,
+   "motivo_scarto": null,
+   "primo_avvistamento": "2026-11-19"
+  },
   {
    "id": "anac:dc5ef31b-67e4-4313-a9f3-ec9cea1dc7e0",
    "fonte": "ANAC PVL",
