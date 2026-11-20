@@ -1,16 +1,16 @@
 [
  {
-  "codiceScheda": "AD2_28",
-  "tipologia": "RISULTATI",
-  "dataPubblicazione": "2026-11-19T07:00:00.590+00:00",
-  "dataScadenza": null,
+  "codiceScheda": "P1_16",
+  "tipologia": "BANDI",
+  "dataPubblicazione": "2026-11-20T07:00:00.664+00:00",
+  "dataScadenza": "2026-12-17T11:00:00.000+00:00",
   "templates": [
    {
     "template": {
      "metadata": {
-      "link_eform_ted": null,
-      "titolo": null,
-      "descrizione": "RINNOVO CONVENZIONE PER LORGANIZZAZIONE E GESTIONE DELLE FIERE DEL COMUNE DI BELLARIA IGEA MARINA PER IL BIENNIO 2027/2028"
+      "link_eform_ted": "https://ted.europa.eu/udl?uri=TED:NOTICE:805146-2026:TEXT:IT:HTML",
+      "titolo": "SERVIZIO DI PUBBLICHE RELAZIONI, COMUNICAZIONE E GESTIONE DEI RAPPORTI CON I MEDIA IN GERMANIA ED AUSTRIA",
+      "descrizione": "SERVIZIO DI PUBBLICHE RELAZIONI, COMUNICAZIONE E GESTIONE DEI RAPPORTI CON I MEDIA IN GERMANIA ED AUSTRIA, FINALIZZATO ALLA PROMOZIONE DEL TRENTINO E ALLA PREPARAZIONE DI REPORT DI ANALISI DEL SETTORE TURISTICO (TRADE INSIGHTS)"
      },
      "sections": [
       {
@@ -18,8 +18,8 @@
        "fields": {
         "soggetti_sa": [
          {
-          "codice_fiscale": "00250950409",
-          "denominazione_amministrazione": "COMUNE DI BELLARIA IGEA MARINA"
+          "codice_fiscale": "00123240228",
+          "denominazione_amministrazione": "TRENTINO SVILUPPO S.P.A."
          }
         ]
        }
@@ -27,159 +27,33 @@
       {
        "name": "SEZ. B - Dati Generali",
        "fields": {
-        "documenti_di_gara_link": "https://appalti.comune.bellaria-igea-marina.rn.it/PortaleAppalti/it/procedure/codice/G00773",
-        "tipo_procedura_aggiudicazione": "Negoziata senza previa indizione di gara"
-       }
-      },
-      {
-       "name": "SEZ. C - Oggetto",
-       "items": [
-        {
-         "tipo_oggetto": "aggiudicazione",
-         "cig": "BDDCCEFD78",
-         "natura_principale": "Servizi",
-         "descrizione": "RINNOVO CONVENZIONE PER LORGANIZZAZIONE E GESTIONE DELLE FIERE DEL COMUNE DI BELLARIA IGEA MARINA PER IL BIENNIO 2027/2028",
-         "cpv": "Servizi di organizzazione di mostre, fiere e congressi",
-         "documenti_di_gara_link": "https://appalti.comune.bellaria-igea-marina.rn.it/PortaleAppalti/it/procedure/codice/G00773",
-         "luogo_nuts": "Rimini",
-         "luogo_istat": "BELLARIA-IGEA MARINA",
-         "valore_affidamento": 100000.0,
-         "aggiudicatari_ad": [
-          {
-           "importo": 100000.0,
-           "soggetti": [
-            {
-             "codice_fiscale": "01783330382",
-             "denominazione": "L'Accento s.r.l."
-            }
-           ]
-          }
-         ],
-         "categorie": [
-          {
-           "codice": "FS",
-           "descrizione": "FORNITURA DI SERVIZI"
-          }
-         ]
-        }
-       ]
-      }
-     ]
-    },
-    "lingua": "it"
-   }
-  ],
-  "idAvviso": "0a8b5ee0-f27d-4c7f-82c4-089552b323d6",
-  "count": 59.0,
-  "paginationToken": "CIbcRxoJKc7nmvKhAQAAGgJgARoGEICAgPgHIg5aDGr9hleGSQq461N3ww==",
-  "score": 1.0,
-  "scoreDetails": {
-   "value": 1.0,
-   "description": "sum of:",
-   "details": [
-    {
-     "value": 0.0,
-     "description": "match on required clause, product of:",
-     "details": [
-      {
-       "value": 0.0,
-       "description": "# clause",
-       "details": []
-      },
-      {
-       "value": 1.0,
-       "description": "IndexOrDocValuesQuery(indexQuery=$type:dateV2/dataPubblicazione:[1794182400000 TO 1795088655541], dvQuery=$type:dateV2/dataPubblicazione:[1794182400000 TO 1795088655541])",
-       "details": []
-      }
-     ]
-    },
-    {
-     "value": 1.0,
-     "description": "sum of:",
-     "details": [
-      {
-       "value": 1.0,
-       "description": "$type:token/templates.template.sections.items.cpv:[[53 65 72 76 69 7a 69 20 64 69 20 6f 72 67 61 6e 69 7a 7a 61 7a 69 6f 6e 65 20 64 69 20 6d 6f 73 74 72 65 2c 20 66 69 65 72 65 20 65 20 63 6f 6e 67 72 65 73 73 69] TO [53 65 72 76 69 7a 69 20 64 69 20 6f 72 67 61 6e 69 7a 7a 61 7a 69 6f 6e 65 20 64 69 20 6d 6f 73 74 72 65 2c 20 66 69 65 72 65 20 65 20 63 6f 6e 67 72 65 73 73 69]]",
-       "details": []
-      }
-     ]
-    }
-   ]
-  },
-  "oscurato": false,
-  "noteOscuramento": null,
-  "idAppalto": "dbcd1c28-819d-4d8c-826c-436b14d212cf",
-  "dataPubblicazioneNuovoAvviso": null,
-  "tipoNuovoAvviso": null,
-  "dataPCP": "2026-11-18T12:04:55.000+00:00",
-  "dataCreazione": "2026-11-18T11:04:55.595+00:00",
-  "tipo": "avviso",
-  "attivo": true,
-  "nuovoAvviso": null,
-  "codiceEform": null,
-  "stato": "NON_VERIFICATO",
-  "ambiente": null,
-  "categorie": null
- },
- {
-  "codiceScheda": "A2_29",
-  "tipologia": "RISULTATI",
-  "dataPubblicazione": "2026-11-19T07:00:00.588+00:00",
-  "dataScadenza": null,
-  "templates": [
-   {
-    "template": {
-     "metadata": {
-      "link_eform_ted": null,
-      "titolo": null,
-      "descrizione": "TUR MC - ATTIVITÀ DI PROMOZIONE DEL MARCHIO “IO SONO FRIULI VENEZIA GIULIA” PER L’ANNO 2025"
-     },
-     "sections": [
-      {
-       "name": "SEZ. A - Committente",
-       "fields": {
-        "soggetti_sa": [
-         {
-          "codice_fiscale": "01218220323",
-          "denominazione_amministrazione": "PROMOTURISMOFVG"
-         }
-        ]
-       }
-      },
-      {
-       "name": "SEZ. B - Dati Generali",
-       "fields": {
+        "documenti_di_gara_link": "https://sicopat2.provincia.tn.it/trasparenza-fe/#/procedura?uuid=e1db6c6f-b41c-43de-88ae-c1accc926ba0",
         "accordo_quadro": "Nulla",
         "sistema_dinamico_acquisizione": "Nessun sistema dinamico di acquisizione",
-        "tipo_procedura_aggiudicazione": "Negoziata senza previa indizione di gara"
+        "tipo_procedura_aggiudicazione": "Aperta",
+        "asta_elettronica": "false"
        }
       },
       {
        "name": "SEZ. C - Oggetto",
        "items": [
         {
-         "tipo_oggetto": "aggiudicazione",
-         "cig": "BBD67948C1",
+         "tipo_oggetto": "lotto",
+         "cig": "BDD9C60B16",
          "natura_principale": "Servizi",
-         "descrizione": "TUR MC - ATTIVITÀ DI PROMOZIONE DEL MARCHIO “IO SONO FRIULI VENEZIA GIULIA” PER L’ANNO 2025",
-         "cpv": "Servizi pubblicitari e di marketing",
-         "valore_complessivo_stimato": 192257.24,
-         "luogo_nuts": "Friuli-Venezia Giulia",
-         "luogo_istat": "COLLOREDO DI MONTE ALBANO",
-         "valore_offerta_vincente": 192257.24,
+         "descrizione": "pubbliche relazioni, comunicazione e gestione dei rapporti con i media nei Paesi di lingua tedesca",
+         "cpv": "Servizi di pubbliche relazioni",
+         "valore_complessivo_stimato": 492000.0,
+         "documenti_di_gara_link": "https://sicopat2.provincia.tn.it/trasparenza-fe/#/procedura?uuid=e1db6c6f-b41c-43de-88ae-c1accc926ba0",
+         "luogo_nuts": "Trento",
+         "luogo_istat": "TRENTO",
+         "durata_contratto": "1095",
+         "asta_elettronica": "false",
+         "criteri_aggiudicazione": "Qualità",
+         "termine_ricezione": "2026-12-17+01:00",
+         "durata": "1095",
          "accordo_quadro": "Nulla",
          "sistema_dinamico_acquisizione": "Nessun sistema dinamico di acquisizione",
-         "aggiudicatari": [
-          {
-           "importo": 192257.24,
-           "soggetti": [
-            {
-             "codice_fiscale": "94151430306",
-             "denominazione": "FONDAZIONE AGRIFOOD & BIOECONOMY FVG "
-            }
-           ]
-          }
-         ],
          "categorie": [
           {
            "codice": "FS",
@@ -194,9 +68,9 @@
     "lingua": "it"
    }
   ],
-  "idAvviso": "d6f06278-2f0f-4751-91e2-4f1d9c04c4fe",
+  "idAvviso": "b5b70a71-d90e-4c11-9511-71edc31cb2fc",
   "count": 59.0,
-  "paginationToken": "CNvTRxoJKcznmvKhAQAAGgJgARoGEICAgPgHIg5aDGr9hObNDtsQD2CxIw==",
+  "paginationToken": "CJmzRRoJKRhEwfehAQAAGgJgARoGEICAgPgHIg5aDGr+acPKCA+YF+sejw==",
   "score": 1.0,
   "scoreDetails": {
    "value": 1.0,
@@ -213,7 +87,7 @@
       },
       {
        "value": 1.0,
-       "description": "IndexOrDocValuesQuery(indexQuery=$type:dateV2/dataPubblicazione:[1794182400000 TO 1795088655541], dvQuery=$type:dateV2/dataPubblicazione:[1794182400000 TO 1795088655541])",
+       "description": "IndexOrDocValuesQuery(indexQuery=$type:dateV2/dataPubblicazione:[1794268800000 TO 1795175100953], dvQuery=$type:dateV2/dataPubblicazione:[1794268800000 TO 1795175100953])",
        "details": []
       }
      ]
@@ -224,7 +98,7 @@
      "details": [
       {
        "value": 1.0,
-       "description": "$type:token/templates.template.sections.items.cpv:[[53 65 72 76 69 7a 69 20 70 75 62 62 6c 69 63 69 74 61 72 69 20 65 20 64 69 20 6d 61 72 6b 65 74 69 6e 67] TO [53 65 72 76 69 7a 69 20 70 75 62 62 6c 69 63 69 74 61 72 69 20 65 20 64 69 20 6d 61 72 6b 65 74 69 6e 67]]",
+       "description": "$type:token/templates.template.sections.items.cpv:[[53 65 72 76 69 7a 69 20 64 69 20 70 75 62 62 6c 69 63 68 65 20 72 65 6c 61 7a 69 6f 6e 69] TO [53 65 72 76 69 7a 69 20 64 69 20 70 75 62 62 6c 69 63 68 65 20 72 65 6c 61 7a 69 6f 6e 69]]",
        "details": []
       }
      ]
@@ -233,23 +107,23 @@
   },
   "oscurato": false,
   "noteOscuramento": null,
-  "idAppalto": "e3fe1f57-7c9e-4ae7-96ba-e833bd6c4ded",
+  "idAppalto": "98393135-9b73-4f0f-840b-af4110b19b6c",
   "dataPubblicazioneNuovoAvviso": null,
   "tipoNuovoAvviso": null,
-  "dataPCP": "2026-11-18T11:58:46.000+00:00",
-  "dataCreazione": "2026-11-18T10:58:46.588+00:00",
+  "dataPCP": "2026-11-18T23:00:00.000+00:00",
+  "dataCreazione": "2026-11-19T03:15:15.665+00:00",
   "tipo": "avviso",
   "attivo": true,
   "nuovoAvviso": null,
-  "codiceEform": null,
+  "codiceEform": "16",
   "stato": "NON_VERIFICATO",
   "ambiente": null,
   "categorie": null
  },
  {
-  "codiceScheda": "A2_29",
-  "tipologia": "RISULTATI",
-  "dataPubblicazione": "2026-11-19T07:00:00.524+00:00",
+  "codiceScheda": "M2",
+  "tipologia": "MODIFICHE_CONTRATTUALI",
+  "dataPubblicazione": "2026-11-20T07:00:00.359+00:00",
   "dataScadenza": null,
   "templates": [
    {
@@ -257,7 +131,7 @@
      "metadata": {
       "link_eform_ted": null,
       "titolo": null,
-      "descrizione": "Campagne TV per i prodotti agroalimentari di qualità dell’Alto Adige sul mercato italiano nella primavera 2026."
+      "descrizione": "Richiesta di offerta per l'affidamento in appalto del servizio di agenzia di comunicazione per “Bassano del Grappa Capitale della Cultura 2029” e della realizzazione di campagne di digital marketing della mostra su Salgado (Museo Civico, dal 24/10/2026 al 04/04/2027)"
      },
      "sections": [
       {
@@ -265,8 +139,8 @@
        "fields": {
         "soggetti_sa": [
          {
-          "codice_fiscale": "02521490215",
-          "denominazione_amministrazione": "IDM SUEDTIROL - ALTO ADIGE"
+          "codice_fiscale": "00168480242",
+          "denominazione_amministrazione": "COMUNE DI BASSANO DEL GRAPPA"
          }
         ]
        }
@@ -274,10 +148,7 @@
       {
        "name": "SEZ. B - Dati Generali",
        "fields": {
-        "documenti_di_gara_link": "https://www.bandi-altoadige.it/",
-        "accordo_quadro": "Nulla",
-        "sistema_dinamico_acquisizione": "Nessun sistema dinamico di acquisizione",
-        "tipo_procedura_aggiudicazione": "Negoziata senza previa indizione di gara"
+        "documenti_di_gara_link": "https://appalti.comune.bassano.vi.it/PortaleAppalti/it/procedure/codice/G01660"
        }
       },
       {
@@ -285,33 +156,14 @@
        "items": [
         {
          "tipo_oggetto": "aggiudicazione",
-         "cig": "BB7146DE0D",
+         "cig": "BC0C480D48",
          "natura_principale": "Servizi",
-         "descrizione": "Campagne TV per i prodotti agroalimentari di qualità dell’Alto Adige sul mercato italiano nella primavera 2026.",
+         "descrizione": "Richiesta di offerta per l'affidamento in appalto del servizio di agenzia di comunicazione per “Bassano del Grappa Capitale della Cultura 2029” e della realizzazione di campagne di digital marketing della mostra su Salgado (Museo Civico, dal 24/10/2026 al 04/04/2027)",
          "cpv": "Servizi di campagne pubblicitarie",
-         "valore_complessivo_stimato": 1735000.0,
-         "luogo_nuts": "Bolzano/Bozen",
-         "luogo_istat": "BOLZANO/BOZEN",
-         "valore_offerta_vincente": 1735000.0,
-         "accordo_quadro": "Nulla",
-         "sistema_dinamico_acquisizione": "Nessun sistema dinamico di acquisizione",
-         "aggiudicatari": [
-          {
-           "importo": 1735000.0,
-           "soggetti": [
-            {
-             "codice_fiscale": "04529390157",
-             "denominazione": "Publitalia '80 S.p.A."
-            }
-           ]
-          }
-         ],
-         "categorie": [
-          {
-           "codice": "FS",
-           "descrizione": "FORNITURA DI SERVIZI"
-          }
-         ]
+         "documenti_di_gara_link": "https://appalti.comune.bassano.vi.it/PortaleAppalti/it/procedure/codice/G01660",
+         "luogo_nuts": "Vicenza",
+         "luogo_istat": "BASSANO DEL GRAPPA",
+         "motivazione_modifica": "Necessità di ulteriori lavori, forniture e servizi eseguiti dall'appaltatore originale."
         }
        ]
       }
@@ -320,9 +172,9 @@
     "lingua": "it"
    }
   ],
-  "idAvviso": "c81b8829-2c49-4566-a0bd-25ea3ecdd207",
+  "idAvviso": "0122a4b0-2cab-498c-a077-7212a7180f1c",
   "count": 59.0,
-  "paginationToken": "CODjRBoJKYznmvKhAQAAGgJgARoGEICAgPgHIg5aDGr9Yeh2xOZySv+nag==",
+  "paginationToken": "COH/RxoJKedCwfehAQAAGgJgARoGEICAgPgHIg5aDGr+25WOAFQyELUSNQ==",
   "score": 1.0,
   "scoreDetails": {
    "value": 1.0,
@@ -339,7 +191,7 @@
       },
       {
        "value": 1.0,
-       "description": "IndexOrDocValuesQuery(indexQuery=$type:dateV2/dataPubblicazione:[1794182400000 TO 1795088655541], dvQuery=$type:dateV2/dataPubblicazione:[1794182400000 TO 1795088655541])",
+       "description": "IndexOrDocValuesQuery(indexQuery=$type:dateV2/dataPubblicazione:[1794268800000 TO 1795175100953], dvQuery=$type:dateV2/dataPubblicazione:[1794268800000 TO 1795175100953])",
        "details": []
       }
      ]
@@ -359,11 +211,115 @@
   },
   "oscurato": false,
   "noteOscuramento": null,
-  "idAppalto": "b57c7a90-9ffb-4758-ac70-1a9fbb3e6028",
+  "idAppalto": "eb28aeb1-9877-4c73-8010-0749aec85eb8",
   "dataPubblicazioneNuovoAvviso": null,
   "tipoNuovoAvviso": null,
-  "dataPCP": "2026-11-18T09:29:28.000+00:00",
-  "dataCreazione": "2026-11-18T08:29:28.524+00:00",
+  "dataPCP": "2026-11-19T12:20:53.000+00:00",
+  "dataCreazione": "2026-11-19T11:20:53.359+00:00",
+  "tipo": "avviso",
+  "attivo": true,
+  "nuovoAvviso": null,
+  "codiceEform": null,
+  "stato": "NON_VERIFICATO",
+  "ambiente": null,
+  "categorie": null
+ },
+ {
+  "codiceScheda": "M2",
+  "tipologia": "MODIFICHE_CONTRATTUALI",
+  "dataPubblicazione": "2026-11-20T07:00:00.060+00:00",
+  "dataScadenza": null,
+  "templates": [
+   {
+    "template": {
+     "metadata": {
+      "link_eform_ted": null,
+      "titolo": null,
+      "descrizione": "OA25_0118_Avvisi all’utenza altoadigemobilita 2025"
+     },
+     "sections": [
+      {
+       "name": "SEZ. A - Committente",
+       "fields": {
+        "soggetti_sa": [
+         {
+          "codice_fiscale": "00586190217",
+          "denominazione_amministrazione": "STA - STRUTTURE TRASPORTO ALTO ADIGE S.P.A."
+         }
+        ]
+       }
+      },
+      {
+       "name": "SEZ. B - Dati Generali",
+       "fields": {
+        "documenti_di_gara_link": "https://www.ausschreibungen-suedtirol.it"
+       }
+      },
+      {
+       "name": "SEZ. C - Oggetto",
+       "items": [
+        {
+         "tipo_oggetto": "aggiudicazione",
+         "cig": "B53A7DE06B",
+         "natura_principale": "Servizi",
+         "descrizione": "OA25_0118_Avvisi all’utenza altoadigemobilita 2025",
+         "cpv": "Servizi di campagne pubblicitarie",
+         "documenti_di_gara_link": "https://www.ausschreibungen-suedtirol.it",
+         "luogo_nuts": "Bolzano/Bozen",
+         "luogo_istat": "BOLZANO/BOZEN",
+         "motivazione_modifica": "Necessità di modifiche dovute a circostante non prevedibili da un committente diligente."
+        }
+       ]
+      }
+     ]
+    },
+    "lingua": "it"
+   }
+  ],
+  "idAvviso": "e4e339a6-f644-4f88-9007-2653f0fc178a",
+  "count": 59.0,
+  "paginationToken": "CM77RxoJKbxBwfehAQAAGgJgARoGEICAgPgHIg5aDGr/FnL2O8+ogfElTw==",
+  "score": 1.0,
+  "scoreDetails": {
+   "value": 1.0,
+   "description": "sum of:",
+   "details": [
+    {
+     "value": 0.0,
+     "description": "match on required clause, product of:",
+     "details": [
+      {
+       "value": 0.0,
+       "description": "# clause",
+       "details": []
+      },
+      {
+       "value": 1.0,
+       "description": "IndexOrDocValuesQuery(indexQuery=$type:dateV2/dataPubblicazione:[1794268800000 TO 1795175100953], dvQuery=$type:dateV2/dataPubblicazione:[1794268800000 TO 1795175100953])",
+       "details": []
+      }
+     ]
+    },
+    {
+     "value": 1.0,
+     "description": "sum of:",
+     "details": [
+      {
+       "value": 1.0,
+       "description": "$type:token/templates.template.sections.items.cpv:[[53 65 72 76 69 7a 69 20 64 69 20 63 61 6d 70 61 67 6e 65 20 70 75 62 62 6c 69 63 69 74 61 72 69 65] TO [53 65 72 76 69 7a 69 20 64 69 20 63 61 6d 70 61 67 6e 65 20 70 75 62 62 6c 69 63 69 74 61 72 69 65]]",
+       "details": []
+      }
+     ]
+    }
+   ]
+  },
+  "oscurato": false,
+  "noteOscuramento": null,
+  "idAppalto": "4d14f60d-60f9-4f3d-a3e6-2a068a596a6f",
+  "dataPubblicazioneNuovoAvviso": null,
+  "tipoNuovoAvviso": null,
+  "dataPCP": "2026-11-19T16:32:01.000+00:00",
+  "dataCreazione": "2026-11-19T15:32:02.061+00:00",
   "tipo": "avviso",
   "attivo": true,
   "nuovoAvviso": null,

@@ -1,5 +1,5 @@
-# Radar gare Adduma, aggiornato 2026-11-19T11:44
-Letti oggi 121, nuovi 12, gare aperte pertinenti 18. Errori: 0
+# Radar gare Adduma, aggiornato 2026-11-20T11:45
+Letti oggi 117, nuovi 5, gare aperte pertinenti 20. Errori: 0
 
 ## AVVISO PUBBLICO PER MANIFESTAZIONE DI INTERESSE / INDAGINE ESPLORATIVA DI MERCATOFinalizzato alla ricognizione del mercato e all’individuazione di operatori economici interessati alla possibile organizzazione e realizzazione della XXV edizione del “Festival dei Piccoli Lettori – La lettura ti fa grande” – Annualità 2026Valore economico massimo di riferimento della distinta linea comunale del Festival: € 23.000,00, IVA compresa ove dovuta.
 - ente: COMUNE DI CALIMERA | luogo ISTAT CALIMERA
@@ -119,6 +119,24 @@ Lotto 2 - Settore Diritti dei cittadini
 - esecuzione: da remoto | parole chiave: grafic, comunicazione
 - avviso: https://pubblicitalegale.anticorruzione.it/bandi/dc28c02a-53e1-4582-a2c8-ca4f285b542e
 - documenti: https://www.portalegare.societagiubileo2025.it/esop/guest/go/opportunity/detail?opportunityId=5846
+
+## SERVIZIO DI PUBBLICHE RELAZIONI, COMUNICAZIONE E GESTIONE DEI RAPPORTI CON I MEDIA IN GERMANIA ED AUSTRIA
+- ente: TRENTINO SVILUPPO S.P.A. | luogo ISTAT TRENTO
+- tipologia: BANDI | procedura: Aperta | CIG: BDD9C60B16
+- importo: 492.000 € (FUORI TAGLIA) | lotti: 1
+- pubblicato: 20/11/2026 07:00 | scadenza: 17/12/2026 11:00 | primo avvistamento: 2026-11-20
+- esecuzione: da remoto | parole chiave: comunicazione, promozion
+- avviso: https://pubblicitalegale.anticorruzione.it/bandi/b5b70a71-d90e-4c11-9511-71edc31cb2fc
+- documenti: https://sicopat2.provincia.tn.it/trasparenza-fe/#/procedura?uuid=e1db6c6f-b41c-43de-88ae-c1accc926ba0
+
+## ACCORDO QUADRO PER SERVIZIO DI ORGANIZZAZIONE EVENTI DI ORIENTAMENTO SCOLASTICO E PROFESSIONALE PER GLI ANNI 2027-2030.
+- ente: STAZIONE UNICA APPALTANTE DELLA PROVINCIA DI LECCO | luogo ISTAT LECCO
+- tipologia: BANDI | procedura: Aperta | CIG: BDD8F5BC9B
+- importo: 450.000 € (FUORI TAGLIA) | lotti: 1
+- pubblicato: 20/11/2026 07:00 | scadenza: 18/12/2026 08:00 | primo avvistamento: 2026-11-20
+- esecuzione: evento in loco | parole chiave: eventi
+- avviso: https://pubblicitalegale.anticorruzione.it/bandi/5cd813e3-9468-499c-967b-3eeedfd93c2a
+- documenti: https://www.ariaspa.it
 
 ## POMPEI BRAND IDENTITY
 - ente: COMUNE DI POMPEI | luogo ISTAT POMPEI

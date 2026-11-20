@@ -1,11 +1,11 @@
 {
  "stato": {
-  "aggiornato": "2026-11-19T11:44",
-  "letti_oggi": 121,
-  "nuovi_oggi": 12,
-  "aperte_pertinenti": 18,
+  "aggiornato": "2026-11-20T11:45",
+  "letti_oggi": 117,
+  "nuovi_oggi": 5,
+  "aperte_pertinenti": 20,
   "esiti_pertinenti": 126,
-  "scartati_oggi": 38,
+  "scartati_oggi": 35,
   "errori": []
  },
  "gare": [
@@ -479,6 +479,77 @@
    "pertinente": true,
    "motivo_scarto": null,
    "primo_avvistamento": "2026-11-13"
+  },
+  {
+   "id": "anac:b5b70a71-d90e-4c11-9511-71edc31cb2fc",
+   "fonte": "ANAC PVL",
+   "tipologia": "BANDI",
+   "titolo": "SERVIZIO DI PUBBLICHE RELAZIONI, COMUNICAZIONE E GESTIONE DEI RAPPORTI CON I MEDIA IN GERMANIA ED AUSTRIA",
+   "descrizione": "SERVIZIO DI PUBBLICHE RELAZIONI, COMUNICAZIONE E GESTIONE DEI RAPPORTI CON I MEDIA IN GERMANIA ED AUSTRIA, FINALIZZATO ALLA PROMOZIONE DEL TRENTINO E ALLA PREPARAZIONE DI REPORT DI ANALISI DEL SETTORE TURISTICO (TRADE INSIGHTS)",
+   "ente": "TRENTINO SVILUPPO S.P.A.",
+   "cf_ente": "00123240228",
+   "luogo_istat": "TRENTO",
+   "luogo_nuts": "Trento",
+   "importo": 492000.0,
+   "lotti": 1,
+   "cig": [
+    "BDD9C60B16"
+   ],
+   "cpv": "Servizi di pubbliche relazioni",
+   "procedura": "Aperta",
+   "pubblicazione": "2026-11-20T07:00",
+   "scadenza": "2026-12-17T11:00",
+   "link_avviso": "https://pubblicitalegale.anticorruzione.it/bandi/b5b70a71-d90e-4c11-9511-71edc31cb2fc",
+   "link_documenti": "https://sicopat2.provincia.tn.it/trasparenza-fe/#/procedura?uuid=e1db6c6f-b41c-43de-88ae-c1accc926ba0",
+   "link_ted": "https://ted.europa.eu/udl?uri=TED:NOTICE:805146-2026:TEXT:IT:HTML",
+   "aggiudicatari": [],
+   "valore_aggiudicato": null,
+   "kw_score": 4,
+   "kw_trovate": [
+    "comunicazione",
+    "promozion"
+   ],
+   "kw_escluse": [],
+   "esecuzione": "da remoto",
+   "fuori_taglia": true,
+   "pertinente": true,
+   "motivo_scarto": null,
+   "primo_avvistamento": "2026-11-20"
+  },
+  {
+   "id": "anac:5cd813e3-9468-499c-967b-3eeedfd93c2a",
+   "fonte": "ANAC PVL",
+   "tipologia": "BANDI",
+   "titolo": "ACCORDO QUADRO PER SERVIZIO DI ORGANIZZAZIONE EVENTI DI ORIENTAMENTO SCOLASTICO E PROFESSIONALE PER GLI ANNI 2027-2030.",
+   "descrizione": "ACCORDO QUADRO PER SERVIZIO DI ORGANIZZAZIONE EVENTI DI ORIENTAMENTO SCOLASTICO E PROFESSIONALE PER GLI ANNI 2027-2030.",
+   "ente": "STAZIONE UNICA APPALTANTE DELLA PROVINCIA DI LECCO",
+   "cf_ente": "CFAVCP-0000D34",
+   "luogo_istat": "LECCO",
+   "luogo_nuts": "Lecco",
+   "importo": 450000.0,
+   "lotti": 1,
+   "cig": [
+    "BDD8F5BC9B"
+   ],
+   "cpv": "Servizi di organizzazione di eventi",
+   "procedura": "Aperta",
+   "pubblicazione": "2026-11-20T07:00",
+   "scadenza": "2026-12-18T08:00",
+   "link_avviso": "https://pubblicitalegale.anticorruzione.it/bandi/5cd813e3-9468-499c-967b-3eeedfd93c2a",
+   "link_documenti": "https://www.ariaspa.it",
+   "link_ted": "https://ted.europa.eu/udl?uri=TED:NOTICE:806238-2026:TEXT:IT:HTML",
+   "aggiudicatari": [],
+   "valore_aggiudicato": null,
+   "kw_score": 2,
+   "kw_trovate": [
+    "eventi"
+   ],
+   "kw_escluse": [],
+   "esecuzione": "evento in loco",
+   "fuori_taglia": true,
+   "pertinente": true,
+   "motivo_scarto": null,
+   "primo_avvistamento": "2026-11-20"
   },
   {
    "id": "anac:3cdf8cb3-8513-4829-9eaa-1e1e98cd25ba",
