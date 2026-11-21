@@ -1,25 +1,5 @@
-# Radar gare Adduma, aggiornato 2026-11-20T11:45
-Letti oggi 117, nuovi 5, gare aperte pertinenti 20. Errori: 0
-
-## AVVISO PUBBLICO PER MANIFESTAZIONE DI INTERESSE / INDAGINE ESPLORATIVA DI MERCATOFinalizzato alla ricognizione del mercato e all’individuazione di operatori economici interessati alla possibile organizzazione e realizzazione della XXV edizione del “Festival dei Piccoli Lettori – La lettura ti fa grande” – Annualità 2026Valore economico massimo di riferimento della distinta linea comunale del Festival: € 23.000,00, IVA compresa ove dovuta.
-- ente: COMUNE DI CALIMERA | luogo ISTAT CALIMERA
-- tipologia: AVVISI_DI_PRE-INFORMAZIONE_INDITTIVI | procedura: Negoziata con previa indizione di gara / competitiva con negoziazione | CIG: BDCAAE21F8
-- importo: 18.852 € | lotti: 1
-- pubblicato: 18/11/2026 07:00 | scadenza: 20/11/2026 11:00 | primo avvistamento: 2026-11-18
-- esecuzione: evento in loco | parole chiave: eventi, manifestazion
-- avviso: https://pubblicitalegale.anticorruzione.it/bandi/10052a9c-fc4a-4e05-91cb-1746bdb720e6
-- documenti: https://calimera.tuttogare.it/gare/dettaglio.php?codice=339
-
-## Acquisizione di servizi di organizzazione integrata di eventi e/o singoli servizi per le strutture dell'Assemblea legislativa.
-Lotto 1 - Direzione generale
-Lotto 2 - Settore Diritti dei cittadini
-- ente: REGIONE EMILIA ROMAGNA | luogo ISTAT BOLOGNA
-- tipologia: INDAGINI_DI_MERCATO_SOTTO_SOGLIA | procedura: n.d. | CIG: BDA870665A, BDA870772D
-- importo: 157.024 € | lotti: 2
-- pubblicato: 05/11/2026 07:00 | scadenza: 20/11/2026 22:59 | primo avvistamento: 2026-11-05
-- esecuzione: evento in loco | parole chiave: eventi
-- avviso: https://pubblicitalegale.anticorruzione.it/bandi/571c6cdd-2e7d-45f5-b99c-c415f4644bb5
-- documenti: https://intercenter.regione.emilia-romagna.it/trovabando/BANDO_GARA_PORTALE@18256497
+# Radar gare Adduma, aggiornato 2026-11-21T11:09
+Letti oggi 97, nuovi 0, gare aperte pertinenti 17. Errori: 0
 
 ## GARA EUROPEA A PROCEDURA TELEMATICA APERTA PER LA STIPULA DI UN ACCORDO QUADRO MONOAGGIUDICATARIO PER L’AFFIDAMENTO DI SERVIZI DI ALLESTIMENTO IN OCCASIONE DI EVENTI, FIERE, MOSTRE E CONVEGNI DEL POLITECNICO DI MILANO
 - ente: POLITECNICO DI MILANO | luogo ISTAT MILANO
@@ -137,15 +117,6 @@ Lotto 2 - Settore Diritti dei cittadini
 - esecuzione: evento in loco | parole chiave: eventi
 - avviso: https://pubblicitalegale.anticorruzione.it/bandi/5cd813e3-9468-499c-967b-3eeedfd93c2a
 - documenti: https://www.ariaspa.it
-
-## POMPEI BRAND IDENTITY
-- ente: COMUNE DI POMPEI | luogo ISTAT POMPEI
-- tipologia: BANDI | procedura: Altra procedura a fase unica | CIG: BD6F9B73BF
-- importo: 10.000 € | lotti: 1
-- pubblicato: 21/10/2026 06:00 | scadenza: 19/01/2027 11:00 | primo avvistamento: 2026-10-21
-- esecuzione: da remoto | parole chiave: grafic, brand
-- avviso: https://pubblicitalegale.anticorruzione.it/bandi/3cdf8cb3-8513-4829-9eaa-1e1e98cd25ba
-- documenti: https://comunepompei.traspare.com/announcements/150
 
 ## Avviso pubblico finalizzato all' acquisizione di manifestazioni di interesse per l'affidamento del servizio di organizzazione e realizzazione di un evento natalizio presso una sede istituzionale, comprensivo di animazione e intrattenimento, nonché di fornitura a noleggio, allestimento e successivo disallestimento di un albero di Natale con addobbi per il periodo delle Festività Natalizie, per la realizzazione degli eventi connessi all'iniziativa Giocattolo Sospeso anno 2026.
 - ente: COMUNE DI NAPOLI | luogo ISTAT n.d.

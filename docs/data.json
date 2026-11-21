@@ -1,86 +1,14 @@
 {
  "stato": {
-  "aggiornato": "2026-11-20T11:45",
-  "letti_oggi": 117,
-  "nuovi_oggi": 5,
-  "aperte_pertinenti": 20,
+  "aggiornato": "2026-11-21T11:09",
+  "letti_oggi": 97,
+  "nuovi_oggi": 0,
+  "aperte_pertinenti": 17,
   "esiti_pertinenti": 126,
-  "scartati_oggi": 35,
+  "scartati_oggi": 26,
   "errori": []
  },
  "gare": [
-  {
-   "id": "anac:10052a9c-fc4a-4e05-91cb-1746bdb720e6",
-   "fonte": "ANAC PVL",
-   "tipologia": "AVVISI_DI_PRE-INFORMAZIONE_INDITTIVI",
-   "titolo": "AVVISO PUBBLICO PER MANIFESTAZIONE DI INTERESSE / INDAGINE ESPLORATIVA DI MERCATOFinalizzato alla ricognizione del mercato e all’individuazione di operatori economici interessati alla possibile organizzazione e realizzazione della XXV edizione del “Festival dei Piccoli Lettori – La lettura ti fa grande” – Annualità 2026Valore economico massimo di riferimento della distinta linea comunale del Festival: € 23.000,00, IVA compresa ove dovuta.",
-   "descrizione": "AVVISO PUBBLICO PER MANIFESTAZIONE DI INTERESSE / INDAGINE ESPLORATIVA DI MERCATOFinalizzato alla ricognizione del mercato e all’individuazione di operatori economici interessati alla possibile organizzazione e realizzazione della XXV edizione del “Festival dei Piccoli Lettori – La lettura ti fa grande” – Annualità 2026Valore economico massimo di riferimento della distinta linea comunale del Festival: € 23.000,00, IVA compresa ove dovuta.",
-   "ente": "COMUNE DI CALIMERA",
-   "cf_ente": "93000030754",
-   "luogo_istat": "CALIMERA",
-   "luogo_nuts": "Lecce",
-   "importo": 18852.46,
-   "lotti": 1,
-   "cig": [
-    "BDCAAE21F8"
-   ],
-   "cpv": "Servizi di organizzazione di eventi culturali",
-   "procedura": "Negoziata con previa indizione di gara / competitiva con negoziazione",
-   "pubblicazione": "2026-11-18T07:00",
-   "scadenza": "2026-11-20T11:00",
-   "link_avviso": "https://pubblicitalegale.anticorruzione.it/bandi/10052a9c-fc4a-4e05-91cb-1746bdb720e6",
-   "link_documenti": "https://calimera.tuttogare.it/gare/dettaglio.php?codice=339",
-   "link_ted": null,
-   "aggiudicatari": [],
-   "valore_aggiudicato": null,
-   "kw_score": 3,
-   "kw_trovate": [
-    "eventi",
-    "manifestazion"
-   ],
-   "kw_escluse": [],
-   "esecuzione": "evento in loco",
-   "fuori_taglia": false,
-   "pertinente": true,
-   "motivo_scarto": null,
-   "primo_avvistamento": "2026-11-18"
-  },
-  {
-   "id": "anac:571c6cdd-2e7d-45f5-b99c-c415f4644bb5",
-   "fonte": "ANAC PVL",
-   "tipologia": "INDAGINI_DI_MERCATO_SOTTO_SOGLIA",
-   "titolo": "Acquisizione di servizi di organizzazione integrata di eventi e/o singoli servizi per le strutture dell'Assemblea legislativa.\r\nLotto 1 - Direzione generale\r\nLotto 2 - Settore Diritti dei cittadini",
-   "descrizione": "Acquisizione di servizi di organizzazione integrata di eventi e/o singoli servizi per le strutture dell'Assemblea legislativa.\r\nLotto 1 - Direzione generale\r\nLotto 2 - Settore Diritti dei cittadini",
-   "ente": "REGIONE EMILIA ROMAGNA",
-   "cf_ente": "80062590379",
-   "luogo_istat": "BOLOGNA",
-   "luogo_nuts": "Bologna",
-   "importo": 157023.7,
-   "lotti": 2,
-   "cig": [
-    "BDA870665A",
-    "BDA870772D"
-   ],
-   "cpv": "Servizi di organizzazione di eventi",
-   "procedura": null,
-   "pubblicazione": "2026-11-05T07:00",
-   "scadenza": "2026-11-20T22:59",
-   "link_avviso": "https://pubblicitalegale.anticorruzione.it/bandi/571c6cdd-2e7d-45f5-b99c-c415f4644bb5",
-   "link_documenti": "https://intercenter.regione.emilia-romagna.it/trovabando/BANDO_GARA_PORTALE@18256497",
-   "link_ted": null,
-   "aggiudicatari": [],
-   "valore_aggiudicato": null,
-   "kw_score": 2,
-   "kw_trovate": [
-    "eventi"
-   ],
-   "kw_escluse": [],
-   "esecuzione": "evento in loco",
-   "fuori_taglia": false,
-   "pertinente": true,
-   "motivo_scarto": null,
-   "primo_avvistamento": "2026-11-05"
-  },
   {
    "id": "anac:56565b9e-f696-4145-8e24-7af64fe4f6b8",
    "fonte": "ANAC PVL",
@@ -550,42 +478,6 @@
    "pertinente": true,
    "motivo_scarto": null,
    "primo_avvistamento": "2026-11-20"
-  },
-  {
-   "id": "anac:3cdf8cb3-8513-4829-9eaa-1e1e98cd25ba",
-   "fonte": "ANAC PVL",
-   "tipologia": "BANDI",
-   "titolo": "POMPEI BRAND IDENTITY",
-   "descrizione": "POMPEI BRAND IDENTITY",
-   "ente": "COMUNE DI POMPEI",
-   "cf_ente": "00495640633",
-   "luogo_istat": "POMPEI",
-   "luogo_nuts": "Napoli",
-   "importo": 10000.0,
-   "lotti": 1,
-   "cig": [
-    "BD6F9B73BF"
-   ],
-   "cpv": "Servizi di progettazione grafica",
-   "procedura": "Altra procedura a fase unica",
-   "pubblicazione": "2026-10-21T06:00",
-   "scadenza": "2027-01-19T11:00",
-   "link_avviso": "https://pubblicitalegale.anticorruzione.it/bandi/3cdf8cb3-8513-4829-9eaa-1e1e98cd25ba",
-   "link_documenti": "https://comunepompei.traspare.com/announcements/150",
-   "link_ted": null,
-   "aggiudicatari": [],
-   "valore_aggiudicato": null,
-   "kw_score": 6,
-   "kw_trovate": [
-    "grafic",
-    "brand"
-   ],
-   "kw_escluse": [],
-   "esecuzione": "da remoto",
-   "fuori_taglia": false,
-   "pertinente": true,
-   "motivo_scarto": null,
-   "primo_avvistamento": "2026-10-21"
   },
   {
    "id": "anac:27c9691a-42f1-479b-9bc7-30852e8ad92d",
