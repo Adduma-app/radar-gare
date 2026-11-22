@@ -69,8 +69,8 @@
    }
   ],
   "idAvviso": "b5b70a71-d90e-4c11-9511-71edc31cb2fc",
-  "count": 50.0,
-  "paginationToken": "CPftRxoJKRhEwfehAQAAGgJgARoGEICAgPgHIg5aDGr+acPKCA+YF+sejw==",
+  "count": 43.0,
+  "paginationToken": "CJmzRRoJKRhEwfehAQAAGgJgARoGEICAgPgHIg5aDGr+acPKCA+YF+sejw==",
   "score": 1.0,
   "scoreDetails": {
    "value": 1.0,
@@ -87,7 +87,7 @@
       },
       {
        "value": 1.0,
-       "description": "IndexOrDocValuesQuery(indexQuery=$type:dateV2/dataPubblicazione:[1794355200000 TO 1795259361699], dvQuery=$type:dateV2/dataPubblicazione:[1794355200000 TO 1795259361699])",
+       "description": "IndexOrDocValuesQuery(indexQuery=$type:dateV2/dataPubblicazione:[1794441600000 TO 1795346998652], dvQuery=$type:dateV2/dataPubblicazione:[1794441600000 TO 1795346998652])",
        "details": []
       }
      ]
@@ -173,8 +173,8 @@
    }
   ],
   "idAvviso": "0122a4b0-2cab-498c-a077-7212a7180f1c",
-  "count": 50.0,
-  "paginationToken": "CMyFSBoJKedCwfehAQAAGgJgARoGEICAgPgHIg5aDGr+25WOAFQyELUSNQ==",
+  "count": 43.0,
+  "paginationToken": "CLqORxoJKedCwfehAQAAGgJgARoGEICAgPgHIg5aDGr+25WOAFQyELUSNQ==",
   "score": 1.0,
   "scoreDetails": {
    "value": 1.0,
@@ -191,7 +191,7 @@
       },
       {
        "value": 1.0,
-       "description": "IndexOrDocValuesQuery(indexQuery=$type:dateV2/dataPubblicazione:[1794355200000 TO 1795259361699], dvQuery=$type:dateV2/dataPubblicazione:[1794355200000 TO 1795259361699])",
+       "description": "IndexOrDocValuesQuery(indexQuery=$type:dateV2/dataPubblicazione:[1794441600000 TO 1795346998652], dvQuery=$type:dateV2/dataPubblicazione:[1794441600000 TO 1795346998652])",
        "details": []
       }
      ]
@@ -277,8 +277,8 @@
    }
   ],
   "idAvviso": "e4e339a6-f644-4f88-9007-2653f0fc178a",
-  "count": 50.0,
-  "paginationToken": "CM+YSBoJKbxBwfehAQAAGgJgARoGEICAgPgHIg5aDGr/FnL2O8+ogfElTw==",
+  "count": 43.0,
+  "paginationToken": "CKeKRxoJKbxBwfehAQAAGgJgARoGEICAgPgHIg5aDGr/FnL2O8+ogfElTw==",
   "score": 1.0,
   "scoreDetails": {
    "value": 1.0,
@@ -295,7 +295,7 @@
       },
       {
        "value": 1.0,
-       "description": "IndexOrDocValuesQuery(indexQuery=$type:dateV2/dataPubblicazione:[1794355200000 TO 1795259361699], dvQuery=$type:dateV2/dataPubblicazione:[1794355200000 TO 1795259361699])",
+       "description": "IndexOrDocValuesQuery(indexQuery=$type:dateV2/dataPubblicazione:[1794441600000 TO 1795346998652], dvQuery=$type:dateV2/dataPubblicazione:[1794441600000 TO 1795346998652])",
        "details": []
       }
      ]
