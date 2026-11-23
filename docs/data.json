@@ -1,11 +1,11 @@
 {
  "stato": {
-  "aggiornato": "2026-11-22T11:30",
-  "letti_oggi": 85,
-  "nuovi_oggi": 0,
-  "aperte_pertinenti": 17,
-  "esiti_pertinenti": 126,
-  "scartati_oggi": 25,
+  "aggiornato": "2026-11-23T12:52",
+  "letti_oggi": 89,
+  "nuovi_oggi": 14,
+  "aperte_pertinenti": 19,
+  "esiti_pertinenti": 130,
+  "scartati_oggi": 22,
   "errori": []
  },
  "gare": [
@@ -337,6 +337,42 @@
    "primo_avvistamento": "2026-11-17"
   },
   {
+   "id": "anac:09f5ad46-f7ab-4080-9e4d-2e832d781d97",
+   "fonte": "ANAC PVL",
+   "tipologia": "INDAGINI_DI_MERCATO_SOTTO_SOGLIA",
+   "titolo": "Procedura negoziata senza pubblicazione di bando ai sensi del combinato disposto dagli artt. 50, comma 1, lett. e) e 59, comma 3, del D.Lgs. n. 36/2023,  per la conclusione di un Accordo Quadro con un unico operatore economico per il servizio di progettazione, allestimento e disallestimento di spazi espositivi per n. 2 maxi eventi istituzionali e fino a 3 eventi in Facoltà di orientamento universitario in entrata e in uscita -  CPV 79952000-2",
+   "descrizione": "Procedura negoziata senza pubblicazione di bando ai sensi del combinato disposto dagli artt. 50, comma 1, lett. e) e 59, comma 3, del D.Lgs. n. 36/2023,  per la conclusione di un Accordo Quadro con un unico operatore economico per il servizio di progettazione, allestimento e disallestimento di spazi espositivi per n. 2 maxi eventi istituzionali e fino a 3 eventi in Facoltà di orientamento universitario in entrata e in uscita -  CPV 79952000-2",
+   "ente": "UNIVERSITA' DEGLI STUDI DI ROMA 'LA SAPIENZA'",
+   "cf_ente": "80209930587",
+   "luogo_istat": "ROMA",
+   "luogo_nuts": "Roma",
+   "importo": 220000.0,
+   "lotti": 1,
+   "cig": [
+    "BDE87E7819"
+   ],
+   "cpv": "Servizi di organizzazione di eventi",
+   "procedura": null,
+   "pubblicazione": "2026-11-23T07:00",
+   "scadenza": "2026-12-10T23:59",
+   "link_avviso": "https://pubblicitalegale.anticorruzione.it/bandi/09f5ad46-f7ab-4080-9e4d-2e832d781d97",
+   "link_documenti": "https://www.acquistinretepa.it/bandi/negoziata/adi/4f809e7c133be1fe",
+   "link_ted": null,
+   "aggiudicatari": [],
+   "valore_aggiudicato": null,
+   "kw_score": 4,
+   "kw_trovate": [
+    "eventi",
+    "allestiment"
+   ],
+   "kw_escluse": [],
+   "esecuzione": "evento in loco",
+   "fuori_taglia": false,
+   "pertinente": true,
+   "motivo_scarto": null,
+   "primo_avvistamento": "2026-11-23"
+  },
+  {
    "id": "anac:f62a81f5-844d-4092-a0ff-0aa3288d679d",
    "fonte": "ANAC PVL",
    "tipologia": "BANDI",
@@ -623,6 +659,40 @@
    "pertinente": true,
    "motivo_scarto": null,
    "primo_avvistamento": "2026-11-19"
+  },
+  {
+   "id": "anac:2e0f7883-3a14-4d71-aa6b-5e98c5b0d77f",
+   "fonte": "ANAC PVL",
+   "tipologia": "AVVISI_DI_PRE-INFORMAZIONE_INFORMATIVI",
+   "titolo": "AVVISO PUBBLICO DI MANIFESTAZIONE DI INTERESSE, FINALIZZATA ALL'AFFIDAMENTO DIRETTO AI SENSI DELL'ART. 50, COMMA 1, LETT. B) DEL D.LGS. N. 36/2023, PER L'ACQUISIZIONE DI PROPOSTE PROGETTUALI RELATIVE AL COMPARTO ARTISTICO PER IL CONCERTO DI FINE ANNO 2026 A MATERA.",
+   "descrizione": "AVVISO PUBBLICO DI MANIFESTAZIONE DI INTERESSE, FINALIZZATA ALL'AFFIDAMENTO DIRETTO AI SENSI DELL'ART. 50, COMMA 1, LETT. B) DEL D.LGS. N. 36/2023, PER L'ACQUISIZIONE DI PROPOSTE PROGETTUALI RELATIVE AL COMPARTO ARTISTICO PER IL CONCERTO DI FINE ANNO 2026 A MATERA.",
+   "ente": "COMUNE DI MATERA",
+   "cf_ente": "80002870774",
+   "luogo_istat": null,
+   "luogo_nuts": null,
+   "importo": null,
+   "lotti": 1,
+   "cig": [],
+   "cpv": "Servizi di organizzazione di eventi",
+   "procedura": null,
+   "pubblicazione": "2026-11-23T07:00",
+   "scadenza": null,
+   "link_avviso": "https://pubblicitalegale.anticorruzione.it/bandi/2e0f7883-3a14-4d71-aa6b-5e98c5b0d77f",
+   "link_documenti": "https://gare.comune.matera.it/PortaleAppalti/it/procedure/codice/G01748",
+   "link_ted": null,
+   "aggiudicatari": [],
+   "valore_aggiudicato": null,
+   "kw_score": 3,
+   "kw_trovate": [
+    "eventi",
+    "manifestazion"
+   ],
+   "kw_escluse": [],
+   "esecuzione": "evento in loco",
+   "fuori_taglia": false,
+   "pertinente": true,
+   "motivo_scarto": null,
+   "primo_avvistamento": "2026-11-23"
   }
  ]
 }

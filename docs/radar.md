@@ -1,5 +1,5 @@
-# Radar gare Adduma, aggiornato 2026-11-22T11:30
-Letti oggi 85, nuovi 0, gare aperte pertinenti 17. Errori: 0
+# Radar gare Adduma, aggiornato 2026-11-23T12:52
+Letti oggi 89, nuovi 14, gare aperte pertinenti 19. Errori: 0
 
 ## GARA EUROPEA A PROCEDURA TELEMATICA APERTA PER LA STIPULA DI UN ACCORDO QUADRO MONOAGGIUDICATARIO PER L’AFFIDAMENTO DI SERVIZI DI ALLESTIMENTO IN OCCASIONE DI EVENTI, FIERE, MOSTRE E CONVEGNI DEL POLITECNICO DI MILANO
 - ente: POLITECNICO DI MILANO | luogo ISTAT MILANO
@@ -82,6 +82,15 @@ Letti oggi 85, nuovi 0, gare aperte pertinenti 17. Errori: 0
 - avviso: https://pubblicitalegale.anticorruzione.it/bandi/7d077db0-e6e3-4f14-b10c-0b34c3c35fc6
 - documenti: https://pontesanpietro.acquistitelematici.it/tender-esiti/dettaglio/1264
 
+## Procedura negoziata senza pubblicazione di bando ai sensi del combinato disposto dagli artt. 50, comma 1, lett. e) e 59, comma 3, del D.Lgs. n. 36/2023,  per la conclusione di un Accordo Quadro con un unico operatore economico per il servizio di progettazione, allestimento e disallestimento di spazi espositivi per n. 2 maxi eventi istituzionali e fino a 3 eventi in Facoltà di orientamento universitario in entrata e in uscita -  CPV 79952000-2
+- ente: UNIVERSITA' DEGLI STUDI DI ROMA 'LA SAPIENZA' | luogo ISTAT ROMA
+- tipologia: INDAGINI_DI_MERCATO_SOTTO_SOGLIA | procedura: n.d. | CIG: BDE87E7819
+- importo: 220.000 € | lotti: 1
+- pubblicato: 23/11/2026 07:00 | scadenza: 10/12/2026 23:59 | primo avvistamento: 2026-11-23
+- esecuzione: evento in loco | parole chiave: eventi, allestiment
+- avviso: https://pubblicitalegale.anticorruzione.it/bandi/09f5ad46-f7ab-4080-9e4d-2e832d781d97
+- documenti: https://www.acquistinretepa.it/bandi/negoziata/adi/4f809e7c133be1fe
+
 ## PROCEDURA APERTA PRODUZIONE TV, REGIA e DIRETTE VIDEOSTREAMING EVENTI FIS 2027
 - ente: FEDERAZIONE ITALIANA SCHERMA | luogo ISTAT ROMA
 - tipologia: BANDI | procedura: Aperta | CIG: BDC2E45C6B
@@ -154,3 +163,12 @@ Servizio di riprese in movimento - per la copertura televisiva degli eventi dell
 - esecuzione: evento in loco | parole chiave: riprese, eventi
 - avviso: https://pubblicitalegale.anticorruzione.it/bandi/32a0a9d1-829b-40e9-b3d1-63927c8a2546
 - documenti: n.d.
+
+## AVVISO PUBBLICO DI MANIFESTAZIONE DI INTERESSE, FINALIZZATA ALL'AFFIDAMENTO DIRETTO AI SENSI DELL'ART. 50, COMMA 1, LETT. B) DEL D.LGS. N. 36/2023, PER L'ACQUISIZIONE DI PROPOSTE PROGETTUALI RELATIVE AL COMPARTO ARTISTICO PER IL CONCERTO DI FINE ANNO 2026 A MATERA.
+- ente: COMUNE DI MATERA | luogo ISTAT n.d.
+- tipologia: AVVISI_DI_PRE-INFORMAZIONE_INFORMATIVI | procedura: n.d. | CIG: n.d.
+- importo: n.d. | lotti: 1
+- pubblicato: 23/11/2026 07:00 | scadenza: n.d. | primo avvistamento: 2026-11-23
+- esecuzione: evento in loco | parole chiave: eventi, manifestazion
+- avviso: https://pubblicitalegale.anticorruzione.it/bandi/2e0f7883-3a14-4d71-aa6b-5e98c5b0d77f
+- documenti: https://gare.comune.matera.it/PortaleAppalti/it/procedure/codice/G01748
