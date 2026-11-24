@@ -1,14 +1,91 @@
 {
  "stato": {
-  "aggiornato": "2026-11-23T12:52",
-  "letti_oggi": 89,
-  "nuovi_oggi": 14,
-  "aperte_pertinenti": 19,
-  "esiti_pertinenti": 130,
+  "aggiornato": "2026-11-24T13:48",
+  "letti_oggi": 83,
+  "nuovi_oggi": 3,
+  "aperte_pertinenti": 20,
+  "esiti_pertinenti": 132,
   "scartati_oggi": 22,
   "errori": []
  },
  "esiti": [
+  {
+   "id": "anac:4ffafec7-f236-4e48-bf19-0201746d979d",
+   "fonte": "ANAC PVL",
+   "tipologia": "RISULTATI",
+   "titolo": "PROCEDURA NEGOZIATA SENZA BANDO PER L'AFFIDAMENTO DEL SERVIZIO DI ORGANIZZAZIONE E REALIZZAZIONE ATTIVITÀ A SUPPORTO DELLA COMUNICAZIONE DEL PR SICILIA FSE+ 2021-2027 – CATALOGO SERVIZI.",
+   "descrizione": "PROCEDURA NEGOZIATA SENZA BANDO PER L'AFFIDAMENTO DEL SERVIZIO DI ORGANIZZAZIONE E REALIZZAZIONE ATTIVITÀ A SUPPORTO DELLA COMUNICAZIONE DEL PR SICILIA FSE+ 2021-2027 – CATALOGO SERVIZI.",
+   "ente": "REGIONE SICILIANA",
+   "cf_ente": "80012000826",
+   "luogo_istat": "PALERMO",
+   "luogo_nuts": "Sicilia",
+   "importo": 213600.0,
+   "lotti": 1,
+   "cig": [
+    "BD753CA8A1"
+   ],
+   "cpv": "Servizi di organizzazione di eventi",
+   "procedura": "Negoziata con previa indizione di gara / competitiva con negoziazione",
+   "pubblicazione": "2026-11-24T07:00",
+   "scadenza": null,
+   "link_avviso": "https://pubblicitalegale.anticorruzione.it/bandi/4ffafec7-f236-4e48-bf19-0201746d979d",
+   "link_documenti": "https://appalti.regionesiciliana.lavoripubblici.sicilia.it/gare/dettaglio.php?codice=6895",
+   "link_ted": null,
+   "aggiudicatari": [
+    "COPLUS S.R.L."
+   ],
+   "valore_aggiudicato": 92891.93,
+   "kw_score": 6,
+   "kw_trovate": [
+    "logo",
+    "comunicazione",
+    "eventi"
+   ],
+   "kw_escluse": [],
+   "esecuzione": "evento in loco",
+   "fuori_taglia": false,
+   "pertinente": true,
+   "motivo_scarto": null,
+   "primo_avvistamento": "2026-11-24"
+  },
+  {
+   "id": "anac:bd2b8d33-237b-4e35-82a2-4afa511c75d9",
+   "fonte": "ANAC PVL",
+   "tipologia": "RISULTATI",
+   "titolo": "Servizio di ripresa aerea mediante operatore drone certificato, regia e produzione audiovisiva Cerimonia di Genova del 9 maggio 2026",
+   "descrizione": "Servizio di ripresa aerea mediante operatore drone certificato, regia e produzione audiovisiva Cerimonia di Genova del 9 maggio 2026",
+   "ente": "DIFESA SERVIZI SPA",
+   "cf_ente": "11345641002",
+   "luogo_istat": "ROMA",
+   "luogo_nuts": "Roma",
+   "importo": 139000.0,
+   "lotti": 1,
+   "cig": [
+    "BB75A26785"
+   ],
+   "cpv": "Servizi di produzione di film e video",
+   "procedura": "Altra procedura a fase unica",
+   "pubblicazione": "2026-11-24T07:00",
+   "scadenza": null,
+   "link_avviso": "https://pubblicitalegale.anticorruzione.it/bandi/bd2b8d33-237b-4e35-82a2-4afa511c75d9",
+   "link_documenti": null,
+   "link_ted": null,
+   "aggiudicatari": [
+    "TK2 SRL"
+   ],
+   "valore_aggiudicato": 139000.0,
+   "kw_score": 6,
+   "kw_trovate": [
+    "video",
+    "audiovisiv"
+   ],
+   "kw_escluse": [],
+   "esecuzione": "trasferta breve",
+   "fuori_taglia": false,
+   "pertinente": true,
+   "motivo_scarto": null,
+   "primo_avvistamento": "2026-11-24"
+  },
   {
    "id": "anac:6f43b752-bf8f-4806-9c96-c7e71b1b7740",
    "fonte": "ANAC PVL",

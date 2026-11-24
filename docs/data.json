@@ -1,10 +1,10 @@
 {
  "stato": {
-  "aggiornato": "2026-11-23T12:52",
-  "letti_oggi": 89,
-  "nuovi_oggi": 14,
-  "aperte_pertinenti": 19,
-  "esiti_pertinenti": 130,
+  "aggiornato": "2026-11-24T13:48",
+  "letti_oggi": 83,
+  "nuovi_oggi": 3,
+  "aperte_pertinenti": 20,
+  "esiti_pertinenti": 132,
   "scartati_oggi": 22,
   "errori": []
  },
@@ -514,6 +514,42 @@
    "pertinente": true,
    "motivo_scarto": null,
    "primo_avvistamento": "2026-11-20"
+  },
+  {
+   "id": "anac:7a46bcc4-d9cf-4696-8b9d-5e2c5842e7f4",
+   "fonte": "ANAC PVL",
+   "tipologia": "BANDI",
+   "titolo": "Premio FVGreen",
+   "descrizione": "GARA EUROPEA A PROCEDURA APERTA PER L'AFFIDAMENTO DEL SERVIZIO DI ORGANIZZAZIONE DELL'EVENTO DENOMINATO “PREMIO FVGREEN”",
+   "ente": "REGIONE AUTONOMA FRIULI VENEZIA GIULIA",
+   "cf_ente": "80014930327",
+   "luogo_istat": "TRIESTE",
+   "luogo_nuts": "Trieste",
+   "importo": 543000.0,
+   "lotti": 1,
+   "cig": [
+    "BDE8A6CC5D"
+   ],
+   "cpv": "Servizi di organizzazione di eventi",
+   "procedura": "Aperta",
+   "pubblicazione": "2026-11-24T07:00",
+   "scadenza": "2027-01-20T11:00",
+   "link_avviso": "https://pubblicitalegale.anticorruzione.it/bandi/7a46bcc4-d9cf-4696-8b9d-5e2c5842e7f4",
+   "link_documenti": "https://eappalti-sat.regione.fvg.it/Application/CustomDoc/DettaglioProcedura.asp?ID=349586",
+   "link_ted": "https://ted.europa.eu/udl?uri=TED:NOTICE:814015-2026:TEXT:IT:HTML",
+   "aggiudicatari": [],
+   "valore_aggiudicato": null,
+   "kw_score": 4,
+   "kw_trovate": [
+    "evento",
+    "eventi"
+   ],
+   "kw_escluse": [],
+   "esecuzione": "evento in loco",
+   "fuori_taglia": true,
+   "pertinente": true,
+   "motivo_scarto": null,
+   "primo_avvistamento": "2026-11-24"
   },
   {
    "id": "anac:27c9691a-42f1-479b-9bc7-30852e8ad92d",

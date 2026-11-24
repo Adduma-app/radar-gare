@@ -1,5 +1,5 @@
-# Radar gare Adduma, aggiornato 2026-11-23T12:52
-Letti oggi 89, nuovi 14, gare aperte pertinenti 19. Errori: 0
+# Radar gare Adduma, aggiornato 2026-11-24T13:48
+Letti oggi 83, nuovi 3, gare aperte pertinenti 20. Errori: 0
 
 ## GARA EUROPEA A PROCEDURA TELEMATICA APERTA PER LA STIPULA DI UN ACCORDO QUADRO MONOAGGIUDICATARIO PER L’AFFIDAMENTO DI SERVIZI DI ALLESTIMENTO IN OCCASIONE DI EVENTI, FIERE, MOSTRE E CONVEGNI DEL POLITECNICO DI MILANO
 - ente: POLITECNICO DI MILANO | luogo ISTAT MILANO
@@ -126,6 +126,15 @@ Letti oggi 89, nuovi 14, gare aperte pertinenti 19. Errori: 0
 - esecuzione: evento in loco | parole chiave: eventi
 - avviso: https://pubblicitalegale.anticorruzione.it/bandi/5cd813e3-9468-499c-967b-3eeedfd93c2a
 - documenti: https://www.ariaspa.it
+
+## Premio FVGreen
+- ente: REGIONE AUTONOMA FRIULI VENEZIA GIULIA | luogo ISTAT TRIESTE
+- tipologia: BANDI | procedura: Aperta | CIG: BDE8A6CC5D
+- importo: 543.000 € (FUORI TAGLIA) | lotti: 1
+- pubblicato: 24/11/2026 07:00 | scadenza: 20/01/2027 11:00 | primo avvistamento: 2026-11-24
+- esecuzione: evento in loco | parole chiave: evento, eventi
+- avviso: https://pubblicitalegale.anticorruzione.it/bandi/7a46bcc4-d9cf-4696-8b9d-5e2c5842e7f4
+- documenti: https://eappalti-sat.regione.fvg.it/Application/CustomDoc/DettaglioProcedura.asp?ID=349586
 
 ## Avviso pubblico finalizzato all' acquisizione di manifestazioni di interesse per l'affidamento del servizio di organizzazione e realizzazione di un evento natalizio presso una sede istituzionale, comprensivo di animazione e intrattenimento, nonché di fornitura a noleggio, allestimento e successivo disallestimento di un albero di Natale con addobbi per il periodo delle Festività Natalizie, per la realizzazione degli eventi connessi all'iniziativa Giocattolo Sospeso anno 2026.
 - ente: COMUNE DI NAPOLI | luogo ISTAT n.d.

@@ -9041,5 +9041,118 @@
   "pertinente": true,
   "motivo_scarto": null,
   "primo_avvistamento": "2026-11-23"
+ },
+ "anac:4ffafec7-f236-4e48-bf19-0201746d979d": {
+  "id": "anac:4ffafec7-f236-4e48-bf19-0201746d979d",
+  "fonte": "ANAC PVL",
+  "tipologia": "RISULTATI",
+  "titolo": "PROCEDURA NEGOZIATA SENZA BANDO PER L'AFFIDAMENTO DEL SERVIZIO DI ORGANIZZAZIONE E REALIZZAZIONE ATTIVITÀ A SUPPORTO DELLA COMUNICAZIONE DEL PR SICILIA FSE+ 2021-2027 – CATALOGO SERVIZI.",
+  "descrizione": "PROCEDURA NEGOZIATA SENZA BANDO PER L'AFFIDAMENTO DEL SERVIZIO DI ORGANIZZAZIONE E REALIZZAZIONE ATTIVITÀ A SUPPORTO DELLA COMUNICAZIONE DEL PR SICILIA FSE+ 2021-2027 – CATALOGO SERVIZI.",
+  "ente": "REGIONE SICILIANA",
+  "cf_ente": "80012000826",
+  "luogo_istat": "PALERMO",
+  "luogo_nuts": "Sicilia",
+  "importo": 213600.0,
+  "lotti": 1,
+  "cig": [
+   "BD753CA8A1"
+  ],
+  "cpv": "Servizi di organizzazione di eventi",
+  "procedura": "Negoziata con previa indizione di gara / competitiva con negoziazione",
+  "pubblicazione": "2026-11-24T07:00",
+  "scadenza": null,
+  "link_avviso": "https://pubblicitalegale.anticorruzione.it/bandi/4ffafec7-f236-4e48-bf19-0201746d979d",
+  "link_documenti": "https://appalti.regionesiciliana.lavoripubblici.sicilia.it/gare/dettaglio.php?codice=6895",
+  "link_ted": null,
+  "aggiudicatari": [
+   "COPLUS S.R.L."
+  ],
+  "valore_aggiudicato": 92891.93,
+  "kw_score": 6,
+  "kw_trovate": [
+   "logo",
+   "comunicazione",
+   "eventi"
+  ],
+  "kw_escluse": [],
+  "esecuzione": "evento in loco",
+  "fuori_taglia": false,
+  "pertinente": true,
+  "motivo_scarto": null,
+  "primo_avvistamento": "2026-11-24"
+ },
+ "anac:7a46bcc4-d9cf-4696-8b9d-5e2c5842e7f4": {
+  "id": "anac:7a46bcc4-d9cf-4696-8b9d-5e2c5842e7f4",
+  "fonte": "ANAC PVL",
+  "tipologia": "BANDI",
+  "titolo": "Premio FVGreen",
+  "descrizione": "GARA EUROPEA A PROCEDURA APERTA PER L'AFFIDAMENTO DEL SERVIZIO DI ORGANIZZAZIONE DELL'EVENTO DENOMINATO “PREMIO FVGREEN”",
+  "ente": "REGIONE AUTONOMA FRIULI VENEZIA GIULIA",
+  "cf_ente": "80014930327",
+  "luogo_istat": "TRIESTE",
+  "luogo_nuts": "Trieste",
+  "importo": 543000.0,
+  "lotti": 1,
+  "cig": [
+   "BDE8A6CC5D"
+  ],
+  "cpv": "Servizi di organizzazione di eventi",
+  "procedura": "Aperta",
+  "pubblicazione": "2026-11-24T07:00",
+  "scadenza": "2027-01-20T11:00",
+  "link_avviso": "https://pubblicitalegale.anticorruzione.it/bandi/7a46bcc4-d9cf-4696-8b9d-5e2c5842e7f4",
+  "link_documenti": "https://eappalti-sat.regione.fvg.it/Application/CustomDoc/DettaglioProcedura.asp?ID=349586",
+  "link_ted": "https://ted.europa.eu/udl?uri=TED:NOTICE:814015-2026:TEXT:IT:HTML",
+  "aggiudicatari": [],
+  "valore_aggiudicato": null,
+  "kw_score": 4,
+  "kw_trovate": [
+   "evento",
+   "eventi"
+  ],
+  "kw_escluse": [],
+  "esecuzione": "evento in loco",
+  "fuori_taglia": true,
+  "pertinente": true,
+  "motivo_scarto": null,
+  "primo_avvistamento": "2026-11-24"
+ },
+ "anac:bd2b8d33-237b-4e35-82a2-4afa511c75d9": {
+  "id": "anac:bd2b8d33-237b-4e35-82a2-4afa511c75d9",
+  "fonte": "ANAC PVL",
+  "tipologia": "RISULTATI",
+  "titolo": "Servizio di ripresa aerea mediante operatore drone certificato, regia e produzione audiovisiva Cerimonia di Genova del 9 maggio 2026",
+  "descrizione": "Servizio di ripresa aerea mediante operatore drone certificato, regia e produzione audiovisiva Cerimonia di Genova del 9 maggio 2026",
+  "ente": "DIFESA SERVIZI SPA",
+  "cf_ente": "11345641002",
+  "luogo_istat": "ROMA",
+  "luogo_nuts": "Roma",
+  "importo": 139000.0,
+  "lotti": 1,
+  "cig": [
+   "BB75A26785"
+  ],
+  "cpv": "Servizi di produzione di film e video",
+  "procedura": "Altra procedura a fase unica",
+  "pubblicazione": "2026-11-24T07:00",
+  "scadenza": null,
+  "link_avviso": "https://pubblicitalegale.anticorruzione.it/bandi/bd2b8d33-237b-4e35-82a2-4afa511c75d9",
+  "link_documenti": null,
+  "link_ted": null,
+  "aggiudicatari": [
+   "TK2 SRL"
+  ],
+  "valore_aggiudicato": 139000.0,
+  "kw_score": 6,
+  "kw_trovate": [
+   "video",
+   "audiovisiv"
+  ],
+  "kw_escluse": [],
+  "esecuzione": "trasferta breve",
+  "fuori_taglia": false,
+  "pertinente": true,
+  "motivo_scarto": null,
+  "primo_avvistamento": "2026-11-24"
  }
 }

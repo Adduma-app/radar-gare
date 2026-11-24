@@ -1,5 +1,253 @@
 [
  {
+  "codiceScheda": "A1_29",
+  "tipologia": "RISULTATI",
+  "dataPubblicazione": "2026-11-24T07:00:00.925+00:00",
+  "dataScadenza": null,
+  "templates": [
+   {
+    "template": {
+     "metadata": {
+      "link_eform_ted": "https://ted.europa.eu/udl?uri=TED:NOTICE:811227-2026:TEXT:IT:HTML",
+      "titolo": "PROCEDURA DI GARA APERTA AI SENSI DELL’ART. 71 DEL D. LGS. N. 36/2023 E S.M.I., PER LA CONCLUSIONE DI UN ACCORDO QUADRO PER L’AFFIDAMENTO DEI SERVIZI DI PIANIFICAZIONE, GESTIONE, ACQUISTO E MONITORAGGIO DI SPAZI PUBBLICITARI E INIZIATIVE DI COMUNICAZIONE.",
+      "descrizione": "PROCEDURA DI GARA APERTA AI SENSI DELL’ART. 71 DEL D. LGS. N. 36/2023 E S.M.I., PER LA CONCLUSIONE DI UN ACCORDO QUADRO PER L’AFFIDAMENTO DEI SERVIZI DI PIANIFICAZIONE, GESTIONE, ACQUISTO E MONITORAGGIO DI SPAZI PUBBLICITARI E INIZIATIVE DI COMUNICAZIONE"
+     },
+     "sections": [
+      {
+       "name": "SEZ. A - Committente",
+       "fields": {
+        "soggetti_sa": [
+         {
+          "codice_fiscale": "80199230584",
+          "denominazione_amministrazione": "CASSA DEPOSITI E PRESTITI SOCIETA' PER AZIONI"
+         }
+        ]
+       }
+      },
+      {
+       "name": "SEZ. B - Dati Generali",
+       "fields": {
+        "documenti_di_gara_link": "https://portaleacquisti.cdp.it",
+        "accordo_quadro": "Nulla",
+        "sistema_dinamico_acquisizione": "Nessun sistema dinamico di acquisizione",
+        "tipo_procedura_aggiudicazione": "Aperta"
+       }
+      },
+      {
+       "name": "SEZ. C - Oggetto",
+       "items": [
+        {
+         "tipo_oggetto": "aggiudicazione",
+         "cig": "BBD3901995",
+         "natura_principale": "Servizi",
+         "descrizione": "PROCEDURA DI GARA APERTA AI SENSI DELL’ART. 71 DEL D. LGS. N. 36/2023 E S.M.I., PER LA CONCLUSIONE DI UN ACCORDO QUADRO PER L’AFFIDAMENTO DEI SERVIZI DI PIANIFICAZIONE, GESTIONE, ACQUISTO E MONITORAGGIO DI SPAZI PUBBLICITARI E INIZIATIVE DI COMUNICAZIONE",
+         "cpv": "Servizi di gestione pubblicitaria",
+         "valore_complessivo_stimato": 2900000.0,
+         "luogo_nuts": "Roma",
+         "luogo_istat": "ROMA",
+         "valore_offerta_vincente": 2882000.0,
+         "accordo_quadro": "Nulla",
+         "sistema_dinamico_acquisizione": "Nessun sistema dinamico di acquisizione",
+         "aggiudicatari": [
+          {
+           "importo": 2882000.0,
+           "soggetti": [
+            {
+             "codice_fiscale": "04857410965",
+             "denominazione": "WPP media srl"
+            }
+           ]
+          }
+         ],
+         "categorie": [
+          {
+           "codice": "FS",
+           "descrizione": "FORNITURA DI SERVIZI"
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    },
+    "lingua": "it"
+   }
+  ],
+  "idAvviso": "fd225cf1-88b9-4397-86da-11f52ba0ecec",
+  "count": 36.0,
+  "paginationToken": "CLm5SBoJKR21WgyiAQAAGgJgARoGEICAgPgHIg5aDGsDH5J4fyBOMLBL3g==",
+  "score": 1.0,
+  "scoreDetails": {
+   "value": 1.0,
+   "description": "sum of:",
+   "details": [
+    {
+     "value": 0.0,
+     "description": "match on required clause, product of:",
+     "details": [
+      {
+       "value": 0.0,
+       "description": "# clause",
+       "details": []
+      },
+      {
+       "value": 1.0,
+       "description": "IndexOrDocValuesQuery(indexQuery=$type:dateV2/dataPubblicazione:[1794614400000 TO 1795528087500], dvQuery=$type:dateV2/dataPubblicazione:[1794614400000 TO 1795528087500])",
+       "details": []
+      }
+     ]
+    },
+    {
+     "value": 1.0,
+     "description": "sum of:",
+     "details": [
+      {
+       "value": 1.0,
+       "description": "$type:token/templates.template.sections.items.cpv:[[53 65 72 76 69 7a 69 20 64 69 20 67 65 73 74 69 6f 6e 65 20 70 75 62 62 6c 69 63 69 74 61 72 69 61] TO [53 65 72 76 69 7a 69 20 64 69 20 67 65 73 74 69 6f 6e 65 20 70 75 62 62 6c 69 63 69 74 61 72 69 61]]",
+       "details": []
+      }
+     ]
+    }
+   ]
+  },
+  "oscurato": false,
+  "noteOscuramento": null,
+  "idAppalto": "95b50d77-b3de-47a3-ae3d-28c76ee5be87",
+  "dataPubblicazioneNuovoAvviso": null,
+  "tipoNuovoAvviso": null,
+  "dataPCP": "2026-11-22T18:00:02.000+00:00",
+  "dataCreazione": "2026-11-22T17:00:02.928+00:00",
+  "tipo": "avviso",
+  "attivo": true,
+  "nuovoAvviso": null,
+  "codiceEform": "29",
+  "stato": "NON_VERIFICATO",
+  "ambiente": null,
+  "categorie": null
+ },
+ {
+  "codiceScheda": "AD2_25",
+  "tipologia": "RISULTATI",
+  "dataPubblicazione": "2026-11-24T07:00:00.460+00:00",
+  "dataScadenza": null,
+  "templates": [
+   {
+    "template": {
+     "metadata": {
+      "link_eform_ted": null,
+      "titolo": null,
+      "descrizione": "Affidamento in esclusiva, ai sensi dell'art. 76 comma 2 lett.b) del D.Lgs. n. 36/2023 senza previa pubblicazione di bando di gara, per l’affidamento del servizio per  una collettiva della Regione Siciliana alla manifestazione fieristica “International Boat Show 2026\\\""
+     },
+     "sections": [
+      {
+       "name": "SEZ. A - Committente",
+       "fields": {
+        "soggetti_sa": [
+         {
+          "codice_fiscale": "80012000826",
+          "denominazione_amministrazione": "REGIONE SICILIANA"
+         }
+        ]
+       }
+      },
+      {
+       "name": "SEZ. B - Dati Generali",
+       "fields": {
+        "documenti_di_gara_link": "https://appalti.regionesiciliana.lavoripubblici.sicilia.it/gare/dettaglio.php?codice=8244",
+        "tipo_procedura_aggiudicazione": "Negoziata senza previa indizione di gara"
+       }
+      },
+      {
+       "name": "SEZ. C - Oggetto",
+       "items": [
+        {
+         "tipo_oggetto": "aggiudicazione",
+         "cig": "BDEEBA35C6",
+         "natura_principale": "Servizi",
+         "descrizione": "Affidamento in esclusiva, ai sensi dell'art. 76 comma 2 lett.b) del D.Lgs. n. 36/2023 senza previa pubblicazione di bando di gara, per l’affidamento del servizio per  una collettiva della Regione Siciliana alla manifestazione fieristica “International Boat Show 2026",
+         "cpv": "Servizi di organizzazione di mostre, fiere e congressi",
+         "documenti_di_gara_link": "https://appalti.regionesiciliana.lavoripubblici.sicilia.it/gare/dettaglio.php?codice=8244",
+         "luogo_nuts": "Palermo",
+         "luogo_istat": "PALERMO",
+         "valore_affidamento": 417984.5,
+         "aggiudicatari_ad": [
+          {
+           "importo": 417984.5,
+           "soggetti": [
+            {
+             "codice_fiscale": "02823610361",
+             "denominazione": "Expo Consulting srl"
+            }
+           ]
+          }
+         ],
+         "categorie": [
+          {
+           "codice": "FS",
+           "descrizione": "FORNITURA DI SERVIZI"
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    },
+    "lingua": "it"
+   }
+  ],
+  "idAvviso": "485e80f9-6a19-4484-a0cc-abe10da9de1b",
+  "count": 36.0,
+  "paginationToken": "CLzKSBoJKUyzWgyiAQAAGgJgARoGEICAgPgHIg5aDGsEPdWTtymzrpiCgw==",
+  "score": 1.0,
+  "scoreDetails": {
+   "value": 1.0,
+   "description": "sum of:",
+   "details": [
+    {
+     "value": 0.0,
+     "description": "match on required clause, product of:",
+     "details": [
+      {
+       "value": 0.0,
+       "description": "# clause",
+       "details": []
+      },
+      {
+       "value": 1.0,
+       "description": "IndexOrDocValuesQuery(indexQuery=$type:dateV2/dataPubblicazione:[1794614400000 TO 1795528087500], dvQuery=$type:dateV2/dataPubblicazione:[1794614400000 TO 1795528087500])",
+       "details": []
+      }
+     ]
+    },
+    {
+     "value": 1.0,
+     "description": "sum of:",
+     "details": [
+      {
+       "value": 1.0,
+       "description": "$type:token/templates.template.sections.items.cpv:[[53 65 72 76 69 7a 69 20 64 69 20 6f 72 67 61 6e 69 7a 7a 61 7a 69 6f 6e 65 20 64 69 20 6d 6f 73 74 72 65 2c 20 66 69 65 72 65 20 65 20 63 6f 6e 67 72 65 73 73 69] TO [53 65 72 76 69 7a 69 20 64 69 20 6f 72 67 61 6e 69 7a 7a 61 7a 69 6f 6e 65 20 64 69 20 6d 6f 73 74 72 65 2c 20 66 69 65 72 65 20 65 20 63 6f 6e 67 72 65 73 73 69]]",
+       "details": []
+      }
+     ]
+    }
+   ]
+  },
+  "oscurato": false,
+  "noteOscuramento": null,
+  "idAppalto": "8f1a5af0-14ef-4471-b7e2-9caa4bd63106",
+  "dataPubblicazioneNuovoAvviso": null,
+  "tipoNuovoAvviso": null,
+  "dataPCP": "2026-11-23T14:21:25.000+00:00",
+  "dataCreazione": "2026-11-23T13:21:25.460+00:00",
+  "tipo": "avviso",
+  "attivo": true,
+  "nuovoAvviso": null,
+  "codiceEform": null,
+  "stato": "NON_VERIFICATO",
+  "ambiente": null,
+  "categorie": null
+ },
+ {
   "codiceScheda": "AD2_25",
   "tipologia": "RISULTATI",
   "dataPubblicazione": "2026-11-23T07:00:00.661+00:00",
@@ -72,8 +320,8 @@
    }
   ],
   "idAvviso": "6f43b752-bf8f-4806-9c96-c7e71b1b7740",
-  "count": 40.0,
-  "paginationToken": "CKOdSBoJKRVYNAeiAQAAGgJgARoGEICAgPgHIg5aDGsAJtu52QHCDidrXA==",
+  "count": 36.0,
+  "paginationToken": "CMG0RxoJKRVYNAeiAQAAGgJgARoGEICAgPgHIg5aDGsAJtu52QHCDidrXA==",
   "score": 1.0,
   "scoreDetails": {
    "value": 1.0,
@@ -90,7 +338,7 @@
       },
       {
        "value": 1.0,
-       "description": "IndexOrDocValuesQuery(indexQuery=$type:dateV2/dataPubblicazione:[1794528000000 TO 1795438332087], dvQuery=$type:dateV2/dataPubblicazione:[1794528000000 TO 1795438332087])",
+       "description": "IndexOrDocValuesQuery(indexQuery=$type:dateV2/dataPubblicazione:[1794614400000 TO 1795528087500], dvQuery=$type:dateV2/dataPubblicazione:[1794614400000 TO 1795528087500])",
        "details": []
       }
      ]
@@ -115,212 +363,6 @@
   "tipoNuovoAvviso": null,
   "dataPCP": "2026-11-20T11:54:19.000+00:00",
   "dataCreazione": "2026-11-20T10:54:19.661+00:00",
-  "tipo": "avviso",
-  "attivo": true,
-  "nuovoAvviso": null,
-  "codiceEform": null,
-  "stato": "NON_VERIFICATO",
-  "ambiente": null,
-  "categorie": null
- },
- {
-  "codiceScheda": "M2",
-  "tipologia": "MODIFICHE_CONTRATTUALI",
-  "dataPubblicazione": "2026-11-23T07:00:00.531+00:00",
-  "dataScadenza": null,
-  "templates": [
-   {
-    "template": {
-     "metadata": {
-      "link_eform_ted": null,
-      "titolo": null,
-      "descrizione": "WIRED NEXT FEST TRENTINO 2024 - sponsorizzazione \r\nCon la presentazione dell'offerta sono accettate le condizioni indicate nell'allegato Bozza accordo. \r\nLa presente procedura è soggetta a verifica del possesso dei requisiti tramite FVOE 2.0. Si prega di tenere conto della necessità della Stazione Appaltante di ottenere l’autorizzazione alla visione della documentazione entro 15 giorni dalla presentazione dell’offerta. Pertanto, si invita a tenere monitorata la propria sezione riservata FVOE 2.0 sul sito di ANAC, previa registrazione. (https://www.anticorruzione.it/-/fascicolo-virtuale-dell-operatore-economico-fvoe)\r\nLa presente procedura è soggetta al pagamento di un contributo all’Autorità Nazionale Anticorruzione pari ad € 33,00 da effettuarsi secondo le modalità  di cui alla delibera ANAC n. 610 del 19/12/2023\r\n\r\nLa stipulazione del contratto è soggetta , infine, all’assolvimento dell’imposta di bollo come da Provvedimento del Direttore dell’Agenzia delle Entrate, reperibile nella documentazione allegata. Si precisa che deve essere indicato obbligatoriamente nell’f24 il codice CIG della presente procedura e il C. Fiscale Trentino Sviluppo Spa 00123240228 come soggetto coobbligato. Il pagamento dovrà essere effettuato prima della stipula del contratto. A comprova dell'avvenuto pagamento dovrà essere inviata copia dellf24 quietanzato.\r\n"
-     },
-     "sections": [
-      {
-       "name": "SEZ. A - Committente",
-       "fields": {
-        "soggetti_sa": [
-         {
-          "codice_fiscale": "00123240228",
-          "denominazione_amministrazione": "TRENTINO SVILUPPO S.P.A."
-         }
-        ]
-       }
-      },
-      {
-       "name": "SEZ. B - Dati Generali",
-       "fields": {}
-      },
-      {
-       "name": "SEZ. C - Oggetto",
-       "items": [
-        {
-         "tipo_oggetto": "lotto",
-         "cig": "B2B07414DE",
-         "natura_principale": "Servizi",
-         "descrizione": "WIRED NEXT FEST TRENTINO 2024 - sponsorizzazione \r\nCon la presentazione dell'offerta sono accettate le condizioni indicate nell'allegato Bozza accordo. \r\nLa presente procedura è soggetta a verifica del possesso dei requisiti tramite FVOE 2.0. Si prega di tenere conto della necessità della Stazione Appaltante di ottenere l’autorizzazione alla visione della documentazione entro 15 giorni dalla presentazione dell’offerta. Pertanto, si invita a tenere monitorata la propria sezione riservata FVOE 2.0 sul sito di ANAC, previa registrazione. (https://www.anticorruzione.it/-/fascicolo-virtuale-dell-operatore-economico-fvoe)\r\nLa presente procedura è soggetta al pagamento di un contributo all’Autorità Nazionale Anticorruzione pari ad € 33,00 da effettuarsi secondo le modalità  di cui alla delibera ANAC n. 610 del 19/12/2023\r\n\r\nLa stipulazione del contratto è soggetta , infine, all’assolvimento dell’imposta di bollo come da Provvedimento del Direttore dell’Agenzia delle Entrate, reperibile nella documentazione allegata. Si precisa che deve essere indicato obbligatoriamente nell’f24 il codice CIG della presente procedura e il C. Fiscale Trentino Sviluppo Spa 00123240228 come soggetto coobbligato. Il pagamento dovrà essere effettuato prima della stipula del contratto. A comprova dell'avvenuto pagamento dovrà essere inviata copia dellf24 quietanzato.\r\n",
-         "cpv": "Servizi pubblicitari",
-         "luogo_istat": "ROVERETO",
-         "data_stipula_contratto": "2024-11-04T01:00:00+01:00",
-         "motivazione_modifica": "Necessità di ulteriori lavori, forniture e servizi eseguiti dall'appaltatore originale."
-        }
-       ]
-      }
-     ]
-    },
-    "lingua": "it"
-   }
-  ],
-  "idAvviso": "7ce9cf08-e6e9-47cc-a941-cfcce65c3ba6",
-  "count": 40.0,
-  "paginationToken": "CLnCSBoJKZNXNAeiAQAAGgJgARoGEICAgPgHIg5aDGsAUki52QHCDid3Fg==",
-  "score": 1.0,
-  "scoreDetails": {
-   "value": 1.0,
-   "description": "sum of:",
-   "details": [
-    {
-     "value": 0.0,
-     "description": "match on required clause, product of:",
-     "details": [
-      {
-       "value": 0.0,
-       "description": "# clause",
-       "details": []
-      },
-      {
-       "value": 1.0,
-       "description": "IndexOrDocValuesQuery(indexQuery=$type:dateV2/dataPubblicazione:[1794528000000 TO 1795438332087], dvQuery=$type:dateV2/dataPubblicazione:[1794528000000 TO 1795438332087])",
-       "details": []
-      }
-     ]
-    },
-    {
-     "value": 1.0,
-     "description": "sum of:",
-     "details": [
-      {
-       "value": 1.0,
-       "description": "$type:token/templates.template.sections.items.cpv:[[53 65 72 76 69 7a 69 20 70 75 62 62 6c 69 63 69 74 61 72 69] TO [53 65 72 76 69 7a 69 20 70 75 62 62 6c 69 63 69 74 61 72 69]]",
-       "details": []
-      }
-     ]
-    }
-   ]
-  },
-  "oscurato": false,
-  "noteOscuramento": null,
-  "idAppalto": "3303649b-5d65-4a84-874d-226a6a442ab9",
-  "dataPubblicazioneNuovoAvviso": null,
-  "tipoNuovoAvviso": null,
-  "dataPCP": "2026-11-20T14:59:36.000+00:00",
-  "dataCreazione": "2026-11-20T13:59:36.531+00:00",
-  "tipo": "avviso",
-  "attivo": true,
-  "nuovoAvviso": null,
-  "codiceEform": null,
-  "stato": "NON_VERIFICATO",
-  "ambiente": null,
-  "categorie": null
- },
- {
-  "codiceScheda": "M2",
-  "tipologia": "MODIFICHE_CONTRATTUALI",
-  "dataPubblicazione": "2026-11-23T07:00:00.428+00:00",
-  "dataScadenza": null,
-  "templates": [
-   {
-    "template": {
-     "metadata": {
-      "link_eform_ted": null,
-      "titolo": null,
-      "descrizione": "RICHIESTA DI OFFERTA PER L’ASSEGNAZIONE DEL SERVIZIO DI PROGETTAZIONE, REALIZZAZIONE DELL’ALLESTIMENTO E SERVICE IN OCCASIONE DI NITTO ATP FINALS 2026"
-     },
-     "sections": [
-      {
-       "name": "SEZ. A - Committente",
-       "fields": {
-        "soggetti_sa": [
-         {
-          "codice_fiscale": "07401840017",
-          "denominazione_amministrazione": "TURISMO TORINO E PROVINCIA S.C.R.L."
-         }
-        ]
-       }
-      },
-      {
-       "name": "SEZ. B - Dati Generali",
-       "fields": {
-        "documenti_di_gara_link": "https://turismotorino.acquistitelematici.it/tender-esiti/dettaglio/4336"
-       }
-      },
-      {
-       "name": "SEZ. C - Oggetto",
-       "items": [
-        {
-         "tipo_oggetto": "aggiudicazione",
-         "cig": "BD49AC6696",
-         "natura_principale": "Servizi",
-         "descrizione": "RICHIESTA DI OFFERTA PER L’ASSEGNAZIONE DEL SERVIZIO DI PROGETTAZIONE, REALIZZAZIONE DELL’ALLESTIMENTO E SERVICE IN OCCASIONE DI NITTO ATP FINALS 2026",
-         "cpv": "Servizi di organizzazione di mostre, fiere e congressi",
-         "documenti_di_gara_link": "https://turismotorino.acquistitelematici.it/tender-esiti/dettaglio/4336",
-         "luogo_nuts": "ITALIA",
-         "luogo_istat": "TORINO",
-         "data_stipula_contratto": "2026-11-20T10:47:00Z",
-         "motivazione_modifica": "Le modifiche non sono sostanziali."
-        }
-       ]
-      }
-     ]
-    },
-    "lingua": "it"
-   }
-  ],
-  "idAvviso": "a9ab4395-c778-4309-aaa4-bfd51f67b2e3",
-  "count": 40.0,
-  "paginationToken": "CIGeSBoJKSxXNAeiAQAAGgJgARoGEICAgPgHIg5aDGsAKI652QHCDidsCA==",
-  "score": 1.0,
-  "scoreDetails": {
-   "value": 1.0,
-   "description": "sum of:",
-   "details": [
-    {
-     "value": 0.0,
-     "description": "match on required clause, product of:",
-     "details": [
-      {
-       "value": 0.0,
-       "description": "# clause",
-       "details": []
-      },
-      {
-       "value": 1.0,
-       "description": "IndexOrDocValuesQuery(indexQuery=$type:dateV2/dataPubblicazione:[1794528000000 TO 1795438332087], dvQuery=$type:dateV2/dataPubblicazione:[1794528000000 TO 1795438332087])",
-       "details": []
-      }
-     ]
-    },
-    {
-     "value": 1.0,
-     "description": "sum of:",
-     "details": [
-      {
-       "value": 1.0,
-       "description": "$type:token/templates.template.sections.items.cpv:[[53 65 72 76 69 7a 69 20 64 69 20 6f 72 67 61 6e 69 7a 7a 61 7a 69 6f 6e 65 20 64 69 20 6d 6f 73 74 72 65 2c 20 66 69 65 72 65 20 65 20 63 6f 6e 67 72 65 73 73 69] TO [53 65 72 76 69 7a 69 20 64 69 20 6f 72 67 61 6e 69 7a 7a 61 7a 69 6f 6e 65 20 64 69 20 6d 6f 73 74 72 65 2c 20 66 69 65 72 65 20 65 20 63 6f 6e 67 72 65 73 73 69]]",
-       "details": []
-      }
-     ]
-    }
-   ]
-  },
-  "oscurato": false,
-  "noteOscuramento": null,
-  "idAppalto": "5a7c8fe5-7b3d-46a2-8a88-311c98ffb719",
-  "dataPubblicazioneNuovoAvviso": null,
-  "tipoNuovoAvviso": null,
-  "dataPCP": "2026-11-20T12:01:34.000+00:00",
-  "dataCreazione": "2026-11-20T11:01:34.428+00:00",
   "tipo": "avviso",
   "attivo": true,
   "nuovoAvviso": null,
