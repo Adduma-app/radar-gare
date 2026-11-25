@@ -1,88 +1,14 @@
 {
  "stato": {
-  "aggiornato": "2026-11-24T13:48",
-  "letti_oggi": 83,
-  "nuovi_oggi": 3,
+  "aggiornato": "2026-11-25T12:59",
+  "letti_oggi": 100,
+  "nuovi_oggi": 13,
   "aperte_pertinenti": 20,
-  "esiti_pertinenti": 132,
-  "scartati_oggi": 22,
+  "esiti_pertinenti": 139,
+  "scartati_oggi": 26,
   "errori": []
  },
  "gare": [
-  {
-   "id": "anac:56565b9e-f696-4145-8e24-7af64fe4f6b8",
-   "fonte": "ANAC PVL",
-   "tipologia": "BANDI",
-   "titolo": "GARA EUROPEA A PROCEDURA TELEMATICA APERTA PER LA STIPULA DI UN ACCORDO QUADRO MONOAGGIUDICATARIO PER L’AFFIDAMENTO DI SERVIZI DI ALLESTIMENTO IN OCCASIONE DI EVENTI, FIERE, MOSTRE E CONVEGNI DEL POLITECNICO DI MILANO",
-   "descrizione": "GARA EUROPEA A PROCEDURA TELEMATICA APERTA PER LA STIPULA DI UN ACCORDO QUADRO MONOAGGIUDICATARIO PER L’AFFIDAMENTO DI SERVIZI DI ALLESTIMENTO IN OCCASIONE DI EVENTI, FIERE, MOSTRE E CONVEGNI DEL POLITECNICO DI MILANO",
-   "ente": "POLITECNICO DI MILANO",
-   "cf_ente": "80057930150",
-   "luogo_istat": "MILANO",
-   "luogo_nuts": "Milano",
-   "importo": 1734227.0,
-   "lotti": 1,
-   "cig": [
-    "BD7BEDF68E"
-   ],
-   "cpv": "Servizi di organizzazione di mostre, fiere e congressi",
-   "procedura": "Aperta",
-   "pubblicazione": "2026-10-27T07:00",
-   "scadenza": "2026-11-24T14:00",
-   "link_avviso": "https://pubblicitalegale.anticorruzione.it/bandi/56565b9e-f696-4145-8e24-7af64fe4f6b8",
-   "link_documenti": "https://www.polimi.it/imprese/bandiperleimprese/bandidigara",
-   "link_ted": "https://ted.europa.eu/udl?uri=TED:NOTICE:739267-2026:TEXT:IT:HTML",
-   "aggiudicatari": [],
-   "valore_aggiudicato": null,
-   "kw_score": 4,
-   "kw_trovate": [
-    "eventi",
-    "allestiment"
-   ],
-   "kw_escluse": [],
-   "esecuzione": "evento in loco",
-   "fuori_taglia": true,
-   "pertinente": true,
-   "motivo_scarto": null,
-   "primo_avvistamento": "2026-10-27"
-  },
-  {
-   "id": "anac:460d6b6f-d200-4299-b283-bc8f7165da5d",
-   "fonte": "ANAC PVL",
-   "tipologia": "INDAGINI_DI_MERCATO_SOTTO_SOGLIA",
-   "titolo": "AVVISO DI INDAGINE DI MERCATO FINALIZZATO ALL’ACQUISIZIONE DI MANIFESTAZIONE DI INTERESSE PER L’INDIVIDUAZIONE DI OPERATORI ECONOMICI INTERESSATI A PARTECIPARE ALLA PROCEDURA NEGOZIATA SENZA PUBBLICAZIONE DI BANDO, PER L'AFFIDAMENTO DEL SERVIZIO DI SUPPORTO ALLA DIFFUSIONE E COMUNICAZIONE DEGLI INTERVENTI E DEI RISULTATI DI SVILUPPO LAVORO S.P.A.",
-   "descrizione": "AVVISO DI INDAGINE DI MERCATO FINALIZZATO ALL’ACQUISIZIONE DI MANIFESTAZIONE DI INTERESSE PER L’INDIVIDUAZIONE DI OPERATORI ECONOMICI INTERESSATI A PARTECIPARE ALLA PROCEDURA NEGOZIATA SENZA PUBBLICAZIONE DI BANDO, PER L'AFFIDAMENTO DEL SERVIZIO DI SUPPORTO ALLA DIFFUSIONE E COMUNICAZIONE DEGLI INTERVENTI E DEI RISULTATI DI SVILUPPO LAVORO S.P.A.",
-   "ente": "SVILUPPO LAVORO ITALIA S.P.A.",
-   "cf_ente": "01530510542",
-   "luogo_istat": "ROMA",
-   "luogo_nuts": "Roma",
-   "importo": 210000.0,
-   "lotti": 1,
-   "cig": [
-    "BDB584EAA9"
-   ],
-   "cpv": "Servizi pubblicitari e di marketing",
-   "procedura": null,
-   "pubblicazione": "2026-11-10T07:00",
-   "scadenza": "2026-11-24T22:59",
-   "link_avviso": "https://pubblicitalegale.anticorruzione.it/bandi/460d6b6f-d200-4299-b283-bc8f7165da5d",
-   "link_documenti": "https://sviluppolavoroitalia.acquistitelematici.it/tender/60",
-   "link_ted": null,
-   "aggiudicatari": [],
-   "valore_aggiudicato": null,
-   "kw_score": 7,
-   "kw_trovate": [
-    "comunicazione",
-    "pubblicit",
-    "marketing",
-    "manifestazion"
-   ],
-   "kw_escluse": [],
-   "esecuzione": "evento in loco",
-   "fuori_taglia": false,
-   "pertinente": true,
-   "motivo_scarto": null,
-   "primo_avvistamento": "2026-11-10"
-  },
   {
    "id": "anac:cdec4df4-bb41-423c-85c2-f3a83bc24f65",
    "fonte": "ANAC PVL",
@@ -481,6 +407,44 @@
    "primo_avvistamento": "2026-11-20"
   },
   {
+   "id": "anac:4fd7fd28-772f-4b05-81b5-8597d2f55e60",
+   "fonte": "ANAC PVL",
+   "tipologia": "BANDI",
+   "titolo": "PROCEDURA APERTA ART 71 D. LGS 36 2023 PER AFFIDAMENTO DEI SERVIZI DI ALLESTIMENTO DEL PADIGLIONE  DI COMUNICAZIONE COMPRENSIVA DELLO SVILUPPO DELL' IDENTITA' VISIVA E DEI SERVIZI CONNESSI ALLA PARTECIPAZIONE DELLA COLLETTIVA VITIVINICOLA DELLA REGIONE LAZIO A VINITALY 2027",
+   "descrizione": "PROCEDURA APERTA ART. 71 DEL D.LGS. N. 36/2023 PER L’AFFIDAMENTO DEI SERVIZI DI ALLESTIMENTO DEL PADIGLIONE, DI COMUNICAZIONE COMPRENSIVA DELLO SVILUPPO DELL’IDENTITÀ VISIVA, E DEI SERVIZI CONNESSI ALLA  PARTECIPAZIONE DELLA COLLETTIVA VITIVINICOLA DELLA  REGIONE LAZIO A VINITALY 2027",
+   "ente": "ARSIAL",
+   "cf_ente": "04838391003",
+   "luogo_istat": "VERONA",
+   "luogo_nuts": "Verona",
+   "importo": 2175851.0,
+   "lotti": 1,
+   "cig": [
+    "BDEA73B26B"
+   ],
+   "cpv": "Servizi di organizzazione di eventi",
+   "procedura": "Aperta",
+   "pubblicazione": "2026-11-25T07:00",
+   "scadenza": "2026-12-17T17:00",
+   "link_avviso": "https://pubblicitalegale.anticorruzione.it/bandi/4fd7fd28-772f-4b05-81b5-8597d2f55e60",
+   "link_documenti": "https://www.acquistinretepa.it/bandi/aperta/gara-asp/eb3986b57ee6b6c4",
+   "link_ted": "https://ted.europa.eu/udl?uri=TED:NOTICE:815000-2026:TEXT:IT:HTML",
+   "aggiudicatari": [],
+   "valore_aggiudicato": null,
+   "kw_score": 10,
+   "kw_trovate": [
+    "identita visiva",
+    "comunicazione",
+    "eventi",
+    "allestiment"
+   ],
+   "kw_escluse": [],
+   "esecuzione": "evento in loco",
+   "fuori_taglia": true,
+   "pertinente": true,
+   "motivo_scarto": null,
+   "primo_avvistamento": "2026-11-25"
+  },
+  {
    "id": "anac:5cd813e3-9468-499c-967b-3eeedfd93c2a",
    "fonte": "ANAC PVL",
    "tipologia": "BANDI",
@@ -514,6 +478,44 @@
    "pertinente": true,
    "motivo_scarto": null,
    "primo_avvistamento": "2026-11-20"
+  },
+  {
+   "id": "anac:6715024b-c36a-48f8-ae22-a2d6c456c65d",
+   "fonte": "ANAC PVL",
+   "tipologia": "BANDI",
+   "titolo": "SERVIZIO DI NOLEGGIO DI ALLESTIMENTI TEMPORANEI PER EVENTI, ANCHE DI CARATTERE NON SPORTIVO, DA ESEGUIRSI SU TUTTO IL TERRITORIO NAZIONALE.",
+   "descrizione": "PROCEDURA TELEMATICA APERTA PER LA CONCLUSIONE DI UN ACCORDO QUADRO CON DUE OPERATORI ECONOMICI, AI SENSI DELL’ARTICOLO 59, COMMA 4, LETTERA A), DEL D.LGS. 36/2023, AVENTE AD OGGETTO IL SERVIZIO DI NOLEGGIO DI ALLESTIMENTI TEMPORANEI PER EVENTI, ANCHE DI CARATTERE NON SPORTIVO, DA ESEGUIRSI SU TUTTO IL TERRITORIO NAZIONALE.",
+   "ente": "SPORT E SALUTE S.P.A.",
+   "cf_ente": "07207761003",
+   "luogo_istat": "ROMA",
+   "luogo_nuts": "Roma",
+   "importo": 10881600.0,
+   "lotti": 1,
+   "cig": [
+    "BDEEC93BD2"
+   ],
+   "cpv": "Servizi di organizzazione di mostre, fiere e congressi",
+   "procedura": "Aperta",
+   "pubblicazione": "2026-11-25T07:00",
+   "scadenza": "2027-01-07T11:00",
+   "link_avviso": "https://pubblicitalegale.anticorruzione.it/bandi/6715024b-c36a-48f8-ae22-a2d6c456c65d",
+   "link_documenti": "https://procurement.sportesalute.eu/portalegare/index.php/bandi",
+   "link_ted": "https://ted.europa.eu/udl?uri=TED:NOTICE:814430-2026:TEXT:IT:HTML",
+   "aggiudicatari": [],
+   "valore_aggiudicato": null,
+   "kw_score": 2,
+   "kw_trovate": [
+    "eventi",
+    "allestiment"
+   ],
+   "kw_escluse": [
+    "noleggio"
+   ],
+   "esecuzione": "evento in loco",
+   "fuori_taglia": true,
+   "pertinente": true,
+   "motivo_scarto": null,
+   "primo_avvistamento": "2026-11-25"
   },
   {
    "id": "anac:7a46bcc4-d9cf-4696-8b9d-5e2c5842e7f4",

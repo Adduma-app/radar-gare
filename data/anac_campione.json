@@ -1,16 +1,16 @@
 [
  {
-  "codiceScheda": "A1_29",
-  "tipologia": "RISULTATI",
-  "dataPubblicazione": "2026-11-24T07:00:00.925+00:00",
+  "codiceScheda": "M2",
+  "tipologia": "MODIFICHE_CONTRATTUALI",
+  "dataPubblicazione": "2026-11-25T07:00:00.708+00:00",
   "dataScadenza": null,
   "templates": [
    {
     "template": {
      "metadata": {
-      "link_eform_ted": "https://ted.europa.eu/udl?uri=TED:NOTICE:811227-2026:TEXT:IT:HTML",
-      "titolo": "PROCEDURA DI GARA APERTA AI SENSI DELL’ART. 71 DEL D. LGS. N. 36/2023 E S.M.I., PER LA CONCLUSIONE DI UN ACCORDO QUADRO PER L’AFFIDAMENTO DEI SERVIZI DI PIANIFICAZIONE, GESTIONE, ACQUISTO E MONITORAGGIO DI SPAZI PUBBLICITARI E INIZIATIVE DI COMUNICAZIONE.",
-      "descrizione": "PROCEDURA DI GARA APERTA AI SENSI DELL’ART. 71 DEL D. LGS. N. 36/2023 E S.M.I., PER LA CONCLUSIONE DI UN ACCORDO QUADRO PER L’AFFIDAMENTO DEI SERVIZI DI PIANIFICAZIONE, GESTIONE, ACQUISTO E MONITORAGGIO DI SPAZI PUBBLICITARI E INIZIATIVE DI COMUNICAZIONE"
+      "link_eform_ted": null,
+      "titolo": null,
+      "descrizione": "Affidamento per la progettazione e realizzazione di strumenti di comunicazione per la promozione dell’accessibilità e dell’inclusività dell’offerta turistica e culturale della Regione ER nell’ambito del progetto “In Emilia-Romagna c’è una vacanza per me 2 – Welcome Everybody”"
      },
      "sections": [
       {
@@ -18,8 +18,8 @@
        "fields": {
         "soggetti_sa": [
          {
-          "codice_fiscale": "80199230584",
-          "denominazione_amministrazione": "CASSA DEPOSITI E PRESTITI SOCIETA' PER AZIONI"
+          "codice_fiscale": "80062590379",
+          "denominazione_amministrazione": "REGIONE EMILIA ROMAGNA"
          }
         ]
        }
@@ -27,10 +27,7 @@
       {
        "name": "SEZ. B - Dati Generali",
        "fields": {
-        "documenti_di_gara_link": "https://portaleacquisti.cdp.it",
-        "accordo_quadro": "Nulla",
-        "sistema_dinamico_acquisizione": "Nessun sistema dinamico di acquisizione",
-        "tipo_procedura_aggiudicazione": "Aperta"
+        "documenti_di_gara_link": "https://intercenter.regione.emilia-romagna.it/trovabando/BANDO_GARA_PORTALE@16919165"
        }
       },
       {
@@ -38,33 +35,15 @@
        "items": [
         {
          "tipo_oggetto": "aggiudicazione",
-         "cig": "BBD3901995",
+         "cig": "BD293B5DB5",
          "natura_principale": "Servizi",
-         "descrizione": "PROCEDURA DI GARA APERTA AI SENSI DELL’ART. 71 DEL D. LGS. N. 36/2023 E S.M.I., PER LA CONCLUSIONE DI UN ACCORDO QUADRO PER L’AFFIDAMENTO DEI SERVIZI DI PIANIFICAZIONE, GESTIONE, ACQUISTO E MONITORAGGIO DI SPAZI PUBBLICITARI E INIZIATIVE DI COMUNICAZIONE",
-         "cpv": "Servizi di gestione pubblicitaria",
-         "valore_complessivo_stimato": 2900000.0,
-         "luogo_nuts": "Roma",
-         "luogo_istat": "ROMA",
-         "valore_offerta_vincente": 2882000.0,
-         "accordo_quadro": "Nulla",
-         "sistema_dinamico_acquisizione": "Nessun sistema dinamico di acquisizione",
-         "aggiudicatari": [
-          {
-           "importo": 2882000.0,
-           "soggetti": [
-            {
-             "codice_fiscale": "04857410965",
-             "denominazione": "WPP media srl"
-            }
-           ]
-          }
-         ],
-         "categorie": [
-          {
-           "codice": "FS",
-           "descrizione": "FORNITURA DI SERVIZI"
-          }
-         ]
+         "descrizione": "Affidamento per la progettazione e realizzazione di strumenti di comunicazione per la promozione dell’accessibilità e dell’inclusività dell’offerta turistica e culturale della Regione ER nell’ambito del progetto “In Emilia-Romagna c’è una vacanza per me 2 – Welcome Everybody”",
+         "cpv": "Servizi pubblicitari e di marketing",
+         "documenti_di_gara_link": "https://intercenter.regione.emilia-romagna.it/trovabando/BANDO_GARA_PORTALE@16919165",
+         "luogo_nuts": "Bologna",
+         "luogo_istat": "BOLOGNA",
+         "data_stipula_contratto": "2026-11-02T00:00:00Z",
+         "motivazione_modifica": "Le modifiche non sono sostanziali."
         }
        ]
       }
@@ -73,9 +52,9 @@
     "lingua": "it"
    }
   ],
-  "idAvviso": "fd225cf1-88b9-4397-86da-11f52ba0ecec",
-  "count": 36.0,
-  "paginationToken": "CLm5SBoJKR21WgyiAQAAGgJgARoGEICAgPgHIg5aDGsDH5J4fyBOMLBL3g==",
+  "idAvviso": "a04b3df5-e187-4df4-bd9b-0558d2059168",
+  "count": 44.0,
+  "paginationToken": "CKqJSRoJKUQQgRGiAQAAGgJgARoGEICAgPgHIg5aDGsFntdZVLONg4nqWw==",
   "score": 1.0,
   "scoreDetails": {
    "value": 1.0,
@@ -92,7 +71,7 @@
       },
       {
        "value": 1.0,
-       "description": "IndexOrDocValuesQuery(indexQuery=$type:dateV2/dataPubblicazione:[1794614400000 TO 1795528087500], dvQuery=$type:dateV2/dataPubblicazione:[1794614400000 TO 1795528087500])",
+       "description": "IndexOrDocValuesQuery(indexQuery=$type:dateV2/dataPubblicazione:[1794700800000 TO 1795611594699], dvQuery=$type:dateV2/dataPubblicazione:[1794700800000 TO 1795611594699])",
        "details": []
       }
      ]
@@ -103,7 +82,7 @@
      "details": [
       {
        "value": 1.0,
-       "description": "$type:token/templates.template.sections.items.cpv:[[53 65 72 76 69 7a 69 20 64 69 20 67 65 73 74 69 6f 6e 65 20 70 75 62 62 6c 69 63 69 74 61 72 69 61] TO [53 65 72 76 69 7a 69 20 64 69 20 67 65 73 74 69 6f 6e 65 20 70 75 62 62 6c 69 63 69 74 61 72 69 61]]",
+       "description": "$type:token/templates.template.sections.items.cpv:[[53 65 72 76 69 7a 69 20 70 75 62 62 6c 69 63 69 74 61 72 69 20 65 20 64 69 20 6d 61 72 6b 65 74 69 6e 67] TO [53 65 72 76 69 7a 69 20 70 75 62 62 6c 69 63 69 74 61 72 69 20 65 20 64 69 20 6d 61 72 6b 65 74 69 6e 67]]",
        "details": []
       }
      ]
@@ -112,23 +91,23 @@
   },
   "oscurato": false,
   "noteOscuramento": null,
-  "idAppalto": "95b50d77-b3de-47a3-ae3d-28c76ee5be87",
+  "idAppalto": "0d27021d-3759-4784-add8-258f890fdc02",
   "dataPubblicazioneNuovoAvviso": null,
   "tipoNuovoAvviso": null,
-  "dataPCP": "2026-11-22T18:00:02.000+00:00",
-  "dataCreazione": "2026-11-22T17:00:02.928+00:00",
+  "dataPCP": "2026-11-24T15:27:35.000+00:00",
+  "dataCreazione": "2026-11-24T14:27:35.708+00:00",
   "tipo": "avviso",
   "attivo": true,
   "nuovoAvviso": null,
-  "codiceEform": "29",
+  "codiceEform": null,
   "stato": "NON_VERIFICATO",
   "ambiente": null,
   "categorie": null
  },
  {
-  "codiceScheda": "AD2_25",
-  "tipologia": "RISULTATI",
-  "dataPubblicazione": "2026-11-24T07:00:00.460+00:00",
+  "codiceScheda": "M2",
+  "tipologia": "MODIFICHE_CONTRATTUALI",
+  "dataPubblicazione": "2026-11-25T07:00:00.651+00:00",
   "dataScadenza": null,
   "templates": [
    {
@@ -136,7 +115,7 @@
      "metadata": {
       "link_eform_ted": null,
       "titolo": null,
-      "descrizione": "Affidamento in esclusiva, ai sensi dell'art. 76 comma 2 lett.b) del D.Lgs. n. 36/2023 senza previa pubblicazione di bando di gara, per l’affidamento del servizio per  una collettiva della Regione Siciliana alla manifestazione fieristica “International Boat Show 2026\\\""
+      "descrizione": "SERVIZI FUNZIONALI ALL’ESECUZIONE DEL PROGETTO \"EMILIA-ROMAGNA RAINBOW DISTRICT\""
      },
      "sections": [
       {
@@ -144,8 +123,8 @@
        "fields": {
         "soggetti_sa": [
          {
-          "codice_fiscale": "80012000826",
-          "denominazione_amministrazione": "REGIONE SICILIANA"
+          "codice_fiscale": "01886791209",
+          "denominazione_amministrazione": "APT SERVIZI SOCIETA' A RESPONSABILITA' LIMITATA"
          }
         ]
        }
@@ -153,8 +132,7 @@
       {
        "name": "SEZ. B - Dati Generali",
        "fields": {
-        "documenti_di_gara_link": "https://appalti.regionesiciliana.lavoripubblici.sicilia.it/gare/dettaglio.php?codice=8244",
-        "tipo_procedura_aggiudicazione": "Negoziata senza previa indizione di gara"
+        "documenti_di_gara_link": "https://aptservizi.acquistitelematici.it/tender-esiti/dettaglio/260"
        }
       },
       {
@@ -162,31 +140,13 @@
        "items": [
         {
          "tipo_oggetto": "aggiudicazione",
-         "cig": "BDEEBA35C6",
+         "cig": "B40CB2CC74",
          "natura_principale": "Servizi",
-         "descrizione": "Affidamento in esclusiva, ai sensi dell'art. 76 comma 2 lett.b) del D.Lgs. n. 36/2023 senza previa pubblicazione di bando di gara, per l’affidamento del servizio per  una collettiva della Regione Siciliana alla manifestazione fieristica “International Boat Show 2026",
-         "cpv": "Servizi di organizzazione di mostre, fiere e congressi",
-         "documenti_di_gara_link": "https://appalti.regionesiciliana.lavoripubblici.sicilia.it/gare/dettaglio.php?codice=8244",
-         "luogo_nuts": "Palermo",
-         "luogo_istat": "PALERMO",
-         "valore_affidamento": 417984.5,
-         "aggiudicatari_ad": [
-          {
-           "importo": 417984.5,
-           "soggetti": [
-            {
-             "codice_fiscale": "02823610361",
-             "denominazione": "Expo Consulting srl"
-            }
-           ]
-          }
-         ],
-         "categorie": [
-          {
-           "codice": "FS",
-           "descrizione": "FORNITURA DI SERVIZI"
-          }
-         ]
+         "descrizione": "SERVIZI FUNZIONALI ALL’ESECUZIONE DEL PROGETTO \"EMILIA-ROMAGNA RAINBOW DISTRICT\"",
+         "cpv": "Servizi di marketing",
+         "documenti_di_gara_link": "https://aptservizi.acquistitelematici.it/tender-esiti/dettaglio/260",
+         "luogo_istat": "BOLOGNA",
+         "motivazione_modifica": "Necessità di modifiche dovute a circostante non prevedibili da un committente diligente."
         }
        ]
       }
@@ -195,9 +155,9 @@
     "lingua": "it"
    }
   ],
-  "idAvviso": "485e80f9-6a19-4484-a0cc-abe10da9de1b",
-  "count": 36.0,
-  "paginationToken": "CLzKSBoJKUyzWgyiAQAAGgJgARoGEICAgPgHIg5aDGsEPdWTtymzrpiCgw==",
+  "idAvviso": "94ca6a74-1def-4e4b-bf55-79d6e408549c",
+  "count": 44.0,
+  "paginationToken": "CKa+SBoJKQsQgRGiAQAAGgJgARoGEICAgPgHIg5aDGsFXottFKi63Vz49A==",
   "score": 1.0,
   "scoreDetails": {
    "value": 1.0,
@@ -214,7 +174,128 @@
       },
       {
        "value": 1.0,
-       "description": "IndexOrDocValuesQuery(indexQuery=$type:dateV2/dataPubblicazione:[1794614400000 TO 1795528087500], dvQuery=$type:dateV2/dataPubblicazione:[1794614400000 TO 1795528087500])",
+       "description": "IndexOrDocValuesQuery(indexQuery=$type:dateV2/dataPubblicazione:[1794700800000 TO 1795611594699], dvQuery=$type:dateV2/dataPubblicazione:[1794700800000 TO 1795611594699])",
+       "details": []
+      }
+     ]
+    },
+    {
+     "value": 1.0,
+     "description": "sum of:",
+     "details": [
+      {
+       "value": 1.0,
+       "description": "$type:token/templates.template.sections.items.cpv:[[53 65 72 76 69 7a 69 20 64 69 20 6d 61 72 6b 65 74 69 6e 67] TO [53 65 72 76 69 7a 69 20 64 69 20 6d 61 72 6b 65 74 69 6e 67]]",
+       "details": []
+      }
+     ]
+    }
+   ]
+  },
+  "oscurato": false,
+  "noteOscuramento": null,
+  "idAppalto": "0e891956-540f-4c16-98ab-9500ca32892a",
+  "dataPubblicazioneNuovoAvviso": null,
+  "tipoNuovoAvviso": null,
+  "dataPCP": "2026-11-24T10:53:15.000+00:00",
+  "dataCreazione": "2026-11-24T09:53:15.651+00:00",
+  "tipo": "avviso",
+  "attivo": true,
+  "nuovoAvviso": null,
+  "codiceEform": null,
+  "stato": "NON_VERIFICATO",
+  "ambiente": null,
+  "categorie": null
+ },
+ {
+  "codiceScheda": "P1_16",
+  "tipologia": "BANDI",
+  "dataPubblicazione": "2026-11-25T07:00:00.497+00:00",
+  "dataScadenza": "2027-01-07T11:00:00.000+00:00",
+  "templates": [
+   {
+    "template": {
+     "metadata": {
+      "link_eform_ted": "https://ted.europa.eu/udl?uri=TED:NOTICE:814430-2026:TEXT:IT:HTML",
+      "titolo": "SERVIZIO DI NOLEGGIO DI ALLESTIMENTI TEMPORANEI PER EVENTI, ANCHE DI CARATTERE NON SPORTIVO, DA ESEGUIRSI SU TUTTO IL TERRITORIO NAZIONALE.",
+      "descrizione": "PROCEDURA TELEMATICA APERTA PER LA CONCLUSIONE DI UN ACCORDO QUADRO CON DUE OPERATORI ECONOMICI, AI SENSI DELL’ARTICOLO 59, COMMA 4, LETTERA A), DEL D.LGS. 36/2023, AVENTE AD OGGETTO IL SERVIZIO DI NOLEGGIO DI ALLESTIMENTI TEMPORANEI PER EVENTI, ANCHE DI CARATTERE NON SPORTIVO, DA ESEGUIRSI SU TUTTO IL TERRITORIO NAZIONALE."
+     },
+     "sections": [
+      {
+       "name": "SEZ. A - Committente",
+       "fields": {
+        "soggetti_sa": [
+         {
+          "codice_fiscale": "07207761003",
+          "denominazione_amministrazione": "SPORT E SALUTE S.P.A."
+         }
+        ]
+       }
+      },
+      {
+       "name": "SEZ. B - Dati Generali",
+       "fields": {
+        "documenti_di_gara_link": "https://procurement.sportesalute.eu/portalegare/index.php/bandi",
+        "accordo_quadro": "Accordo quadro, senza riapertura della gara",
+        "sistema_dinamico_acquisizione": "Nessun sistema dinamico di acquisizione",
+        "tipo_procedura_aggiudicazione": "Aperta",
+        "asta_elettronica": "false"
+       }
+      },
+      {
+       "name": "SEZ. C - Oggetto",
+       "items": [
+        {
+         "tipo_oggetto": "lotto",
+         "cig": "BDEEC93BD2",
+         "natura_principale": "Servizi",
+         "descrizione": "Servizio di noleggio di allestimenti temporanei per eventi, anche di carattere non sportivo",
+         "cpv": "Servizi di organizzazione di mostre, fiere e congressi",
+         "valore_complessivo_stimato": 10881600.0,
+         "documenti_di_gara_link": "https://procurement.sportesalute.eu/portalegare/index.php/bandi",
+         "luogo_nuts": "Roma",
+         "luogo_istat": "ROMA",
+         "durata_contratto": "730",
+         "asta_elettronica": "false",
+         "criteri_aggiudicazione": "Qualità",
+         "termine_ricezione": "2027-01-07+01:00",
+         "durata": "730",
+         "accordo_quadro": "Accordo quadro, senza riapertura della gara",
+         "sistema_dinamico_acquisizione": "Nessun sistema dinamico di acquisizione",
+         "categorie": [
+          {
+           "codice": "FS",
+           "descrizione": "FORNITURA DI SERVIZI"
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    },
+    "lingua": "it"
+   }
+  ],
+  "idAvviso": "6715024b-c36a-48f8-ae22-a2d6c456c65d",
+  "count": 44.0,
+  "paginationToken": "CLuUSRoJKXEPgRGiAQAAGgJgARoGEICAgPgHIg5aDGsFAV3lh/fJCQAukw==",
+  "score": 1.0,
+  "scoreDetails": {
+   "value": 1.0,
+   "description": "sum of:",
+   "details": [
+    {
+     "value": 0.0,
+     "description": "match on required clause, product of:",
+     "details": [
+      {
+       "value": 0.0,
+       "description": "# clause",
+       "details": []
+      },
+      {
+       "value": 1.0,
+       "description": "IndexOrDocValuesQuery(indexQuery=$type:dateV2/dataPubblicazione:[1794700800000 TO 1795611594699], dvQuery=$type:dateV2/dataPubblicazione:[1794700800000 TO 1795611594699])",
        "details": []
       }
      ]
@@ -234,139 +315,15 @@
   },
   "oscurato": false,
   "noteOscuramento": null,
-  "idAppalto": "8f1a5af0-14ef-4471-b7e2-9caa4bd63106",
+  "idAppalto": "48b43001-340f-4571-ae95-5f5ce72040d6",
   "dataPubblicazioneNuovoAvviso": null,
   "tipoNuovoAvviso": null,
-  "dataPCP": "2026-11-23T14:21:25.000+00:00",
-  "dataCreazione": "2026-11-23T13:21:25.460+00:00",
+  "dataPCP": "2026-11-23T23:00:00.000+00:00",
+  "dataCreazione": "2026-11-24T03:15:41.497+00:00",
   "tipo": "avviso",
   "attivo": true,
   "nuovoAvviso": null,
-  "codiceEform": null,
-  "stato": "NON_VERIFICATO",
-  "ambiente": null,
-  "categorie": null
- },
- {
-  "codiceScheda": "AD2_25",
-  "tipologia": "RISULTATI",
-  "dataPubblicazione": "2026-11-23T07:00:00.661+00:00",
-  "dataScadenza": null,
-  "templates": [
-   {
-    "template": {
-     "metadata": {
-      "link_eform_ted": null,
-      "titolo": null,
-      "descrizione": "Servizi di Centro Media e Pianificazione Pubblicitaria"
-     },
-     "sections": [
-      {
-       "name": "SEZ. A - Committente",
-       "fields": {
-        "soggetti_sa": [
-         {
-          "codice_fiscale": "80017210727",
-          "denominazione_amministrazione": "REGIONE PUGLIA"
-         }
-        ]
-       }
-      },
-      {
-       "name": "SEZ. B - Dati Generali",
-       "fields": {
-        "documenti_di_gara_link": "https://www.acquistinretepa.it/bandi/negoziata/rdo-td/95d837ba855a64bf",
-        "sistema_dinamico_acquisizione": "Nessun sistema dinamico di acquisizione",
-        "tipo_procedura_aggiudicazione": "Altra procedura a fase unica"
-       }
-      },
-      {
-       "name": "SEZ. C - Oggetto",
-       "items": [
-        {
-         "tipo_oggetto": "aggiudicazione",
-         "cig": "BDE7D953DB",
-         "natura_principale": "Servizi",
-         "descrizione": "Servizi di Centro Media e Pianificazione Pubblicitaria",
-         "cpv": "Servizi di campagne pubblicitarie",
-         "documenti_di_gara_link": "https://www.acquistinretepa.it/bandi/negoziata/rdo-td/95d837ba855a64bf",
-         "luogo_nuts": "Bari",
-         "luogo_istat": "BARI",
-         "valore_affidamento": 130000.0,
-         "sistema_dinamico_acquisizione": "Nessun sistema dinamico di acquisizione",
-         "aggiudicatari_ad": [
-          {
-           "importo": 130000.0,
-           "soggetti": [
-            {
-             "codice_fiscale": "07056980720",
-             "denominazione": "COM SOCIETA' COOPERATIVA A RESPONSABILITA' LIMITATA"
-            }
-           ]
-          }
-         ],
-         "categorie": [
-          {
-           "codice": "FS",
-           "descrizione": "FORNITURA DI SERVIZI"
-          }
-         ]
-        }
-       ]
-      }
-     ]
-    },
-    "lingua": "it"
-   }
-  ],
-  "idAvviso": "6f43b752-bf8f-4806-9c96-c7e71b1b7740",
-  "count": 36.0,
-  "paginationToken": "CMG0RxoJKRVYNAeiAQAAGgJgARoGEICAgPgHIg5aDGsAJtu52QHCDidrXA==",
-  "score": 1.0,
-  "scoreDetails": {
-   "value": 1.0,
-   "description": "sum of:",
-   "details": [
-    {
-     "value": 0.0,
-     "description": "match on required clause, product of:",
-     "details": [
-      {
-       "value": 0.0,
-       "description": "# clause",
-       "details": []
-      },
-      {
-       "value": 1.0,
-       "description": "IndexOrDocValuesQuery(indexQuery=$type:dateV2/dataPubblicazione:[1794614400000 TO 1795528087500], dvQuery=$type:dateV2/dataPubblicazione:[1794614400000 TO 1795528087500])",
-       "details": []
-      }
-     ]
-    },
-    {
-     "value": 1.0,
-     "description": "sum of:",
-     "details": [
-      {
-       "value": 1.0,
-       "description": "$type:token/templates.template.sections.items.cpv:[[53 65 72 76 69 7a 69 20 64 69 20 63 61 6d 70 61 67 6e 65 20 70 75 62 62 6c 69 63 69 74 61 72 69 65] TO [53 65 72 76 69 7a 69 20 64 69 20 63 61 6d 70 61 67 6e 65 20 70 75 62 62 6c 69 63 69 74 61 72 69 65]]",
-       "details": []
-      }
-     ]
-    }
-   ]
-  },
-  "oscurato": false,
-  "noteOscuramento": null,
-  "idAppalto": "67261c9e-d015-498d-9dc6-46f01547671a",
-  "dataPubblicazioneNuovoAvviso": null,
-  "tipoNuovoAvviso": null,
-  "dataPCP": "2026-11-20T11:54:19.000+00:00",
-  "dataCreazione": "2026-11-20T10:54:19.661+00:00",
-  "tipo": "avviso",
-  "attivo": true,
-  "nuovoAvviso": null,
-  "codiceEform": null,
+  "codiceEform": "16",
   "stato": "NON_VERIFICATO",
   "ambiente": null,
   "categorie": null

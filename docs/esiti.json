@@ -1,14 +1,279 @@
 {
  "stato": {
-  "aggiornato": "2026-11-24T13:48",
-  "letti_oggi": 83,
-  "nuovi_oggi": 3,
+  "aggiornato": "2026-11-25T12:59",
+  "letti_oggi": 100,
+  "nuovi_oggi": 13,
   "aperte_pertinenti": 20,
-  "esiti_pertinenti": 132,
-  "scartati_oggi": 22,
+  "esiti_pertinenti": 139,
+  "scartati_oggi": 26,
   "errori": []
  },
  "esiti": [
+  {
+   "id": "anac:b7202d7b-d150-47e2-a367-904b359931f0",
+   "fonte": "ANAC PVL",
+   "tipologia": "RISULTATI",
+   "titolo": "ATTUAZIONE DEL PROGETTO “METAVIGLIA – JAC” (CUP: G39125001250001). INDIZIONE DI PROCEDURA NEGOZIATA SOTTO SOGLIA AI SENSI DELL’ART. 50, COMMA 1, LETT. E) DEL D.LGS. 36/2023, SUDDIVISA IN TRE LOTTI PRESTAZIONALI CON IL CRITERIO DELL’OFFERTA ECONOMICAMENTE PIÙ VANTAGGIOSA SULLA BASE DEL MIGLIOR RAPPORTO QUALITÀ/PREZZO, A PREZZO FISSO, AI SENSI DELL’ART. 108, COMMA 5 DEL D.LGS. 36/2023",
+   "descrizione": "ATTUAZIONE DEL PROGETTO “METAVIGLIA – JAC” (CUP: G39125001250001). INDIZIONE DI PROCEDURA NEGOZIATA SOTTO SOGLIA AI SENSI DELL’ART. 50, COMMA 1, LETT. E) DEL D.LGS. 36/2023, SUDDIVISA IN TRE LOTTI PRESTAZIONALI CON IL CRITERIO DELL’OFFERTA ECONOMICAMENTE PIÙ VANTAGGIOSA SULLA BASE DEL MIGLIOR RAPPORTO QUALITÀ/PREZZO, A PREZZO FISSO, AI SENSI DELL’ART. 108, COMMA 5 DEL D.LGS. 36/2023",
+   "ente": "ACCORDO CONVENZIONALE CONSORTILE PER L'ISTITUZIONE DELLA CENTRALE UNICA DI COMMITTENZA  COMUNI DI CAMPOMARINO, GUGLIONESI E TERMOLI",
+   "cf_ente": "CFAVCP-0000E35",
+   "luogo_istat": "TERMOLI",
+   "luogo_nuts": "Campobasso",
+   "importo": 118124.0,
+   "lotti": 3,
+   "cig": [
+    "BBDAA2469C",
+    "BBDAA2576F",
+    "BBDAA26842"
+   ],
+   "cpv": "Servizi di produzione di film e video",
+   "procedura": "Negoziata senza previa indizione di gara",
+   "pubblicazione": "2026-11-25T07:00",
+   "scadenza": null,
+   "link_avviso": "https://pubblicitalegale.anticorruzione.it/bandi/b7202d7b-d150-47e2-a367-904b359931f0",
+   "link_documenti": "https://comunetermoli.traspare.com/announcements/2576",
+   "link_ted": null,
+   "aggiudicatari": [
+    "Immerso",
+    "Red Group Italia s.r.l."
+   ],
+   "valore_aggiudicato": 95893.85,
+   "kw_score": 3,
+   "kw_trovate": [
+    "video"
+   ],
+   "kw_escluse": [],
+   "esecuzione": "trasferta breve",
+   "fuori_taglia": false,
+   "pertinente": true,
+   "motivo_scarto": null,
+   "primo_avvistamento": "2026-11-25"
+  },
+  {
+   "id": "anac:e2c2a742-48ee-417c-b972-d7f1ab56d8a3",
+   "fonte": "ANAC PVL",
+   "tipologia": "RISULTATI",
+   "titolo": "SERVIZIO IMPAGINAZIONE GRAFICA E STAMPA N. 1000 COPIE RAPPORTO CNEL GIOVANI 2026",
+   "descrizione": "SERVIZIO IMPAGINAZIONE GRAFICA E STAMPA N. 1000 COPIE RAPPORTO CNEL GIOVANI 2026",
+   "ente": "CONSIGLIO NAZIONALE DELL'ECONOMIA E DEL LAVORO",
+   "cf_ente": "80198830582",
+   "luogo_istat": "ROMA",
+   "luogo_nuts": "ITALIA",
+   "importo": null,
+   "lotti": 1,
+   "cig": [
+    "BDF6824435"
+   ],
+   "cpv": "Servizi di stampa e di consegna",
+   "procedura": "Altra procedura a fase unica",
+   "pubblicazione": "2026-11-25T07:00",
+   "scadenza": null,
+   "link_avviso": "https://pubblicitalegale.anticorruzione.it/bandi/e2c2a742-48ee-417c-b972-d7f1ab56d8a3",
+   "link_documenti": "https://www.acquistinretepa.it/bandi/negoziata/rdo-td/ab26235ecce5024c",
+   "link_ted": null,
+   "aggiudicatari": [],
+   "valore_aggiudicato": null,
+   "kw_score": 3,
+   "kw_trovate": [
+    "grafic"
+   ],
+   "kw_escluse": [],
+   "esecuzione": "da remoto",
+   "fuori_taglia": false,
+   "pertinente": true,
+   "motivo_scarto": null,
+   "primo_avvistamento": "2026-11-25"
+  },
+  {
+   "id": "anac:2650177a-18be-444d-a915-b4d5d793f8a4",
+   "fonte": "ANAC PVL",
+   "tipologia": "RISULTATI",
+   "titolo": "Richiesta di offerta economica per l’affidamento del servizio di acquisizione dell’area espositiva e dei servizi necessari per la realizzazione dello stand della Regione del Veneto in occasione della manifestazione “TTG RIMINI 2026” (in programma presso il Rimini Expo Center dal 14 al 16 ottobre 2026).",
+   "descrizione": "Richiesta di offerta economica per l’affidamento del servizio di acquisizione dell’area espositiva e dei servizi necessari per la realizzazione dello stand della Regione del Veneto in occasione della manifestazione “TTG RIMINI 2026” (in programma presso il Rimini Expo Center dal 14 al 16 ottobre 2026).",
+   "ente": "VENETO INNOVAZIONE S.P.A.",
+   "cf_ente": "02568090274",
+   "luogo_istat": "RIMINI",
+   "luogo_nuts": "ITALIA",
+   "importo": 202500.0,
+   "lotti": 1,
+   "cig": [
+    "BCAA2354D0"
+   ],
+   "cpv": "Servizi di organizzazione di eventi",
+   "procedura": "Negoziata senza previa indizione di gara",
+   "pubblicazione": "2026-11-25T07:00",
+   "scadenza": null,
+   "link_avviso": "https://pubblicitalegale.anticorruzione.it/bandi/2650177a-18be-444d-a915-b4d5d793f8a4",
+   "link_documenti": "https://venetoinnovazione.acquistitelematici.it/tender-esiti/dettaglio/2692",
+   "link_ted": null,
+   "aggiudicatari": [
+    "ITALIAN EXHIBITION GROUP SPA"
+   ],
+   "valore_aggiudicato": 202500.0,
+   "kw_score": 4,
+   "kw_trovate": [
+    "eventi",
+    "manifestazion",
+    "stand"
+   ],
+   "kw_escluse": [],
+   "esecuzione": "evento in loco",
+   "fuori_taglia": false,
+   "pertinente": true,
+   "motivo_scarto": null,
+   "primo_avvistamento": "2026-11-25"
+  },
+  {
+   "id": "anac:5af95778-8484-4894-8cc2-bbe445ad9145",
+   "fonte": "ANAC PVL",
+   "tipologia": "RISULTATI",
+   "titolo": "PROCEDURA NEGOZIATA EX ART. 76 DLGS N. 36/2023 REALIZZAZIONE RAPPRESENTAZIONE ARTISTICA RICONOSCENZA",
+   "descrizione": "PROCEDURA NEGOZIATA EX ART. 76 DLGS N. 36/2023 REALIZZAZIONE RAPPRESENTAZIONE ARTISTICA RICONOSCENZA",
+   "ente": "REGIONE UMBRIA",
+   "cf_ente": "80000130544",
+   "luogo_istat": "ASSISI",
+   "luogo_nuts": "Umbria",
+   "importo": 20000.0,
+   "lotti": 1,
+   "cig": [
+    "BD8CA6AF1B"
+   ],
+   "cpv": "Servizi di organizzazione di eventi",
+   "procedura": "Negoziata senza previa indizione di gara",
+   "pubblicazione": "2026-11-25T07:00",
+   "scadenza": null,
+   "link_avviso": "https://pubblicitalegale.anticorruzione.it/bandi/5af95778-8484-4894-8cc2-bbe445ad9145",
+   "link_documenti": "https://app.albofornitori.it/alboeproc/albo_regioneumbria",
+   "link_ted": null,
+   "aggiudicatari": [
+    "SIMULARTE SOCIETà COOPERATIVA IMPRESA CULTURALE E CREATIVA"
+   ],
+   "valore_aggiudicato": 20000.0,
+   "kw_score": 2,
+   "kw_trovate": [
+    "eventi"
+   ],
+   "kw_escluse": [],
+   "esecuzione": "evento in loco",
+   "fuori_taglia": false,
+   "pertinente": true,
+   "motivo_scarto": null,
+   "primo_avvistamento": "2026-11-25"
+  },
+  {
+   "id": "anac:acd5cbcc-1e62-4543-964a-37e22ae1f8a8",
+   "fonte": "ANAC PVL",
+   "tipologia": "RISULTATI",
+   "titolo": "procedura negoziata ex art 76 dlgs n. 36/2023 servizi comunicazione EUROCHOCOLATE 2026 FESR",
+   "descrizione": "procedura negoziata ex art 76 dlgs n. 36/2023 servizi comunicazione EUROCHOCOLATE 2026 FESR",
+   "ente": "REGIONE UMBRIA",
+   "cf_ente": "80000130544",
+   "luogo_istat": "PERUGIA",
+   "luogo_nuts": "Umbria",
+   "importo": 41024.59,
+   "lotti": 1,
+   "cig": [
+    "BD85CAD00C"
+   ],
+   "cpv": "Servizi di organizzazione di eventi",
+   "procedura": "Negoziata senza previa indizione di gara",
+   "pubblicazione": "2026-11-25T07:00",
+   "scadenza": null,
+   "link_avviso": "https://pubblicitalegale.anticorruzione.it/bandi/acd5cbcc-1e62-4543-964a-37e22ae1f8a8",
+   "link_documenti": "https://app.albofornitori.it/alboeproc/albo_regioneumbria",
+   "link_ted": null,
+   "aggiudicatari": [
+    "Gioform Srl Unipersonale"
+   ],
+   "valore_aggiudicato": 41024.59,
+   "kw_score": 4,
+   "kw_trovate": [
+    "comunicazione",
+    "eventi"
+   ],
+   "kw_escluse": [],
+   "esecuzione": "evento in loco",
+   "fuori_taglia": false,
+   "pertinente": true,
+   "motivo_scarto": null,
+   "primo_avvistamento": "2026-11-25"
+  },
+  {
+   "id": "anac:44962d08-6de7-43ac-9757-31027f71f54e",
+   "fonte": "ANAC PVL",
+   "tipologia": "RISULTATI",
+   "titolo": "procedura negoziata ex art. 76 dlgs 36/2023 servixzi comunicazione UMBRIA JAZZ VWINTER 2026 FSE",
+   "descrizione": "procedura negoziata ex art. 76 dlgs 36/2023 servixzi comunicazione UMBRIA JAZZ VWINTER 2026 FSE",
+   "ente": "REGIONE UMBRIA",
+   "cf_ente": "80000130544",
+   "luogo_istat": "PERUGIA",
+   "luogo_nuts": "Umbria",
+   "importo": 17200.0,
+   "lotti": 1,
+   "cig": [
+    "BD854E0012"
+   ],
+   "cpv": "Servizi di organizzazione di eventi",
+   "procedura": "Negoziata senza previa indizione di gara",
+   "pubblicazione": "2026-11-25T07:00",
+   "scadenza": null,
+   "link_avviso": "https://pubblicitalegale.anticorruzione.it/bandi/44962d08-6de7-43ac-9757-31027f71f54e",
+   "link_documenti": "https://app.albofornitori.it/alboeproc/albo_regioneumbria",
+   "link_ted": null,
+   "aggiudicatari": [
+    "FONDAZIONE DI PARTECIPAZIONE UMBRIA JAZZ"
+   ],
+   "valore_aggiudicato": 17200.0,
+   "kw_score": 4,
+   "kw_trovate": [
+    "comunicazione",
+    "eventi"
+   ],
+   "kw_escluse": [],
+   "esecuzione": "evento in loco",
+   "fuori_taglia": false,
+   "pertinente": true,
+   "motivo_scarto": null,
+   "primo_avvistamento": "2026-11-25"
+  },
+  {
+   "id": "anac:aa006414-8755-457d-b165-38d9a26c97eb",
+   "fonte": "ANAC PVL",
+   "tipologia": "RISULTATI",
+   "titolo": "procedura negoziata ex art 76 d.lgs n. 36/2023 servizi comunicazione EUROCHOCOLATE FSE",
+   "descrizione": "procedura negoziata ex art 76 d.lgs n. 36/2023 servizi comunicazione EUROCHOCOLATE FSE",
+   "ente": "REGIONE UMBRIA",
+   "cf_ente": "80000130544",
+   "luogo_istat": "PERUGIA",
+   "luogo_nuts": "Umbria",
+   "importo": 22090.16,
+   "lotti": 1,
+   "cig": [
+    "BD85D2EA7D"
+   ],
+   "cpv": "Servizi di organizzazione di eventi",
+   "procedura": "Negoziata senza previa indizione di gara",
+   "pubblicazione": "2026-11-25T07:00",
+   "scadenza": null,
+   "link_avviso": "https://pubblicitalegale.anticorruzione.it/bandi/aa006414-8755-457d-b165-38d9a26c97eb",
+   "link_documenti": "https://app.albofornitori.it/alboeproc/albo_regioneumbria",
+   "link_ted": null,
+   "aggiudicatari": [
+    "Gioform Srl Unipersonale"
+   ],
+   "valore_aggiudicato": 22090.16,
+   "kw_score": 4,
+   "kw_trovate": [
+    "comunicazione",
+    "eventi"
+   ],
+   "kw_escluse": [],
+   "esecuzione": "evento in loco",
+   "fuori_taglia": false,
+   "pertinente": true,
+   "motivo_scarto": null,
+   "primo_avvistamento": "2026-11-25"
+  },
   {
    "id": "anac:4ffafec7-f236-4e48-bf19-0201746d979d",
    "fonte": "ANAC PVL",

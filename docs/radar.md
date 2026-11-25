@@ -1,23 +1,5 @@
-# Radar gare Adduma, aggiornato 2026-11-24T13:48
-Letti oggi 83, nuovi 3, gare aperte pertinenti 20. Errori: 0
-
-## GARA EUROPEA A PROCEDURA TELEMATICA APERTA PER LA STIPULA DI UN ACCORDO QUADRO MONOAGGIUDICATARIO PER L’AFFIDAMENTO DI SERVIZI DI ALLESTIMENTO IN OCCASIONE DI EVENTI, FIERE, MOSTRE E CONVEGNI DEL POLITECNICO DI MILANO
-- ente: POLITECNICO DI MILANO | luogo ISTAT MILANO
-- tipologia: BANDI | procedura: Aperta | CIG: BD7BEDF68E
-- importo: 1.734.227 € (FUORI TAGLIA) | lotti: 1
-- pubblicato: 27/10/2026 07:00 | scadenza: 24/11/2026 14:00 | primo avvistamento: 2026-10-27
-- esecuzione: evento in loco | parole chiave: eventi, allestiment
-- avviso: https://pubblicitalegale.anticorruzione.it/bandi/56565b9e-f696-4145-8e24-7af64fe4f6b8
-- documenti: https://www.polimi.it/imprese/bandiperleimprese/bandidigara
-
-## AVVISO DI INDAGINE DI MERCATO FINALIZZATO ALL’ACQUISIZIONE DI MANIFESTAZIONE DI INTERESSE PER L’INDIVIDUAZIONE DI OPERATORI ECONOMICI INTERESSATI A PARTECIPARE ALLA PROCEDURA NEGOZIATA SENZA PUBBLICAZIONE DI BANDO, PER L'AFFIDAMENTO DEL SERVIZIO DI SUPPORTO ALLA DIFFUSIONE E COMUNICAZIONE DEGLI INTERVENTI E DEI RISULTATI DI SVILUPPO LAVORO S.P.A.
-- ente: SVILUPPO LAVORO ITALIA S.P.A. | luogo ISTAT ROMA
-- tipologia: INDAGINI_DI_MERCATO_SOTTO_SOGLIA | procedura: n.d. | CIG: BDB584EAA9
-- importo: 210.000 € | lotti: 1
-- pubblicato: 10/11/2026 07:00 | scadenza: 24/11/2026 22:59 | primo avvistamento: 2026-11-10
-- esecuzione: evento in loco | parole chiave: comunicazione, pubblicit, marketing, manifestazion
-- avviso: https://pubblicitalegale.anticorruzione.it/bandi/460d6b6f-d200-4299-b283-bc8f7165da5d
-- documenti: https://sviluppolavoroitalia.acquistitelematici.it/tender/60
+# Radar gare Adduma, aggiornato 2026-11-25T12:59
+Letti oggi 100, nuovi 13, gare aperte pertinenti 20. Errori: 0
 
 ## SERVIZIO DI ORGANIZZAZIONE E SUPPORTO ALLA COMUNICAZIONE DEGLI EVENTI NELL’AMBITO DELLA PAVIA INNOVATION WEEK 2027
 - ente: CMP SVILUPPOIMPRESA - AZIENDA SPECIALE DELLA CAMERA DI COMMERCIO DI CREMONA-MANTOVA-PAVIA | luogo ISTAT PAVIA
@@ -118,6 +100,15 @@ Letti oggi 83, nuovi 3, gare aperte pertinenti 20. Errori: 0
 - avviso: https://pubblicitalegale.anticorruzione.it/bandi/b5b70a71-d90e-4c11-9511-71edc31cb2fc
 - documenti: https://sicopat2.provincia.tn.it/trasparenza-fe/#/procedura?uuid=e1db6c6f-b41c-43de-88ae-c1accc926ba0
 
+## PROCEDURA APERTA ART 71 D. LGS 36 2023 PER AFFIDAMENTO DEI SERVIZI DI ALLESTIMENTO DEL PADIGLIONE  DI COMUNICAZIONE COMPRENSIVA DELLO SVILUPPO DELL' IDENTITA' VISIVA E DEI SERVIZI CONNESSI ALLA PARTECIPAZIONE DELLA COLLETTIVA VITIVINICOLA DELLA REGIONE LAZIO A VINITALY 2027
+- ente: ARSIAL | luogo ISTAT VERONA
+- tipologia: BANDI | procedura: Aperta | CIG: BDEA73B26B
+- importo: 2.175.851 € (FUORI TAGLIA) | lotti: 1
+- pubblicato: 25/11/2026 07:00 | scadenza: 17/12/2026 17:00 | primo avvistamento: 2026-11-25
+- esecuzione: evento in loco | parole chiave: identita visiva, comunicazione, eventi, allestiment
+- avviso: https://pubblicitalegale.anticorruzione.it/bandi/4fd7fd28-772f-4b05-81b5-8597d2f55e60
+- documenti: https://www.acquistinretepa.it/bandi/aperta/gara-asp/eb3986b57ee6b6c4
+
 ## ACCORDO QUADRO PER SERVIZIO DI ORGANIZZAZIONE EVENTI DI ORIENTAMENTO SCOLASTICO E PROFESSIONALE PER GLI ANNI 2027-2030.
 - ente: STAZIONE UNICA APPALTANTE DELLA PROVINCIA DI LECCO | luogo ISTAT LECCO
 - tipologia: BANDI | procedura: Aperta | CIG: BDD8F5BC9B
@@ -126,6 +117,15 @@ Letti oggi 83, nuovi 3, gare aperte pertinenti 20. Errori: 0
 - esecuzione: evento in loco | parole chiave: eventi
 - avviso: https://pubblicitalegale.anticorruzione.it/bandi/5cd813e3-9468-499c-967b-3eeedfd93c2a
 - documenti: https://www.ariaspa.it
+
+## SERVIZIO DI NOLEGGIO DI ALLESTIMENTI TEMPORANEI PER EVENTI, ANCHE DI CARATTERE NON SPORTIVO, DA ESEGUIRSI SU TUTTO IL TERRITORIO NAZIONALE.
+- ente: SPORT E SALUTE S.P.A. | luogo ISTAT ROMA
+- tipologia: BANDI | procedura: Aperta | CIG: BDEEC93BD2
+- importo: 10.881.600 € (FUORI TAGLIA) | lotti: 1
+- pubblicato: 25/11/2026 07:00 | scadenza: 07/01/2027 11:00 | primo avvistamento: 2026-11-25
+- esecuzione: evento in loco | parole chiave: eventi, allestiment
+- avviso: https://pubblicitalegale.anticorruzione.it/bandi/6715024b-c36a-48f8-ae22-a2d6c456c65d
+- documenti: https://procurement.sportesalute.eu/portalegare/index.php/bandi
 
 ## Premio FVGreen
 - ente: REGIONE AUTONOMA FRIULI VENEZIA GIULIA | luogo ISTAT TRIESTE
