@@ -1,14 +1,194 @@
 {
  "stato": {
-  "aggiornato": "2026-11-25T12:59",
-  "letti_oggi": 100,
-  "nuovi_oggi": 13,
-  "aperte_pertinenti": 20,
-  "esiti_pertinenti": 139,
-  "scartati_oggi": 26,
+  "aggiornato": "2026-11-26T12:40",
+  "letti_oggi": 109,
+  "nuovi_oggi": 6,
+  "aperte_pertinenti": 19,
+  "esiti_pertinenti": 144,
+  "scartati_oggi": 29,
   "errori": []
  },
  "esiti": [
+  {
+   "id": "anac:ce3bef32-4049-46f5-aef9-0d07318e621d",
+   "fonte": "ANAC PVL",
+   "tipologia": "RISULTATI",
+   "titolo": "RICHIESTA DI PREVENTIVO PER IL SERVIZIO NOTIFICA ATTI AI CONTRIBUENTI DEL COMUNE DI SEZZE",
+   "descrizione": "RICHIESTA DI PREVENTIVO PER IL SERVIZIO NOTIFICA ATTI AI CONTRIBUENTI DEL COMUNE DI SEZZE",
+   "ente": "COMUNE DI SEZZE",
+   "cf_ente": "00130430598",
+   "luogo_istat": "SEZZE",
+   "luogo_nuts": "Latina",
+   "importo": null,
+   "lotti": 1,
+   "cig": [
+    "BDF88E0799"
+   ],
+   "cpv": "Servizi di composizione",
+   "procedura": "Altra procedura a fase unica",
+   "pubblicazione": "2026-11-26T07:00",
+   "scadenza": null,
+   "link_avviso": "https://pubblicitalegale.anticorruzione.it/bandi/ce3bef32-4049-46f5-aef9-0d07318e621d",
+   "link_documenti": "https://www.acquistinretepa.it/bandi/negoziata/rdo-td/e9081549578ab4cd",
+   "link_ted": null,
+   "aggiudicatari": [],
+   "valore_aggiudicato": null,
+   "kw_score": 2,
+   "kw_trovate": [
+    "eventi"
+   ],
+   "kw_escluse": [],
+   "esecuzione": "evento in loco",
+   "fuori_taglia": false,
+   "pertinente": true,
+   "motivo_scarto": null,
+   "primo_avvistamento": "2026-11-26"
+  },
+  {
+   "id": "anac:d9943fc0-2623-4dcb-8d18-306f6e2cc56e",
+   "fonte": "ANAC PVL",
+   "tipologia": "RISULTATI",
+   "titolo": "Copia di Copia di SERVIZIO IAT - SERVIZI AMMINISTRATIVI CONNESSI AL TURISMO",
+   "descrizione": "Copia di Copia di SERVIZIO IAT - SERVIZI AMMINISTRATIVI CONNESSI AL TURISMO",
+   "ente": "COMUNE DI VICOLUNGO",
+   "cf_ente": "00437100035",
+   "luogo_istat": "VICOLUNGO",
+   "luogo_nuts": "Novara",
+   "importo": null,
+   "lotti": 1,
+   "cig": [
+    "BDF966608A"
+   ],
+   "cpv": "Servizi di fotografia pubblicitaria",
+   "procedura": "Altra procedura a fase unica",
+   "pubblicazione": "2026-11-26T07:00",
+   "scadenza": null,
+   "link_avviso": "https://pubblicitalegale.anticorruzione.it/bandi/d9943fc0-2623-4dcb-8d18-306f6e2cc56e",
+   "link_documenti": "https://www.acquistinretepa.it/bandi/negoziata/rdo-td/d8d923787d56365b",
+   "link_ted": null,
+   "aggiudicatari": [],
+   "valore_aggiudicato": null,
+   "kw_score": 4,
+   "kw_trovate": [
+    "pubblicit",
+    "fotograf"
+   ],
+   "kw_escluse": [],
+   "esecuzione": "trasferta breve",
+   "fuori_taglia": false,
+   "pertinente": true,
+   "motivo_scarto": null,
+   "primo_avvistamento": "2026-11-26"
+  },
+  {
+   "id": "anac:a2b7b5aa-15b0-4b11-a7a2-4288e1a768f7",
+   "fonte": "ANAC PVL",
+   "tipologia": "RISULTATI",
+   "titolo": "PROCEDURA NEGOZIATA EX ART. 76 DLGS 36/2023 UMBRIA JAZZ WINTER 2026 FESR",
+   "descrizione": "PROCEDURA NEGOZIATA EX ART. 76 DLGS 36/2023 UMBRIA JAZZ WINTER 2026 FESR",
+   "ente": "REGIONE UMBRIA",
+   "cf_ente": "80000130544",
+   "luogo_istat": "PERUGIA",
+   "luogo_nuts": "Umbria",
+   "importo": 22800.0,
+   "lotti": 1,
+   "cig": [
+    "BD852DD712"
+   ],
+   "cpv": "Servizi di organizzazione di eventi",
+   "procedura": "Negoziata senza previa indizione di gara",
+   "pubblicazione": "2026-11-26T07:00",
+   "scadenza": null,
+   "link_avviso": "https://pubblicitalegale.anticorruzione.it/bandi/a2b7b5aa-15b0-4b11-a7a2-4288e1a768f7",
+   "link_documenti": "https://app.albofornitori.it/alboeproc/albo_regioneumbria",
+   "link_ted": null,
+   "aggiudicatari": [
+    "FONDAZIONE DI PARTECIPAZIONE UMBRIA JAZZ"
+   ],
+   "valore_aggiudicato": 22800.0,
+   "kw_score": 2,
+   "kw_trovate": [
+    "eventi"
+   ],
+   "kw_escluse": [],
+   "esecuzione": "evento in loco",
+   "fuori_taglia": false,
+   "pertinente": true,
+   "motivo_scarto": null,
+   "primo_avvistamento": "2026-11-26"
+  },
+  {
+   "id": "anac:8072765e-9fa2-4945-a311-2cc61bbe1ad8",
+   "fonte": "ANAC PVL",
+   "tipologia": "RISULTATI",
+   "titolo": "VICENZA ORO 2027. SERVIZI PARTECIPAZIONE REGIONE CAMPANIA",
+   "descrizione": "VICENZA ORO 2027. SERVIZI PARTECIPAZIONE REGIONE CAMPANIA",
+   "ente": "REGIONE CAMPANIA",
+   "cf_ente": "80011990639",
+   "luogo_istat": "VICENZA",
+   "luogo_nuts": "Vicenza",
+   "importo": null,
+   "lotti": 1,
+   "cig": [
+    "BD5C47B38C"
+   ],
+   "cpv": "Servizi di organizzazione di eventi",
+   "procedura": "Negoziata senza previa indizione di gara",
+   "pubblicazione": "2026-11-26T07:00",
+   "scadenza": null,
+   "link_avviso": "https://pubblicitalegale.anticorruzione.it/bandi/8072765e-9fa2-4945-a311-2cc61bbe1ad8",
+   "link_documenti": "https://www.acquistinretepa.it/bandi/negoziata/rdo-td/e830e6d4f51e33d1",
+   "link_ted": null,
+   "aggiudicatari": [],
+   "valore_aggiudicato": null,
+   "kw_score": 2,
+   "kw_trovate": [
+    "eventi"
+   ],
+   "kw_escluse": [],
+   "esecuzione": "evento in loco",
+   "fuori_taglia": false,
+   "pertinente": true,
+   "motivo_scarto": null,
+   "primo_avvistamento": "2026-11-26"
+  },
+  {
+   "id": "anac:c4c5feff-1f1c-4a49-b5fb-c5517c51a549",
+   "fonte": "ANAC PVL",
+   "tipologia": "RISULTATI",
+   "titolo": "approvazione avviso esplorativo per indagine di mercato finalizzato all'individuazione di operatori economici da invitare a successiva  procedura negoziata ai sensi dell'art. 50, comma 1, lett. e), del d.lgs. n. 36/2023 per l'affidamento dei servizi di ideazione e realizzazione degli spettacoli in occasione del capodanno 2027 e relative prestazioni e forniture connesse ed accessorie ",
+   "descrizione": "approvazione avviso esplorativo per indagine di mercato finalizzato all'individuazione di operatori economici da invitare a successiva  procedura negoziata ai sensi dell'art. 50, comma 1, lett. e), del d.lgs. n. 36/2023 per l'affidamento dei servizi di ideazione e realizzazione degli spettacoli in occasione del capodanno 2027 e relative prestazioni e forniture connesse ed accessorie ",
+   "ente": "COMUNE DI CAGLIARI",
+   "cf_ente": "00147990923",
+   "luogo_istat": "CAGLIARI",
+   "luogo_nuts": "ITALIA",
+   "importo": 410000.0,
+   "lotti": 1,
+   "cig": [
+    "BCF77A5F3A"
+   ],
+   "cpv": "Servizi di organizzazione di eventi",
+   "procedura": "Negoziata con previa indizione di gara / competitiva con negoziazione",
+   "pubblicazione": "2026-11-26T07:00",
+   "scadenza": null,
+   "link_avviso": "https://pubblicitalegale.anticorruzione.it/bandi/c4c5feff-1f1c-4a49-b5fb-c5517c51a549",
+   "link_documenti": "https://appalti.comune.cagliari.it/PortaleAppalti/it/procedure/codice/G02279",
+   "link_ted": null,
+   "aggiudicatari": [
+    "Vox Day"
+   ],
+   "valore_aggiudicato": 404014.0,
+   "kw_score": 2,
+   "kw_trovate": [
+    "eventi"
+   ],
+   "kw_escluse": [],
+   "esecuzione": "evento in loco",
+   "fuori_taglia": true,
+   "pertinente": true,
+   "motivo_scarto": null,
+   "primo_avvistamento": "2026-11-26"
+  },
   {
    "id": "anac:b7202d7b-d150-47e2-a367-904b359931f0",
    "fonte": "ANAC PVL",

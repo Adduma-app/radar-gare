@@ -1,50 +1,14 @@
 {
  "stato": {
-  "aggiornato": "2026-11-25T12:59",
-  "letti_oggi": 100,
-  "nuovi_oggi": 13,
-  "aperte_pertinenti": 20,
-  "esiti_pertinenti": 139,
-  "scartati_oggi": 26,
+  "aggiornato": "2026-11-26T12:40",
+  "letti_oggi": 109,
+  "nuovi_oggi": 6,
+  "aperte_pertinenti": 19,
+  "esiti_pertinenti": 144,
+  "scartati_oggi": 29,
   "errori": []
  },
  "gare": [
-  {
-   "id": "anac:cdec4df4-bb41-423c-85c2-f3a83bc24f65",
-   "fonte": "ANAC PVL",
-   "tipologia": "BANDI",
-   "titolo": "SERVIZIO DI ORGANIZZAZIONE E SUPPORTO ALLA COMUNICAZIONE DEGLI EVENTI NELL’AMBITO DELLA PAVIA INNOVATION WEEK 2027",
-   "descrizione": "SERVIZIO DI ORGANIZZAZIONE E SUPPORTO ALLA COMUNICAZIONE DEGLI EVENTI NELL’AMBITO DELLA PAVIA INNOVATION WEEK 2027",
-   "ente": "CMP SVILUPPOIMPRESA - AZIENDA SPECIALE DELLA CAMERA DI COMMERCIO DI CREMONA-MANTOVA-PAVIA",
-   "cf_ente": "02133390183",
-   "luogo_istat": "PAVIA",
-   "luogo_nuts": null,
-   "importo": 110000.0,
-   "lotti": 1,
-   "cig": [
-    "BDBC2FD46B"
-   ],
-   "cpv": "Servizi di organizzazione di eventi",
-   "procedura": "Aperta",
-   "pubblicazione": "2026-11-11T07:00",
-   "scadenza": "2026-11-25T12:00",
-   "link_avviso": "https://pubblicitalegale.anticorruzione.it/bandi/cdec4df4-bb41-423c-85c2-f3a83bc24f65",
-   "link_documenti": "https://www.cmpsviluppoimpresa.it/amministrazione-trasparente-cmp/",
-   "link_ted": null,
-   "aggiudicatari": [],
-   "valore_aggiudicato": null,
-   "kw_score": 4,
-   "kw_trovate": [
-    "comunicazione",
-    "eventi"
-   ],
-   "kw_escluse": [],
-   "esecuzione": "evento in loco",
-   "fuori_taglia": false,
-   "pertinente": true,
-   "motivo_scarto": null,
-   "primo_avvistamento": "2026-11-11"
-  },
   {
    "id": "anac:8faf37e8-39d1-4e95-8160-b3777a16d0ea",
    "fonte": "ANAC PVL",

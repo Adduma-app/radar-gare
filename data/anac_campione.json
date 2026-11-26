@@ -1,8 +1,8 @@
 [
  {
-  "codiceScheda": "M2",
-  "tipologia": "MODIFICHE_CONTRATTUALI",
-  "dataPubblicazione": "2026-11-25T07:00:00.708+00:00",
+  "codiceScheda": "AD2_25",
+  "tipologia": "RISULTATI",
+  "dataPubblicazione": "2026-11-26T07:00:00.722+00:00",
   "dataScadenza": null,
   "templates": [
    {
@@ -10,7 +10,7 @@
      "metadata": {
       "link_eform_ted": null,
       "titolo": null,
-      "descrizione": "Affidamento per la progettazione e realizzazione di strumenti di comunicazione per la promozione dell’accessibilità e dell’inclusività dell’offerta turistica e culturale della Regione ER nell’ambito del progetto “In Emilia-Romagna c’è una vacanza per me 2 – Welcome Everybody”"
+      "descrizione": "Copia di Copia di LIVING LAB CULTURA E TURISMO GENIUS LOCI  NEBRODENSIS - FORNITURA ATTREZZATURA PER LABORATORIO"
      },
      "sections": [
       {
@@ -18,8 +18,8 @@
        "fields": {
         "soggetti_sa": [
          {
-          "codice_fiscale": "80062590379",
-          "denominazione_amministrazione": "REGIONE EMILIA ROMAGNA"
+          "codice_fiscale": "00292200839",
+          "denominazione_amministrazione": "COMUNE DI FICARRA"
          }
         ]
        }
@@ -27,241 +27,162 @@
       {
        "name": "SEZ. B - Dati Generali",
        "fields": {
-        "documenti_di_gara_link": "https://intercenter.regione.emilia-romagna.it/trovabando/BANDO_GARA_PORTALE@16919165"
-       }
-      },
-      {
-       "name": "SEZ. C - Oggetto",
-       "items": [
-        {
-         "tipo_oggetto": "aggiudicazione",
-         "cig": "BD293B5DB5",
-         "natura_principale": "Servizi",
-         "descrizione": "Affidamento per la progettazione e realizzazione di strumenti di comunicazione per la promozione dell’accessibilità e dell’inclusività dell’offerta turistica e culturale della Regione ER nell’ambito del progetto “In Emilia-Romagna c’è una vacanza per me 2 – Welcome Everybody”",
-         "cpv": "Servizi pubblicitari e di marketing",
-         "documenti_di_gara_link": "https://intercenter.regione.emilia-romagna.it/trovabando/BANDO_GARA_PORTALE@16919165",
-         "luogo_nuts": "Bologna",
-         "luogo_istat": "BOLOGNA",
-         "data_stipula_contratto": "2026-11-02T00:00:00Z",
-         "motivazione_modifica": "Le modifiche non sono sostanziali."
-        }
-       ]
-      }
-     ]
-    },
-    "lingua": "it"
-   }
-  ],
-  "idAvviso": "a04b3df5-e187-4df4-bd9b-0558d2059168",
-  "count": 44.0,
-  "paginationToken": "CKqJSRoJKUQQgRGiAQAAGgJgARoGEICAgPgHIg5aDGsFntdZVLONg4nqWw==",
-  "score": 1.0,
-  "scoreDetails": {
-   "value": 1.0,
-   "description": "sum of:",
-   "details": [
-    {
-     "value": 0.0,
-     "description": "match on required clause, product of:",
-     "details": [
-      {
-       "value": 0.0,
-       "description": "# clause",
-       "details": []
-      },
-      {
-       "value": 1.0,
-       "description": "IndexOrDocValuesQuery(indexQuery=$type:dateV2/dataPubblicazione:[1794700800000 TO 1795611594699], dvQuery=$type:dateV2/dataPubblicazione:[1794700800000 TO 1795611594699])",
-       "details": []
-      }
-     ]
-    },
-    {
-     "value": 1.0,
-     "description": "sum of:",
-     "details": [
-      {
-       "value": 1.0,
-       "description": "$type:token/templates.template.sections.items.cpv:[[53 65 72 76 69 7a 69 20 70 75 62 62 6c 69 63 69 74 61 72 69 20 65 20 64 69 20 6d 61 72 6b 65 74 69 6e 67] TO [53 65 72 76 69 7a 69 20 70 75 62 62 6c 69 63 69 74 61 72 69 20 65 20 64 69 20 6d 61 72 6b 65 74 69 6e 67]]",
-       "details": []
-      }
-     ]
-    }
-   ]
-  },
-  "oscurato": false,
-  "noteOscuramento": null,
-  "idAppalto": "0d27021d-3759-4784-add8-258f890fdc02",
-  "dataPubblicazioneNuovoAvviso": null,
-  "tipoNuovoAvviso": null,
-  "dataPCP": "2026-11-24T15:27:35.000+00:00",
-  "dataCreazione": "2026-11-24T14:27:35.708+00:00",
-  "tipo": "avviso",
-  "attivo": true,
-  "nuovoAvviso": null,
-  "codiceEform": null,
-  "stato": "NON_VERIFICATO",
-  "ambiente": null,
-  "categorie": null
- },
- {
-  "codiceScheda": "M2",
-  "tipologia": "MODIFICHE_CONTRATTUALI",
-  "dataPubblicazione": "2026-11-25T07:00:00.651+00:00",
-  "dataScadenza": null,
-  "templates": [
-   {
-    "template": {
-     "metadata": {
-      "link_eform_ted": null,
-      "titolo": null,
-      "descrizione": "SERVIZI FUNZIONALI ALL’ESECUZIONE DEL PROGETTO \"EMILIA-ROMAGNA RAINBOW DISTRICT\""
-     },
-     "sections": [
-      {
-       "name": "SEZ. A - Committente",
-       "fields": {
-        "soggetti_sa": [
-         {
-          "codice_fiscale": "01886791209",
-          "denominazione_amministrazione": "APT SERVIZI SOCIETA' A RESPONSABILITA' LIMITATA"
-         }
-        ]
-       }
-      },
-      {
-       "name": "SEZ. B - Dati Generali",
-       "fields": {
-        "documenti_di_gara_link": "https://aptservizi.acquistitelematici.it/tender-esiti/dettaglio/260"
-       }
-      },
-      {
-       "name": "SEZ. C - Oggetto",
-       "items": [
-        {
-         "tipo_oggetto": "aggiudicazione",
-         "cig": "B40CB2CC74",
-         "natura_principale": "Servizi",
-         "descrizione": "SERVIZI FUNZIONALI ALL’ESECUZIONE DEL PROGETTO \"EMILIA-ROMAGNA RAINBOW DISTRICT\"",
-         "cpv": "Servizi di marketing",
-         "documenti_di_gara_link": "https://aptservizi.acquistitelematici.it/tender-esiti/dettaglio/260",
-         "luogo_istat": "BOLOGNA",
-         "motivazione_modifica": "Necessità di modifiche dovute a circostante non prevedibili da un committente diligente."
-        }
-       ]
-      }
-     ]
-    },
-    "lingua": "it"
-   }
-  ],
-  "idAvviso": "94ca6a74-1def-4e4b-bf55-79d6e408549c",
-  "count": 44.0,
-  "paginationToken": "CKa+SBoJKQsQgRGiAQAAGgJgARoGEICAgPgHIg5aDGsFXottFKi63Vz49A==",
-  "score": 1.0,
-  "scoreDetails": {
-   "value": 1.0,
-   "description": "sum of:",
-   "details": [
-    {
-     "value": 0.0,
-     "description": "match on required clause, product of:",
-     "details": [
-      {
-       "value": 0.0,
-       "description": "# clause",
-       "details": []
-      },
-      {
-       "value": 1.0,
-       "description": "IndexOrDocValuesQuery(indexQuery=$type:dateV2/dataPubblicazione:[1794700800000 TO 1795611594699], dvQuery=$type:dateV2/dataPubblicazione:[1794700800000 TO 1795611594699])",
-       "details": []
-      }
-     ]
-    },
-    {
-     "value": 1.0,
-     "description": "sum of:",
-     "details": [
-      {
-       "value": 1.0,
-       "description": "$type:token/templates.template.sections.items.cpv:[[53 65 72 76 69 7a 69 20 64 69 20 6d 61 72 6b 65 74 69 6e 67] TO [53 65 72 76 69 7a 69 20 64 69 20 6d 61 72 6b 65 74 69 6e 67]]",
-       "details": []
-      }
-     ]
-    }
-   ]
-  },
-  "oscurato": false,
-  "noteOscuramento": null,
-  "idAppalto": "0e891956-540f-4c16-98ab-9500ca32892a",
-  "dataPubblicazioneNuovoAvviso": null,
-  "tipoNuovoAvviso": null,
-  "dataPCP": "2026-11-24T10:53:15.000+00:00",
-  "dataCreazione": "2026-11-24T09:53:15.651+00:00",
-  "tipo": "avviso",
-  "attivo": true,
-  "nuovoAvviso": null,
-  "codiceEform": null,
-  "stato": "NON_VERIFICATO",
-  "ambiente": null,
-  "categorie": null
- },
- {
-  "codiceScheda": "P1_16",
-  "tipologia": "BANDI",
-  "dataPubblicazione": "2026-11-25T07:00:00.497+00:00",
-  "dataScadenza": "2027-01-07T11:00:00.000+00:00",
-  "templates": [
-   {
-    "template": {
-     "metadata": {
-      "link_eform_ted": "https://ted.europa.eu/udl?uri=TED:NOTICE:814430-2026:TEXT:IT:HTML",
-      "titolo": "SERVIZIO DI NOLEGGIO DI ALLESTIMENTI TEMPORANEI PER EVENTI, ANCHE DI CARATTERE NON SPORTIVO, DA ESEGUIRSI SU TUTTO IL TERRITORIO NAZIONALE.",
-      "descrizione": "PROCEDURA TELEMATICA APERTA PER LA CONCLUSIONE DI UN ACCORDO QUADRO CON DUE OPERATORI ECONOMICI, AI SENSI DELL’ARTICOLO 59, COMMA 4, LETTERA A), DEL D.LGS. 36/2023, AVENTE AD OGGETTO IL SERVIZIO DI NOLEGGIO DI ALLESTIMENTI TEMPORANEI PER EVENTI, ANCHE DI CARATTERE NON SPORTIVO, DA ESEGUIRSI SU TUTTO IL TERRITORIO NAZIONALE."
-     },
-     "sections": [
-      {
-       "name": "SEZ. A - Committente",
-       "fields": {
-        "soggetti_sa": [
-         {
-          "codice_fiscale": "07207761003",
-          "denominazione_amministrazione": "SPORT E SALUTE S.P.A."
-         }
-        ]
-       }
-      },
-      {
-       "name": "SEZ. B - Dati Generali",
-       "fields": {
-        "documenti_di_gara_link": "https://procurement.sportesalute.eu/portalegare/index.php/bandi",
-        "accordo_quadro": "Accordo quadro, senza riapertura della gara",
+        "documenti_di_gara_link": "https://www.acquistinretepa.it/bandi/negoziata/rdo-td/00cac85461cb6ca1",
         "sistema_dinamico_acquisizione": "Nessun sistema dinamico di acquisizione",
-        "tipo_procedura_aggiudicazione": "Aperta",
-        "asta_elettronica": "false"
+        "tipo_procedura_aggiudicazione": "Negoziata senza previa indizione di gara"
        }
       },
       {
        "name": "SEZ. C - Oggetto",
        "items": [
         {
-         "tipo_oggetto": "lotto",
-         "cig": "BDEEC93BD2",
-         "natura_principale": "Servizi",
-         "descrizione": "Servizio di noleggio di allestimenti temporanei per eventi, anche di carattere non sportivo",
-         "cpv": "Servizi di organizzazione di mostre, fiere e congressi",
-         "valore_complessivo_stimato": 10881600.0,
-         "documenti_di_gara_link": "https://procurement.sportesalute.eu/portalegare/index.php/bandi",
-         "luogo_nuts": "Roma",
-         "luogo_istat": "ROMA",
-         "durata_contratto": "730",
-         "asta_elettronica": "false",
-         "criteri_aggiudicazione": "Qualità",
-         "termine_ricezione": "2027-01-07+01:00",
-         "durata": "730",
-         "accordo_quadro": "Accordo quadro, senza riapertura della gara",
+         "tipo_oggetto": "aggiudicazione",
+         "cig": "BDF91E590B",
+         "natura_principale": "Forniture",
+         "descrizione": "Copia di Copia di LIVING LAB CULTURA E TURISMO GENIUS LOCI  NEBRODENSIS - FORNITURA ATTREZZATURA PER LABORATORIO",
+         "cpv": "Servizi di preparazione di stereotipi",
+         "documenti_di_gara_link": "https://www.acquistinretepa.it/bandi/negoziata/rdo-td/00cac85461cb6ca1",
+         "luogo_nuts": "ITALIA",
+         "luogo_istat": "FICARRA",
+         "valore_affidamento": 28236.0,
          "sistema_dinamico_acquisizione": "Nessun sistema dinamico di acquisizione",
+         "aggiudicatari_ad": [
+          {
+           "importo": 28236.0,
+           "soggetti": [
+            {
+             "codice_fiscale": "RCCRRT74A27I199I",
+             "denominazione": "DUEERRE DI ROBERTO RICCIARDELLO"
+            }
+           ]
+          }
+         ],
+         "categorie": [
+          {
+           "codice": "FB",
+           "descrizione": "FORNITURA DI BENI"
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    },
+    "lingua": "it"
+   }
+  ],
+  "idAvviso": "a1cfed61-dc20-4b2c-8223-d466cf8a47bf",
+  "count": 47.0,
+  "paginationToken": "CJK9SRoJKVJspxaiAQAAGgJgARoGEICAgPgHIg5aDGsGusBbabt/WTV17A==",
+  "score": 1.0,
+  "scoreDetails": {
+   "value": 1.0,
+   "description": "sum of:",
+   "details": [
+    {
+     "value": 0.0,
+     "description": "match on required clause, product of:",
+     "details": [
+      {
+       "value": 0.0,
+       "description": "# clause",
+       "details": []
+      },
+      {
+       "value": 1.0,
+       "description": "IndexOrDocValuesQuery(indexQuery=$type:dateV2/dataPubblicazione:[1794787200000 TO 1795696858112], dvQuery=$type:dateV2/dataPubblicazione:[1794787200000 TO 1795696858112])",
+       "details": []
+      }
+     ]
+    },
+    {
+     "value": 1.0,
+     "description": "sum of:",
+     "details": [
+      {
+       "value": 1.0,
+       "description": "$type:token/templates.template.sections.items.cpv:[[53 65 72 76 69 7a 69 20 64 69 20 70 72 65 70 61 72 61 7a 69 6f 6e 65 20 64 69 20 73 74 65 72 65 6f 74 69 70 69] TO [53 65 72 76 69 7a 69 20 64 69 20 70 72 65 70 61 72 61 7a 69 6f 6e 65 20 64 69 20 73 74 65 72 65 6f 74 69 70 69]]",
+       "details": []
+      }
+     ]
+    }
+   ]
+  },
+  "oscurato": false,
+  "noteOscuramento": null,
+  "idAppalto": "de5456f2-9627-4611-a071-eccfbe40ac33",
+  "dataPubblicazioneNuovoAvviso": null,
+  "tipoNuovoAvviso": null,
+  "dataPCP": "2026-11-25T11:38:33.000+00:00",
+  "dataCreazione": "2026-11-25T10:38:33.722+00:00",
+  "tipo": "avviso",
+  "attivo": true,
+  "nuovoAvviso": null,
+  "codiceEform": null,
+  "stato": "NON_VERIFICATO",
+  "ambiente": null,
+  "categorie": null
+ },
+ {
+  "codiceScheda": "AD2_25",
+  "tipologia": "RISULTATI",
+  "dataPubblicazione": "2026-11-26T07:00:00.510+00:00",
+  "dataScadenza": null,
+  "templates": [
+   {
+    "template": {
+     "metadata": {
+      "link_eform_ted": null,
+      "titolo": null,
+      "descrizione": "RICHIESTA DI PREVENTIVO PER IL SERVIZIO NOTIFICA ATTI AI CONTRIBUENTI DEL COMUNE DI SEZZE"
+     },
+     "sections": [
+      {
+       "name": "SEZ. A - Committente",
+       "fields": {
+        "soggetti_sa": [
+         {
+          "codice_fiscale": "00130430598",
+          "denominazione_amministrazione": "COMUNE DI SEZZE"
+         }
+        ]
+       }
+      },
+      {
+       "name": "SEZ. B - Dati Generali",
+       "fields": {
+        "documenti_di_gara_link": "https://www.acquistinretepa.it/bandi/negoziata/rdo-td/e9081549578ab4cd",
+        "accordo_quadro": "Nulla",
+        "sistema_dinamico_acquisizione": "Nessun sistema dinamico di acquisizione",
+        "tipo_procedura_aggiudicazione": "Altra procedura a fase unica"
+       }
+      },
+      {
+       "name": "SEZ. C - Oggetto",
+       "items": [
+        {
+         "tipo_oggetto": "aggiudicazione",
+         "cig": "BDF88E0799",
+         "natura_principale": "Servizi",
+         "descrizione": "RICHIESTA DI PREVENTIVO PER IL SERVIZIO NOTIFICA ATTI AI CONTRIBUENTI DEL COMUNE DI SEZZE",
+         "cpv": "Servizi di composizione",
+         "documenti_di_gara_link": "https://www.acquistinretepa.it/bandi/negoziata/rdo-td/e9081549578ab4cd",
+         "luogo_nuts": "Latina",
+         "luogo_istat": "SEZZE",
+         "valore_affidamento": 44025.03,
+         "accordo_quadro": "Nulla",
+         "sistema_dinamico_acquisizione": "Nessun sistema dinamico di acquisizione",
+         "aggiudicatari_ad": [
+          {
+           "importo": 44025.03,
+           "soggetti": [
+            {
+             "codice_fiscale": "01413270669",
+             "denominazione": "MERCURIO SERVICE SPA"
+            }
+           ]
+          }
+         ],
          "categorie": [
           {
            "codice": "FS",
@@ -276,9 +197,9 @@
     "lingua": "it"
    }
   ],
-  "idAvviso": "6715024b-c36a-48f8-ae22-a2d6c456c65d",
-  "count": 44.0,
-  "paginationToken": "CLuUSRoJKXEPgRGiAQAAGgJgARoGEICAgPgHIg5aDGsFAV3lh/fJCQAukw==",
+  "idAvviso": "ce3bef32-4049-46f5-aef9-0d07318e621d",
+  "count": 47.0,
+  "paginationToken": "CNy4SRoJKX5rpxaiAQAAGgJgARoGEICAgPgHIg5aDGsGsdlbabt/WTVyYg==",
   "score": 1.0,
   "scoreDetails": {
    "value": 1.0,
@@ -295,7 +216,135 @@
       },
       {
        "value": 1.0,
-       "description": "IndexOrDocValuesQuery(indexQuery=$type:dateV2/dataPubblicazione:[1794700800000 TO 1795611594699], dvQuery=$type:dateV2/dataPubblicazione:[1794700800000 TO 1795611594699])",
+       "description": "IndexOrDocValuesQuery(indexQuery=$type:dateV2/dataPubblicazione:[1794787200000 TO 1795696858112], dvQuery=$type:dateV2/dataPubblicazione:[1794787200000 TO 1795696858112])",
+       "details": []
+      }
+     ]
+    },
+    {
+     "value": 1.0,
+     "description": "sum of:",
+     "details": [
+      {
+       "value": 1.0,
+       "description": "$type:token/templates.template.sections.items.cpv:[[53 65 72 76 69 7a 69 20 64 69 20 63 6f 6d 70 6f 73 69 7a 69 6f 6e 65] TO [53 65 72 76 69 7a 69 20 64 69 20 63 6f 6d 70 6f 73 69 7a 69 6f 6e 65]]",
+       "details": []
+      }
+     ]
+    }
+   ]
+  },
+  "oscurato": false,
+  "noteOscuramento": null,
+  "idAppalto": "525d8866-d09e-439e-8b6e-1f74f3f909b3",
+  "dataPubblicazioneNuovoAvviso": null,
+  "tipoNuovoAvviso": null,
+  "dataPCP": "2026-11-25T11:00:57.000+00:00",
+  "dataCreazione": "2026-11-25T10:00:57.510+00:00",
+  "tipo": "avviso",
+  "attivo": true,
+  "nuovoAvviso": null,
+  "codiceEform": null,
+  "stato": "NON_VERIFICATO",
+  "ambiente": null,
+  "categorie": null
+ },
+ {
+  "codiceScheda": "A7_1_2",
+  "tipologia": "RISULTATI",
+  "dataPubblicazione": "2026-11-26T07:00:00.004+00:00",
+  "dataScadenza": null,
+  "templates": [
+   {
+    "template": {
+     "metadata": {
+      "link_eform_ted": null,
+      "titolo": null,
+      "descrizione": "Procedura negoziata senza pubblicazione di un bando di gara, ai sensi dell’art. 76, comma 2, lett. b), del D.lgs. 31 marzo 2023, n. 36 e ss.mm.ii., per l’affidamento dei servizi di partecipazione dell’Istituto Regionale del Vino e dell’Olio (IRVO), con n. 44 aziende vitivinicole siciliane, alla manifestazione fieristica “Wine Paris 2027” - Parigi 15/17 febbraio 2027."
+     },
+     "sections": [
+      {
+       "name": "SEZ. A - Committente",
+       "fields": {
+        "soggetti_sa": [
+         {
+          "codice_fiscale": "00262110828",
+          "denominazione_amministrazione": "ISTITUTO REGIONALE DEL VINO E DELL'OLIO"
+         },
+         {
+          "codice_fiscale": "80012000826",
+          "denominazione_amministrazione": "REGIONE SICILIANA"
+         }
+        ]
+       }
+      },
+      {
+       "name": "SEZ. B - Dati Generali",
+       "fields": {
+        "documenti_di_gara_link": "https://appalti.regionesiciliana.lavoripubblici.sicilia.it/gare/dettaglio.php?codice=7728",
+        "accordo_quadro": "Nulla",
+        "tipo_procedura_aggiudicazione": "Negoziata senza previa indizione di gara"
+       }
+      },
+      {
+       "name": "SEZ. C - Oggetto",
+       "items": [
+        {
+         "tipo_oggetto": "aggiudicazione",
+         "cig": "BDC4E9EE1D",
+         "natura_principale": "Servizi",
+         "descrizione": "Procedura negoziata senza pubblicazione di un bando di gara, ai sensi dell’art. 76, comma 2, lett. b), del D.lgs. 31 marzo 2023, n. 36 e ss.mm.ii., per l’affidamento dei servizi di partecipazione dell’Istituto Regionale del Vino e dell’Olio (IRVO), con n. 44 aziende vitivinicole siciliane, alla manifestazione fieristica “Wine Paris 2027” - Parigi 15/17 febbraio 2027.",
+         "cpv": "Servizi di organizzazione di mostre, fiere e congressi",
+         "valore_complessivo_stimato": 459932.0,
+         "luogo_nuts": "Palermo",
+         "luogo_istat": "PALERMO",
+         "valore_offerta_vincente": 443006.5,
+         "accordo_quadro": "Nulla",
+         "aggiudicatari": [
+          {
+           "importo": 443006.5,
+           "soggetti": [
+            {
+             "codice_fiscale": "04450981008",
+             "denominazione": "UNIVERSAL MARKETING SRL"
+            }
+           ]
+          }
+         ],
+         "categorie": [
+          {
+           "codice": "FS",
+           "descrizione": "FORNITURA DI SERVIZI"
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    },
+    "lingua": "it"
+   }
+  ],
+  "idAvviso": "68b88191-08f0-4b21-b648-593c1bbe66f1",
+  "count": 47.0,
+  "paginationToken": "CIftSBoJKYRppxaiAQAAGgJgARoGEICAgPgHIg5aDGsHCODVqxj+1z2AuA==",
+  "score": 1.0,
+  "scoreDetails": {
+   "value": 1.0,
+   "description": "sum of:",
+   "details": [
+    {
+     "value": 0.0,
+     "description": "match on required clause, product of:",
+     "details": [
+      {
+       "value": 0.0,
+       "description": "# clause",
+       "details": []
+      },
+      {
+       "value": 1.0,
+       "description": "IndexOrDocValuesQuery(indexQuery=$type:dateV2/dataPubblicazione:[1794787200000 TO 1795696858112], dvQuery=$type:dateV2/dataPubblicazione:[1794787200000 TO 1795696858112])",
        "details": []
       }
      ]
@@ -315,15 +364,15 @@
   },
   "oscurato": false,
   "noteOscuramento": null,
-  "idAppalto": "48b43001-340f-4571-ae95-5f5ce72040d6",
+  "idAppalto": "e507c6fc-7108-4520-9edb-29e11d63811a",
   "dataPubblicazioneNuovoAvviso": null,
   "tipoNuovoAvviso": null,
-  "dataPCP": "2026-11-23T23:00:00.000+00:00",
-  "dataCreazione": "2026-11-24T03:15:41.497+00:00",
+  "dataPCP": "2026-11-25T17:12:15.000+00:00",
+  "dataCreazione": "2026-11-25T16:12:16.005+00:00",
   "tipo": "avviso",
   "attivo": true,
   "nuovoAvviso": null,
-  "codiceEform": "16",
+  "codiceEform": null,
   "stato": "NON_VERIFICATO",
   "ambiente": null,
   "categorie": null

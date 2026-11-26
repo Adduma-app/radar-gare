@@ -1,14 +1,5 @@
-# Radar gare Adduma, aggiornato 2026-11-25T12:59
-Letti oggi 100, nuovi 13, gare aperte pertinenti 20. Errori: 0
-
-## SERVIZIO DI ORGANIZZAZIONE E SUPPORTO ALLA COMUNICAZIONE DEGLI EVENTI NELL’AMBITO DELLA PAVIA INNOVATION WEEK 2027
-- ente: CMP SVILUPPOIMPRESA - AZIENDA SPECIALE DELLA CAMERA DI COMMERCIO DI CREMONA-MANTOVA-PAVIA | luogo ISTAT PAVIA
-- tipologia: BANDI | procedura: Aperta | CIG: BDBC2FD46B
-- importo: 110.000 € | lotti: 1
-- pubblicato: 11/11/2026 07:00 | scadenza: 25/11/2026 12:00 | primo avvistamento: 2026-11-11
-- esecuzione: evento in loco | parole chiave: comunicazione, eventi
-- avviso: https://pubblicitalegale.anticorruzione.it/bandi/cdec4df4-bb41-423c-85c2-f3a83bc24f65
-- documenti: https://www.cmpsviluppoimpresa.it/amministrazione-trasparente-cmp/
+# Radar gare Adduma, aggiornato 2026-11-26T12:40
+Letti oggi 109, nuovi 6, gare aperte pertinenti 19. Errori: 0
 
 ## CAPODANNO IN PIAZZA 2027_COMUNE DI SASSARI
 - ente: COMUNE DI SASSARI | luogo ISTAT SASSARI
