@@ -1,16 +1,16 @@
 [
  {
-  "codiceScheda": "AD2_25",
+  "codiceScheda": "A1_29",
   "tipologia": "RISULTATI",
-  "dataPubblicazione": "2026-11-26T07:00:00.722+00:00",
+  "dataPubblicazione": "2026-11-27T07:00:00.859+00:00",
   "dataScadenza": null,
   "templates": [
    {
     "template": {
      "metadata": {
-      "link_eform_ted": null,
-      "titolo": null,
-      "descrizione": "Copia di Copia di LIVING LAB CULTURA E TURISMO GENIUS LOCI  NEBRODENSIS - FORNITURA ATTREZZATURA PER LABORATORIO"
+      "link_eform_ted": "https://ted.europa.eu/udl?uri=TED:NOTICE:822972-2026:TEXT:IT:HTML",
+      "titolo": "Servizio di consulenza per l’internazionalizzazione di imprese altoatesine nel mercato dell’Arabia Saudita",
+      "descrizione": "Servizio di consulenza per l’internazionalizzazione di imprese altoatesine nel mercato dell’Arabia Saudita"
      },
      "sections": [
       {
@@ -18,8 +18,8 @@
        "fields": {
         "soggetti_sa": [
          {
-          "codice_fiscale": "00292200839",
-          "denominazione_amministrazione": "COMUNE DI FICARRA"
+          "codice_fiscale": "02521490215",
+          "denominazione_amministrazione": "IDM SUEDTIROL - ALTO ADIGE"
          }
         ]
        }
@@ -27,134 +27,10 @@
       {
        "name": "SEZ. B - Dati Generali",
        "fields": {
-        "documenti_di_gara_link": "https://www.acquistinretepa.it/bandi/negoziata/rdo-td/00cac85461cb6ca1",
-        "sistema_dinamico_acquisizione": "Nessun sistema dinamico di acquisizione",
-        "tipo_procedura_aggiudicazione": "Negoziata senza previa indizione di gara"
-       }
-      },
-      {
-       "name": "SEZ. C - Oggetto",
-       "items": [
-        {
-         "tipo_oggetto": "aggiudicazione",
-         "cig": "BDF91E590B",
-         "natura_principale": "Forniture",
-         "descrizione": "Copia di Copia di LIVING LAB CULTURA E TURISMO GENIUS LOCI  NEBRODENSIS - FORNITURA ATTREZZATURA PER LABORATORIO",
-         "cpv": "Servizi di preparazione di stereotipi",
-         "documenti_di_gara_link": "https://www.acquistinretepa.it/bandi/negoziata/rdo-td/00cac85461cb6ca1",
-         "luogo_nuts": "ITALIA",
-         "luogo_istat": "FICARRA",
-         "valore_affidamento": 28236.0,
-         "sistema_dinamico_acquisizione": "Nessun sistema dinamico di acquisizione",
-         "aggiudicatari_ad": [
-          {
-           "importo": 28236.0,
-           "soggetti": [
-            {
-             "codice_fiscale": "RCCRRT74A27I199I",
-             "denominazione": "DUEERRE DI ROBERTO RICCIARDELLO"
-            }
-           ]
-          }
-         ],
-         "categorie": [
-          {
-           "codice": "FB",
-           "descrizione": "FORNITURA DI BENI"
-          }
-         ]
-        }
-       ]
-      }
-     ]
-    },
-    "lingua": "it"
-   }
-  ],
-  "idAvviso": "a1cfed61-dc20-4b2c-8223-d466cf8a47bf",
-  "count": 47.0,
-  "paginationToken": "CJK9SRoJKVJspxaiAQAAGgJgARoGEICAgPgHIg5aDGsGusBbabt/WTV17A==",
-  "score": 1.0,
-  "scoreDetails": {
-   "value": 1.0,
-   "description": "sum of:",
-   "details": [
-    {
-     "value": 0.0,
-     "description": "match on required clause, product of:",
-     "details": [
-      {
-       "value": 0.0,
-       "description": "# clause",
-       "details": []
-      },
-      {
-       "value": 1.0,
-       "description": "IndexOrDocValuesQuery(indexQuery=$type:dateV2/dataPubblicazione:[1794787200000 TO 1795696858112], dvQuery=$type:dateV2/dataPubblicazione:[1794787200000 TO 1795696858112])",
-       "details": []
-      }
-     ]
-    },
-    {
-     "value": 1.0,
-     "description": "sum of:",
-     "details": [
-      {
-       "value": 1.0,
-       "description": "$type:token/templates.template.sections.items.cpv:[[53 65 72 76 69 7a 69 20 64 69 20 70 72 65 70 61 72 61 7a 69 6f 6e 65 20 64 69 20 73 74 65 72 65 6f 74 69 70 69] TO [53 65 72 76 69 7a 69 20 64 69 20 70 72 65 70 61 72 61 7a 69 6f 6e 65 20 64 69 20 73 74 65 72 65 6f 74 69 70 69]]",
-       "details": []
-      }
-     ]
-    }
-   ]
-  },
-  "oscurato": false,
-  "noteOscuramento": null,
-  "idAppalto": "de5456f2-9627-4611-a071-eccfbe40ac33",
-  "dataPubblicazioneNuovoAvviso": null,
-  "tipoNuovoAvviso": null,
-  "dataPCP": "2026-11-25T11:38:33.000+00:00",
-  "dataCreazione": "2026-11-25T10:38:33.722+00:00",
-  "tipo": "avviso",
-  "attivo": true,
-  "nuovoAvviso": null,
-  "codiceEform": null,
-  "stato": "NON_VERIFICATO",
-  "ambiente": null,
-  "categorie": null
- },
- {
-  "codiceScheda": "AD2_25",
-  "tipologia": "RISULTATI",
-  "dataPubblicazione": "2026-11-26T07:00:00.510+00:00",
-  "dataScadenza": null,
-  "templates": [
-   {
-    "template": {
-     "metadata": {
-      "link_eform_ted": null,
-      "titolo": null,
-      "descrizione": "RICHIESTA DI PREVENTIVO PER IL SERVIZIO NOTIFICA ATTI AI CONTRIBUENTI DEL COMUNE DI SEZZE"
-     },
-     "sections": [
-      {
-       "name": "SEZ. A - Committente",
-       "fields": {
-        "soggetti_sa": [
-         {
-          "codice_fiscale": "00130430598",
-          "denominazione_amministrazione": "COMUNE DI SEZZE"
-         }
-        ]
-       }
-      },
-      {
-       "name": "SEZ. B - Dati Generali",
-       "fields": {
-        "documenti_di_gara_link": "https://www.acquistinretepa.it/bandi/negoziata/rdo-td/e9081549578ab4cd",
+        "documenti_di_gara_link": "https://www.bandi-altoadige.it/",
         "accordo_quadro": "Nulla",
         "sistema_dinamico_acquisizione": "Nessun sistema dinamico di acquisizione",
-        "tipo_procedura_aggiudicazione": "Altra procedura a fase unica"
+        "tipo_procedura_aggiudicazione": "Aperta"
        }
       },
       {
@@ -162,151 +38,22 @@
        "items": [
         {
          "tipo_oggetto": "aggiudicazione",
-         "cig": "BDF88E0799",
+         "cig": "BC491D555B",
          "natura_principale": "Servizi",
-         "descrizione": "RICHIESTA DI PREVENTIVO PER IL SERVIZIO NOTIFICA ATTI AI CONTRIBUENTI DEL COMUNE DI SEZZE",
-         "cpv": "Servizi di composizione",
-         "documenti_di_gara_link": "https://www.acquistinretepa.it/bandi/negoziata/rdo-td/e9081549578ab4cd",
-         "luogo_nuts": "Latina",
-         "luogo_istat": "SEZZE",
-         "valore_affidamento": 44025.03,
+         "descrizione": "Servizio di consulenza per l’internazionalizzazione di imprese altoatesine nel mercato dell’Arabia Saudita",
+         "cpv": "Servizi di consulenza di gestione commerciale",
+         "valore_complessivo_stimato": 749002.5,
+         "luogo_istat": "BOLZANO/BOZEN",
+         "valore_offerta_vincente": 258882.53,
          "accordo_quadro": "Nulla",
          "sistema_dinamico_acquisizione": "Nessun sistema dinamico di acquisizione",
-         "aggiudicatari_ad": [
-          {
-           "importo": 44025.03,
-           "soggetti": [
-            {
-             "codice_fiscale": "01413270669",
-             "denominazione": "MERCURIO SERVICE SPA"
-            }
-           ]
-          }
-         ],
-         "categorie": [
-          {
-           "codice": "FS",
-           "descrizione": "FORNITURA DI SERVIZI"
-          }
-         ]
-        }
-       ]
-      }
-     ]
-    },
-    "lingua": "it"
-   }
-  ],
-  "idAvviso": "ce3bef32-4049-46f5-aef9-0d07318e621d",
-  "count": 47.0,
-  "paginationToken": "CNy4SRoJKX5rpxaiAQAAGgJgARoGEICAgPgHIg5aDGsGsdlbabt/WTVyYg==",
-  "score": 1.0,
-  "scoreDetails": {
-   "value": 1.0,
-   "description": "sum of:",
-   "details": [
-    {
-     "value": 0.0,
-     "description": "match on required clause, product of:",
-     "details": [
-      {
-       "value": 0.0,
-       "description": "# clause",
-       "details": []
-      },
-      {
-       "value": 1.0,
-       "description": "IndexOrDocValuesQuery(indexQuery=$type:dateV2/dataPubblicazione:[1794787200000 TO 1795696858112], dvQuery=$type:dateV2/dataPubblicazione:[1794787200000 TO 1795696858112])",
-       "details": []
-      }
-     ]
-    },
-    {
-     "value": 1.0,
-     "description": "sum of:",
-     "details": [
-      {
-       "value": 1.0,
-       "description": "$type:token/templates.template.sections.items.cpv:[[53 65 72 76 69 7a 69 20 64 69 20 63 6f 6d 70 6f 73 69 7a 69 6f 6e 65] TO [53 65 72 76 69 7a 69 20 64 69 20 63 6f 6d 70 6f 73 69 7a 69 6f 6e 65]]",
-       "details": []
-      }
-     ]
-    }
-   ]
-  },
-  "oscurato": false,
-  "noteOscuramento": null,
-  "idAppalto": "525d8866-d09e-439e-8b6e-1f74f3f909b3",
-  "dataPubblicazioneNuovoAvviso": null,
-  "tipoNuovoAvviso": null,
-  "dataPCP": "2026-11-25T11:00:57.000+00:00",
-  "dataCreazione": "2026-11-25T10:00:57.510+00:00",
-  "tipo": "avviso",
-  "attivo": true,
-  "nuovoAvviso": null,
-  "codiceEform": null,
-  "stato": "NON_VERIFICATO",
-  "ambiente": null,
-  "categorie": null
- },
- {
-  "codiceScheda": "A7_1_2",
-  "tipologia": "RISULTATI",
-  "dataPubblicazione": "2026-11-26T07:00:00.004+00:00",
-  "dataScadenza": null,
-  "templates": [
-   {
-    "template": {
-     "metadata": {
-      "link_eform_ted": null,
-      "titolo": null,
-      "descrizione": "Procedura negoziata senza pubblicazione di un bando di gara, ai sensi dell’art. 76, comma 2, lett. b), del D.lgs. 31 marzo 2023, n. 36 e ss.mm.ii., per l’affidamento dei servizi di partecipazione dell’Istituto Regionale del Vino e dell’Olio (IRVO), con n. 44 aziende vitivinicole siciliane, alla manifestazione fieristica “Wine Paris 2027” - Parigi 15/17 febbraio 2027."
-     },
-     "sections": [
-      {
-       "name": "SEZ. A - Committente",
-       "fields": {
-        "soggetti_sa": [
-         {
-          "codice_fiscale": "00262110828",
-          "denominazione_amministrazione": "ISTITUTO REGIONALE DEL VINO E DELL'OLIO"
-         },
-         {
-          "codice_fiscale": "80012000826",
-          "denominazione_amministrazione": "REGIONE SICILIANA"
-         }
-        ]
-       }
-      },
-      {
-       "name": "SEZ. B - Dati Generali",
-       "fields": {
-        "documenti_di_gara_link": "https://appalti.regionesiciliana.lavoripubblici.sicilia.it/gare/dettaglio.php?codice=7728",
-        "accordo_quadro": "Nulla",
-        "tipo_procedura_aggiudicazione": "Negoziata senza previa indizione di gara"
-       }
-      },
-      {
-       "name": "SEZ. C - Oggetto",
-       "items": [
-        {
-         "tipo_oggetto": "aggiudicazione",
-         "cig": "BDC4E9EE1D",
-         "natura_principale": "Servizi",
-         "descrizione": "Procedura negoziata senza pubblicazione di un bando di gara, ai sensi dell’art. 76, comma 2, lett. b), del D.lgs. 31 marzo 2023, n. 36 e ss.mm.ii., per l’affidamento dei servizi di partecipazione dell’Istituto Regionale del Vino e dell’Olio (IRVO), con n. 44 aziende vitivinicole siciliane, alla manifestazione fieristica “Wine Paris 2027” - Parigi 15/17 febbraio 2027.",
-         "cpv": "Servizi di organizzazione di mostre, fiere e congressi",
-         "valore_complessivo_stimato": 459932.0,
-         "luogo_nuts": "Palermo",
-         "luogo_istat": "PALERMO",
-         "valore_offerta_vincente": 443006.5,
-         "accordo_quadro": "Nulla",
          "aggiudicatari": [
           {
-           "importo": 443006.5,
+           "importo": 258882.53,
            "soggetti": [
             {
-             "codice_fiscale": "04450981008",
-             "denominazione": "UNIVERSAL MARKETING SRL"
+             "codice_fiscale": "314564848300003",
+             "denominazione": "Cognivra LLC"
             }
            ]
           }
@@ -325,9 +72,9 @@
     "lingua": "it"
    }
   ],
-  "idAvviso": "68b88191-08f0-4b21-b648-593c1bbe66f1",
-  "count": 47.0,
-  "paginationToken": "CIftSBoJKYRppxaiAQAAGgJgARoGEICAgPgHIg5aDGsHCODVqxj+1z2AuA==",
+  "idAvviso": "8de0d6f0-36f3-40d5-b2bc-113a935db4d6",
+  "count": 44.0,
+  "paginationToken": "CKWFSRoJKdvIzRuiAQAAGgJgARoGEICAgPgHIg5aDGsHp8pFaUmzWuIlKA==",
   "score": 1.0,
   "scoreDetails": {
    "value": 1.0,
@@ -344,7 +91,7 @@
       },
       {
        "value": 1.0,
-       "description": "IndexOrDocValuesQuery(indexQuery=$type:dateV2/dataPubblicazione:[1794787200000 TO 1795696858112], dvQuery=$type:dateV2/dataPubblicazione:[1794787200000 TO 1795696858112])",
+       "description": "IndexOrDocValuesQuery(indexQuery=$type:dateV2/dataPubblicazione:[1794873600000 TO 1795782500674], dvQuery=$type:dateV2/dataPubblicazione:[1794873600000 TO 1795782500674])",
        "details": []
       }
      ]
@@ -355,7 +102,7 @@
      "details": [
       {
        "value": 1.0,
-       "description": "$type:token/templates.template.sections.items.cpv:[[53 65 72 76 69 7a 69 20 64 69 20 6f 72 67 61 6e 69 7a 7a 61 7a 69 6f 6e 65 20 64 69 20 6d 6f 73 74 72 65 2c 20 66 69 65 72 65 20 65 20 63 6f 6e 67 72 65 73 73 69] TO [53 65 72 76 69 7a 69 20 64 69 20 6f 72 67 61 6e 69 7a 7a 61 7a 69 6f 6e 65 20 64 69 20 6d 6f 73 74 72 65 2c 20 66 69 65 72 65 20 65 20 63 6f 6e 67 72 65 73 73 69]]",
+       "description": "$type:token/templates.template.sections.items.cpv:[[53 65 72 76 69 7a 69 20 64 69 20 63 6f 6e 73 75 6c 65 6e 7a 61 20 64 69 20 67 65 73 74 69 6f 6e 65 20 63 6f 6d 6d 65 72 63 69 61 6c 65] TO [53 65 72 76 69 7a 69 20 64 69 20 63 6f 6e 73 75 6c 65 6e 7a 61 20 64 69 20 67 65 73 74 69 6f 6e 65 20 63 6f 6d 6d 65 72 63 69 61 6c 65]]",
        "details": []
       }
      ]
@@ -364,15 +111,263 @@
   },
   "oscurato": false,
   "noteOscuramento": null,
-  "idAppalto": "e507c6fc-7108-4520-9edb-29e11d63811a",
+  "idAppalto": "7e121313-fb48-4083-9b5c-4cc2251f8fa7",
   "dataPubblicazioneNuovoAvviso": null,
   "tipoNuovoAvviso": null,
-  "dataPCP": "2026-11-25T17:12:15.000+00:00",
-  "dataCreazione": "2026-11-25T16:12:16.005+00:00",
+  "dataPCP": "2026-11-25T23:00:00.000+00:00",
+  "dataCreazione": "2026-11-26T03:30:18.861+00:00",
+  "tipo": "avviso",
+  "attivo": true,
+  "nuovoAvviso": null,
+  "codiceEform": "29",
+  "stato": "NON_VERIFICATO",
+  "ambiente": null,
+  "categorie": null
+ },
+ {
+  "codiceScheda": "M2",
+  "tipologia": "MODIFICHE_CONTRATTUALI",
+  "dataPubblicazione": "2026-11-27T07:00:00.418+00:00",
+  "dataScadenza": null,
+  "templates": [
+   {
+    "template": {
+     "metadata": {
+      "link_eform_ted": null,
+      "titolo": null,
+      "descrizione": "realizzazione tre volumi Istituto per la storia del Risorgimento"
+     },
+     "sections": [
+      {
+       "name": "SEZ. A - Committente",
+       "fields": {
+        "soggetti_sa": [
+         {
+          "codice_fiscale": "00867050585",
+          "denominazione_amministrazione": "ISTITUTO PER LA STORIA DEL RISORGIMENTO ITALIANO"
+         }
+        ]
+       }
+      },
+      {
+       "name": "SEZ. B - Dati Generali",
+       "fields": {
+        "documenti_di_gara_link": "https://www.acquistinretepa.it/bandi/negoziata/rdo-td/2215a64e3b945b8a"
+       }
+      },
+      {
+       "name": "SEZ. C - Oggetto",
+       "items": [
+        {
+         "tipo_oggetto": "aggiudicazione",
+         "cig": "BDADE4776D",
+         "natura_principale": "Servizi",
+         "descrizione": "realizzazione tre volumi Istituto per la storia del Risorgimento",
+         "cpv": "Servizi di composizione tipografica",
+         "documenti_di_gara_link": "https://www.acquistinretepa.it/bandi/negoziata/rdo-td/2215a64e3b945b8a",
+         "luogo_nuts": "Perugia",
+         "luogo_istat": "CITTA' DI CASTELLO",
+         "data_stipula_contratto": "2026-11-26T11:28:00Z",
+         "motivazione_modifica": "Necessità di ulteriori lavori, forniture e servizi eseguiti dall'appaltatore originale."
+        }
+       ]
+      }
+     ]
+    },
+    "lingua": "it"
+   }
+  ],
+  "idAvviso": "4b5c3836-1e71-4e09-8d4c-06e9ecf34b18",
+  "count": 44.0,
+  "paginationToken": "CPbOSBoJKSLHzRuiAQAAGgJgARoGEICAgPgHIg5aDGsICg8Gb7T3EOBj5w==",
+  "score": 1.0,
+  "scoreDetails": {
+   "value": 1.0,
+   "description": "sum of:",
+   "details": [
+    {
+     "value": 0.0,
+     "description": "match on required clause, product of:",
+     "details": [
+      {
+       "value": 0.0,
+       "description": "# clause",
+       "details": []
+      },
+      {
+       "value": 1.0,
+       "description": "IndexOrDocValuesQuery(indexQuery=$type:dateV2/dataPubblicazione:[1794873600000 TO 1795782500674], dvQuery=$type:dateV2/dataPubblicazione:[1794873600000 TO 1795782500674])",
+       "details": []
+      }
+     ]
+    },
+    {
+     "value": 1.0,
+     "description": "sum of:",
+     "details": [
+      {
+       "value": 1.0,
+       "description": "$type:token/templates.template.sections.items.cpv:[[53 65 72 76 69 7a 69 20 64 69 20 63 6f 6d 70 6f 73 69 7a 69 6f 6e 65 20 74 69 70 6f 67 72 61 66 69 63 61] TO [53 65 72 76 69 7a 69 20 64 69 20 63 6f 6d 70 6f 73 69 7a 69 6f 6e 65 20 74 69 70 6f 67 72 61 66 69 63 61]]",
+       "details": []
+      }
+     ]
+    }
+   ]
+  },
+  "oscurato": false,
+  "noteOscuramento": null,
+  "idAppalto": "2a693a99-011e-4d36-ad16-1ce946264108",
+  "dataPubblicazioneNuovoAvviso": null,
+  "tipoNuovoAvviso": null,
+  "dataPCP": "2026-11-26T11:29:35.000+00:00",
+  "dataCreazione": "2026-11-26T10:29:35.419+00:00",
   "tipo": "avviso",
   "attivo": true,
   "nuovoAvviso": null,
   "codiceEform": null,
+  "stato": "NON_VERIFICATO",
+  "ambiente": null,
+  "categorie": null
+ },
+ {
+  "codiceScheda": "P1_16",
+  "tipologia": "BANDI",
+  "dataPubblicazione": "2026-11-27T07:00:00.058+00:00",
+  "dataScadenza": "2027-01-15T11:00:00.000+00:00",
+  "templates": [
+   {
+    "template": {
+     "metadata": {
+      "link_eform_ted": "https://ted.europa.eu/udl?uri=TED:NOTICE:824148-2026:TEXT:IT:HTML",
+      "titolo": "PROCEDURA DI GARA APERTA, SUDDIVISA IN N. 2 LOTTI, AI SENSI DEGLI ARTICOLI 59 E 71 DEL D.LGS. 36/2023, DA REALIZZARSI MEDIANTE PIATTAFORMA TELEMATICA, PER LA CONCLUSIONE DI ACCORDI QUADRO AVENTI AD OGGETTO L’AFFIDAMENTO DEI SERVIZI DI EVENTI E DI COMUNICAZIONE DI INVITALIA\n\nLOTTO 1: AQ DEI SERVIZI DI EVENTI DI INVITALIA\nLOTTO 2: AQ DEI SERVIZI DI CREATIVITA' E CONTENUTI MULTIMEDIALI DI INVITALIA",
+      "descrizione": "INVITALIA: AQ per AFFIDAMENTO DEI SERVIZI DI EVENTI E DI COMUNICAZIONE DI INVITALIA"
+     },
+     "sections": [
+      {
+       "name": "SEZ. A - Committente",
+       "fields": {
+        "soggetti_sa": [
+         {
+          "codice_fiscale": "05678721001",
+          "denominazione_amministrazione": "AGENZIA NAZIONALE PER L'ATTRAZIONE DEGLI INVESTIMENTI E LO SVILUPPO D'IMPRESA S.P.A."
+         }
+        ]
+       }
+      },
+      {
+       "name": "SEZ. B - Dati Generali",
+       "fields": {
+        "documenti_di_gara_link": "https://ingate.invitalia.it/esop/guest/go/opportunity/detail?opportunityId=20250",
+        "accordo_quadro": "Accordo quadro, senza riapertura della gara",
+        "sistema_dinamico_acquisizione": "Nessun sistema dinamico di acquisizione",
+        "tipo_procedura_aggiudicazione": "Aperta",
+        "asta_elettronica": "false"
+       }
+      },
+      {
+       "name": "SEZ. C - Oggetto",
+       "items": [
+        {
+         "tipo_oggetto": "lotto",
+         "cig": "BDF58AD124",
+         "natura_principale": "Servizi",
+         "descrizione": "PROCEDURA DI GARA APERTA, SUDDIVISA IN N. 2 LOTTI, AI SENSI DEGLI ARTICOLI 59 E 71 DEL D.LGS. 36/2023, DA REALIZZARSI MEDIANTE PIATTAFORMA TELEMATICA, PER LA CONCLUSIONE DI ACCORDI QUADRO AVENTI AD OGGETTO L’AFFIDAMENTO DEI SERVIZI DI EVENTI E DI COMUNICAZIONE DI INVITALIA\n\nLOTTO 1: AQ SERVIZI DI EVENTI DI INVITALIA",
+         "cpv": "Servizi di organizzazione di eventi",
+         "valore_complessivo_stimato": 3000000.0,
+         "documenti_di_gara_link": "https://ingate.invitalia.it/esop/guest/go/opportunity/detail?opportunityId=20250",
+         "luogo_istat": "ROMA",
+         "durata_contratto": "24",
+         "asta_elettronica": "false",
+         "criteri_aggiudicazione": "Qualità",
+         "termine_ricezione": "2027-01-15+01:00",
+         "durata": "24",
+         "accordo_quadro": "Accordo quadro, senza riapertura della gara",
+         "sistema_dinamico_acquisizione": "Nessun sistema dinamico di acquisizione",
+         "categorie": [
+          {
+           "codice": "FS",
+           "descrizione": "FORNITURA DI SERVIZI"
+          }
+         ]
+        },
+        {
+         "tipo_oggetto": "lotto",
+         "cig": "BDF58AE1F7",
+         "natura_principale": "Servizi",
+         "descrizione": "PROCEDURA DI GARA APERTA, SUDDIVISA IN N. 2 LOTTI, AI SENSI DEGLI ARTICOLI 59 E 71 DEL D.LGS. 36/2023, DA REALIZZARSI MEDIANTE PIATTAFORMA TELEMATICA, PER LA CONCLUSIONE DI ACCORDI QUADRO AVENTI AD OGGETTO L’AFFIDAMENTO DEI SERVIZI DI EVENTI E DI COMUNICAZIONE DI INVITALIA\n\nLOTTO 2: AQ CREATIVITA' E CONTENUTI MULTIMEDIALI DI INVITALIA",
+         "cpv": "Servizi pubblicitari",
+         "valore_complessivo_stimato": 1500000.0,
+         "documenti_di_gara_link": "https://ingate.invitalia.it/esop/guest/go/opportunity/detail?opportunityId=20250",
+         "luogo_istat": "ROMA",
+         "durata_contratto": "24",
+         "asta_elettronica": "false",
+         "criteri_aggiudicazione": "Qualità",
+         "termine_ricezione": "2027-01-15+01:00",
+         "durata": "24",
+         "accordo_quadro": "Accordo quadro, senza riapertura della gara",
+         "sistema_dinamico_acquisizione": "Nessun sistema dinamico di acquisizione",
+         "categorie": [
+          {
+           "codice": "FS",
+           "descrizione": "FORNITURA DI SERVIZI"
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    },
+    "lingua": "it"
+   }
+  ],
+  "idAvviso": "0285bc1a-d594-4fc6-8dec-651425c8b797",
+  "count": 44.0,
+  "paginationToken": "CPeESRoJKbrFzRuiAQAAGgJgARoGEICAgPgHIg5aDGsHp71FaUmzWuIkxA==",
+  "score": 1.0,
+  "scoreDetails": {
+   "value": 1.0,
+   "description": "sum of:",
+   "details": [
+    {
+     "value": 0.0,
+     "description": "match on required clause, product of:",
+     "details": [
+      {
+       "value": 0.0,
+       "description": "# clause",
+       "details": []
+      },
+      {
+       "value": 1.0,
+       "description": "IndexOrDocValuesQuery(indexQuery=$type:dateV2/dataPubblicazione:[1794873600000 TO 1795782500674], dvQuery=$type:dateV2/dataPubblicazione:[1794873600000 TO 1795782500674])",
+       "details": []
+      }
+     ]
+    },
+    {
+     "value": 1.0,
+     "description": "sum of:",
+     "details": [
+      {
+       "value": 1.0,
+       "description": "$type:token/templates.template.sections.items.cpv:[[53 65 72 76 69 7a 69 20 70 75 62 62 6c 69 63 69 74 61 72 69] TO [53 65 72 76 69 7a 69 20 70 75 62 62 6c 69 63 69 74 61 72 69]]",
+       "details": []
+      }
+     ]
+    }
+   ]
+  },
+  "oscurato": false,
+  "noteOscuramento": null,
+  "idAppalto": "206d92d5-1b98-4e1a-a5bb-aafbfa557703",
+  "dataPubblicazioneNuovoAvviso": null,
+  "tipoNuovoAvviso": null,
+  "dataPCP": "2026-11-25T23:00:00.000+00:00",
+  "dataCreazione": "2026-11-26T03:30:05.059+00:00",
+  "tipo": "avviso",
+  "attivo": true,
+  "nuovoAvviso": null,
+  "codiceEform": "16",
   "stato": "NON_VERIFICATO",
   "ambiente": null,
   "categorie": null

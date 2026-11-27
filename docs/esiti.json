@@ -1,14 +1,49 @@
 {
  "stato": {
-  "aggiornato": "2026-11-26T12:40",
-  "letti_oggi": 109,
-  "nuovi_oggi": 6,
-  "aperte_pertinenti": 19,
-  "esiti_pertinenti": 144,
-  "scartati_oggi": 29,
+  "aggiornato": "2026-11-27T12:28",
+  "letti_oggi": 102,
+  "nuovi_oggi": 3,
+  "aperte_pertinenti": 20,
+  "esiti_pertinenti": 145,
+  "scartati_oggi": 25,
   "errori": []
  },
  "esiti": [
+  {
+   "id": "anac:288f3dfd-a08e-492e-9daf-7505560f1c2b",
+   "fonte": "ANAC PVL",
+   "tipologia": "RISULTATI",
+   "titolo": "TRENO DELLA MEMORIA",
+   "descrizione": "TRENO DELLA MEMORIA",
+   "ente": "I.I.S.S. E. MATTEI - FAZZINI - GIULIANI - VIESTE",
+   "cf_ente": "92076100715",
+   "luogo_istat": "LECCE",
+   "luogo_nuts": "Lecce",
+   "importo": null,
+   "lotti": 1,
+   "cig": [
+    "BDFF5E3D2D"
+   ],
+   "cpv": "Servizi di organizzazione di eventi",
+   "procedura": "Altra procedura a fase unica",
+   "pubblicazione": "2026-11-27T07:00",
+   "scadenza": null,
+   "link_avviso": "https://pubblicitalegale.anticorruzione.it/bandi/288f3dfd-a08e-492e-9daf-7505560f1c2b",
+   "link_documenti": "https://www.acquistinretepa.it/bandi/negoziata/rdo-td/daabfc0905ef7828",
+   "link_ted": null,
+   "aggiudicatari": [],
+   "valore_aggiudicato": null,
+   "kw_score": 2,
+   "kw_trovate": [
+    "eventi"
+   ],
+   "kw_escluse": [],
+   "esecuzione": "evento in loco",
+   "fuori_taglia": false,
+   "pertinente": true,
+   "motivo_scarto": null,
+   "primo_avvistamento": "2026-11-27"
+  },
   {
    "id": "anac:ce3bef32-4049-46f5-aef9-0d07318e621d",
    "fonte": "ANAC PVL",

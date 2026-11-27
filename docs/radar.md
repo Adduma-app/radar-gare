@@ -1,5 +1,5 @@
-# Radar gare Adduma, aggiornato 2026-11-26T12:40
-Letti oggi 109, nuovi 6, gare aperte pertinenti 19. Errori: 0
+# Radar gare Adduma, aggiornato 2026-11-27T12:28
+Letti oggi 102, nuovi 3, gare aperte pertinenti 20. Errori: 0
 
 ## CAPODANNO IN PIAZZA 2027_COMUNE DI SASSARI
 - ente: COMUNE DI SASSARI | luogo ISTAT SASSARI
@@ -117,6 +117,18 @@ Letti oggi 109, nuovi 6, gare aperte pertinenti 19. Errori: 0
 - esecuzione: evento in loco | parole chiave: eventi, allestiment
 - avviso: https://pubblicitalegale.anticorruzione.it/bandi/6715024b-c36a-48f8-ae22-a2d6c456c65d
 - documenti: https://procurement.sportesalute.eu/portalegare/index.php/bandi
+
+## PROCEDURA DI GARA APERTA, SUDDIVISA IN N. 2 LOTTI, AI SENSI DEGLI ARTICOLI 59 E 71 DEL D.LGS. 36/2023, DA REALIZZARSI MEDIANTE PIATTAFORMA TELEMATICA, PER LA CONCLUSIONE DI ACCORDI QUADRO AVENTI AD OGGETTO L’AFFIDAMENTO DEI SERVIZI DI EVENTI E DI COMUNICAZIONE DI INVITALIA
+
+LOTTO 1: AQ DEI SERVIZI DI EVENTI DI INVITALIA
+LOTTO 2: AQ DEI SERVIZI DI CREATIVITA' E CONTENUTI MULTIMEDIALI DI INVITALIA
+- ente: AGENZIA NAZIONALE PER L'ATTRAZIONE DEGLI INVESTIMENTI E LO SVILUPPO D'IMPRESA S.P.A. | luogo ISTAT ROMA
+- tipologia: BANDI | procedura: Aperta | CIG: BDF58AD124, BDF58AE1F7
+- importo: 4.500.000 € (FUORI TAGLIA) | lotti: 2
+- pubblicato: 27/11/2026 07:00 | scadenza: 15/01/2027 11:00 | primo avvistamento: 2026-11-27
+- esecuzione: evento in loco | parole chiave: comunicazione, eventi, contenuti multimediali, multimedial
+- avviso: https://pubblicitalegale.anticorruzione.it/bandi/0285bc1a-d594-4fc6-8dec-651425c8b797
+- documenti: https://ingate.invitalia.it/esop/guest/go/opportunity/detail?opportunityId=20250
 
 ## Premio FVGreen
 - ente: REGIONE AUTONOMA FRIULI VENEZIA GIULIA | luogo ISTAT TRIESTE
